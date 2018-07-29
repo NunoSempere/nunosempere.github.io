@@ -1,5 +1,6 @@
 ## Welcome
 
+Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
 I am Nuño Sempere, and this where I will keep those projects of mine which I consider worthy
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
