@@ -3,17 +3,17 @@
 Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
 I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. 
 
-## Calibration
-[Prediction explainer]()
+Right now, this is under construction; links won't work.
 
 ## Projects
+[Calibration](https://nunosempere.github.io/calibration/)
 [La desmundanalización de la iglesia]()  
 [Mathematicians under the Nazis]()  
-[To Explain the World; the DIscovery of Modern Science]()  
+[To Explain the World; the Discovery of Modern Science]()  
 [Sobre el problema de las parejas estables]()  
 [Scrabble program]() // Amenace que no es poco  
 [Monomito y Muchimito: Adiós a los principios, de Odo Marquard]()  
-[La verdad sobre el caso Amancio Ortega]  
+[La verdad sobre el caso Amancio Ortega]()
 
 ## Humanities
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra]()  
