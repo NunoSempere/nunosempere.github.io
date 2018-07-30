@@ -5,7 +5,7 @@ I am Nuño Sempere, and this is where I will keep those projects of mine which I
 
 ## [Calibration](https://nunosempere.github.io/calibration/) 
 
-## [Blog](https://nunosempere.github.io/blog/) 
-
 ## Humanities
 ### [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra]()
+
+## [Miscellanea](https://nunosempere.github.io/miscellanea/) 
