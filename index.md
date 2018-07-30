@@ -6,7 +6,7 @@ I am Nuño Sempere, and this is where I will keep those projects of mine which I
 Right now, this is under construction; links won't work.
 
 ## Projects
-[Calibration](https://nunosempere.github.io/calibration/)
+[Calibration](https://nunosempere.github.io/calibration/)  
 [La desmundanalización de la iglesia]()  
 [Mathematicians under the Nazis]()  
 [To Explain the World; the Discovery of Modern Science]()  
