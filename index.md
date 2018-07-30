@@ -16,7 +16,7 @@ Right now, this is under construction; links won't work.
 [La verdad sobre el caso Amancio Ortega]()
 
 ## Humanities
-[Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra]()  
+[Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra)  
 [Mentir mola]()  
 [Quién no quemaría a su profesora de literatura]()  
 [Un trabajo de investigación de historia normalito]()  
