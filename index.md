@@ -7,7 +7,7 @@ Right now, this is under construction; links won't work.
 
 ## Projects
 [Calibration](https://nunosempere.github.io/calibration/)  
-[La desmundanalización de la iglesia]()  
+[La desmundanalización de la iglesia](projects/catholic-church.md)  
 [Mathematicians under the Nazis]()  
 [To Explain the World; the Discovery of Modern Science]()  
 [Sobre el problema de las parejas estables]()  
