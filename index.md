@@ -1,21 +1,22 @@
-# Welcome
+# Welcome / Bienvenidos
 
 Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
 I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. 
 
+Soy un gato. De momento, no tengo nombre. Bienvenidos al lugar donde viven aquellos de mis projectos que merecen la pena.
+
 Right now, this is under construction; links won't work.
 
-## Projects
+## Projects / Projectos.
 [Calibration](https://nunosempere.github.io/calibration/)  
 [La desmundanalización de la iglesia](projects/catholic-church.md)  
-[Mathematicians under the Nazis]()  
-[To Explain the World; the Discovery of Modern Science]()  
-[Sobre el problema de las parejas estables]()  
-[Scrabble program]() // Amenace que no es poco  
+[Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
+[Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
+[Criba palabras]() // Amenace que no es poco  
 [Monomito y Muchimito: Adiós a los principios, de Odo Marquard]()  
 [La verdad sobre el caso Amancio Ortega]()
 
-## Humanities
+## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra)  
 [Mentir mola]()  
 [Quién no quemaría a su profesora de literatura]()  
@@ -29,7 +30,7 @@ Right now, this is under construction; links won't work.
 [Oh alemán, mi alemán]()  
 [Crónica de una gamberrada]()  
 
-## Philosophy  
+## Philosophy  / Filosofa. 
 [La nomenclatura no es conocimiento]()  
 [Mucha granularidad sí, poca granularidad no]()  
 [La gente olvida, pero cree que recuerda]()  
@@ -43,7 +44,7 @@ Right now, this is under construction; links won't work.
 [El evangelio según San Pedro]()  
 [El fetichismo del franquismo]()  
 
-## Fucking around with Language and Literature  
+## Fucking around with Language and Literature / Mierdas lingüísticas. 
 [Análisis de "Sinfonía en gris mayor", de Rubén Darío]()  
 [Análisis de "Yo busco una forma que no encuentra mi estilo", de Rubén Darío]()  
 [Sinónimos de "fantástico" que empiecen por f]()  
@@ -63,17 +64,17 @@ Right now, this is under construction; links won't work.
 [The Sandman de Neil Gaiman]()  
 [Todo lo que nunca has querido saber sobre literatura fantástica]()  
 
-## Fiction  
+## Fiction  / Ficción
 [Las aventuras del aventurero Nuño Núñez]()  
 [El Partido Carlista Antimonárquico Español]()  
 
-## Fucking around with Programming and Maths  
+## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
 [Una explicación simple del concepto de base numérica]()  
 [Division: A simpler algorithm]()  
 [Carta de O.Teichmüller a Landau]()  
 [Paradox Party]()  
 
-## Rationality Stuff
+## Rationality Stuff / Racionalidad.
 
 [List of TAPs]()  
 [List of Superpowers]()  
@@ -81,14 +82,12 @@ Right now, this is under construction; links won't work.
 [Crocker's rules]()  
 [¿Siempre lo supiste? El sesgo de retrospección]()  
 
-## Jorjorium
-
-## And other collaborators:
+## Colaboradores con el Régimen.
 Claudia Lombardo [Biología para futuros presidentes]()  
 Lucía  [Thinking fast and slow]()  
 Alonso Campos [Freedom regained, de Julian Baggini]()  
 
-## Miscellanea
+## Miscellanea / Otros.
 [The Wonderer vs Can You Feel the Love Tonight]()  
 [The Lady of Shalott]()  
 [Sobre la conquista del fuego, Freud]()  
