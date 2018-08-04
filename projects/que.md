@@ -1,10 +1,10 @@
 ## Que
 
-Hoy end día,
+Hoy en día,
 >En un lugar de la Mancha, que no me puedo acordarme de su nombre...
 no sonaría raro. Pero no es elegante.
 
-Desde hace ya tiempo, colecciono instancias de "que"s mal utilizados, particularmente casos en los que no se dice la preposición.
+Desde hace ya tiempo, colecciono instancias de "que"s extrañamente usados, particularmente casos en los que no se dice la preposición.
 Tengo pensado escribir un artículo que considere el tema utilizándolos, cuando tenga algunas instancias más.
 
 [tengo un hijo] que la seguridad social me quiere quitar su custodia  (oído en el metro.)
