@@ -1,11 +1,13 @@
 ## Que
 
-En un lugar de la Mancha, que no me puedo acordarme de su nombre...
+Hoy end día,
+>En un lugar de la Mancha, que no me puedo acordarme de su nombre...
+no sonaría raro. Pero no es elegante.
 
 Desde hace ya tiempo, colecciono instancias de "que"s mal utilizados, particularmente casos en los que no se dice la preposición.
-Tengo pensado escribir un artículo que considere el tema utilizándolos, cuando tenga digamos 500 instancias diferentes.
+Tengo pensado escribir un artículo que considere el tema utilizándolos, cuando tenga algunas instancias más.
 
-[tengo un hijo] que la seguridad social me quiere quitar su custodia  
+[tengo un hijo] que la seguridad social me quiere quitar su custodia  (oído en el metro.)
 la parábola para definirla es necesario hacer algo diferente.  
 Una partida que necesitas 15 horas para terminarla  
 Se requiere una maquinaria que carezco.  
