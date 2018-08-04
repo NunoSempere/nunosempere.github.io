@@ -8,6 +8,7 @@ Desde hace ya tiempo, colecciono instancias de "que"s extrañamente usados, part
 Tengo pensado escribir un artículo que considere el tema utilizándolos, cuando tenga algunas instancias más.
 
 [tengo un hijo] que la seguridad social me quiere quitar su custodia  (oído en el metro.)
+
 la parábola para definirla es necesario hacer algo diferente.  
 Una partida que necesitas 15 horas para terminarla  
 Se requiere una maquinaria que carezco.  
