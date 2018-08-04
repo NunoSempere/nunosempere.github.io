@@ -6,7 +6,7 @@ I am Nuño Sempere, and this is where I will keep those projects of mine which I
 Soy un gato. De momento, no tengo nombre. Bienvenidos al lugar donde viven aquellos de mis projectos que merecen la pena.
 
 Right now, this is under construction; most links won't work. 
-Sin emargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
+Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
 
 ## Projects / Projectos.
 [Calibration](https://nunosempere.github.io/calibration/)  
