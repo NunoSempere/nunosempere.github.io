@@ -1,10 +1,8 @@
 ## Que
 
-Hoy en día,
->En un lugar de la Mancha, que no me puedo acordarme de su nombre...
-no sonaría raro. Pero no es elegante.
+En un lugar de la Mancha, que no quiero acordarme de su nombre...
 
-Desde hace ya tiempo, colecciono instancias de "que"s extrañamente usados, particularmente casos en los que no se dice la preposición.
+Desde hace ya tiempo, colecciono instancias de 'que' extrañamente usado, particularmente casos en los que no se incluye la preposición.
 Tengo pensado escribir un artículo que considere el tema utilizándolos, cuando tenga algunas instancias más.
 
 [tengo un hijo] que la seguridad social me quiere quitar su custodia  (oído en el metro).  
@@ -40,4 +38,4 @@ Yo por ejempo conozco a una persona que en el bloque de al lado de su casa han p
 (Das waren) sehr interessante Dinge, die ich gehört habe. Birgita Fröhlich, Deutschlehrerin 
 Investigar el "wo" austríaco como conector universal.  
 Su complementario es un conjunto que si tomas un límite se queda en él  
-[...] un libro que en su prefacio... (oído en Radio Nacional - no es un da cualquiera)
+[...] un libro que en su prefacio... (oído en Radio Nacional - No es un da cualquiera)
