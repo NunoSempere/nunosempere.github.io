@@ -8,14 +8,10 @@ Soy un gato. De momento, no tengo nombre. Bienvenidos al lugar donde viven aquel
 Right now, this is under construction; most links won't work. 
 Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
 
-## Projects / Projectos.
+## Current Projects / Projectos actuales.
 [Calibration](https://nunosempere.github.io/calibration/)  
 [La desmundanalización de la iglesia](projects/catholic-church.md)  
-[Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
-[Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
-[Criba palabras]() // Amenace que no es poco  
-[Monomito y Muchimito: Adiós a los principios, de Odo Marquard]()  
-[La verdad sobre el caso Amancio Ortega]()
+[ESPR Impact calculation]()
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra)  
@@ -32,6 +28,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Crónica de una gamberrada]()  
 
 ## Philosophy  / Filosofa. 
+[Monomito y Muchimito: Adiós a los principios, de Odo Marquard](projects/marquard.md)  
 [La nomenclatura no es conocimiento]()  
 [Mucha granularidad sí, poca granularidad no]()  
 [La gente olvida, pero cree que recuerda]()  
@@ -64,6 +61,8 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Una interesante tesis doctoral de lingüística]()  
 [The Sandman de Neil Gaiman]()  
 [Todo lo que nunca has querido saber sobre literatura fantástica]()  
+[Criba palabras](https://nunosempere.github.io/criba-de-palabras-Lucia/README.md)
+
 
 ## Fiction  / Ficción
 [Las aventuras del aventurero Nuño Núñez]()  
@@ -74,6 +73,8 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Division: A simpler algorithm]()  
 [Carta de O.Teichmüller a Landau]()  
 [Paradox Party]()  
+[Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
+[Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
 
 ## Rationality Stuff / Racionalidad.
 
@@ -94,3 +95,4 @@ Alonso Campos [Freedom regained, de Julian Baggini]()
 [Sobre la conquista del fuego, Freud]()  
 [¿Cuánto vale cada idioma?]()  
 [Adolfo Suárez desde la tumba]()  
+[La verdad sobre el caso Amancio Ortega]()
