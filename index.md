@@ -56,8 +56,8 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 
 ## Fiction  / Ficción
-[Las aventuras del aventurero Nuño Núñez]()  
-[El Partido Carlista Antimonárquico Español]()  
+[Las aventuras del aventurero Nuño Núñez](fiction/nuno-nunez.md)  
+[El Partido Carlista Antimonárquico Español](fiction/carlista.md)  
 
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
 [Una explicación simple del concepto de base numérica]()  
@@ -93,3 +93,5 @@ Alonso Campos [Freedom regained, de Julian Baggini]()
 [La verdad sobre el caso Amancio Ortega](miscellanea/inditex.md)
 [Letimotiv: Ideas recurrentes](miscellanea/letimotiv.md)
 [Narrativomancy](miscellanea/narrativomancy.md)
+
+// The last thing I added was "Patrones en el Economist".
