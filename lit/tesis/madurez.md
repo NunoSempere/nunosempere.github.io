@@ -14,7 +14,7 @@ Intuyo que estas comparaciones particulares no sobreviven a una corrección Bonf
 
 Hemos mencionado anteriormente la “madurez sintáctica”. Esta se define como la “Habilidad para realizar muchas incrustaciones en una cláusula, transformando y reduciendo oraciones simples a complementos”, o la “Habilidad para producir unidades sintácticas estructuralmente complejas”. Un ejemplo lo clarifica:
 
-!()[ejemplo.jpg]
+!()[ejemplo.JPG]
 
 
 
