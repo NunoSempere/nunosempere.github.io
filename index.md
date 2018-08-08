@@ -8,10 +8,8 @@ Soy un gato. De momento, no tengo nombre. Bienvenidos al lugar donde viven aquel
 Right now, this is under construction; most links won't work. 
 Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
 
-## Current Projects / Projectos actuales.
+## Recent.
 [Calibration](https://nunosempere.github.io/calibration/)  
-[La desmundanalización de la iglesia](projects/catholic-church.md)  
-[ESPR Impact calculation]()
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra)  
@@ -19,7 +17,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Quién no quemaría a su profesora de literatura]()  
 [Un trabajo de investigación de historia normalito]()  
 [¿Qué es atracar un banco en comparación con fundar un banco? Selección de citas de Brecht.]()  
-[Hume answers a math problem]() //  
+[La desmundanalización de la iglesia](projects/catholic-church.md)  
 
 ## Costumbrismo  
 [Nazis, negros y cortes de pelo]()  
@@ -76,13 +74,16 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
 [Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
 
-## Rationality Stuff / Racionalidad.
+## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
 [List of TAPs]()  
 [List of Superpowers]()  
 [ESPR Postmortem 2018]()  
 [Crocker's rules]()  
 [¿Siempre lo supiste? El sesgo de retrospección]()  
+[Calibration](https://nunosempere.github.io/calibration/)  
+[ESPR Impact calculation]()
+
 
 ## Colaboradores con el Régimen.
 Claudia Lombardo [Biología para futuros presidentes]()  
