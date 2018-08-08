@@ -54,8 +54,6 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [El Partido Carlista Antimonárquico Español](fiction/carlista.md)  
 
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
-[Una explicación simple del concepto de base numérica]()  
-[Division: A simpler algorithm]()  
 [Carta de O.Teichmüller a Landau]()  
 [AI texts I've read](maths-prog/ai.md)
 [Paradox Party]()  
