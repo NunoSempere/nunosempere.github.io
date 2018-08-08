@@ -1,12 +1,10 @@
 # Welcome / Bienvenidos
 
 Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
-I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. 
-
-Soy un gato. De momento, no tengo nombre. Bienvenidos al lugar donde viven aquellos de mis projectos que merecen la pena.
+I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content. 
 
 Right now, this is under construction; most links won't work. 
-Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
+Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com es)
 
 ## Recent.
 [Calibration](https://nunosempere.github.io/calibration/)  
@@ -46,6 +44,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [A buen entendedor, patada en los cojones]()  
 [Teoría de la literatura]()  
 [Las tildes en español]()  
+[Términos retóricos](lit/terminos-retoricos.md)
 [Poemillas programáticamente producidos]()  
 [Contra la sintaxis]()  
 [Cínico Cadalso]()  
@@ -64,6 +63,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Una explicación simple del concepto de base numérica]()  
 [Division: A simpler algorithm]()  
 [Carta de O.Teichmüller a Landau]()  
+[AI texts I've read](maths-prog/ai.md)
 [Paradox Party]()  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
 [Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
@@ -84,10 +84,12 @@ Claudia Lombardo [Biología para futuros presidentes]()
 Lucía  [Thinking fast and slow]()  
 Alonso Campos [Freedom regained, de Julian Baggini]()  
 
-## Miscellanea / Otros.
+## Miscellanea / Cajón de sastre.
 [The Wonderer vs Can You Feel the Love Tonight]()  
 [The Lady of Shalott]()  
 [Sobre la conquista del fuego, Freud]()  
 [¿Cuánto vale cada idioma?]()  
 [Adolfo Suárez desde la tumba]()  
 [La verdad sobre el caso Amancio Ortega](miscellanea/inditex.md)
+[Letimotiv: Ideas recurrentes](miscellanea/letimotiv.md)
+[Narrativomancy](miscellanea/narrativomancy.md)
