@@ -4,7 +4,7 @@ Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathemati
 I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content. 
 
 Right now, this is under construction; most links won't work. 
-Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com es)
+Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
 
 ## Recent.
 [Calibration](https://nunosempere.github.io/calibration/)  
@@ -35,23 +35,17 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 ## Fucking around with Language and Literature / Mierdas lingüísticas. 
 [Análisis de "Sinfonía en gris mayor", de Rubén Darío]()  
 [Análisis de "Yo busco una forma que no encuentra mi estilo", de Rubén Darío]()  
-[Sinónimos de "fantástico" que empiecen por f]()  
-[En tanto que de rosa y azucena]()  
-[Englicismos]()  
-[Scrabble program]()  
-[Lista de conectores]()  
-[Juan Rulfo vs García Márquez]()  
-[A buen entendedor, patada en los cojones]()  
-[Teoría de la literatura]()  
-[Las tildes en español]()  
+[Sinónimos de "fantástico" que empiecen por f](lit/fantastico.md)  
+[En tanto que de rosa y azucena](lit/en-tanto-que-de-rosa-y-azucena.md)  
+[Englicismos](lit/englicismos)  
+[Juan Rulfo vs García Márquez](lit/rulfo-garcia.md)  
+[A buen entendedor, patada en los cojones](lit/patada-en-los-cojones.md)  
+[Teoría de la literatura](lit/teoria-de-la-literatura.md)  
+[Las tildes en español](https://nunosempere.github.io/tildes/index.md)  
 [Términos retóricos](lit/terminos-retoricos.md)
-[Poemillas programáticamente producidos]()  
-[Contra la sintaxis]()  
-[Cínico Cadalso]()  
-[Algunas bonitas palabras en desuso]()  
-[Una interesante tesis doctoral de lingüística]()  
-[The Sandman de Neil Gaiman]()  
-[Todo lo que nunca has querido saber sobre literatura fantástica]()  
+[Algunas bonitas palabras en desuso](lit/desuso.md)  
+[Una interesante tesis doctoral de lingüística](lit/tesis/madurez)  
+[Todo lo que nunca has querido saber sobre literatura fantástica (mazacote)](lit-fantastica.md)  
 [Criba palabras](https://nunosempere.github.io/criba-de-palabras-Lucia/README.md)
 
 
