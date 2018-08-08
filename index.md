@@ -13,17 +13,14 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra)  
-[Mentir mola]()  
-[Quién no quemaría a su profesora de literatura]()  
-[Un trabajo de investigación de historia normalito]()  
-[¿Qué es atracar un banco en comparación con fundar un banco? Selección de citas de Brecht.]()  
+[Mentir mola](humanities/mentir-mola.md )  
+[¿Qué es atracar un banco en comparación con fundar un banco? Selección de citas de Brecht.](humanities/brecht.md)  
 [La desmundanalización de la iglesia](projects/catholic-church.md)  
 
 ## Costumbrismo  
-[Nazis, negros y cortes de pelo]()  
-[Die Macht der Merkel]()  
-[Oh alemán, mi alemán]()  
-[Crónica de una gamberrada]()  
+[Die Macht der Merkel](costumbrismo/merkel.md)  
+[Oh alemán, mi alemán](costumbrismo/aleman)  
+[Crónica de una gamberrada](costumbrismo/gamberrada/index.md)  
 
 ## Philosophy  / Filosofa. 
 [Monomito y Muchimito: Adiós a los principios, de Odo Marquard](projects/marquard.md)  
@@ -96,4 +93,4 @@ Alonso Campos [Freedom regained, de Julian Baggini]()
 [Sobre la conquista del fuego, Freud]()  
 [¿Cuánto vale cada idioma?]()  
 [Adolfo Suárez desde la tumba]()  
-[La verdad sobre el caso Amancio Ortega]()
+[La verdad sobre el caso Amancio Ortega](miscellanea/inditex.md)
