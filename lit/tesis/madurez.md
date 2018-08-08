@@ -20,7 +20,7 @@ Hemos mencionado anteriormente la “madurez sintáctica”. Esta se define como
 
 "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor".
 
-Y en la primera oración del Quijote ¡33 palabras!¡Innumerables sintagmas! ¡Y todavía menos de la media de esta obra, que son casi 40 palabras entre punto y punto! Sucede que la madurez sintáctica se puede medir mediante un artificio llamado unidad-t, pero este resultaría endemoniado de programar, por lo que tan solo he podido llegar a escribir un programa, el cual se puede ver aquí [: https://github.com/NunoSempere/Oh-caracter-mi-caracter] que compute un sucedáneo: el número de palabras por oración para un texto dado.
+Y en la primera oración del Quijote ¡33 palabras!¡Innumerables sintagmas! ¡Y todavía menos de la media de esta obra, que son casi 40 palabras entre punto y punto! Sucede que la madurez sintáctica se puede medir mediante un artificio llamado unidad-t, pero este resultaría endemoniado de programar, por lo que tan solo he podido llegar a escribir un programa, el cual se puede ver aquí [Oh caracter, mi caracter](https://github.com/NunoSempere/Oh-caracter-mi-caracter) que compute un sucedáneo: el número de palabras por oración para un texto dado.
 
 
 
