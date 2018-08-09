@@ -88,4 +88,4 @@ Optimization process.
 
 It would be stupid for a deterministic algorithm to think that it isn't constrained by the output it produces when run on a deterministic machine.
 
-"Si el cuerpo fuese el instrumento de la intelección, el pensamiento no sería independiente de este. El alma, pues, es incorpórea"
+Esta idea: "Si el cuerpo fuese el instrumento de la intelección, el pensamiento no sería independiente de este. El alma, pues, es incorpórea". ¿Cómo puede el cuerpo acceder a los inteligibles si no son de su misma naturaleza?
