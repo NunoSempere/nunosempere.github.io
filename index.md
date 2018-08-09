@@ -54,7 +54,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [El Partido Carlista Antimonárquico Español](fiction/carlista.md)  
 
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
-[Carta de O.Teichmüller a Landau]()  
+[Carta de O.Teichmüller a Landau](maths-prog/teichmuller.md)  
 [AI texts I've read](maths-prog/ai.md)
 [Paradox Party]()  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
