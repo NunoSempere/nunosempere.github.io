@@ -33,8 +33,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [El fetichismo del franquismo](philosophy/franquismo.md)  
 
 ## Fucking around with Language and Literature / Mierdas lingüísticas. 
-[Análisis de "Sinfonía en gris mayor", de Rubén Darío]()  
-[Análisis de "Yo busco una forma que no encuentra mi estilo", de Rubén Darío]()  
+[Análisis de "Yo persigo una forma que no encuentra mi estilo", de Rubén Darío](lit/ruben-dario-yo-persigo-una-forma-que-no-encuentra-mi-estilo.md)  
 [Sinónimos de "fantástico" que empiecen por f](lit/fantastico.md)  
 [En tanto que de rosa y azucena](lit/en-tanto-que-de-rosa-y-azucena.md)  
 [Englicismos](lit/englicismos)  
@@ -56,7 +55,6 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
 [Carta de O.Teichmüller a Landau](maths-prog/teichmuller.md)  
 [AI texts I've read](maths-prog/ai.md)
-[Paradox Party]()  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
 [Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
 
@@ -65,6 +63,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [List of TAPs]()  
 [List of Superpowers]()  
 [ESPR Postmortem 2018]()  
+[Paradox Party](rat/paradox-party.md)  
 [Crocker's rules]()  
 [¿Siempre lo supiste? El sesgo de retrospección]()  
 [Calibration](https://nunosempere.github.io/calibration/)  
