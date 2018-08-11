@@ -1,14 +1,14 @@
 # Leitmotiv
 
-1. La ley de Goodhart.
+La ley de Goodhart.
 
-2. Aletheia.
+Aletheia.
 
-3. Madurez sintáctica.
+Madurez sintáctica.
 
-4. Nomenclatura y poder analítico.
+Nomenclatura y poder analítico.
 
-5. Valla de Chesterton
+Valla de Chesterton
 
 Brecht.
 
@@ -78,7 +78,7 @@ https://thingofthings.wordpress.com/2015/05/15/the-enemy-control-ray/
 
 Are we the baddies?
 
-Si Dios (no) existiese, ¿querría saberlo
+Si Dios (no) existiese, ¿querría saberlo? ¿y viceversa?
 
 Abstraction failure mode. Lo huelo.
 
