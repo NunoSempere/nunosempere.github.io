@@ -39,3 +39,4 @@ Yo por ejempo conozco a una persona que en el bloque de al lado de su casa han p
 Investigar el "wo" austríaco como conector universal.  
 Su complementario es un conjunto que si tomas un límite se queda en él  
 [...] un libro que en su prefacio... (oído en Radio Nacional - No es un da cualquiera)
+Me falta una braga que no sé dónde la he metido.
