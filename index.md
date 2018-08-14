@@ -60,8 +60,8 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
-[List of TAPs]()  
-[List of Superpowers]()  
+[List of TAPs](rat/list-of-taps.md)  
+[List of Superpowers I want to steal]()  
 [ESPR Postmortem 2018]()  
 [Paradox Party](rat/paradox-party.md)  
 [Crocker's rules]()  
