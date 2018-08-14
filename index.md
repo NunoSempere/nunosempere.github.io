@@ -12,7 +12,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra)  
 [Mentir mola](humanities/mentir-mola.md )  
-[¿Qué es atracar un banco en comparación con fundar un banco? Selección de citas de Brecht.](humanities/brecht.md)  
+[¿Qué es atracar un banco en comparación con fundar un banco?: Selección de citas de Brecht.](humanities/brecht.md)  
 [La desmundanalización de la iglesia](projects/catholic-church.md)  
 
 ## Costumbrismo  
@@ -72,7 +72,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 ## Colaboradores con el Régimen.
 Claudia Lombardo [Biología para futuros presidentes]()  
-Lucía  [Thinking fast and slow]()  
+Lucía Trillo  [Thinking fast and slow]()  
 Alonso Campos [Freedom regained, de Julian Baggini]()  
 
 ## Miscellanea / Cajón de sastre.
@@ -81,8 +81,8 @@ Alonso Campos [Freedom regained, de Julian Baggini]()
 [Sobre la conquista del fuego, Freud]()  
 [¿Cuánto vale cada idioma?]()  
 [Adolfo Suárez desde la tumba]()  
-[La verdad sobre el caso Amancio Ortega](miscellanea/inditex.md)
-[Letimotiv: Ideas recurrentes](miscellanea/letimotiv.md)
-[Narrativomancy](miscellanea/narrativomancy.md)
+[La verdad sobre el caso Amancio Ortega](miscellanea/inditex.md)  
+[Letimotiv: Ideas recurrentes](miscellanea/letimotiv.md)  
+[Narrativomancy](miscellanea/narrativomancy.md)  
 
 // The last thing I added was "Patrones en el Economist".
