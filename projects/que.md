@@ -40,3 +40,8 @@ Investigar el "wo" austríaco como conector universal.
 Su complementario es un conjunto que si tomas un límite se queda en él  
 [...] un libro que en su prefacio... (oído en Radio Nacional - No es un da cualquiera)
 Me falta una braga que no sé dónde la he metido.
+... gente que no conoces de nada.
+Es parte de la ciencia oculta, que no alcanzan sino los que conocen a Dios
+... el único hombre que persigo
+... el que su hermano es un ex-camello.
+Hay una que la han diagnosticado de ...
