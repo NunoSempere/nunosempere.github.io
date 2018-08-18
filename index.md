@@ -57,6 +57,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [AI texts I've read](maths-prog/ai.md)
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/)  
 [Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md)  
+[Why is the integral which defines the logarithm the inverse of $e^x$]
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
