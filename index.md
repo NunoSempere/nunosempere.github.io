@@ -47,7 +47,6 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [Todo lo que nunca has querido saber sobre literatura fantástica (mazacote)](lit-fantastica.md)  
 [Criba palabras](https://nunosempere.github.io/criba-de-palabras-Lucia/README.md)
 
-
 ## Fiction  / Ficción
 [Las aventuras del aventurero Nuño Núñez](fiction/nuno-nunez.md)  
 [El Partido Carlista Antimonárquico Español](fiction/carlista.md)  
@@ -69,7 +68,8 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [¿Siempre lo supiste? El sesgo de retrospección]()  
 [Calibration](https://nunosempere.github.io/calibration/)  
 [ESPR Impact calculation]()
-
+[From a dark arts practitioner](rat/dark_arts.md)
+[Dark Arts: Narrativomancy](miscellanea/narrativomancy.md)  
 
 ## Colaboradores con el Régimen.
 Claudia Lombardo [Biología para futuros presidentes]()  
@@ -84,6 +84,5 @@ Alonso Campos [Freedom regained, de Julian Baggini]()
 [Adolfo Suárez desde la tumba]()  
 [La verdad sobre el caso Amancio Ortega](miscellanea/inditex.md)  
 [Letimotiv: Ideas recurrentes](miscellanea/letimotiv.md)  
-[Narrativomancy](miscellanea/narrativomancy.md)  
 
 // The last thing I added was "Patrones en el Economist".
