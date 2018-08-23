@@ -46,3 +46,4 @@ Es parte de la ciencia oculta, que no alcanzan sino los que conocen a Dios
 ... el que su hermano es un ex-camello.
 Hay una que la han diagnosticado de ...
 Nuestra antigua casa, que van a vivir pronto.
+... personas que no tengo tiempo de conocer. En *Poliamor* (traducción), de Kimchi Cuddles.
