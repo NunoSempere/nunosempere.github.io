@@ -5,7 +5,7 @@ Helping a team plan out the best time to travel during a long road trip.
 
 Or helping an athlete and his family adjsut to a new baby in the house.
 
-	|N: Status!
+```|N: Status!```
 
 This book is meant to be read like a sweeping novel. It is not a reference book. I do not want you to skip ahead to the part of the book that you think is most important for you. It’s all important! Think of it as a complete process for understanding and overhauling both your sleep and the way you think about sleep. If you do it my way, you are going to finish this book with a newfound sense of what it means to have healthy sleep.
 
@@ -45,7 +45,7 @@ Alzheimer has to do with that system.
 
 Better sleep has an influence in Alzheimer.
 	
-	|N: But, quantitatively, how much?
+```|N: But, quantitatively, how much?```
 
 It seems to work better when you sleep on your side.
 
@@ -67,7 +67,7 @@ With poor sleep comes decreased impulse control and greater risk-taking behavior
 
 For every hour of sleep an individual lost, he or she gained 2.1 points on their BMI.
 
-	|N: Quantitative!
+```|N: Quantitative!```
 
 ### Sleep, Your Heart, and Blood Pressure.
 
@@ -95,13 +95,13 @@ Poor sleep and breast cancer ???
 
 Shift work
 
-	|N: Working during the night, I suppose.
+```|N: Working during the night, I suppose.```
 
 ### Sleep and Your Immune System.
 
 Our immune system's function is intimately tied to the amount and quality of our sleep.
 
-	|N: Studies giving people the rhinovirus voluntarily!
+```|N: Studies giving people the rhinovirus voluntarily!```
 
 **I could virtually go organ to organ through the whole body and show you how lack of sleep is harmful**
 
@@ -109,7 +109,7 @@ Our immune system's function is intimately tied to the amount and quality of our
 1. When Sleep is not working properly, you don't work properly
 
 
-	|N: I've long known this as "When you fuck with your sleep, your sleep fucks with you".
+```|N: I've long known this as "When you fuck with your sleep, your sleep fucks with you".```
 
 
 2. When people say scientists don't know why we sleep, they're wrong. 
@@ -124,7 +124,7 @@ Cold reading: Sex has been on your mind in the last several ~~days~~
 
 "We have a primary drive for sleep. Because of this, the longer we go without sleep, the more determined our brains are to get it, ultimately to the point where it is no longer a choice".
 
-	|N: This "because" is spurious. The sentence doesn't explain shit.
+```|N: This "because" is spurious. The sentence doesn't explain shit.```
 
 People cannot go on with 4-6 hours of sleep.
 
@@ -185,7 +185,8 @@ This study did not seem to support the idea that members of modern society were 
 2. You sleep. You may not sleep well, but you do sleep.
 3. The need for sleep varies from person to person and actually tends to decline as we mature.
 4. Something about rats sleeping in dirty cages.
-	|N: To lotus.
+
+```|N: Too lotus.```
 
 ## Chapter 3: Sleepy Versus Fatighed.
 Sleepy vs fatigued. High vs low drive to go to sleep.	
@@ -267,13 +268,15 @@ Most likely, these systems are working just fine, but you are disrupting them in
 ## Chapter 3 Review.
 
 1. Fatigue refers to a lack of energy, rather than a desire to sleep.
-2. 
+2. True sleepiness is caused by one of three things: medication, sleep deprivation, or sleep dysfunction.
+4. Our sleep is based on two systems, the homeostatic and circadian.
+5. You are or you are not sleepy. If you were brave enough to take some sleepiness assessments, you should have a feel for how sleepy you are or are not.
 
 # Thoughts by Nuño
 
 "We have a primary drive for sleep. Because of this, the longer we go without sleep, the more determined our brains are to get it, ultimately to the point where it is no longer a choice".
 
-	|N: This "because" is spurious. The sentence doesn't explain shit.
+```|N: This "because" is spurious. The sentence doesn't explain shit.```
 
 Annoying sentences. I'm going to keep tab of them at the end:
 - Like syndicated episodes of Law & Order, their eating, exercising, and sleeping happen at all hours of the day and night.
@@ -289,14 +292,14 @@ Feel like crap on Monday as you limp along beating yourself up for the TV bingei
 Vow to go to bed early tonight.
 Repeat steps 1 to 6 until Breaking Bad is over and then replace with Mad Men
 
-	|N: Goes against my sense of aesthetics.
+```|N: Goes against my sense of aesthetics.```
 
 
 - Are you falling asleep while you eat? If so, you get a point, but forget the points, videotape yourself, and send a copy to America’s Funniest Home Videos; they love stuff like this, and you might just win some money!
 - Are you struggling to stay awake in a car? Give yourself 1 point if you are! Are you the driver? You win! Collect 20 points and proceed directly to Boardwalk, which you may purchase if it’s not already owned.
 - Imagine you and your partner are at a party and a flirty acquaintance strikes up a conversation. As you politely converse, your partner gives you “the look,” which basically means “wrap it up or prepare for a painful car ride home.” A 2015 study published in the Journal of Neuroscience found that sleep deprivation may impair your ability to properly read facial expressions. In other words, not getting enough sleep might make you misinterpret threatening looks and lead to a difficult night sleeping on the living room couch.
 
-	|N: Painful to read. 
+```|N: Painful to read. ```
 
 - Light plays a huge role in our sleep. Ever wonder why? Think we’re genetically and evolutionarily designed to seek out a killer tan? Not really.
 
