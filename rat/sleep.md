@@ -30,4 +30,11 @@ Sleep resides in the brain. If you think your all-nighters or your crazy shift w
 ### Sleep and the Brain
 The brain does have a system for removing waste: the glymphatic system. Discovered in 2015!!
 60% more productive when we're sleep.
-Making the decision to stay up late impairs your brain's ability to get rid of toxic waste products building up during the day
+
+Making the decision to stay up late impairs your brain's ability to get rid of toxic waste products building up during the day.
+
+Alzheimer has to do with that system.
+
+Better sleep has an influence in Alzheimer.
+	
+	But, quantitatively, how much?
