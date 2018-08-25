@@ -108,7 +108,9 @@ Our immune system's function is intimately tied to the amount and quality of our
 ## Chapter 1 Review.
 1. When Sleep is not working properly, you don't work properly
 
+
 	|N: I've long known this as "When you fuck with your sleep, your sleep fucks with you".
+
 
 2. When people say scientists don't know why we sleep, they're wrong. 
 
@@ -227,6 +229,46 @@ A 2015 study published in the Journal of Neuroscience found that sleep deprivati
 
 ### *Why* and *How* We Sleep: The Homeostatic and Circadian Systems.
 
+There are two main systems in your body that work to produce sleepiness: the homeostatic system and the circadian system. These systems ideally work in concert to produce sleepiness in a way that promotes healthy and fulfilling sleep.
+
+Homeostasis refers to bringing balance or equilibrium to a system; it’s in charge of bringing rest to a system that is not at rest. The longer you go without sleep, the more powerful the drive to sleep and get your system back in balance. In the same way, the longer you read this compelling chapter and ignore the urge you have to urinate, the stronger the drive to pee will be until it’s overwhelming and you can’t concentrate on anything you’re reading—again, the drive to balance.
+
+A chemical called adenosine mediates the homeostatic system of sleep.
+
+As you’re awake for longer and longer periods of time, more adenosine collects in your brain. Because adenosine induces sleepiness, the longer you’re awake, the more likely you are to be sleepy. This is the chemistry behind sleep being a primary drive.
+
+A long time ago, they did an experiment by taking spinal fluid full of adenosine out of a sleepy dog and putting it into a well-rested dog. The infusion made the wakeful dog feel sleepy.
+
+Caffeine blocks adenosine. Ever wonder why Red Bull makes you feel so awake? Caffeine, baby, and lots of it (about 80 milligrams per can or 9.64 milligrams per fluid ounce). Need more? Try a Starbucks double shot at 20 milligrams per ounce (mg/oz) or an espresso at 50 mg/oz. Some of the newer extreme energy drinks can reach levels of more than 100 mg/oz.
+
+Why are these drinks so totally awesome and effective? When you’re awake at 4:30 A.M. organizing your wrapping paper or balancing your checkbook without some Rabid Opossum Dangerous Energy drink,35 you’ll understand how stupid that question is.
+
+These drinks temporarily block the effect of all that accumulating adenosine on that poor noodle of yours that’s screaming for you to put down the remote and go to bed.
+
+Physical activity also increases adenosine, so the harder you exert yourself, the more likely you are to be sleepy. Exercise is a vital part of any sleep program, with hard work often being a fantastic tool to combat occasional difficulty sleeping. We’ll talk more about that in Chapter 6.
+
+Light plays a huge role in our sleep. Ever wonder why? Think we’re genetically and evolutionarily designed to seek out a killer tan? Not really.
+
+Think about the accumulation of adenosine in the brain. If adenosine were allowed to accumulate in the brain unchecked, we would be pretty sleepy by lunchtime and really a mess by 4:00 P.M. This drive to sleep is sometimes referred to as homeostatic pressure.
+This is not how sleep works. In reality, for the most part our sleepiness level is not appreciably different at 9:00 A.M. from that at 9:00 P.M. How does that work? What other factors are involved in keeping our sleepiness levels low throughout the day?
+
+Take a poppy and put it in a greenhouse closed off from outdoor light. Establish a twelve-hour on and twelve-hour off light cycle. The flower will thrive. Suddenly turn the lights on and off at random times, keeping everything else the same. Even if the amount of light remains the same, the random timing of the lights will significantly disrupt the natural rhythms of the flower, and it will die. The linking of sunlight and its day-night cycle with a biological rhythm is the basis of circadian rhythms.
+
+In humans, this rhythm is facilitated by a chemical that is different from adenosine. It is called melatonin.
+
+Melatonin is produced in conditions of darkness. Makes us sleepy.
+
+raccoons have the opposite response to melatonin (!)
+
+That spike in sleepiness is the reason it is so temping to sneak a little nap after lunch. In fact, in some cultures, a postlunch siesta is the norm, not the exception. Are these cultures right to give in to that urge to nap every day? Some scientists think so. I think a nap in the afternoon is fine as long as it does not affect your ability to sleep at night.
+
+Most likely, these systems are working just fine, but you are disrupting them in some way.
+
+## Chapter 3 Review.
+
+1. Fatigue refers to a lack of energy, rather than a desire to sleep.
+2. 
+
 # Thoughts by Nuño
 
 "We have a primary drive for sleep. Because of this, the longer we go without sleep, the more determined our brains are to get it, ultimately to the point where it is no longer a choice".
@@ -246,8 +288,15 @@ Go to sleep.
 Feel like crap on Monday as you limp along beating yourself up for the TV bingeing.
 Vow to go to bed early tonight.
 Repeat steps 1 to 6 until Breaking Bad is over and then replace with Mad Men
-Goes against my sense of aesthetics.
+
+	|N: Goes against my sense of aesthetics.
+
+
 - Are you falling asleep while you eat? If so, you get a point, but forget the points, videotape yourself, and send a copy to America’s Funniest Home Videos; they love stuff like this, and you might just win some money!
 - Are you struggling to stay awake in a car? Give yourself 1 point if you are! Are you the driver? You win! Collect 20 points and proceed directly to Boardwalk, which you may purchase if it’s not already owned.
 - Imagine you and your partner are at a party and a flirty acquaintance strikes up a conversation. As you politely converse, your partner gives you “the look,” which basically means “wrap it up or prepare for a painful car ride home.” A 2015 study published in the Journal of Neuroscience found that sleep deprivation may impair your ability to properly read facial expressions. In other words, not getting enough sleep might make you misinterpret threatening looks and lead to a difficult night sleeping on the living room couch.
+
 	|N: Painful to read. 
+
+- Light plays a huge role in our sleep. Ever wonder why? Think we’re genetically and evolutionarily designed to seek out a killer tan? Not really.
+
