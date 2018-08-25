@@ -21,4 +21,13 @@ Given that our psychiatry lecture about men who fantasize about their wives’ f
 There is almost no disease or organ system in which you	 cannot find some kind of relationship
 Sleep as one of the foundational processes within your body that you can actually change.
 
-Blabla
+To me, the three main pillars of good health that we can exert some control over are nutrition, exercise, and sleep.
+
+Sleep is not the absence of wakefulness. Sleep is not a light switch in your braing that is either on or off. Your body is doing amazing things at night while you sleep.
+
+Sleep resides in the brain. If you think your all-nighters or your crazy shift work schedule is no big deal, you might want to sit down before you continue to read. Long-term poor sleep is like bad cosmetic surgery: risky, costly, and not pretty.
+
+### Sleep and the Brain
+The brain does have a system for removing waste: the glymphatic system. Discovered in 2015!!
+60% more productive when we're sleep.
+Making the decision to stay up late impairs your brain's ability to get rid of toxic waste products building up during the day
