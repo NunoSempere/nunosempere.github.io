@@ -272,7 +272,95 @@ Most likely, these systems are working just fine, but you are disrupting them in
 4. Our sleep is based on two systems, the homeostatic and circadian.
 5. You are or you are not sleepy. If you were brave enough to take some sleepiness assessments, you should have a feel for how sleepy you are or are not.
 
+## Chapter 4: Sleep Stages.
+People have so many weird notiong about stages of sleep that this section can be mindblowing.
+Poeple use terms like deep sleep and ream sleep all the time without really having a clue what in the hell they're talking about.
+People think they haven't slept, when they in fact did.
+Sleep perception and sleep reality are not always related.
+These perceptions are often strongly tied to the stages of sleep.
+if you are a poor sleeper who views yourself as being a confident, good sleeper, you may function as well during the day as a person with far better sleep quality. (!)
+Sleep has 3 important phases: Light sleep, between wakefulness and deep sleep.
+Awake <-> Sleep. Pick a state of being, any state of being. Bad model.
+Awake <-> light sleep <-> deep sleep. Slightly better model
+	Deep sleep is our most restorative sleep, but you have to pass through light sleep to get there
+	dream sleep = rem sleep. =/= deep sleep
+Awake <-> light sleep <-> a) Dream sleep or b) Deep sleep
+	It's not common to go wakefullness <-> deep sleep, wakefullness <-> dream sleep, or 
+	dream sleep <-> deep sleep.
+Each of these stages of sleep has specific functions and thus specific consequences if they are disrupted.
+
+### Rem sleep
+Eye movements that characterize REM = Rapid Eye Movement sleep.
+Using electrodes to measure brain activity, eye movements, and muscle activity, Kleitman and Aserinsky investigated REM sleep using techniques that would later form the basis of polysomnography, the modern sleep study. Using these devices, the researchers demonstrated that the brain activity during REM sleep mirrored that of wakefulness.
+Aserinsky and Kleitman’s later studies involved waking subjects during REM sleep. Approximately 70 percent of the subjects who woke from this sleep period reported dreaming. While new theories of sleep suggest that dreaming can occur in deep sleep, REM sleep is, for all intents and purposes, dream sleep.
+
+Individuals usually spend about one quarter of their night in REM sleep. REM sleep comes in twenty- to forty-minute cycles, usually about four to five times a night. The cycles typically become longer in duration as the night progresses so the longer cycles occur during the second half of the night. The longest cycle usually terminates around the time an individual awakens in the morning. This is why dreaming is most common right before you drag yourself out of bed; that’s the time of your night’s longest dream cycle.
+
+Set your alarm thirty to forty-five minutes earlier than your typical wake-up time.
+Go to sleep.
+When your alarm wakes you up, were you in the middle of a dream?
+Chances are that if your sleep follows a typical progression, that early awakening will occur in your biggest REM cycle of the night.
+Furthermore, when individuals are awakened out of dreaming, they typically remember their dreams. This illustrates an important point: When an individual states that he doesn’t dream, one of two things is happening: He truly does not dream, or he dreams, but does not remember dreaming.
+Your brain does not like to awaken during REM sleep, so it has taken measures to prevent it.
+Dream sleep begins approx 90 min after an individual falls asleep, commonly after a brief stay in light sleep and a cycle of deep sleep.
+The purpose of REM sleep is poorly understood.
+	For years, REM sleep has been believed to be essential for memory processing
+	Later, researchers would demonstrate that disruptions in REM sleep can lead to other cognitive difficulties besides memory difficulties, including attention problems, poor concentration, and potential mood disturbances. Sleepiness is not classically associated with REM disruptions.
+Regulation of pain perception?
+	REM deprived subjects were more pain intolerant.
+	Effects could be seen after a relatively short period of rem deprivation, potentially as little as 4h.
+Linked to chronic pain conditions.
+In a 2015 study, rats who got insufficient sleep before an injury were more likely to suffer from chronic pain than well-rested rats
+	|N: Researchers injured the rats, I gather.
+For example, humans are a euthermic species, meaning we are warm-blooded. We can, to some degree, regulate our body temperature in different environmental conditions. We can sweat when it’s hot and shiver when it’s cold.
+During rem sleep, you stop regulating your body temperature (!). Think about that. During dreaming, your brain completely suspends the fundamental and complicated function of temperature regulation
+
+### Light sleep.
+In light sleep, we are usually unconscious, but some people can retain a sort of awareness during this stage. It is usually fairly easy to awaken from this sleep as well, and so because of this, the state is relatively fragile.
+Light sleep can be further subdivided into stage N1 sleep and stage N2 sleep. 
+N1 sleep represents the transition from wakefulness to sleep. In a normal night of adult sleep, only about 5 percent of the night is spent in this stage. During N1 sleep, the brain waves begin to slow down and the darting eye movements that characterize wakefulness become slow and rolling. Muscle activity begins to diminish.
+These changes continue in N2 sleep, which represents a deeper stage of light sleep. Unique brain wave patterns called sleep spindles and K-complexes are seen during N2 sleep, which help differentiate between N1 and N2 during a sleep study.
+Almost half of an individual’s night is spent in N2 sleep
+If transitions to deep sleep and REM sleep are disrupted, the individual will spend more time than normal in stage N2 sleep.
+Because light sleep is not terribly restorative, these individuals will feel like their sleep is poor and unrestorative, and in some cases, they may feel as if they were not sleeping at all.
+
+### Deep Sleep.
+Deep sleep is the stage of sleep that seems to be the most poorly understood by patients.
+Stage N3 sleep constitutes deep sleep
+Typically, adults spend approximately 25 percent of their night in deep sleep with the majority of deep sleep activity occurring during the first half of the night.
+This sleep is restorative sleep and makes individuals feel rested (not sleepy) the following day.
+Why is deep sleep restorative? Mainly because the time you spend in deep sleep happens to also be the time of greatest growth hormone (GH) production.
+Basically it does so many things to help your body stay young and healthy, and perform better, it’s a wonder people don’t try to acquire it illegally and inject it into their buttocks in strange places like the locker rooms of professional sports teams
+make sure you value and protect your deep sleep at night and your brilliant brain will make all kinds of GH at night while you sleep, leading you to feel refreshed the following day. In addition, this GH will help strengthen your muscles and fortify your bones, help you recover from injuries and boost the functioning of your immune system
+	Ever wonder why staying up late studying for your exams always leads to illness and a C
+		|N: I have indeed wondered
+The amount of deep sleep declines as individuals age, and with it, so too does our GH secretion. Kids typically have tons of deep sleep. 
+
+### Sleep cycles.
+The stages of sleep ebb and flow in a predictable pattern during healthy sleep. Complex chemical reactions in the brain initiate transitions from one stage to the next. By tracking the presence of these stages during a sleep study, a visual representation of sleep stages as they progress can be made. This is called a hypnogram
+Consider the reverse—a patient waking directly out of REM sleep as seen in figure 4.8. This is often the pattern seen in nightmares or sleep paralysis and is also abnormal.
+
+One last bit of sleep advice you are likely to encounter has to do with sleep cycles, hypnograms, and how you can plan out your sleep to be more beautiful, healthy, and successful. The advice is based on the fact that we tend to sleep in cycles that last an average of ninety minutes. Life hackers have taken this information, consulted our grandparents, and come up with the sleep tip that we should sleep in ninety-minute cycles for optimal health. Some articles even suggest that the amount of sleep we need is irrelevant and it’s only about making sure we time our sleep to end at a mark that is an interval of ninety minutes. This is what real scientists refer to as total horseshit (TH)
+
+Keep in mind the ninety-minute cycle is an average. Maybe I have eighty-minute cycles. Maybe you have hundred-minute cycles. That’s a big difference.
+
+Also, we usually have four to six cycles through the night, meaning that the time my third cycle ends could be an hour off from when your third cycle ends. Trying to time these things perfectly is a little absurd.
+
+|N: That was useful to me.
+
+As someone who looks at sleep studies all day, I can tell you that hypnograms follow a general pattern, but they are not precise.
+
+Some personal sleep monitors have the ability to awaken you during naturally occurring “lighter” stages of sleep, typically when the device detects that you are moving around a little. While there are no compelling studies supporting this practice as performance enhancing, it probably makes sense, as waking up out of REM can feel pretty awful.
+
+Probably the best way to avoid the need for such an alarm is to try to make your wake time as consistent as possible.
+
+## Chapter 4 recap
+
+Get all the sleep you need and work toward consistency in your sleep schedule. Consistency does not mean you must wake up at a ninety-minute interval.
+
 # Thoughts by Nuño
+
+In comparison with my medieval philosophy, this book is more useful.
 
 "We have a primary drive for sleep. Because of this, the longer we go without sleep, the more determined our brains are to get it, ultimately to the point where it is no longer a choice".
 
@@ -302,4 +390,7 @@ Repeat steps 1 to 6 until Breaking Bad is over and then replace with Mad Men
 ```|N: Painful to read. ```
 
 - Light plays a huge role in our sleep. Ever wonder why? Think we’re genetically and evolutionarily designed to seek out a killer tan? Not really.
+- The continuity of this cycling is extremely important for sleep to work and for you to stay awake during your next staff meeting.
+- You need your sleep . . . and how many times can you dream about meeting Leonardo DiCaprio in the produce section of Whole Foods?
+
 
