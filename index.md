@@ -70,7 +70,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [ESPR Impact calculation]() (en)  
 [From a dark arts practitioner](rat/dark_arts.md) (en)  
 [Dark Arts: Narrativomancy](miscellanea/narrativomancy.md) (en)  
-[Consideraciones retreat Altruismo Efectivo Septiembre 2018](AE-retreat.md) (es)  
+[Consideraciones retreat Altruismo Efectivo Septiembre 2018](rat/AE-retreat.md) (es)  
 
 ## Colaboradores con el Régimen.
 Claudia Lombardo [Biología para futuros presidentes]() (es)  
