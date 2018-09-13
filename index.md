@@ -8,6 +8,9 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 ## Recent.
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
+[Letter from O.Teichmüller to Landau](maths-prog/teichmuller.md) (en)  
+[Why is the integral which defines the logarithm the inverse of the exponential?](maths-prog/logarithms.pdf) (en)  
+
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra) (es)  
@@ -56,13 +59,12 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [AI texts I've read](maths-prog/ai.md) (en)  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/stable-marriage-problem/) (es)  
 [Mathematicians under the Nazis](projects/mathematicians-under-the-nazis.md) (en)  
-[Why is the integral which defines the logarithm the inverse of the exponential?](maths-prog/logarithms.pdf) (es)  
+[Why is the integral which defines the logarithm the inverse of the exponential?](maths-prog/logarithms.pdf) (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
 [List of TAPs](rat/list-of-taps.md) (en)  
 [List of Superpowers I want to steal]() (en)  
-[ESPR Postmortem 2018]() (en  
 [Paradox Party](rat/paradox-party.md) (en)    
 [Crocker's rules]() (en)  
 [¿Siempre lo supiste? El sesgo de retrospección]() (es)  
