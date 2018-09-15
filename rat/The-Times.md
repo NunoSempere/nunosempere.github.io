@@ -31,7 +31,7 @@ Nuño Sempere, 19, from Madrid, is working on a project for the European Summer 
 
 David Kristoffersson, 36, who is originally from Sweden, is forming a body called Convergence, focused on investigating the development of advanced technology and its impact on society.
 
-He said that he had spent time with the EA community in London and San Francisco, but the international hotspots face stiff competition from Blackpool. “It’s charming here,” he said. “There’s good people and it’s got the sea and old buildings.
+He said that he had spent time with the EA community in London and San Francisco, but the international hotspots face stiff competition from Blackpool. “It’s charming here,” he said. “There’s good people and it’s got the sea and old buildings".
 
 
 ![](https://nunosempere.github.io/rat/EA-hotel.jpg)
