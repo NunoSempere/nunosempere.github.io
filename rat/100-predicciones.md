@@ -1,4 +1,4 @@
-# 100 predicciones en 100 días.
+# 100 predicciones.
 
 ### Día 1: Sábado 15 Sept / 2018.
 {
