@@ -1,6 +1,6 @@
 # 100 predicciones en 100 días.
 
-### Día 1: Viernes 15 Sept / 2018.
+### Día 1: Sábado 15 Sept / 2018.
 {
 SHA es un acrónimo de Secure Hashing Algorithm; un algoritmo de hash recibe una cadena o un documento y devuelve un número.
 Así, el hash de un documento puede ser revelado sin el documento, y si este se publica después, se sabe que es el verdadero.
