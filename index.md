@@ -8,7 +8,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 ## Recent.
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
-[100 predicciones](rat/100-predicciones-en-100-dias.md) (es)  
+[100 predicciones](rat/100-predicciones.md) (es)  
 [Letter from O.Teichmüller to Landau](maths-prog/teichmuller.md) (en)  
 [Why is the integral which defines the logarithm the inverse of the exponential?](maths-prog/logarithms.pdf) (en)  
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](rat/The-Times.md)  (en)
