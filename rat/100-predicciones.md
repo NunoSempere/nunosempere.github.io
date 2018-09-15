@@ -14,7 +14,6 @@ Entendemos por exitosamente el que se encuentren dos x, x' tal que SHA3-512(x) =
 o bien que dado un y=SHA3-512(z), se encuentre un z' =/= tal que SHA3-512(z')=y.
 - ¿Qué probabilidad, por año, le dáis a que SHA3-512 sea reemplazado?}  
 
-Aquello entre paréntesis será hasheado y publicado en Twitter. SHA3-512 = 29f91f9fa34dd74aa8fbbc7410920cb8a6aec28fd6248d4187f8a9a2608b0b0eab73c4e05dde0902ccb95cf26c3ef0a9057868865d3d7e6f5be7003190e0e3bc.  
 Tiempo recomendado: 15 mins.
 
 ### Lista de ideas:
@@ -36,3 +35,8 @@ Tiempo recomendado: 15 mins.
 - Probabilidad mantenerse en el poder de: Trump, Putin, Macron, Erdogan, Merkel.
 - P de que Woody Allen saque película en 2019.
 - El grupo de EA España no organizaraá una charla de TedX en 2019.
+
+### Hashes.
+Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.
+**Día 1**: 29f91f9fa34dd74aa8fbbc7410920cb8a6aec28fd6248d4187f8a9a2608b0b0eab73c4e05dde0902ccb95cf26c3ef0a9057868865d3d7e6f5be7003190e0e3bc. 
+Correcciones: z' =/= z.
