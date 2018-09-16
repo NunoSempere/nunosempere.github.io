@@ -4,7 +4,7 @@ Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathemati
 I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content. 
 
 Right now, this is under construction; most links won't work. 
-Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](blogdelecturadenuno.blogspot.com.es)
+Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](https://blogdelecturadenuno.blogspot.com/)
 
 ## Recent.
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
@@ -16,7 +16,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](humanities/remedios-zafra) (es)  
-[Mentir mola](humanities/mentir-mola.md ) (es)  
+[Mentir mola](humanities/mentir-mola) (es)  
 [¿Qué es atracar un banco en comparación con fundar un banco?: Selección de citas de Brecht.](humanities/brecht.md) (es)  
 [La desmundanalización de la iglesia](projects/catholic-church.md) (es)  
 
