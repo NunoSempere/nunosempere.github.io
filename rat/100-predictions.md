@@ -20,8 +20,20 @@ y = SHA3-512(z) someone finds a z' =/= z such that SHA3-512(z')=y.
 
 Recommended time: 15 mins.
 
+## Day 2
+{Elisabeth II, Queen of England, was born on 1926, whereas King Juan Carlos I of Spain was born on 1938. 
+
+Question:
+- What probability do you assign to ELisabeth the II dying before Juan Carlos the I?
+}
+
 ## Hashes
-Everything between {} is hashed through SHA3-512 (https://www.browserling.com/tools/sha3-hash), and published on Twitter (@NunoSempere)
+Everything between {} is hashed through SHA3-512 (https://www.browserling.com/tools/sha3-hash), and published on Twitter (@NunoSempere).
+This, of course means that corrections or notes can't be made.
 
 ### Day 1
 0addb6466a2fb3a537fa276e39306f2b57f8d31e66b826f57b62d141ff3de821fca5b9e35de06092c3847bc018b1531ecc3123e09b0f137700c2433b58f8781f
+Notes: SHA-3 is replaced is interpreted as "SHA-4" is accepted as a standard.
+
+## Day 2
+3bb19d34fbb08347389f9d38cd5660235a5114df3890a052926d36988529b52fc3f72e27b00af88b1390b32591f54093d951abc7cbec94efb42f145d705786e0
