@@ -24,6 +24,7 @@ Pero en el caso anterior hubo un goteo de resultados teóricos cada vez ms poten
 Adems, es un diseño relativamente nuevo. En los próximos años me extrañaría mucho que se atacara exitosamente antes de ver esas señales. De ahí el 1%.  
 No obstante, luego he leído otro artículo que decía que SHA3 podría ser particularmente vulnerable a man-in-the middle attacks, porque algunos de sus pasos son biyecciones. Por lo tanto mi definición de ataque ha resultado inadecuada.  
 De ahí que a la hora de reemplazarlo haya vuelto a frecuencias históricas. Escribiendo aquí esto, aún así me extrañaría mucho que se cambiase en los próximos 3 años, y lo bajo a un 6%. Como decía Nikolás, mis distribuciones no son planas: cuanto más tiempo pase, más probabilidad por año.  
+Más adelante, sigo pensando que 6% es demasiado alto, ya que el proceso de aceptación de SHA3 duró de 2012 a 2015, es decir, 3 años, y el proceso para SHA4 no ha empezado todavía. La bajo entonces a 2-3% -> 2.5%
 
 ## Día 2. Martes 17 Sept 2018
 {La reina de Inglaterra, Isabel II, nació en el año 1926, mientras que el antiguo rey de España, Juan Carlos I,  nació en 1938. 
