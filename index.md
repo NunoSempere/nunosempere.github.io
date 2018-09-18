@@ -10,11 +10,32 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [ESPR Evaluation: Current Evidence](https://nunosempere.github.io/ESPR-Evaluation/) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones.md) (es)  
 [100 predictions](https://nunosempere.github.io/rat/100-predictions.md) (en)  
-[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.md)  (en)
+[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.md)  (en)  
 [Calibration](https://nunosempere.github.io/https://calibration/) (en)  
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.md) (en)  
 [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
 
+## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
+
+[100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.md) (es)  
+[List of TAPs](https://nunosempere.github.io/rat/list-of-taps.md) (en)  
+[List of Superpowers I want to steal](https://nunosempere.github.io/) (en)  
+[Paradox Party](https://nunosempere.github.io/rat/paradox-party.md) (en)    
+[Crocker's rules](https://nunosempere.github.io/) (en)  
+[¿Siempre lo supiste? El sesgo de retrospección](https://nunosempere.github.io/) (es)  
+[Calibration](https://nunosempere.github.io/https://calibration/) (en)  
+[ESPR Impact calculation](https://nunosempere.github.io/) (en)  
+[From a dark arts practitioner](https://nunosempere.github.io/rat/dark_arts.md) (en)  
+[Dark Arts: Narrativomancy](https://nunosempere.github.io/miscellanea/narrativomancy.md) (en)  
+[Consideraciones retreat Altruismo Efectivo Septiembre 2018](https://nunosempere.github.io/rat/AE-retreat.md) (es)  
+[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.md)  (en)
+
+## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
+[Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.md) (en)  
+[AI texts I've read](https://nunosempere.github.io/maths-prog/ai.md) (en)  
+[Sobre el problema de las parejas estables](https://nunosempere.github.io/https://stable-marriage-problem/) (es)  
+[Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.md) (en)  
+[Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](https://nunosempere.github.io/humanities/remedios-zafra) (es)  
@@ -57,28 +78,6 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 ## Fiction  / Ficción
 [Las aventuras del aventurero Nuño Núñez](https://nunosempere.github.io/fiction/nuno-nunez.md) (es)  
 [El Partido Carlista Antimonárquico Español](https://nunosempere.github.io/fiction/carlista.md) (es)  
-
-## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
-[Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.md) (en)  
-[AI texts I've read](https://nunosempere.github.io/maths-prog/ai.md) (en)  
-[Sobre el problema de las parejas estables](https://nunosempere.github.io/https://stable-marriage-problem/) (es)  
-[Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.md) (en)  
-[Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
-
-## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
-
-[100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.md) (es)  
-[List of TAPs](https://nunosempere.github.io/rat/list-of-taps.md) (en)  
-[List of Superpowers I want to steal](https://nunosempere.github.io/) (en)  
-[Paradox Party](https://nunosempere.github.io/rat/paradox-party.md) (en)    
-[Crocker's rules](https://nunosempere.github.io/) (en)  
-[¿Siempre lo supiste? El sesgo de retrospección](https://nunosempere.github.io/) (es)  
-[Calibration](https://nunosempere.github.io/https://calibration/) (en)  
-[ESPR Impact calculation](https://nunosempere.github.io/) (en)  
-[From a dark arts practitioner](https://nunosempere.github.io/rat/dark_arts.md) (en)  
-[Dark Arts: Narrativomancy](https://nunosempere.github.io/miscellanea/narrativomancy.md) (en)  
-[Consideraciones retreat Altruismo Efectivo Septiembre 2018](https://nunosempere.github.io/rat/AE-retreat.md) (es)  
-[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.md)  (en)
 
 ## Colaboradores con el Régimen.
 Claudia Lombardo [Biología para futuros presidentes](https://nunosempere.github.io/) (es)  
