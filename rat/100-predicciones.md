@@ -1,6 +1,8 @@
 # 100 predicciones.
 
-### Día 1: Sábado 15 Sept / 2018.
+Go [here](nunosempere.github.io/rat/100-predictions.html) for a version in English
+
+## Día 1: Sábado 15 Sept / 2018.
 {SHA es un acrónimo de Secure Hashing Algorithm; un algoritmo de hash recibe una cadena o un documento y devuelve un número.
 Así, el hash de un documento puede ser revelado sin el documento, y si este se publica después, se sabe que es el verdadero.
 
@@ -16,7 +18,21 @@ o bien que dado un y=SHA3-512(z), se encuentre un z' =/= tal que SHA3-512(z')=y.
 
 Tiempo recomendado: 15 mins.
 
-### Lista de ideas:
+## Comentarios día 1.
+Nuño: La frecuencia histórica de ataque exitoso es de 1/22, lo cual da un 5% / año.
+Pero en el caso anterior hubo un goteo de resultados teóricos cada vez ms potentes, hasta llegar a alguno que se podía implementar, y no he visto en absoluto algo parecido para Kekkak (la familia a la que pertenece SHA-3).
+Adems, es un diseño relativamente nuevo. En los próximos años me extrañaría mucho que se atacara exitosamente antes de ver esas señales. De ahí el 1%.  
+No obstante, luego he leído otro artículo que decía que SHA3 podría ser particularmente vulnerable a man-in-the middle attacks, porque algunos de sus pasos son biyecciones. Por lo tanto mi definición de ataque ha resultado inadecuada.  
+De ahí que a la hora de reemplazarlo haya vuelto a frecuencias históricas. Escribiendo aquí esto, aún así me extrañaría mucho que se cambiase en los próximos 3 años, y lo bajo a un 6%. Como decía Nikolás, mis distribuciones no son planas: cuanto más tiempo pase, más probabilidad por año.  
+
+## Día 2. Martes 17 Sept 2018
+{La reina de Inglaterra, Isabel II, nació en el año 1926, mientras que el antiguo rey de España, Juan Carlos I,  nació en 1938. 
+
+Pregunta: 
+- ¿Qué probabilidadle asignáis que Isabel II muera después que Juan Carlos I?]
+
+
+## Lista de ideas:
 - Muerte reina de Inglaterra.
 - Precios, valores de cosas.
 - Crackeado de SHA.
@@ -36,7 +52,13 @@ Tiempo recomendado: 15 mins.
 - P de que Woody Allen saque película en 2019.
 - El grupo de EA España no organizaraá una charla de TedX en 2019.
 
-### Hashes.
+## Hashes.
 Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.
-**Día 1**: 29f91f9fa34dd74aa8fbbc7410920cb8a6aec28fd6248d4187f8a9a2608b0b0eab73c4e05dde0902ccb95cf26c3ef0a9057868865d3d7e6f5be7003190e0e3bc. 
+
+### Día 1: 
+29f91f9fa34dd74aa8fbbc7410920cb8a6aec28fd6248d4187f8a9a2608b0b0eab73c4e05dde0902ccb95cf26c3ef0a9057868865d3d7e6f5be7003190e0e3bc. 
 Correcciones: z' =/= z.
+Nota: SHA-3 se reemplaza se interpreta como que aparece un SHA-4.
+
+## Día 2:
+ce11fdf1500cd161e4c9432a990ae016943aed8e40e9611b8743efc7117da8ccdcc9614a72bcc9e6e44dce2e874eca328713a3496eff9d170fce383b47cde5a3
