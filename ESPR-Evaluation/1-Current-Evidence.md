@@ -53,40 +53,6 @@ As with CFAR's, I think that the profiles in the following section provide usefu
 
 To the extent that OpenPhilantropy prefers these and other weak forms of evidence *now*, rather than stronger evidence two-three years later, OpenPhilantropy is giving ESPR perverse incentives. Note that with 20-30 students per year, even after we start an rct, there must pass a number of years before we can amass some meaningful statistical power. Furthermore, seeing the process of iterated improvement as an admission of failure would also be catastrophic.
 
-## Student profiles.
-
-Alumni only have the tip of your nose perspective. Because some of the effects of espr are similar to rationally adulting, they are different to separate from growing up.
-
-Stag Lynn: Left university and is fucking around the rationality community in search for status.
-Owen Shen: Would still be into ea/rat. Stressfull position in the second year.
-Jordan Alexander: Would still be into ea/rat.
-Roan Talbut: Mental health?
-Haardik Kumar: ??
-
-Quaratulain Zainabab: Hero license.
-Luke Raskopf: Went to work for CFAR as a result of fucking around as a volunteer at espr.
-Stan: Hero license.
-Raúl Alfredo Alef Pineda Reyes: Went to MIT, minor celebrity.
-Andrew Lin: Similar counterfactual.
-Wendi Fan: ??
-Reka Tron: Hero license.
-Emily Beaty: Hero license.
-Tyler Zhu: ??
-Caleb Ji: ??
-
-Lennie: Changed his mind, introduced to ea. Too son to tell.
-Yulia: Big impact. Mental health.
-Steven Qu: To soon to tell.
-Rachana: Mental health. 
-Andrea Laguna: Mental health.
-
-I am not answering "difference in expected impact", but "people I like".
-
-Go over the list again.
-
-## Randomized control trial.
-Necessary to have the full buy in.
-
 ## Alternatives to espr: The cheapest option.
 One question which interests me is: what is the cheapest version of the program which is still cost effective? What happens if you just record the classes, send them to bright people, and answer their questions? What if you set up a course on edx? Interventions based on universities and highschools are likely to be much cheaper, given that neither board nor flight, nor classrooms would have to be paid for. Is there a low-cost, scalable approach?
 
