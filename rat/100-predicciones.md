@@ -32,6 +32,10 @@ Más adelante, sigo pensando que 6% es demasiado alto, ya que el proceso de acep
 Pregunta: 
 - ¿Qué probabilidadle asignáis que Isabel II muera después que Juan Carlos I?]
 
+## Discusión Día 2.
+Las probabilidades del grupo se mueven de entre 6% (la mía) y 25%. Yo he obtenido la mía yendo a (tablas actuariales inglesas)[https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/nationallifetablesunitedkingdomreferencetables], y mirando la esperanza de vida a 80 y a 92 años para hombres y mujeres. He creaso un modelo simplificado, en el que la reina era simplemente una paisana inglesa de 92 años, y el rey uno de 80.  
+Con dichas tablas actuariales, es relativamente fácil calcular la probabilidad de que la reina siga viva dentro de X años, y de que el rey se muera justo dentro de X años. Sumando esto para cada año. obtengo la probabilidad de que la reina siga viva cuando el rey muere, en general.  Este modelo me da un 5,5575% de de que Isabel II muera después que Juan Carlos I.  He tenido que hacer una pequeña interpolación para obtener la probabilidad de muerte a edades de ms de 100 años, pero su efecto es muy pequeño.  Más importante es que he tomado las probabilidades de 2016, y la esperanza de vida aumenta con el tiempo.  
+Por otro lado, entiendo que ambos reyes tienen acceso a médicos mejores que los de la población general, pero el error afecta a ambos. No obstante, creo que los españoles son un poco peores. Además, Juan Carlos I se ha roto la cadera, mientras que la reina de Inglaterra no ha tenido incidentes parecidos. Por ello subo la probabilidad un poco, a un 6%.
 
 ## Lista de ideas:
 - Muerte reina de Inglaterra.
