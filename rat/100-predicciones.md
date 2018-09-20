@@ -21,7 +21,7 @@ Tiempo recomendado: 15 mins.
 ## Comentarios día 1.
 Nuño: La frecuencia histórica de ataque exitoso es de 1/22, lo cual da un 5% / año.
 Pero en el caso anterior hubo un goteo de resultados teóricos cada vez ms potentes, hasta llegar a alguno que se podía implementar, y no he visto en absoluto algo parecido para Kekkak (la familia a la que pertenece SHA-3).
-Adems, es un diseño relativamente nuevo. En los próximos años me extrañaría mucho que se atacara exitosamente antes de ver esas señales. De ahí el 1%.  
+Además, es un diseño relativamente nuevo. En los próximos años me extrañaría mucho que se atacara exitosamente antes de ver esas señales. De ahí el 1%.  
 No obstante, luego he leído otro artículo que decía que SHA3 podría ser particularmente vulnerable a man-in-the middle attacks, porque algunos de sus pasos son biyecciones. Por lo tanto mi definición de ataque ha resultado inadecuada.  
 De ahí que a la hora de reemplazarlo haya vuelto a frecuencias históricas. Escribiendo aquí esto, aún así me extrañaría mucho que se cambiase en los próximos 3 años, y lo bajo a un 6%. Como decía Nikolás, mis distribuciones no son planas: cuanto más tiempo pase, más probabilidad por año.  
 Más adelante, sigo pensando que 6% es demasiado alto, ya que el proceso de aceptación de SHA3 duró de 2012 a 2015, es decir, 3 años, y el proceso para SHA4 no ha empezado todavía. La bajo entonces a 2-3% -> 2.5%
@@ -30,12 +30,13 @@ Más adelante, sigo pensando que 6% es demasiado alto, ya que el proceso de acep
 {La reina de Inglaterra, Isabel II, nació en el año 1926, mientras que el antiguo rey de España, Juan Carlos I,  nació en 1938. 
 
 Pregunta: 
-- ¿Qué probabilidadle asignáis que Isabel II muera después que Juan Carlos I?]
+- ¿Qué probabilidadle asignáis que Isabel II muera después que Juan Carlos I?}
 
 ## Discusión Día 2.
 Las probabilidades del grupo se mueven de entre 6% (la mía) y 25%. Yo he obtenido la mía yendo a (tablas actuariales inglesas)[https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/nationallifetablesunitedkingdomreferencetables], y mirando la esperanza de vida a 80 y a 92 años para hombres y mujeres. He creaso un modelo simplificado, en el que la reina era simplemente una paisana inglesa de 92 años, y el rey uno de 80.  
-Con dichas tablas actuariales, es relativamente fácil calcular la probabilidad de que la reina siga viva dentro de X años, y de que el rey se muera justo dentro de X años. Sumando esto para cada año. obtengo la probabilidad de que la reina siga viva cuando el rey muere, en general.  Este modelo me da un 5,5575% de de que Isabel II muera después que Juan Carlos I.  He tenido que hacer una pequeña interpolación para obtener la probabilidad de muerte a edades de ms de 100 años, pero su efecto es muy pequeño.  Más importante es que he tomado las probabilidades de 2016, y la esperanza de vida aumenta con el tiempo.  
-Por otro lado, entiendo que ambos reyes tienen acceso a médicos mejores que los de la población general, pero el error afecta a ambos. No obstante, creo que los españoles son un poco peores. Además, Juan Carlos I se ha roto la cadera, mientras que la reina de Inglaterra no ha tenido incidentes parecidos. Por ello subo la probabilidad un poco, a un 6%.
+Con dichas tablas actuariales, es relativamente fácil calcular la probabilidad de que la reina siga viva dentro de X años, y de que el rey se muera justo dentro de X años. Sumando esto para cada año. obtengo la probabilidad de que la reina siga viva cuando el rey muere, en general.  Este modelo me da un 5,5575% de de que Isabel II muera después que Juan Carlos I.  He tenido que hacer una pequeña interpolación para obtener la probabilidad de muerte a edades de más de 100 años, pero su efecto es muy pequeño.  Más importante es que he tomado las probabilidades de 2016, y la esperanza de vida aumenta con el tiempo.  
+Por otro lado, entiendo que ambos reyes tienen acceso a médicos mejores que los de la población general, pero el error afecta a ambos. No obstante, creo que los españoles son un poco peores. Además, Juan Carlos I se ha roto la cadera, mientras que la reina de Inglaterra no ha tenido incidentes parecidos. Por ello subo la probabilidad un poco, a un 6%.  
+Si me interesara mucho el resultado, haría algunas simulaciones de Monte Carlo, y no por año, sino por semana / día (interpolando la probabilidad por semana).
 
 ## Lista de ideas:
 - Muerte reina de Inglaterra.
