@@ -27,6 +27,10 @@ Question:
 - What probability do you assign to ELisabeth the II dying before Juan Carlos the I?
 }
 
+## Day 2 Discussion
+In our group, probablities ranged from 4% (my own estimate) to 25%. I obtained my 6% figure going to (life tables)[https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/nationallifetablesunitedkingdomreferencetables], and searching for life expectancies at 80 and 92 years old. I created a simplified model in which the queen of england was just an English peasant, ditto for the king of Spain.
+With those tables in mind, it's relatively easy to calculate the probability that the queen will still ve alive in X years, and that the king will die in exactly X years. Multiplying both to get the probability of both events happening, and summing over all possible years, I arrive at a probability of 5,5575% for the statement under discussion. I adjust this upwards a little bit to 6%, because the queen seems healthier, the king broke his hip, and I'd guess the English Health system has better top notch doctors. If I really cared about the result, I might consider the rate of death not per year, but per week/month (interpolating those from the values at the beginning and end of each year), and would take into account rising life expectancies.
+
 ## Hashes
 Everything between {} is hashed through SHA3-512 (https://www.browserling.com/tools/sha3-hash), and published on Twitter (@NunoSempere).
 This, of course means that corrections or notes can't be made.
