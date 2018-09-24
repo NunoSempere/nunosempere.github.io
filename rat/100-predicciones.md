@@ -38,10 +38,11 @@ Con dichas tablas actuariales, es relativamente fácil calcular la probabilidad 
 Por otro lado, entiendo que ambos reyes tienen acceso a médicos mejores que los de la población general, pero el error afecta a ambos. No obstante, creo que los españoles son un poco peores. Además, Juan Carlos I se ha roto la cadera, mientras que la reina de Inglaterra no ha tenido incidentes parecidos. Por ello subo la probabilidad un poco, a un 6%.  
 Si me interesara mucho el resultado, haría algunas simulaciones de Monte Carlo, y no por año, sino por semana / día (interpolando la probabilidad por semana).
 
+## Día 3. Lunes 24 de Septiembre.
+{El grupo de Altruismo Efectivo España se propuso dar una charla TedX. ¿Qué probabilidad le asignáis a que se lleve a cabo en 2019? Técnica: A veces es útil formular la pregunta en negativo: ¿qué probabilidad le dáis a que no se haga?}
+
 ## Lista de ideas:
-- Muerte reina de Inglaterra.
 - Precios, valores de cosas.
-- Crackeado de SHA.
 - Tempereatura media en España, GLobal, Inviertno.
 - Número refugiados alemania.
 - Premio Nobel / Medalla fields Africano.
@@ -56,7 +57,7 @@ Si me interesara mucho el resultado, haría algunas simulaciones de Monte Carlo,
 - Probabilidad de que Trump termine la legislatura.
 - Probabilidad mantenerse en el poder de: Trump, Putin, Macron, Erdogan, Merkel.
 - P de que Woody Allen saque película en 2019.
-- El grupo de EA España no organizaraá una charla de TedX en 2019.
+- El grupo de EA España no organizará una charla de TedX en 2019.
 
 ## Hashes.
 Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.
