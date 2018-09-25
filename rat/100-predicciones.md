@@ -58,6 +58,8 @@ Si me interesara mucho el resultado, haría algunas simulaciones de Monte Carlo,
 - Probabilidad mantenerse en el poder de: Trump, Putin, Macron, Erdogan, Merkel.
 - P de que Woody Allen saque película en 2019.
 - El grupo de EA España no organizará una charla de TedX en 2019.
+- Vida romántica
+- 
 
 ## Hashes.
 Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.
