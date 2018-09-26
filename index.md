@@ -11,7 +11,7 @@ Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones.html) (es)  
 [100 predictions](https://nunosempere.github.io/rat/100-predictions.html) (en)  
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  (en)  
-[Calibration](https://nunosempere.github.io/https://calibration/) (en)  
+[Calibration](https://nunosempere.github.io/calibration/) (en)  
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
 [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
 
