@@ -26,7 +26,7 @@ No obstante, luego he leído otro artículo que decía que SHA3 podría ser part
 De ahí que a la hora de reemplazarlo haya vuelto a frecuencias históricas. Escribiendo aquí esto, aún así me extrañaría mucho que se cambiase en los próximos 3 años, y lo bajo a un 6%. Como decía Nikolás, mis distribuciones no son planas: cuanto más tiempo pase, más probabilidad por año.  
 Más adelante, sigo pensando que 6% es demasiado alto, ya que el proceso de aceptación de SHA3 duró de 2012 a 2015, es decir, 3 años, y el proceso para SHA4 no ha empezado todavía. La bajo entonces a 2-3% -> 2.5%
 
-## Día 2. Martes 17 Sept 2018
+## Día 2. Martes 17 Sept / 2018
 {La reina de Inglaterra, Isabel II, nació en el año 1926, mientras que el antiguo rey de España, Juan Carlos I,  nació en 1938. 
 
 Pregunta: 
@@ -38,31 +38,40 @@ Con dichas tablas actuariales, es relativamente fácil calcular la probabilidad 
 Por otro lado, entiendo que ambos reyes tienen acceso a médicos mejores que los de la población general, pero el error afecta a ambos. No obstante, creo que los españoles son un poco peores. Además, Juan Carlos I se ha roto la cadera, mientras que la reina de Inglaterra no ha tenido incidentes parecidos. Por ello subo la probabilidad un poco, a un 6%.  
 Si me interesara mucho el resultado, haría algunas simulaciones de Monte Carlo, y no por año, sino por semana / día (interpolando la probabilidad por semana).
 
-## Día 3. Lunes 24 de Septiembre.
+## Día 3. Lunes 24 Sept / 2018
 {El grupo de Altruismo Efectivo España se propuso dar una charla TedX. ¿Qué probabilidad le asignáis a que se lleve a cabo en 2019? Técnica: A veces es útil formular la pregunta en negativo: ¿qué probabilidad le dáis a que no se haga?}
 
+## Día 3'
+{Propuesta espontánea: Hay un matemático que dice tener una prueba de la Conjetura de Riemann. Probabilidad de que la prueba aguante escrutinio y sea aceptada, de aquí a 1 año}
+
+## Discusión Día 3.
+A pesar de que hubo cierta divergencia con respecto a la charla TedX, no se apostó, ya que eso hubiese dado incentivos perversos a los más involucrados en AE España. Con respecto a la segunda, el consenso fue que la probabilidad era muy pequeña, y sí se hicieron apuestas.  
+
+## Día 4. Jueves 27 Sept / 2018
+De acuerdo a Wikipedia: https://en.wikipedia.org/wiki/List_of_black_Nobel_laureates, hasta la fecha, 15 de los 881 ganadores de un Premio Nobel han sido de etnia negra (¿negros?, ¿q?
+
 ## Lista de ideas:
-- Precios, valores de cosas.
-- Tempereatura media en España, GLobal, Inviertno.
-- Número refugiados alemania.
-- Premio Nobel / Medalla fields Africano.
-- Soft Brexit. ¿Cómo operacionalizar?
-- Crisis económica.
-- Catástrofe con >= 10 personas muertas.
-- Acciodente avión.
-- Atentado terrorista=?
-- Ventas X número de coches eléctricos en España.
-- Probabilidad de que todos contesten a las 100 preguntas. Cada uno.
-- Probabilidad lesión de Gareth Bale / Cristiano Ronaldo.
-- Probabilidad de que Trump termine la legislatura.
-- Probabilidad mantenerse en el poder de: Trump, Putin, Macron, Erdogan, Merkel.
-- P de que Woody Allen saque película en 2019.
-- El grupo de EA España no organizará una charla de TedX en 2019.
-- Vida romántica
+- Precios, valores de cosas.  
+- Tempereatura media en España, GLobal, Inviertno.  
+- Número refugiados alemania.  
+- Premio Nobel / Medalla fields Africano.  
+- Soft Brexit. ¿Cómo operacionalizar?  
+- Crisis económica.  
+- Catástrofe con >= 10 personas muertas. 
+- Acciodente avión.  
+- Atentado terrorista=?  
+- Ventas X número de coches eléctricos en España.  
+- Probabilidad de que todos contesten a las 100 preguntas. Cada uno.  
+- Probabilidad lesión de Gareth Bale / Cristiano Ronaldo.  
+- Probabilidad de que Trump termine la legislatura.  
+- Probabilidad mantenerse en el poder de: Trump, Putin, Macron, Erdogan, Merkel.  
+- P de que Woody Allen saque película en 2019.  
+- El grupo de EA España no organizará una charla de TedX en 2019.   
+- Vida romántica  
 - 
 
 ## Hashes.
-Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.
+Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.  
 
 ### Día 1: 
 29f91f9fa34dd74aa8fbbc7410920cb8a6aec28fd6248d4187f8a9a2608b0b0eab73c4e05dde0902ccb95cf26c3ef0a9057868865d3d7e6f5be7003190e0e3bc. 
@@ -71,3 +80,10 @@ Nota: SHA-3 se reemplaza se interpreta como que aparece un SHA-4.
 
 ## Día 2:
 ce11fdf1500cd161e4c9432a990ae016943aed8e40e9611b8743efc7117da8ccdcc9614a72bcc9e6e44dce2e874eca328713a3496eff9d170fce383b47cde5a3
+
+## Día 3:
+4d1e85f9508cff3300cf49216c8dc240a489d14e1f760f3f90b6122d6d55a99bb9d28348149d6cf35d9736494129500df133835d7cc249e82c456f204b361f32
+
+## Día 3'
+5d93140dfd2462d34a4f3ceed3dd62d3bda233ac33f9a8b2decfc9a1bd283625b63478e327bd2bbf4541308adee017c4a65e1b32bcf0ee1836966bce9c6e25bb
+
