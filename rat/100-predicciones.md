@@ -48,7 +48,11 @@ Si me interesara mucho el resultado, haría algunas simulaciones de Monte Carlo,
 A pesar de que hubo cierta divergencia con respecto a la charla TedX, no se apostó, ya que eso hubiese dado incentivos perversos a los más involucrados en AE España. Con respecto a la segunda, el consenso fue que la probabilidad era muy pequeña, y sí se hicieron apuestas.  
 
 ## Día 4. Jueves 27 Sept / 2018
-De acuerdo a Wikipedia: https://en.wikipedia.org/wiki/List_of_black_Nobel_laureates, hasta la fecha, 15 de los 881 ganadores de un Premio Nobel han sido de etnia negra (¿negros?, ¿q?
+{De acuerdo a una rápida búsqueda de Google, los siguientes premios nobel serán anunciados el 10 de diciembre de 2018. ¿Qué probabilidad le asignáis a que un nuevo individuo sea legítimamente añadido a la siguiente lista: https://en.wikipedia.org/wiki/List_of_black_Nobel_laureates?}
+
+## Día 5. Domingo 30 Sept / 2018
+{Woody Allen ha dirigido una película al año desde hace décadas. No obstante, acusaciones y mala reputación tal vez impliquen que este año esto no sea así. Pregunta:
+- ¿Qué probabilidad le asignáis a que en 2019 Woody Allen no dirija una película?}
 
 ## Lista de ideas:
 - Precios, valores de cosas.  
