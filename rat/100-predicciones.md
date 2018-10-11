@@ -60,6 +60,8 @@ A pesar de que hubo cierta divergencia con respecto a la charla TedX, no se apos
 ## Lista de ideas:
 {Desde ministra de medioambiente hasta Canciller en 2005, Merkel se ha agarrado firmemente al poder. No obstante, periódicos y analistas la ven de capa caída, en especial tras los malos resultados en las últimas elecciones y la reacción en su partido a su política en lo que a inmigración respecta. Tras investigar 15 minutos buscando por Google, ¿qué probabilidad le dáis a que se presente a las próximas elecciones?¿qué probabilidad de que las gane?}
 
+{Probabilidad de que se convoquen elecciones generales en España en el primer semestre de 2019, concretamente el 26 de Mayo de 2019 coincidiendo con europeas, municipales y autonómicas.}
+
 - Precios, valores de cosas.  
 - Tempereatura media en España, GLobal, Inviertno.  
 - Número refugiados alemania.  
