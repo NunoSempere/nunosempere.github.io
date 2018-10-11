@@ -50,11 +50,16 @@ A pesar de que hubo cierta divergencia con respecto a la charla TedX, no se apos
 ## Día 4. Jueves 27 Sept / 2018
 {De acuerdo a una rápida búsqueda de Google, los siguientes premios nobel serán anunciados el 10 de diciembre de 2018. ¿Qué probabilidad le asignáis a que un nuevo individuo sea legítimamente añadido a la siguiente lista: https://en.wikipedia.org/wiki/List_of_black_Nobel_laureates?}
 
-## Día 5. Domingo 30 Sept / 2018
+## Día 5. Domingo 7 Octubre / 2018
 {Woody Allen ha dirigido una película al año desde hace décadas. No obstante, acusaciones y mala reputación tal vez impliquen que este año esto no sea así. Pregunta:
 - ¿Qué probabilidad le asignáis a que en 2019 Woody Allen no dirija una película?}
 
+## Día 6. Jueves 11 de Octubre / 2018
+{Operacionaliza "cambio significativo" y obtén la probabilidad de que haya un cambio significativo en tu vida romántica de aquí a 1,2,5, 12 meses.}
+
 ## Lista de ideas:
+{Desde ministra de medioambiente hasta Canciller en 2005, Merkel se ha agarrado firmemente al poder. No obstante, periódicos y analistas la ven de capa caída, en especial tras los malos resultados en las últimas elecciones y la reacción en su partido a su política en lo que a inmigración respecta. Tras investigar 15 minutos buscando por Google, ¿qué probabilidad le dáis a que se presente a las próximas elecciones?¿qué probabilidad de que las gane?}
+
 - Precios, valores de cosas.  
 - Tempereatura media en España, GLobal, Inviertno.  
 - Número refugiados alemania.  
@@ -69,10 +74,8 @@ A pesar de que hubo cierta divergencia con respecto a la charla TedX, no se apos
 - Probabilidad lesión de Gareth Bale / Cristiano Ronaldo.  
 - Probabilidad de que Trump termine la legislatura.  
 - Probabilidad mantenerse en el poder de: Trump, Putin, Macron, Erdogan, Merkel.  
-- P de que Woody Allen saque película en 2019.  
 - El grupo de EA España no organizará una charla de TedX en 2019.   
 - Vida romántica  
-- 
 
 ## Hashes.
 Aquello que esté en paréntesis será hasheado con SHA3-512, y publicado en twitter bajo @NunoSempere.  
