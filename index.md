@@ -1,10 +1,8 @@
 # Welcome / Bienvenidos
 
 Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
-I am Nuño Sempere, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content. 
+I am Nuño Sempere, I identify myself as an effective altruist and aspiring rationalist, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content.
 
-Right now, this is under construction; most links won't work. 
-Sin embargo, puedes encontrar la mayoría de los textos en  [blogdelecturadenuno.blogspot.com.es](https://blogdelecturadenuno.blogspot.com.es)
 
 ## Recent.
 [ESPR Evaluation](https://nunosempere.github.io/ESPR-Evaluation/) (en)  
