@@ -31,7 +31,7 @@ With regards to the second and third documents, I feel that they provide powerfu
 
 > Eric (Bruylant) described the mindset of people at CFAR as “the exact opposite of learned helplessness”, and found that experiencing more of this mindset, in combination with an increased ability to see what was going on with his mind, was particularly helpful for making this shift.
 
-Yet William MacAskill's book, *Doing Good Better*, is full with examples of NGOs with great sounding premises, e.g., Roundabout Water Solutions, which were woefully uneffective. Question for the readers: What probability 
+Yet William MacAskill's book, *Doing Good Better*, is full with examples of NGOs with great sounding premises, e.g., Roundabout Water Solutions, which were woefully uneffective. 
 
 Note that Arbital, one of CFAR's success stories, has now failed. Additionally, when reading CFAR's own [Rationality Checklist](http://www.rationality.org/resources/rationality-checklist), I notice that to acquire the mental movements mentioned seems more like a long term project, and less like a skill acquirable in 4 days. This is something which CFAR itself also underscores.
 
