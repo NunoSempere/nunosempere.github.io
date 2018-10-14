@@ -23,7 +23,7 @@ But I feel like that is only partially sufficient. The magnitude of the effect f
 ![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-1.jpg)
 ![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-2.jpg)
 
-I find them scary; depending on the method used to test your effect, can get an effect size that is 4-5 times as great as the effect you find with an RCT, or about as great, in the other direction. The effects the CFAR study finds, f.ex. the one most prominently displayed in CFAR's webpage, an increased life satisfaction of 0.17 standard deviations (i.e., going from 50 to 56.75%) are small enough for me to worry about such factors. 
+I find them scary; depending on the method used to test your effect, can get an effect size that is 4-5 times as great as the effect you find with an RCT, or about as great, in the other direction. The effects the CFAR study finds, f.ex. the one most prominently displayed in CFAR's webpage, an increased life satisfaction of 0.17 standard deviations (i.e., going from 50 to 56.75%) are small enough for me to worry about such inconveniences. 
 
 Thus, I feel that an RCT could be delayed on the strength of the evidence that CFAR currently has, including its logical model (see below), but not indefinitely. In particular, if CFAR had plans for more ambitious expansion, it would be a good idea to run an RCT before. If  MIT's JPAL, didn't specialize on poverty interventions, I would suggest teaming up with them, and it seems like a good idea to try anyways. JPAL would provide strategies like the following: we can randomly admit people for either this year or the next, and take as the control the group which has been left waiting. It is not clear to me why this hasn't been done yet.
 
@@ -41,6 +41,7 @@ Furthermore, asking alumni to estimate the impact does not seem at all like a go
 
 ## Outside view: The evidence on Non Violent Communication.
 
+To be written
 
 ## ESPR as distinct from CFAR.
 
