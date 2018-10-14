@@ -92,4 +92,4 @@ Alonso Campos [Freedom regained, de Julian Baggini](https://nunosempere.github.i
 [Letimotiv: Ideas recurrentes](https://nunosempere.github.io/miscellanea/letimotiv.html) (es)   
 [The Mask](https://nunosempere.github.io/miscellanea/The-Mask.html)  
 
-// The last thing I added was "Patrones en el Economist".
+// Note to self: The last thing I added from my other blog was "Patrones en el Economist".
