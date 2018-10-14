@@ -1,6 +1,6 @@
 # Measurements
 
-Note: This is a work in progress. The end result would be to create a several survey such as [this](https://docs.google.com/forms/d/1RRKImKZKePSvdWu6aj2zOngSa9PJMfcSH9eCxy3XdfQ/prefill), to be taken before the camp, x months after the camp and 2 years after the camp.
+Note: This is a work in progress. The end result would be to create a several survey such as [this](https://docs.google.com/forms/d/1RRKImKZKePSvdWu6aj2zOngSa9PJMfcSH9eCxy3XdfQ/viewform?edit_requested=true), to be taken before the camp, x months after the camp and 2 years after the camp.
 
 ## Difficulties
 
