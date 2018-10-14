@@ -59,7 +59,7 @@ If you have: Write a brief tweet.
 
 1. Self-Confidence/ Modern Survival Skills.
 - I think I could do pretty well in a Zombie Apocalypse. ✓
-- It wouldn't bother me excessively if I woke up in a random city in the world with nothing but my clothes.
+- It wouldn't bother me excessively if I woke up in a random city in the world with nothing but my clothes on. ✓
 
 1. Decisiveness. 
 - To what extent do you agree with the statement: I am a decisive person.
@@ -72,20 +72,21 @@ If you have: Write a brief tweet.
 - How often do you try something new?
 
 1. People, connections.
-- What is the approximate number of people who you interacted with in the past week?
-- What is the approximate number of people you'd be willing to confide in about something personal?
-- What is the approximate number of people who would let you crash at their place if you needed somewhere to stay?
+- What is the approximate number of people who you interacted with in the past week? ✓
+- What is the approximate number of people you'd be willing to confide in about something personal? ✓
+- What is the approximate number of people who would let you crash at their place if you needed somewhere to stay? ✓
 Their numerical responses were then capped at 300, log transformed, and averaged into a single measure of social support.
 
 1. Attitudes towards EA.
 There is no right or wrong answers. Our philosophical positions are very diverse, and even include nietzschean philosophy.
 - Do you know what Effective Altruism is
-	- Yes / No but I've heard of it / No.
-- Do you self-identify as an Effective Altruist?
-- Has Effective Altruism caused you to make donations you otherwise wouldn't?
-- Do you expect Effective Altruism to cause you to make donations in the future which you otherwise won't?
+	- Yes / No but I've heard of it / No.✓
+- Do you self-identify as an Effective Altruist?✓
+- Has Effective Altruism caused you to make donations you otherwise wouldn't?✓
+- Do you expect Effective Altruism to cause you to make donations in the future which you otherwise won't?✓
 - If that is the case, what % of your earnings do you expect to donate to ea charities (like Against Malaria Foundation, Malaria Consortium, Schistosomiasis Control Initiative, Evidence Action's Deworm the World Initiative, GiveWell, 80.000 hours, etc) over your life?
-- What's your overall opinion of Effective Altruism?
+	- Ask this privately
+- What's your overall opinion of Effective Altruism? ✓
 - If you had to distribute 1 billion dollars to different charities, on the basis of which criteria would you do it?
 
 1. Attitudes towards existential risk.
@@ -97,9 +98,9 @@ There is no right or wrong answers. Our philosophical positions are very diverse
 1. Attitudes towards AI Safety
 - Are you familiar with the field of AI Safety?
 - Have you read any papers related to the field?
-- If you knew about it beforehand, how much of a threat do you think it poses?
-- How would you describe the concept in a short tweet?
-- In percentage points, how likely do you judge it that your career will in some way be related to AI Safety? And directly related?
+- If you knew about it beforehand, how much of a threat do you think it poses? 
+- How would you describe the concept in a short tweet? ✓
+- In percentage points, how likely do you judge it that your career will in some way be related to AI Safety? And directly related? ✓
 
 
 **Sofware upgrade**
@@ -109,28 +110,28 @@ There is no right or wrong answers. Our philosophical positions are very diverse
 - I have fiddled with the different parts of myself. 
 - I work to change the parts of myself which I don't like. ✓
 - I purposefully create habits. ✓
-- When was the last time you did this?
+- When was the last time you did this? ✓
 
 1. Position towards emotions. 
-- Emotions as your allies.
+- Emotions as your allies. ✓
 - To what extent do you agree with the following:
-- Emotions are my allies, 
-- Emotions often give me useful information.
-- Emotions often hinder me, 
-- I would prefer to feel less.
-- I often ignore my emotions.
-- I am in touch with my emotions.
+- Emotions are my allies, ✓
+- Emotions often give me useful information. ✓
+- Emotions often hinder me, ✓
+- I would prefer to feel less. ✓
+- I often ignore my emotions. ✓
+- I am in touch with my emotions. ✓
 
 1. Life optimization
-- I have in place mechanisms for constant, iterated improvement of my life.
+- I have in place mechanisms for constant, iterated improvement of my life.✓
 - Write a short tweet about it.
 - Units of exchange: I often explicitly consider the tradeoffs between money, time, prestige, etc., when making decisions.
 - When was the last time you've done that (if ever)
 - Write a short tweet about it. 
 - Think about your current set of skills, your habits, the things you spend your time on, how you interact with other people, the intellectual questions that you find engaging, the goals you’re aiming towards, and the challenges that you’re currently facing going forward. Next, think about how you were one year ago on each of these dimensions. How different are you now from how you were one year ago?
-- Not at all different / Slightly different / Somewhat different /  Very different / Extremely different.
-- [optional] In about one tweet, what is one difference that stands out as being particularly large or significant?
--  Can you think of any changes that you’ve made in the past month to your daily routines or habits in order to make things go better? These can be tiny changes (e.g., adjusted the curtains on my bedroom window so that less light comes in while I’m sleeping) or large ones. Spend about 60 seconds recalling as many examples of these kinds of changes as you can and listing them here. (If you want to skip this question, leave it blank. If you spend the 60 seconds and no specific examples come to mind, write "none.")
+- Not at all different / Slightly different / Somewhat different /  Very different / Extremely different. ✓
+- [optional] In about one tweet, what is one difference that stands out as being particularly large or significant? ✓
+-  Can you think of any changes that you’ve made in the past month to your daily routines or habits in order to make things go better? These can be tiny changes (e.g., adjusted the curtains on my bedroom window so that less light comes in while I’m sleeping) or large ones. Spend about 60 seconds recalling as many examples of these kinds of changes as you can and listing them here. (If you want to skip this question, leave it blank. If you spend the 60 seconds and no specific examples come to mind, write "none.") ✓
 - 
 
 1. Mental illness. 
@@ -142,34 +143,34 @@ While having a mental illness sucks, there is no right or wrong answer. Some of 
 
 1. Goal clarity
 With regards to my goals, 
-- I know what my goals are.
-- I feel that different parts of myself are aligned.
-- I feel that different parts of myself are more aligned than 1y ago.
-- I feel that the different parts of myself are more aligned than 1y ago.
-- when an internal conflict arises, I have adequate tools to resolve it.
+- I know what my goals are. ✓
+- I feel that different parts of myself are aligned. ✓
+- I feel that the different parts of myself are more aligned than 1y ago. ✓
+- when an internal conflict arises, I have adequate tools to resolve it. ✓
 |N: I copied the first person from somewhere else.
 
 1. Communication
 - I can nonviolently communicate with the people I care about.
-- When I talk to people, they perceive that I'm speaking in good faith.
-- I successfully assert my needs to others.
-- The last time I had a discussion, it was resolved gracefully.
+	Too abstract.
+- When I talk to people, they perceive that I'm speaking in good faith. ✓
+- I successfully assert my needs to others. ✓
+- The last time I had a discussion, it was resolved gracefully. ✓
 - When I debate with people, there is often a satisfying conclusion.
 
 1. Stupid mistakes.
 - How often do you make stupid mistakes?
-- When was the last stupid mistake you made?
+- When was the last stupid mistake you made? ✓
 - Write a short tweet about it.
-- Did you implement any measures to avoid making that specific stupid mistake in the future?
-- If so, write a short tweet about it.
+- Did you implement any measures to avoid making that specific stupid mistake in the future? ✓
+- If so, write a short tweet about it. ✓
 
 1. Life satisfaction
 - How satisfied are you with your life as a whole?
-- To what extent do you agree with the statement: I am winning at life?
+- To what extent do you agree with the statement: I am winning at life? ✓
 - Stuckness: I feel like my life is stuck
 
 1. Effective Approaches to Working on Projects
-When I decide that I want to do something (like doing a project, developing a new regular practice, or changing some part of my lifestyle), I …
+When I decide that I want to do something (like doing a project, developing a new regular practice, or changing some part of my lifestyle), I … ✓
 - plan out what specific tasks I will need to do to accomplish it.
 - try to think in advance about what obstacles I might face, and how I can get past them.
 - seek out information about other people who have attempted similar projects to learn about what they did.
@@ -196,6 +197,7 @@ Or suppose you have no idea, so you pick a country totally at random. In that ca
 - What year was the fast food chain "Dairy Queen" founded? (Within five years)
 - Alexander Hamilton appears on how many distinct denominations of US Currency?
 - Without counting, how many keys on a standard IBM keyboard released after 1986, within ten?
+	- Too easy to cheat.
 - What's the diameter of a standard soccerball, in cm within 2?
 - How many calories in a reese's peanut butter cup within 20?
 - What is the probability that supernatural events (including God, ghosts, magic, etc) have occurred since the
@@ -203,26 +205,8 @@ beginning of the universe?
 - What is the probability that there is a god, defined as a supernatural intelligent entity who created the universe?
 - What is the probability that any of humankind's revealed religions is more or less correct?
 
-
-
-**LOOK OVER PAST YEAR POST-SURVEYS. LESS WRONG COMMUNITY SURVEY**
-**REMEMBER YOU HAVE NOTES AT THE END OF THE CFAR FILE**
-
-Heroic Narrativomancy
-Attachment Theory
-Internal Double Crux
-Romantic Epistemology
-Circling
-TAPs
-Bayesian Probability
-Defense Against the Dark Arts
-Happiness / Illusion of the Self
-Everything we teach at ESPR is wrong.
-Sum Math Class. Models.
-CoZE
-Seeking sensibility (Luke) = ?
-Romantic Epistemology
-Circling
-
 ## Attribution
 I cribbed some questions from the 2016 LessWrong Diaspora Survey and the CFAR 2015 longitudinal study
+																				
+CFAR's rationality checklist
+http://www.rationality.org/resources/rationality-checklist
