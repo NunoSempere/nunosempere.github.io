@@ -1,4 +1,4 @@
-# ESPR Evauation
+# ESPR Evaluation
 
 Mostly carried out during my stay at the EA Hotel. I moderated my initial views after talking with Luke Raskopf.
 
