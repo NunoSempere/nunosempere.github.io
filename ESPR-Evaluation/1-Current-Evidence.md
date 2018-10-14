@@ -1,4 +1,4 @@
-# On the cost effectiveness of ESPR, for Nick Beckstead, by Nuño Sempere.
+# ESPR RCT.
 
 ## Introduction
 
