@@ -14,7 +14,7 @@
 
 The evidence for/against CFAR in general is of interest here, because I take it as likely that it is very much correlated with the evidence on ESPR. For example, if reading programs in India show that dividing students by initial level improves their learning outcome, then you'd expect similar processes to be at play in Kenya. Thus, if the evidence on CFAR were robust, we might be able to afford being less rigorous when it comes to ESPR.
 
-I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/studies/2015-longitudinal-study) and the more recent [Case Studies](http://rationality.org/studies/2016-case-studies) and the [2017 CFAR Impact report](http://www.rationality.org/resources/updates/2017/cfar-2017-impact-report)
+I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/studies/2015-longitudinal-study) and the more recent [Case Studies](http://rationality.org/studies/2016-case-studies) and the [2017 CFAR Impact report](http://www.rationality.org/resources/updates/2017/cfar-2017-impact-report). I will make some comments about them, but will not review their findings.
 
 The first study notes that a control group would be a difficult thing to implement, noting it would require finding people who would like to come to the program and forbidding them to do so. The study tries to compensate for the lack of a control by being statistically clever. This study seems to be as rigorous as you can get without a RCT.
 
