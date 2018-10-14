@@ -16,8 +16,7 @@ I see Myself as Someone Who...
 - Prefers work that is routine
 - Likes to reflect, play with ideas
 - Has few artistic interests
-- Is sophisticated in art, music, or
-literature
+- Is sophisticated in art, music, or literature
 
 From John, O. P., & Srivastava, S. (1999). The Big-Five trait taxonomy: History, measurement, and theoretical perspectives. In L. A. Pervin & O. P. John (Eds.), *Handbook of personality: Theory and research* (Vol. 2, pp. 102–138). New York: Guilford Press.
 
@@ -27,7 +26,7 @@ But instead want to ask things such as:
 - How much have you explored vs specialized in the last year?
 - What was the last time you did something which you thought had a <=5% chance of succeeding?
 
-Note that the 2015 CFAR Longitudinal study takes a different approach:
+Note that the 2015 CFAR Longitudinal study takes a different approach: 
 > "We relied heavily on existing measures which have been validated and used by psychology researchers, especially in the areas of well-being and personality. These measures typically are not a perfect match for what we care about, but we expected them to be sufficiently correlated with what we care about for them to be worth using"
 
 For example, they used the questions written above, but they'd be insufficient to capture the effects of CoZE, one of the highest impact activities in a CFAR Workshop.
@@ -208,6 +207,6 @@ beginning of the universe?
 - What is the probability that any of humankind's revealed religions is more or less correct?
 
 ## Attribution
-I took several questions from the 2016 LessWrong Diaspora Survey and the CFAR 2015 longitudinal study																		
-CFAR's rationality checklist
+I took several questions from the 2016 LessWrong Diaspora Survey and the CFAR 2015 longitudinal study  
+CFAR's rationality checklist  
 http://www.rationality.org/resources/rationality-checklist
