@@ -1,4 +1,4 @@
-# On a possile RCT for ESPR.
+# On an RCT for ESPR.
 
 ## Introduction
 
@@ -19,6 +19,9 @@ I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/
 The first study notes that a control group would be a difficult thing to implement, noting it would require finding people who would like to come to the program and forbidding them to do so. The study tries to compensate for the lack of a control by being statistically clever. This study seems to be as rigorous as you can get without a RCT.
 
 But I feel like that is only partially sufficient. The magnitude of the effect found could be wildly overestimated; MIT's Abdul Latif Jameel Poverty Action Lab provides the following slides [1]: 
+
+![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-1.jpg)
+![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-2.jpg)
 
 I find them scary; depending on the method used to test your effect, a simple pre-post comparison can get an effect size that is 4-5 times as great, or about as great, in the other direction. The effects the study finds, f.ex. the one most prominently displayed in CFAR's webpage, an increased life satisfaction of 0.17 standard deviations (i.e., going from 50 to 56.75%) are small enough 
 
