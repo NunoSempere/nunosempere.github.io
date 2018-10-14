@@ -1,5 +1,7 @@
 # Measurements
 
+Note: This is a work in progress. The end result would be to create a several survey such as [this](https://docs.google.com/forms/d/1RRKImKZKePSvdWu6aj2zOngSa9PJMfcSH9eCxy3XdfQ/prefill), to be taken before the camp, x months after the camp and 2 years after the camp.
+
 ## Difficulties
 
 The changes which through ESPR could be induced in the students are, in some sense, fuzzy and soft. There is some tension between measuring what is easiest to measure and measuring what we're actually interested in, and we firmly choose the second kind. For example, when measuring openness, we don't care about questions such as:
@@ -206,7 +208,6 @@ beginning of the universe?
 - What is the probability that any of humankind's revealed religions is more or less correct?
 
 ## Attribution
-I cribbed some questions from the 2016 LessWrong Diaspora Survey and the CFAR 2015 longitudinal study
-																				
+I took several questions from the 2016 LessWrong Diaspora Survey and the CFAR 2015 longitudinal study																		
 CFAR's rationality checklist
 http://www.rationality.org/resources/rationality-checklist
