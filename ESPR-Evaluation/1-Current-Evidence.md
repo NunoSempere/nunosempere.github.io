@@ -47,9 +47,7 @@ NVC is also supported by testimonial evidence that is both extremely copious and
 
 Given the above, what probability do I assign to NVC being full of bullshit? i.e., that the \~$3,000 courses it offers are only more expensive, not significantly more effective than the $15 book? Actually quite high. NVC seems to have a certain disdain of practical solutions: f.e.x, in Q4 from the measure developed by Steckal "When I listen to another in a caring way, I like to analyze or interpret their problems", an affirmative answer is scored negatively.  
 
-
-
-
+Sense of community. Prediction Spain.
 
 ## ESPR as distinct from CFAR.
 
