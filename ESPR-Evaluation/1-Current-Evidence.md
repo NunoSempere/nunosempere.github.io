@@ -14,7 +14,7 @@
 
 The evidence for/against CFAR in general is of interest here, because I take it as likely that it is very much correlated with the evidence on ESPR. For example, if reading programs in India show that dividing students by initial level improves their learning outcome, then you'd expect similar processes to be at play in Kenya. Thus, if the evidence on CFAR were robust, we might be able to afford being less rigorous when it comes to ESPR.
 
-I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/studies/2015-longitudinal-study) and the more recent [Case Studies](http://rationality.org/studies/2016-case-studies) and the [2017 CFAR Impact report](http://www.rationality.org/resources/updates/2017/cfar-2017-impact-report). Here, I will make some comments about them, but will not review their findings.
+I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/studies/2015-longitudinal-study) together with the more recent [Case Studies](http://rationality.org/studies/2016-case-studies) and the [2017 CFAR Impact report](http://www.rationality.org/resources/updates/2017/cfar-2017-impact-report). Here, I will make some comments about them, but will not review their findings.
 
 The first study notes that a control group would be a difficult thing to implement, noting it would require finding people who would like to come to the program and forbidding them to do so. The study tries to compensate for the lack of a control by being statistically clever. This study seems to be as rigorous as you can get without a RCT.
 
@@ -23,7 +23,7 @@ But I feel like that is only partially sufficient. The magnitude of the effect f
 ![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-1.jpg)
 ![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-2.jpg)
 
-I find them scary; depending on the method used to test your effect, can get an effect size that is 4-5 times as great as the effect you find with an RCT, or about as great, in the other direction. The effects the CFAR study finds, f.ex. the one most prominently displayed in CFAR's webpage, an increased life satisfaction of 0.17 standard deviations (i.e., going from 50 to 56.75%) are small enough for me to worry about such inconveniences. 
+I find them scary; depending on the method used to test your effect, you can get an effect size that is 4-5 times as great as the effect you find with an RCT, or about as great, in the other direction. The effects the CFAR study finds, f.ex. the one most prominently displayed in CFAR's webpage, an increased life satisfaction of 0.17 standard deviations (i.e., going from 50 to 56.75%) are small enough for me to worry about such inconveniences. 
 
 Thus, I feel that an RCT could be delayed on the strength of the evidence that CFAR currently has, including its logical model (see below), but not indefinitely. In particular, if CFAR had plans for more ambitious expansion, it would be a good idea to run an RCT before. If  MIT's JPAL, didn't specialize on poverty interventions, I would suggest teaming up with them, and it seems like a good idea to try anyways. JPAL would provide strategies like the following: we can randomly admit people for either this year or the next, and take as the control the group which has been left waiting. It is not clear to me why this hasn't been done yet.
 
@@ -31,17 +31,25 @@ With regards to the second and third documents, I feel that they provide powerfu
 
 > Eric (Bruylant) described the mindset of people at CFAR as “the exact opposite of learned helplessness”, and found that experiencing more of this mindset, in combination with an increased ability to see what was going on with his mind, was particularly helpful for making this shift.
 
-Yet William MacAskill's book, *Doing Good Better*, is full with examples of NGOs with great sounding premises, e.g., Roundabout Water Solutions, which were woefully uneffective. 
-
-Note that Arbital, one of CFAR's success stories, has now failed. Additionally, when reading CFAR's own [Rationality Checklist](http://www.rationality.org/resources/rationality-checklist), I notice that to acquire the mental movements mentioned seems more like a long term project, and less like a skill acquirable in 4 days. This is something which CFAR itself also underscores.
+Yet William MacAskill's book, *Doing Good Better*, is full with examples of NGOs with great sounding premises, e.g., Roundabout Water Solutions, which were woefully uneffective. Note that Arbital, one of CFAR's success stories, has now failed. Additionally, when reading CFAR's own [Rationality Checklist](http://www.rationality.org/resources/rationality-checklist), I notice that to acquire the mental movements mentioned seems more like a long term project, and less like a skill acquirable in 4 days. This is something which CFAR itself also underscores.
 
 Furthermore, asking alumni to estimate the impact does not seem at all like a good idea to estimate impact, particularly when these people are sympathetic to CFAR, i.e., . To get a better idea of why, take the outside view and substitute CFAR for Center for Non Violent Communication: CNVC.
 
-[1]: Obtained from MIT's course Evaluating Social Programs, accessible at https://courses.edx.org/courses/course-v1:MITx+JPAL101x+2T2018/course/; Week 3.
+[1]: Obtained from MIT's course *Evaluating Social Programs* (Week 3), accessible at https://courses.edx.org/courses/course-v1:MITx+JPAL101x+2T2018/course/.
 
-## Outside view: The evidence on Non Violent Communication.
+## Outside view: The evidence on Non Violent Communication (NVC).
 
-To be written
+The [Center for NonViolent Communication](https://www.cnvc.org/about-us/projects/nvc-research) provides a list of all the research about NVC known to them, of which Juncadella \([2016](https://www.cnvc.org/sites/default/files/NVC_Research_Files/Carme_Mampel_Juncadella.pdf)\) provides an overview up to 2013, after which not much else has been undertaken. From this review: *"Eleven of the 13 studies used quantitative desings. Seven used a control group and 4 a pre-post testing comparison. Of the 7 studies that used a control group, none used a random assignation of participants. In five, the treatment and control were assigned by researcher action and criteria, and in two, the assignment protocol is not reported"*.  
+
+The main problems the research presents is that it is a little bit chaotic: although Steckal, (1994) provides a measuring instrument whose consistency seems to have been validated, every researcher seems to use their own instruments, and investigate an slightly different question, i.e., for different demographics, in different settings, with different workshop lengths. All in all, there seems to be a positive effect, but its value is very uncertain. 
+
+NVC is also supported by testimonial evidence that is both extremely copious and extremely effusive, to be found in Marshall Rosenberg's book *Non Violent Communication: A Language of Life*, and in their webpage. Additionally, the logical model also appears consistent and robust: by providing a way to connect with our emotions and needs, and those of others, NVC workshops provide participants with the skills necessary to relate with others, reduce tension, etc. At any point
+
+Given the above, what probability do I assign to NVC being full of bullshit? i.e., that the \~$3,000 courses it offers are only more expensive, not significantly more effective than the $15 book? Actually quite high. NVC seems to have a certain disdain of practical solutions: f.e.x, in Q4 from the measure developed by Steckal "When I listen to another in a caring way, I like to analyze or interpret their problems", an affirmative answer is scored negatively.  
+
+
+
+
 
 ## ESPR as distinct from CFAR.
 
