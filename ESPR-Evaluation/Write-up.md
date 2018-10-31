@@ -1,12 +1,11 @@
 # ESPR-Evaluation Writeup
 
-(Epistemic status: Cognitive dissonance.)
+(Epistemic status: Cognitive dissonance. Note: The question I am answering here is not "Should I donate to CFAR?" but "Which plan could be set in motion to better estimate ESPR's impact?".)
 
 ## Introduction
-I have spent the last 2-4 months thinking about how to evaluate the impact of the European Summer Camp on Rationality (ESPR) [1], a selective program affiliated with CFAR (Center for Applied Rationality) which takes brilliant highschoolers and teach thems a variety of rationality techniques. Here are the highlights of what I have found, as well as some remarks on what CFAR could do if it was interested in measuring impact with a randomized controlled trial (an RCT).
+I have spent the last 2-4 months thinking about how to evaluate the impact of the European Summer Camp on Rationality (ESPR) [1], a selective program affiliated with CFAR (Center for Applied Rationality) which takes brilliant highschoolers and teach thems a variety of rationality techniques. Here are the highlights of what I have found, as well as some remarks on what CFAR could do if it was interested in measuring impact with a randomized controlled trial (an RCT). 
 
-## Note to potential donors.
-The question I am answering here is not "Should I donate to CFAR?" but "Which plan could be set in motion to better estimate ESPR's impact?".
+After considering the logical model and the current literature, I make a note on the perverse incentives which OpenPhilantrophy might be giving CFAR, present the result of some power calculations regarding the feasibility of an RCT for ESPR. I then go through some important details of how an RCT would have to be implemented, consider some ways I could make the world a worse place through this project, and conclude with some notes of what is left to do.
 
 ## Current evidence
 
@@ -49,7 +48,12 @@ To the extent that OpenPhilantropy prefers Case Studies and other weak forms of 
 
 The questions designing a RCT poses are hard, but the bigger problem is that there's an incentive to not ask them at all. But that would be agaist CFAR's ethos.
 
-## Some power calculations.
+## An RCT for ESPR
+
+### Is it desirable? Is it needed? Why is it a superior alternative.
+On the one hand, ESPR's logical model seems to be very robust. On the other hand 
+
+### Some power calculations.
 (For more detailed numbers, see: [the actual numbers](https://nunosempere.github.io/ESPR-Evaluation/3-Power-calculations.html))
 
 Even after 4 years, under the most optimistic population projections (i.e., every participant answers our surveys every year, and 60 students who didn't get selected also do), we wouldn't have enough power to detect an effect size of 0.2 standard deviations with significance level = 0.05. We would, under somewhat less optimistic projections (20 students and 20 individuals in the control group answer every year), be able to detect an effect of 0.5 standard deviations within 4 years, in whatever we measure. 
@@ -58,9 +62,9 @@ At any point, the length the RCT would have to go on would depend on the minimal
 
 At any point, if we only cared about frequentist statistical power, it would be much better if an RCT could be carried out by CFAR on its workshops, because they have more students.
 
-## Details of the implementation
+### Details of the implementation
 
-### Talking with the staff about whether an RCT is a good idea.
+#### Talking with the staff about whether an RCT is a good idea.
 
 Without the support of ESPR's staff, an RCT could not go forward. In particular, an RCT will require that we don't accept promising applicants, i.e., from the 2 most promising applicants, we'd want to have 1 in the control group. This to be a forced decision would probably engender great resentment.  
 
@@ -68,7 +72,7 @@ Similarly, though we would prefer to have smaller groups, of 20, we wouldn't hav
 
 If we want our final alumni pool to be equally as good as in previous years, we would want to increase our reach, our advertising efforts say ~4x, i.e., to find 90 excellent students in total, 60 for the control and 30 for the treatment group (and 30 spares). This would be possible by, f.ex., asking every previous participant to nominate a friend, by announcing the camp to the most prestigious highschools in countries with a rationality community, etc. An SSC post / banner wouldn't hurt. A successful effort in this area seems necessary for the full buy in of the staff, and might require additional funds.  
 
-### Spillovers.
+#### Spillovers.
 
 If a promising person from the control group tried to apply the next year, we'd have to deny them the chance to come, or else lose the most promising people from the control group, losing validity.  
 
@@ -78,7 +82,7 @@ If people have heard about ESPR, they might read writings by Kahneman, Bostrom, 
 
 SPARC is another camp which teaches very similar stuff. I have considered doing the RCT both on ESPR and SPARC at the same time, but SPARC's emphasis on math olympiad people makes that a little bit sketchy. However, because they are still very similar interventions, we don't want to have a person in the control group going to SPARC. This might be a sore point.  
 
-### Stratification.
+#### Stratification.
 
 Suppose that after randomly allocating the students, we found that the treatment group was richer. This would *suck*, because maybe our effect is just them being, f.ex., healthier. In expectation, the two groups are the same, but maybe in practice they turn out not to be.
 
@@ -86,14 +90,14 @@ An alternative would be to divide the students into rich and poor, and randomly 
 
 Note to self: Paired random assignment might be a problem with respect to attrition (f.ex. no visa on time); JPAL recommends strata of at least 4 people. 
 
-### Incentives.
+#### Incentives.
 The survey takes 15-30 minutes to complete, and while I've tried to make it engaging and propose pauses, I think that an incentive is needed (i.e., the people in the control group might tell us to fuck off). 
 
 I initially thought about donating X USD to the AMF in their name every time they completed a survey, but I realized that this would motivate the most altruistical individuals the most, thus getting selection effects. Now, I'm leaning towards just giving the survey takers that amount of money. 
 
 As a lower bound, 40 people * 3 years * 2 surveys * 10 USD = 2400 USD, or 800 USD/year, as an upper bound, 60 people * 4 years * 4 surveys * 15 USD = 14400 USD or 3600 USD / year. I don't feel this is that significant in comparison to the total cost of the camp. More expensive, I think, is the time which I and others would work on this for free / the counterfactual projects we might undertake with that time. I am as of yet uncertain of the weight of this factor. 
 
-### Take off and burn. 
+#### Take off and burn. 
 
 There is a noninsignificant probability that the first year of the RTC we realize we've made a number of grievous mistakes. I.e., it would surprise me if everything went without a hitch the first time. Personally, this only worries me if we don't learn enough to be able to pull it off the next year, which I happen to consider rather unlikely. At any point, it might be useful to categorize the first year as a trial run.
 
