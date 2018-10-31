@@ -5,12 +5,12 @@
 ## Introduction
 I have spent the last 2-4 months thinking about how to evaluate the impact of the European Summer Camp on Rationality (ESPR) [1], a selective program affiliated with CFAR (Center for Applied Rationality) which takes brilliant highschoolers and teach thems a variety of rationality techniques. Here are the highlights of what I have found, as well as some remarks on what CFAR could do if it was interested in measuring impact with a randomized controlled trial (an RCT). 
 
-After considering the logical model and the current literature, I make a note on the perverse incentives which OpenPhilantrophy might be giving CFAR, present the result of some power calculations regarding the feasibility of an RCT for ESPR. I then go through some important details of how an RCT would have to be implemented, consider some ways I could make the world a worse place through this project, and conclude with some notes of what is left to do.
+After considering the logical model and the current literature, I make a note on the perverse incentives which OpenPhilantrophy might be giving CFAR, and present the result of some power calculations regarding the feasibility of an RCT for ESPR. I then go through some important details of how an RCT would have to be implemented, consider some ways I could make the world a worse place through this project, and conclude with some notes for the future.
 
 ## Current evidence
 
 ### Logical model
-There isn't much evidence on how effective ESPR is, besides it's logical model. In the words of a student which came back this year as a Junior Counselor:
+On ESPR itself, there isn't much evidence, besides it's logical model, i.e., the proposed pathway to change. In the words of a student which came back this year as a Junior Counselor:
 
 >... ESPR (teaches) smart people not to make stupid mistakes. Examples: betting, prediction markets decrease overconfidence. Units of exchange class decreases likelihood of spending time, money, other currency in counterproductive ways. The whole asking for examples thing prevents people from hiding behind abstract terms and to pretend to understand something when they don't. Some of this is learned in classes. A lot of good techniques from just interacting with people at espr.
 >
@@ -20,19 +20,18 @@ There isn't much evidence on how effective ESPR is, besides it's logical model. 
 >
 >It is nice to be surrounded by very smart. ambitious people. This might be less relevant for people who do competitions like IMO or go to very selective universities. Personally, it is a fucking awesome and rare experience every time I meet someone really smart with a bearable personality in the real world. Being around lots of those people at espr was awesome. Espr might have made a lot of participants consider options they wouldn't seriously have before talking to the instructors like founding a startup, working on ai alignment, everything that galit talked about etc
 >
->espr also increased positive impact participants will have on the world in the future by introducing them to effective altruism ideas. I think last year’s batch would have been affected more by this because I remember there being more on x-risk and prioritizing causes and stuff [3].
+>espr also increased positive impact participants will have on the world in the future by introducing them to effective altruism ideas. I think last year’s batch would have been affected more by this because I remember there being more on x-risk and prioritizing causes and stuff [2].
 
-On the other hand, when reading CFAR's own [Rationality Checklist](http://www.rationality.org/resources/rationality-checklist), I notice that to acquire the mental movements mentioned seems more like a long term project, and less like a skill acquirable in 4-13 days. This is something which CFAR itself also underscores. However, CFAR and ESPR still have a very similar logical model, so outside the logical model, the current evidence on ESPR, i.e, a literature review, would simply be the evidence CFAR has on itself. 
 
 ### The Studies CFAR has conducted.
 
-I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/studies/2015-longitudinal-study) together with the more recent [Case Studies](http://rationality.org/studies/2016-case-studies) and the [2017 CFAR Impact report](http://www.rationality.org/resources/updates/2017/cfar-2017-impact-report). I am not aware of any more studies, besides a low powered unpublished and unfindable 2012 RCT.
+CFAR and ESPR have very similar logical models, so the current hard evidence on ESPR, i.e, a literature review, would simply be the evidence CFAR has on itself. I've mainly studied [CFAR's 2015 Longitudinal Study](http://www.rationality.org/studies/2015-longitudinal-study) together with the more recent [Case Studies](http://rationality.org/studies/2016-case-studies) and the [2017 CFAR Impact report](http://www.rationality.org/resources/updates/2017/cfar-2017-impact-report). I am not aware of any more studies, besides a low powered unpublished and unfindable 2012 RCT.
 
-I find myself confused, in the sense that I don't find it satisfactory, and I wouldn't go about collecting evidence in the same way. On the other hand, I respect these people, and I may be under the effects of tunnel vision after having been reading about RCTs for a couple of months. Alternatively, it could be that their Data Analyst is normally a regular member of staff / ops person [4], and that justifying their impact is not a priority for this relatively young organization. 
+I find myself confused, in the sense that I don't find those studies very satisfactory, and I wouldn't go about collecting evidence in the same way. On the other hand, I respect these people, and I may be under the effects of tunnel vision after having been reading about RCTs for a couple of months. Alternatively, it could be that their Data Analyst is normally a regular member of staff / ops person [3], and that justifying their impact is not a priority for this relatively young organization. On this last point, 
 
 With regards to the first study, it notes that a control group would be a difficult thing to implement, because it would be necessary to find people who would like to come to the program and forbidding them to do so. The study tries to compensate for the lack of a control by being statistically clever. It seems to be rigorous enough for a study which is not an RCT, although 
 
-But I feel like that is only partially sufficient. The magnitude of the effect found could be wildly overestimated; MIT's Abdul Latif Jameel Poverty Action Lab provides the following slides [5]:
+But I feel like that is only partially sufficient. The magnitude of the effect found could be wildly overestimated; MIT's Abdul Latif Jameel Poverty Action Lab provides the following slides [4]:
 
 ![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-1.jpg)
 ![](https://nunosempere.github.io/ESPR-Evaluation/Pre-post-2.jpg)
@@ -122,8 +121,7 @@ How could this project make the world a worse place?
 
 ## Footnotes:
 [1] of which I was an alumni and then JC. https://espr-camp.org/  
-[2] To operationalize tentative: add a factor of 2:3 to your previous odds on CFAR workshops  
-[3] I didn't want to remove criticism.
-[4] I am very confused about this. I know that his role at EuroSparc (ESPR 1.0) was as an ops person.  
-[5]  Obtained from MIT's course *Evaluating Social Programs* (Week 3), accessible at https://courses.edx.org/courses/course-v1:MITx+JPAL101x+2T2018/course/.  
+[2] I didn't want to remove criticism.
+[3] I am very confused about this. I know that his role at EuroSparc (ESPR 1.0) was as an ops person.  
+[4]  Obtained from MIT's course *Evaluating Social Programs* (Week 3), accessible at https://courses.edx.org/courses/course-v1:MITx+JPAL101x+2T2018/course/.  
 
