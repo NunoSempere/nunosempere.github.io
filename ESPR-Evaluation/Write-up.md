@@ -50,8 +50,10 @@ The questions designing a RCT poses are hard, but the bigger problem is that the
 
 ## An RCT for ESPR
 
-### Is it desirable? Is it needed? Why is it a superior alternative.
-On the one hand, ESPR's logical model seems to be very robust. On the other hand 
+### Is it desirable? Is it needed? Is it a superior alternative?
+On the one hand, ESPR's logical model seems to be very robust. On the other hand, William MacAskill's book *Doing Good Better* is ripe with examples of NGOs which seem to have a convincing logical model but which don't turn out to be very effective. In this position, in which the outside view seems to be of great uncertainty, an actual study seems highly desirable, and of the ways to do them, an RCT is the superior epistemical alternative; i.e., if you can do any type of study, you should choose to do an RCT, and if I was calling the shots, I would go for it. Yet I am not, and thus I can't. 
+
+In the end, the answer depends on who CFAR / ESPR has to justify itself to, and what kind of evidence they want, as well as on whether they want to convince outsiders that they are effective. These questions will be answered by CFAR's leadership, not by me. Below, the question I have started to answer is whether it could be done.
 
 ### Some power calculations.
 (For more detailed numbers, see: [the actual numbers](https://nunosempere.github.io/ESPR-Evaluation/3-Power-calculations.html))
