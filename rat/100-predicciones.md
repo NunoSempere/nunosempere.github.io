@@ -57,6 +57,10 @@ A pesar de que hubo cierta divergencia con respecto a la charla TedX, no se apos
 ## Día 6. Jueves 11 de Octubre / 2018
 {Operacionaliza "cambio significativo" y obtén la probabilidad de que haya un cambio significativo en tu vida romántica de aquí a 1,2,5, 12 meses.}
 
+## Día 7. Viernes 19 de Octubre / 2018
+
+Desde ministra de medioambiente hasta Canciller en 2005, Merkel se ha agarrado firmemente al poder. No obstante, periódicos y analistas la ven de capa caída, en especial tras los malos resultados en las últimas elecciones y la reacción en su partido a su política en lo que a inmigración respecta. El _Economist_ vaticina su retirada. ca Tras investigar 5-15 minutos buscando por Google, ¿qué probabilidad le dáis a que se presente a las próximas elecciones?¿qué probabilidad de que obtenga mejores resultados (más % del voto total) si se presenta?
+
 ## Lista de ideas:
 {Desde ministra de medioambiente hasta Canciller en 2005, Merkel se ha agarrado firmemente al poder. No obstante, periódicos y analistas la ven de capa caída, en especial tras los malos resultados en las últimas elecciones y la reacción en su partido a su política en lo que a inmigración respecta. Tras investigar 15 minutos buscando por Google, ¿qué probabilidad le dáis a que se presente a las próximas elecciones?¿qué probabilidad de que las gane?}
 
