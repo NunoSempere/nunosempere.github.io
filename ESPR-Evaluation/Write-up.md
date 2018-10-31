@@ -102,14 +102,17 @@ How could this project make the world a worse place?
 - Volunteers would be needed who could be doing more impactful projects.
 - Funding for ESPR could be used for more impactful projects.
 - I could have no fucking idea what I'm talking about with regards to the current evidence (this is why this document is not linked on my main page), and make CFAR/ESPR lose badly needed funding.
+- It would be terrible if the results were negative, but CFAR didn't agree with the measurement device used.
 
 ## Next steps.
-1. Measurements. My current measuring device is imperfect, having been devised by myself. For every section, find a 
+1. Measurements. My (current measuring device)[https://nunosempere.github.io/ESPR-Evaluation/4-Measurements.html] is imperfect, having been devised by myself. For every section, find an expert and have them propose a better way to measure what we care about.
+2. Contact IDInsights and MIT's JPAL and ask them whether they would be interested in a partnership.
+3. Have CFAR ponder and question their current impact evaluation strategy. Is justifying their impact to outsiders a priority? 
 
 ## Footnotes:
 [1] of which I was an alumni and then JC. https://espr-camp.org/  
 [2] To operationalize tentative: add a factor of 2:3 to your previous odds on CFAR workshops  
-[3] I don't want to engage with this in this article, but on the other hand I didn't want to remove criticism.  
+[3] I didn't want to remove criticism.
 [4] I am very confused about this. I know that his role at EuroSparc (ESPR 1.0) was as an ops person.  
 [5]  Obtained from MIT's course *Evaluating Social Programs* (Week 3), accessible at https://courses.edx.org/courses/course-v1:MITx+JPAL101x+2T2018/course/.  
 
