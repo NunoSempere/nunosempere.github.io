@@ -1,7 +1,7 @@
 # ESPR-Evaluation Writeup
 
 (Epistemic status: Cognitive dissonance. Why does CFAR measure it's impact the way it does?)   
-Note: The question whose answer me here is not "Should I donate to CFAR?".
+Note: The question whose answer I consider here is not "Should I donate to CFAR?".
 
 ## Introduction
 I have spent the last 2-4 months thinking about how to evaluate the impact of the European Summer Camp on Rationality (ESPR) [1], a selective program affiliated with CFAR (Center for Applied Rationality) which takes brilliant highschoolers and teach thems a variety of rationality techniques. Here are the highlights of what I have found, as well as some remarks on what CFAR could do if it was interested in measuring impact with a randomized controlled trial (an RCT). 
