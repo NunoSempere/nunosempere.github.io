@@ -1,6 +1,6 @@
 # 100 predicciones.
 
-Go [here](nunosempere.github.io/rat/100-predictions.html) for a version in English
+Go [here](https://nunosempere.github.io/rat/100-predictions.html) for a version in English
 
 ## Día 1: Sábado 15 Sept / 2018.
 {SHA es un acrónimo de Secure Hashing Algorithm; un algoritmo de hash recibe una cadena o un documento y devuelve un número.
