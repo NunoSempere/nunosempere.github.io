@@ -40,7 +40,7 @@ Recently, CFAR has moved away from that more rigorous kind of study to Case Stud
 Finally, one their three Organization Case Studies (Arbital) is now a failed project, but this doesn't change my mind much, because learning that a sparky person who attended CFAR founded a project to improve some aspect of the world didn't give me much information to begin with.
 
 ### A note on perverse incentives
-To the extent that OpenPhilantropy prefers these and other weak forms of evidence *now*, rather than stronger evidence two-three years later, OpenPhilantropy might be giving ESPR perverse incentives. Note that with 20-30 students per year, even after we start an RCT, there must pass a number of years before we can amass some meaningful statistical power (see the power calculations). On the other hand, taking a process of iterated improvement as an admission of failure would also be pretty shitty.
+To the extent that OpenPhilantropy prefers these and other weak forms of evidence *now*, rather than stronger evidence two-five years later, OpenPhilantropy might be giving ESPR perverse incentives. Note that with 20-30 students per year, even after we start an RCT, there must pass a number of years before we can amass some meaningful statistical power (see the power calculations). On the other hand, taking a process of iterated improvement as an admission of failure would also be pretty shitty.
 
 The questions designing a RCT poses are hard, but the bigger problem is that there's an incentive to not ask them at all. But that would be agaist CFAR's ethos.
 
@@ -57,12 +57,12 @@ At any point, if we only cared about frequentist statistical power, it would be 
 
 ### Talking with the staff about whether an RCT is a good idea.
 
-Without the support of the staff, an RCT could not go forward. In particular, an RCT will require that we don't accept promising applicants, i.e., from the 2 most promising applicants, we'd want to have 1 in the control group. This to be a forced decision would probably engender great resentment.  
+Without the support of ESPR's staff, an RCT could not go forward. In particular, an RCT will require that we don't accept promising applicants, i.e., from the 2 most promising applicants, we'd want to have 1 in the control group. This to be a forced decision would probably engender great resentment.  
 
 Similarly, though we would prefer to have smaller groups, of 20, we wouldn't have enough power, even after 4 years if we went that route. Instead, we'd want to accept upwards of 32 students (-2 who, on expectation, won't get their visa on time). Other design studies, like ranking our applicants from 1 to 40, taking the best 20 and randomizing the last 20 (10 for ESPR, 10 for the control group) would appease the staff, but again wouldn't buy us enough power.  
 
-If we want our final alumni pool to be equally as good as in previous years, we would want to increase our reach, our advertising efforts say ~4x, i.e., to find 90 excellent students in total, 30 for the control and 60 for the treatment group. This would be possible by, f.ex., asking every previous participant to nominate a friend, by announcing the camp to the most prestigious highschools in countries with a rationality community, etc. An SSC post / banner wouldn't hurt. A successful effort in this area seems necessary for the full buy in of the staff, and might require additional funds.  
-  
+If we want our final alumni pool to be equally as good as in previous years, we would want to increase our reach, our advertising efforts say ~4x, i.e., to find 90 excellent students in total, 60 for the control and 30 for the treatment group (and 30 spares). This would be possible by, f.ex., asking every previous participant to nominate a friend, by announcing the camp to the most prestigious highschools in countries with a rationality community, etc. An SSC post / banner wouldn't hurt. A successful effort in this area seems necessary for the full buy in of the staff, and might require additional funds.  
+
 ### Spillovers.
 
 If a promising person from the control group tried to apply the next year, we'd have to deny them the chance to come, or else lose the most promising people from the control group, losing validity.  
@@ -75,7 +75,7 @@ SPARC is another camp which teaches very similar stuff. I have considered doing 
 
 ### Stratification.
 
-Suppose that after randomly allocating the students, we found that the treatment group was richer. This would *suck*, because maybe our effect is just them being, f.ex., healthier. In expectation, the two groups are the same, but maybe in practice they turn out not to be.  
+Suppose that after randomly allocating the students, we found that the treatment group was richer. This would *suck*, because maybe our effect is just them being, f.ex., healthier. In expectation, the two groups are the same, but maybe in practice they turn out not to be.
 
 An alternative would be to divide the students into rich and poor, and randomly choose in each bucket. This is refered to as stratification, and buys additional power, though I still have to get into the gritty details. I'm still thinking about along which variables we want to stratify, if at all, and further reflection is needed.
 
@@ -90,12 +90,21 @@ As a lower bound, 40 people * 3 years * 2 surveys * 10 USD = 2400 USD, or 800 US
 
 ### Take off and burn. 
 
-To end with a high note, there is a noninsignificant probability that the first year of the RTC we realize we've made a number of grievous mistakes. I.e., it would surprise me if everything went without a hitch the first time. Personally, this only worries me if we don't learn enough to be able to pull it off the next year, which I happen to consider rather unlikely. At any point, it might be useful to categorize the first year as a trial run.
+There is a noninsignificant probability that the first year of the RTC we realize we've made a number of grievous mistakes. I.e., it would surprise me if everything went without a hitch the first time. Personally, this only worries me if we don't learn enough to be able to pull it off the next year, which I happen to consider rather unlikely. At any point, it might be useful to categorize the first year as a trial run.
 
 If that risk is unacceptable, we could partner with someone like IDInsight, MIT's JPAL, etc. The problem is that those organizations specialize in development interventions. It wouldn't hurt to ask, though. 
 
+## Potential negative impact
+How could this project make the world a worse place?
+- The study could end up being low powered, generating polemic.
+- The study could be interrupted midway, generating polemic.
+- Different attitudes towards RCTs between ESPR volunteers and CFAR higher-ups might generate a schism, or resentment.
+- Volunteers would be needed who could be doing more impactful projects.
+- Funding for ESPR could be used for more impactful projects.
+- I could have no fucking idea what I'm talking about with regards to the current evidence (this is why this document is not linked on my main page), and make CFAR/ESPR lose badly needed funding.
 
 ## Next steps.
+1. Measurements. My current measuring device is imperfect, having been devised by myself. For every section, find a 
 
 ## Footnotes:
 [1] of which I was an alumni and then JC. https://espr-camp.org/  
