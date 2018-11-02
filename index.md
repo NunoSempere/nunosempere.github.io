@@ -5,6 +5,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[Differnt ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)
 [ESPR Evaluation](https://nunosempere.github.io/ESPR-Evaluation/) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones.html) (es)  
 [100 predictions](https://nunosempere.github.io/rat/100-predictions.html) (en)  
@@ -27,6 +28,8 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 [Dark Arts: Narrativomancy](https://nunosempere.github.io/miscellanea/narrativomancy.html) (en)  
 [Consideraciones retreat Altruismo Efectivo Septiembre 2018](https://nunosempere.github.io/rat/AE-retreat.html) (es)  
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  (en)
+[Differnt ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html)
+
 
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
