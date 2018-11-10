@@ -1,5 +1,7 @@
 # Analysis of some predictions about the 2018 EA Survey
 
+Note: Conclusions unsure, because I don't know whether the target interval is 80 or 60%
+
 ## Introduction.
 Some effective altruists made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along.
 
