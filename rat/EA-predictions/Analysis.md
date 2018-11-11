@@ -9,7 +9,9 @@ For every question, try to come up with an interval such that you're 80% confide
 ## Judgement call
 In some cases, people didn't answer the question. For example, under the is.veg variable, you can have TRUE, FALSE, or NA: Not Available. If their number is respectively x, y and z, it might be a good first order approximation to estimate the actual proportion of vegetarians/vegans as x/(x+y).
 
-However, I've decided to be extremely anal about it, and choose to define the actual proportion of people who define as vegan as x/(x+y+z). To do otherwise would be to replace questions. This doesn't make much of a difference in the case of plant eating, but it does in the identity politics questions. Curiously, doing so *raises* the average number of questions participants got right, but not by much. 
+However, I've decided to be extremely anal about it, and choose to define the actual proportion of people who define as vegan as x/(x+y+z). I think that to do otherwise would be to replace questions. This doesn't make much of a difference in the case of plant eating, but it does in the identity politics questions. Curiously, doing so *raises* the average number of questions participants got right, but not by much. 
+
+Finally, I was told that the total number of people who answered the survey as 2607, so in the previous example, x+y+z := 2607. I stuck by 2607, yet the database I work with only has 2601 datapoints. I don't think this makes much of a difference either way.
 
 ## Questions
 
@@ -66,6 +68,8 @@ However, I've decided to be extremely anal about it, and choose to define the ac
 1. What percent of people will say that they are a student?
 
 ## Answers
+I got this answers using R from the data released by the EA survey people, available at [this link](https://github.com/peterhurford/ea-data/blob/master/data/2018/2018-ea-survey-anon-currencied-processed.csv). This allowed me to get a high level of precision, which was useful, because then I didn't have to care about whether the intervals were open or closed. For example, if someone gives an interval of (60,90), and the answer is 60, do I count it as right? If instead of 60 I have 59.76, I don't have to think about that problem. 
+
 1. 22.20943613
 1. 33.17990027
 1. 11.73762946
