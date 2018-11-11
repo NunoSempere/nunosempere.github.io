@@ -1,7 +1,5 @@
 # Analysis of some predictions about the 2018 EA Survey
 
-Note: Conclusions unsure, because I don't know whether the target interval is 80 or 60%
-
 ## Introduction.
 Some effective altruists made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along.
 
@@ -11,7 +9,7 @@ For every question, try to come up with an interval such that you're 80% confide
 ## Judgement call
 In some cases, people didn't answer the question. For example, under the is.veg variable, you can have TRUE, FALSE, or NA: Not Available. If their number is respectively x, y and z, it might be a good first order approximation to estimate the actual proportion of vegetarians/vegans as x/(x+y).
 
-However, I've decided to be extremely anal about it, and choose to define the actual proportion of people who define as vegan as x/(x+y+z). This doesn't make much of a difference in the case of plant eating, but it does in the identity politics questions.
+However, I've decided to be extremely anal about it, and choose to define the actual proportion of people who define as vegan as x/(x+y+z). To do otherwise would be to replace questions. This doesn't make much of a difference in the case of plant eating, but it does in the identity politics questions. Curiously, doing so *raises* the average number of questions participants got right, but not by much. 
 
 ## Questions
 
@@ -94,7 +92,7 @@ However, I've decided to be extremely anal about it, and choose to define the ac
 1. 52.5508247
 1. 26.50556195
 
-## Calibration results
+## Results
 For the 35 people who took part in the original prediction making, their results can be seen in the following graphics:
 
 ![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot.jpeg)
@@ -102,7 +100,7 @@ For the 35 people who took part in the original prediction making, their results
 ![](https://nunosempere.github.io/rat/EA-predictions/histogram.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Brier-scores.jpeg)
 
-The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd replace ~1:1 bets with 1:4 bets.
+The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets.
 
 
 
