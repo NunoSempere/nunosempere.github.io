@@ -100,7 +100,12 @@ For the 35 people who took part in the original prediction making, their results
 ![](https://nunosempere.github.io/rat/EA-predictions/histogram.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Brier-scores.jpeg)
 
-The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets.
+The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets. 
 
+## Further analysis
 
+Questions for further analysis:
+1. Should the two savants who got very near 80% be proud, or should we expect them to exist merely by chance? 
+2. Are the results an artifact of a small number of questions which were really hard (f.ex. the % of LessWrongers in EA)?
 
+I expect to answer those questions in the near future.
