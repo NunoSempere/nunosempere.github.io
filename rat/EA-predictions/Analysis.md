@@ -159,11 +159,22 @@ You can find [Predictions.csv](https://nunosempere.github.io/rat/EA-predictions/
 + return(sum2(as.vector((answers>=DataFrameProcessed[x,y-1])) & as.vector(answers<=DataFrameProcessed[x,y])) ) 
 + }
 >
+> ### We can get the Brier scores:
+> Brierscore <- function(x){ return( (x*(1-0.8)^2 + (24-x)*(.8)^2)/24) }
+> 
 > ### vapply applies a function to every member of a vector. 
 > vapply(c(1:35),total,numeric(1))->DataFrameProcessed$totalcorrect
-> 
 > vapply(DataFrameProcessed$totalcorrect,Brierscore,numeric(1))->DataFrameProcessed$Brierscores
 >
+> ### We can also aggregate stuff by question:
+> totalperquestion <-function(x){
++ z=c(1:35)
++ return(sum2(as.vector((answers[x]>=DataFrameProcessed[z,2*x-1])) & as.vector(answers[x]<=DataFrameProcessed[z,2*x])) ) 
++ }
+> vapply(c(1:26), totalperquestion, numeric(1)) -> TotalCorrect
+> percentageperquestion <-function(x){return( totalperquestion(x)*100/35)}
+> png("Scatterplot-questions.png", units="px", width=3200, height=3200, res=500)
+> 
 > ### And you can get graphics using
 > png("Scatterplot3.png", units="px", width=3200, height=3200, res=500)
 > plot(DataFrameProcessed$totalcorrect*100/24, xlab= "Persons, from 1 to 35", ylab="% of questions they got right", main="Scatterplot!")
@@ -174,4 +185,12 @@ You can find [Predictions.csv](https://nunosempere.github.io/rat/EA-predictions/
 > dev.off()
 
 > ### As well as with the function hist(), whose parameter break = number allows you to control the granularity of the histogram.
+> png("Scatterplot-questions.png", units="px", width=3200, height=3200, res=500)
+> plot(vapply(p, percentageperquestion, numeric(1)), ylim=c(0,100), main="Results aggregated per question", xlab="Questions, from 1 to 24", ylab= "% of participants who got that question right")
+> abline(h=80, col="blue")
+> abline(h=55.14286, col="red")
+> text(x=12.5, y=80+4, "Target average % of right-guessers per question", col="blue")
+> text(x=12.5, y=55.14286-4, "Actual average % of right-guessers per question", col="red")
+> dev.off()
+
 ´´´
