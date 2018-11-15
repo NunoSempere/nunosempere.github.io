@@ -109,7 +109,7 @@ The average accuracy is 55.12%, that is, the average participant got 13.22 out o
 ## Is this an spurious result because a small number of questions were really, really hard?
 No. See the following scatterplot:
 
-![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot-questions.png)
+![](https://nunosempere.github.io/Scatterplot-questions.png)
 
 ## Further analysis
 
