@@ -116,7 +116,9 @@ I expect to answer those questions in the near future.
 
 
  ## Code.
- 
+
+You can find [Predictions.csv](https://nunosempere.github.io/rat/EA-predictions/Predictions.csv) and [answers.csv](https://nunosempere.github.io/rat/EA-predictions/answers.csv) by following the link.
+
 ```
 > ### We first read the data
 > DataFrame <- read.csv(file="Predictions.csv", header=TRUE, sep=",")
