@@ -117,7 +117,6 @@ I expect to answer those questions in the near future.
 
  ## Code.
  
- 
 ```
 > ### We first read the data
 > DataFrame <- read.csv(file="Predictions.csv", header=TRUE, sep=",")
