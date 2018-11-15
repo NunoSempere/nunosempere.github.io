@@ -99,7 +99,7 @@ I got this answers using R from the data released by the EA survey people, avail
 ## Results
 For the 35 people who took part in the original prediction making, their results can be seen in the following graphics:
 
-![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot.jpeg)
+![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot3.png)
 ![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot2.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/histogram.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Brier-scores.jpeg)
@@ -109,7 +109,7 @@ The average accuracy is 55.12%, that is, the average participant got 13.22 out o
 ## Is this an spurious result because a small number of questions were really, really hard?
 No. See the following scatterplot:
 
-![](https://nunosempere.github.io/Scatterplot-questions.png)
+![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot-questions.png)
 
 ## Further analysis
 
