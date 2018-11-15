@@ -1,7 +1,7 @@
 # Analysis of some predictions about the 2018 EA Survey
 
 ## Introduction.
-Some effective altruists made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along.
+Some effective altruists made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along. At the end, I provide some code to replicate my analysis.
 
 ## Set up
 For every question, try to come up with an interval such that you're 80% confident the answer lies in it. If you use a search engine, the surveys from previous years are fair game.
@@ -113,3 +113,64 @@ Questions for further analysis:
 2. Are the results an artifact of a small number of questions which were really hard (f.ex. the % of LessWrongers in EA)?
 
 I expect to answer those questions in the near future.
+
+
+ ## Code.
+ 
+ 
+```
+> ### We first read the data
+> DataFrame <- read.csv(file="Predictions.csv", header=TRUE, sep=",")
+> View(D)
+> 
+> ### We then create a different object for storing the cleaned up data
+> DataFrameProcessed=data.frame(matrix(nrow=35,ncol=52))
+> LowerBoundsPersoni=NULL
+> 
+> ### And clean up the data.
+> for(i in c(1:35)){
++    as.numeric(strsplit(as.character(DataFrame[i,5]),", ")[[1]]) -> LowerBoundsPersoni
++ as.numeric(strsplit(as.character(DataFrame[i,6]),", ")[[1]]) -> UpperBoundsPersoni
+> 
++    for(j in c(1:26)){
++       DataFrameProcessed[i,(j*2)-1] <- LowerBoundsPersoni[j]
++       DataFrameProcessed[i,(j*2)] <- UpperBoundsPersoni[j]
++   }
++ }
+> ### It shows that I've been programming in C.
+>
+> c(paste("Person-",c(1:35),sep=""))->rownames(DataFrameProcessed)
+> c(rbind(paste("Q",c(1:26),"-lower",sep=""),paste("Q",c(1:26),"-upper",sep="")))->colnames(DataFrameProcessed)
+> View(DataFrameProcessed)
+>
+> answers <- read.csv(file="answers.csv", header=TRUE, sep=",")[,2]
+>
+> ### Although every person answered every question, 2 anwers are not available.
+> replaceNA <-function(x,y){
++ return( ifelse(is.na(x), y, x) )
++ }
+>
+> sum2<-function(x){ return(sum(replaceNA(x))) }
+>
+> ### Because some of the answers are not available, the comparison will give a NA. So we need sum2.
+> total <- function(x){
++ y=c(1:26)*2
++ return(sum2(as.vector((answers>=DataFrameProcessed[x,y-1])) & as.vector(answers<=DataFrameProcessed[x,y])) ) 
++ }
+>
+> ### vapply applies a function to every member of a vector. 
+> vapply(c(1:35),total,numeric(1))->DataFrameProcessed$totalcorrect
+> 
+> vapply(DataFrameProcessed$totalcorrect,Brierscore,numeric(1))->DataFrameProcessed$Brierscores
+>
+> ### And you can get graphics using
+> png("Scatterplot3.png", units="px", width=3200, height=3200, res=500)
+> plot(DataFrameProcessed$totalcorrect*100/24, xlab= "Persons, from 1 to 35", ylab="% of questions they got right", main="Scatterplot!")
+> abline(h=mean(DataFrameProcessed$totalcorrect)*100/24, col="red")
+> abline(h=80, col="blue")
+> text(x=20, y=56, col="red", "Actual average")
+> text(x=20, y=81, col="blue", "Target average")
+> dev.off()
+
+> ### As well as with the function hist(), whose parameter break = number allows you to control the granularity of the histogram.
+´´´
