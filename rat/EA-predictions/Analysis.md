@@ -99,7 +99,7 @@ I got this answers using R from the data released by the EA survey people, avail
 ## Results
 For the 35 people who took part in the original prediction making, their results can be seen in the following graphics:
 
-![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot3.png)
+![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot3.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot2.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/histogram.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Brier-scores.jpeg)
