@@ -1,7 +1,11 @@
 # ESPR-Evaluation Writeup
 
-(Epistemic status: Cognitive dissonance. Why does CFAR measure it's impact the way it does?)   
-Note: The question whose answer I consider here is not "Should I donate to CFAR?".
+{
+Epistemic status: Cognitive dissonance. Deindexed. Please delay making a decision based on whatever you have read.  
+Do not distribute until I'm significantly more sure about conclusions.  
+Why does CFAR measure it's impact the way it does?  
+Note: The question whose answer I consider here is not "Should I donate to CFAR?".  
+}
 
 ## Introduction
 I have spent the last 2-4 months thinking about how to evaluate the impact of the European Summer Camp on Rationality (ESPR) [1], a selective program affiliated with CFAR (Center for Applied Rationality) which takes brilliant highschoolers and teach thems a variety of rationality techniques. Here are the highlights of what I have found, as well as some remarks on what CFAR could do if it was interested in measuring impact with a randomized controlled trial (an RCT). 
@@ -119,6 +123,9 @@ How could this project make the world a worse place?
 1. Measurements. My (current measuring device)[https://nunosempere.github.io/ESPR-Evaluation/4-Measurements.html] is imperfect, having been devised by myself. For every section, find an expert and have them propose a better way to measure what we care about.
 2. Contact IDInsights and MIT's JPAL and ask them whether they would be interested in a partnership.
 3. Have CFAR ponder and question their current impact evaluation strategy. Is justifying their impact to outsiders a priority? 
+
+## Conclusion.
+CFAR does not currently prioritize producing the kind of evidence which I would find satisfying, but it can have valid reasons to do so, f.ex., saving the world. On the other hand, consider negative publication bias. Furthermore, if a big study were conducted, and CFAR was shown to be ineffective, it wouldn't surprise me. For everyone else, it would have been obvious in retrospect. More research is needed, perhaps an RCT.
 
 ## Footnotes:
 [1] of which I was an alumni and then JC. https://espr-camp.org/  
