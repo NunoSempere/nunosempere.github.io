@@ -1,7 +1,14 @@
 # Analysis of some predictions about the 2018 EA Survey
 
 ## Introduction.
-A group of effective altruism community leaders made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along. At the end, I provide some code to replicate my analysis. The data was given to me by David Nash.
+A group of effective altruism community leaders made predictions about the 2018 EA Community Survey. Here, I analyze how well calibrated they are. I present the main result first because most people just skim stuff. If readers remain interested, I then outline the set up for the prediction making, present the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along. At the end, I provide some code to replicate my analysis. The data was given to me by David Nash.
+
+## Results
+For the 35 people who took part in the original prediction making, their results can be seen in the following graphics:
+
+![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot3.jpeg)
+
+The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, when EA Community leaders say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets. 
 
 ## Set up
 For every question, try to come up with an interval such that you're 80% confident the answer lies in it. If you use a search engine, the surveys from previous years are fair game.
@@ -96,19 +103,11 @@ I got this answers using R from the data released by the EA survey people, avail
 1. 52.5508247
 1. 26.50556195
 
-## Results
-For the 35 people who took part in the original prediction making, their results can be seen in the following graphics:
 
-![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot3.jpeg)
-
-
-The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets. 
-
-### Other ways to break down the data:
+## Other ways to break down the results:
 ![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot2.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/histogram.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Brier-scores.jpeg)
-
 
 ## Is this an spurious result because a small number of questions were really, really hard?
 No. See the following scatterplot:
