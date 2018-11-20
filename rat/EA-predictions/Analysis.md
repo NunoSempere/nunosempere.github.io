@@ -118,10 +118,8 @@ No. See the following scatterplot:
 ## Further analysis
 
 Questions for further analysis:
-1. Should the two savants who got very near 80% be proud, or should we expect them to exist merely by chance? Maybe.
-2. Are the results an artifact of a small number of questions which were really hard (f.ex. the % of LessWrongers in EA)? Solved: No, See above.
-
-I expect to answer those questions in the near future.
+1. Should the two savants who got very near 80% be proud, or should we expect them to exist merely by chance?
+2. Are the results an artifact of a small number of questions which were really hard (f.ex. the % of LessWrongers in EA)? Answered: No, See above.
 
  ## Code.
 
