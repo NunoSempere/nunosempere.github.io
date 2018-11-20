@@ -100,11 +100,15 @@ I got this answers using R from the data released by the EA survey people, avail
 For the 35 people who took part in the original prediction making, their results can be seen in the following graphics:
 
 ![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot3.jpeg)
+
+
+The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets. 
+
+### Other ways to break down the data:
 ![](https://nunosempere.github.io/rat/EA-predictions/Scatterplot2.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/histogram.jpeg)
 ![](https://nunosempere.github.io/rat/EA-predictions/Brier-scores.jpeg)
 
-The average accuracy is 55.12%, that is, the average participant got 13.22 out of 24 questions right. If it had been reached, a target credence of 80% would imply an average of 19.2 correct answers. In other words, in this limited domain, when these people say 80%, the thing happens 55% of the time. If they bet, they'd be replacing ~1:1 bets with 1:4 bets. 
 
 ## Is this an spurious result because a small number of questions were really, really hard?
 No. See the following scatterplot:
@@ -118,7 +122,6 @@ Questions for further analysis:
 2. Are the results an artifact of a small number of questions which were really hard (f.ex. the % of LessWrongers in EA)? Solved: No, See above.
 
 I expect to answer those questions in the near future.
-
 
  ## Code.
 
