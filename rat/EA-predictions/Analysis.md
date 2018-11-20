@@ -127,7 +127,7 @@ I expect to answer those questions in the near future.
 
 You can find [Predictions.csv](https://nunosempere.github.io/rat/EA-predictions/Predictions.csv) and [answers.csv](https://nunosempere.github.io/rat/EA-predictions/answers.csv) by following the links.
 
-```  
+~~~~
 > ### We first read the data  
 > DataFrame <- read.csv(file="Predictions.csv", header=TRUE, sep=",")  
 > View(D)  
@@ -201,4 +201,4 @@ You can find [Predictions.csv](https://nunosempere.github.io/rat/EA-predictions/
 > text(x=12.5, y=55.14286-4, "Actual average % of right-guessers per question", col="red")  
 > dev.off()  
 
-´´´
+~~~~
