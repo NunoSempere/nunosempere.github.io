@@ -1,7 +1,7 @@
 # Analysis of some predictions about the 2018 EA Survey
 
 ## Introduction.
-Some effective altruists made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along. At the end, I provide some code to replicate my analysis.
+A group of effective altruism community leaders made predictions about the 2018 EA Survey: a survey which aims to reach most people within the effective altruism movement. Here, I present the set up for the prediction making, the questions, and explain some judgement calls I made when judging the answers. Everything is written such that you can play along. At the end, I provide some code to replicate my analysis.
 
 ## Set up
 For every question, try to come up with an interval such that you're 80% confident the answer lies in it. If you use a search engine, the surveys from previous years are fair game.
