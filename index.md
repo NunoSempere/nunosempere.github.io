@@ -5,7 +5,8 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
-[Differnt ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)
+[Litany of Loki](https://nunosempere.github.io/rat/Litany-of-Loki.html) (en)  
+[Differnt ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)  
 [ESPR Evaluation](https://nunosempere.github.io/ESPR-Evaluation/) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones.html) (es)  
 [100 predictions](https://nunosempere.github.io/rat/100-predictions.html) (en)  
