@@ -8,6 +8,7 @@ If you ask people whether they approve of the president, in a scale from -5 to +
 For short flings, I've come to the heuristic that anything which comes naturally to people is ok for me to replicate analytically if the person feels comfortable being around me. And yet if the question was asked autistically: "Are you ok with me touching your arm so that you'll like me more?", the answer'd probably be "Go fuck yourself". Nonetheless, I don't feel like being at a disadvantage because I am reflective. But know that when I touched you, the thought was in my mind that you'd find yourself more attracted to me because of it.
 
 Some things I want you to know I've done:
+-> Dramatize this
 - I've deepened by voice.
 - I've told you about polyamory from the get go to prevent you from getting attached to exclusivity. If you'd assumed it, you might not have wanted to let it go.
 - I've increased the self-confidence I project. I carry myself like a person with high status. I have increased the incidence of behaviors which indicate high testosterone. I've increased my extroversion. I've presented myself as an alpha.
