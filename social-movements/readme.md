@@ -29,4 +29,6 @@ b) For each, to what extent has it been achieved?
 
 I excluded "Salt March" because I saw it as doublecounting "Nonviolence", and excluded "Reform movements in the United States" because it was too broad a category. I kept "Student Movements", though.  
   
-Anyways, you can find a .csv table [here](https://github.com/NunoSempere/nunosempere.github.io/blob/master/social-movements/Social-movements.csv) or a Google Drive link [here](https://docs.google.com/spreadsheets/d/15yjkTsS31nnc8MVaZwhK9CIoDg8dW0GB1i8r3CltrEs/edit?usp=sharing)
+Anyways, you can find a .csv table [here](https://github.com/NunoSempere/nunosempere.github.io/blob/master/social-movements/Social-movements.csv) or a Google Drive link [here](https://docs.google.com/spreadsheets/d/15yjkTsS31nnc8MVaZwhK9CIoDg8dW0GB1i8r3CltrEs/edit?usp=sharing).  I might play around with the results further, but for the moment:
+
+Socially, the average movement does pretty well, with an average of 1.3/2, distributed as: 16% are 0s, 36% are 1s and 48% are 2s . With regards to effectiveness, the average is 0.72/2, distributed as: 44% are 0s, 40% are 1s and 16% are 2s.
