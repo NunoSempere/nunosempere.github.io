@@ -29,3 +29,4 @@ b) For each, to what extent has it been achieved?
 
 I excluded "Salt March" because I saw it as doublecounting "Nonviolence", and excluded "Reform movements in the United States" because it was too broad a category. I kept "Student Movements", though.  
   
+Anyways, you can find a .csv table [here](https://github.com/NunoSempere/nunosempere.github.io/blob/master/social-movements/Social-movements.csv) or a Google Drive link [here](https://docs.google.com/spreadsheets/d/15yjkTsS31nnc8MVaZwhK9CIoDg8dW0GB1i8r3CltrEs/edit?usp=sharing)
