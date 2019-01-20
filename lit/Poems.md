@@ -1,4 +1,4 @@
-# How will I reach Enlightenment?  
+## How will I reach Enlightenment?  
   
 Healing basking in your love  
 suddenly stopped,  
@@ -30,4 +30,3 @@ Much pain,
 scars fade  
 craving diminishes,  
 harsh words are heard.  
-  
