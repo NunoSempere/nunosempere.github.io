@@ -5,7 +5,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
-[Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh.md)  
+[Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  
 [Webpage for a friend](https://ciruelahaiti.github.io/)  
 [Litany of Loki](https://nunosempere.github.io/rat/Litany-of-Loki.html) (en)  
 [Different ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)  
