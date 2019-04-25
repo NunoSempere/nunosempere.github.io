@@ -5,8 +5,10 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh.md)  
+[Webpage for a friend](https://ciruelahaiti.github.io/)  
 [Litany of Loki](https://nunosempere.github.io/rat/Litany-of-Loki.html) (en)  
-[Differnt ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)  
+[Different ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)  
 [ESPR Evaluation](https://nunosempere.github.io/ESPR-Evaluation/) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones.html) (es)  
 [100 predictions](https://nunosempere.github.io/rat/100-predictions.html) (en)  
@@ -50,7 +52,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 [Oh alemán, mi alemán](https://nunosempere.github.io/costumbrismo/aleman) (es)  
 [Crónica de una gamberrada](https://nunosempere.github.io/costumbrismo/gamberrada/index.html) (es)  
 
-## Philosophy  / Filosofa. 
+## Philosophy  / Filosofía. 
 [Monomito y Muchimito: Adiós a los principios, de Odo Marquard](https://nunosempere.github.io/philosophy/marquard.html) (es)  
 [La nomenclatura no es conocimiento](https://nunosempere.github.io/philosophy/nomenclatura.html) (es)  
 [Mucha granularidad sí, poca granularidad no](https://nunosempere.github.io/philosophy/granularidad.html) (es)  
@@ -87,6 +89,7 @@ Lucía Trillo  [Thinking fast and slow](https://nunosempere.github.io/) (es)
 Alonso Campos [Freedom regained, de Julian Baggini](https://nunosempere.github.io/) (es)  
 
 ## Miscellanea / Cajón de sastre.
+[Made a webpage for a friend](https://ciruelahaiti.github.io/)
 [The Wonderer vs Can You Feel the Love Tonight](https://nunosempere.github.io/) (es)  
 [The Lady of Shalott](https://nunosempere.github.io/) (en)  
 [Sobre la conquista del fuego, Freud](https://nunosempere.github.io/) (es)  
