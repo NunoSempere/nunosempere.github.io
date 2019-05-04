@@ -5,6 +5,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  
 [Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  
 [Webpage for a friend](https://ciruelahaiti.github.io/)  
 [Litany of Loki](https://nunosempere.github.io/rat/Litany-of-Loki.html) (en)  
