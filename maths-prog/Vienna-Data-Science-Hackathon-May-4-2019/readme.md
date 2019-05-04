@@ -16,6 +16,6 @@
 
 ![](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/8.gif)
 
-![](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/7.png)
+![](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/9.png)
 
-![](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/8.png
+![](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/10.png)
