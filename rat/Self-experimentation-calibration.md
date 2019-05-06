@@ -31,7 +31,7 @@ I notice that my 1:5 is closer to 1:2.5 in reality, with n=28 observations. My 1
 My Brier score is 0.0755985. The significant digits become relevant later.
 
 ## 2. How do I compare to a some simple regression models?
-I create four simple linear regression models and interpret their output as probability. I also consider a really really dumb predictor, for comparison purposes.
+I created four simple linear regression models and interpret their output as probability. I also consider a really really dumb predictor, for comparison purposes.
 - 1. The first one regresses the binary outcome (1 if true, 0 if false) on the variables 3,4,7 and 10 outlined in the set up. That is, I consider the type of question, whether it was homework, normal or part of an exam, my score in the BDC and whether it was the first try or not. 
 - 2. The second includes all the data outlined in the set up, except my subjective probability. Or, in other words, all the above +  {Hunch, Somewhat confident, Confident, Very confident, Incredibly Confident} as factors.
 - 3. The third only regresses binary outcome on my subjective probability. 
