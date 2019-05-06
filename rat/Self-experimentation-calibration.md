@@ -21,11 +21,14 @@ I have 505 observations. The dataset is available if I know you or if you can ge
 ## 1. How well calibrated am I?
 A picture is worth a thousand words:
 
-In this case, two pictures: The second merges probabilities > and < than .5 in the obvious way: it interprets having assigned a probability of, say, 0.33 to "X" as having assigned a probability of 0.66 to "Not X". Working with odds, this is even more straightforward: if you offer 1:2 odds in favor of "X", you're also offering 2:1 odds in favor of "Not X".
+![](https://nunosempere.github.io/rat/Calibration1.png)
+![](https://nunosempere.github.io/rat/Calibration2.png)
+
+In this case, two pictures: The second merges probabilities > and < than .5 in the obvious way: it interprets having assigned a probability of, say, 0.33 to "X" as having assigned a probability of 0.66 to "Not X". Working with odds, this is also straightforward: if you think that 1:2 are fair odds in favor of "X", you also think that 2:1 are fair odds in favor of "Not X".
 
 I notice that my 1:5 is closer to 1:2.5 in reality, with n=28 observations. My 1:15 is also closer to 1:5, but I think that this particularity can be explained by 1:15 being the default value, i.e., the value which got written when I left that cell blank. I'll nonetheless pay attention to that in the future. On the bright side, my 1:2 and 1:3 odds are exactly on point.
 
-My Brier score is 0.0755985, which indicates that the questions were in general rather easy, or that I'm very sharp. 
+My Brier score is 0.0755985. The significant digits become relevant later.
 
 ## 2. How do I compare to a some simple regression models?
 I create four simple linear regression models and interpret their output as probability. I also consider a really really dumb predictor, for comparison purposes.
@@ -37,14 +40,14 @@ I create four simple linear regression models and interpret their output as prob
 
 Here is a table:
 
-|                                                         | Which variable does the regression try to predict? | Variables regressed on (what information does this model work with)                                                                                                                                   | Brier score tested & trained on the whole set | Trained on 80% and tested on the rest (average value, 1000+ times) | Trained on 50% and tested on the rest (average value, 1000+ times) |
-|---------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| 1. Dumbest model                                        | Binary outcome                                     | None. Empty regression, just the intercept                                                                                                                                                            | 0.095496                                      | 0.09538288                                                         | 0.09542671                                                         |
-| 2. Regression without any subjective factors            | Binary outcome                                     | Type of question Homework vs Exam vs Lecture question First vs second try BDC                                                                                                                         | 0.082598                                      | 0.131296                                                           | 0.1412152                                                          |
-| 3. Regression model with inner experience               | Binary outcome                                     | 1. Type of question 2. Homework vs Exam vs Lecture question 3. First vs second try 4. Becker Depression Checklist Score. 5. Inner experience: Hunch to Incredibly Confident                           | 0.076962                                      | 0.1040722                                                          | 0.1149272                                                          |
-| 4. Full regression model                                | Binary outcome                                     | 1. Type of question 2. Homework vs Exam vs Lecture question 3. First vs second try 4. Becker Depression Checklist Score. 5. Inner experience: Hunch to Incredibly Confident 6. Subjective probability | 0.073224                                      | 0.09260587                                                         | 0.1020023                                                          |
-| 5. Regression model with only my subjective probability | Binary outcome                                     | 1. Subjective probability                                                                                                                                                                             | 0.075541                                      | 0.07545493                                                         | 0.07538371                                                         |
-| 6. Subjective probability                               | Does not apply | Not a regression model            | Does not appy | Not a regression model                                                                                                                                                                | Does not apply | My Brier score was 0.0755985 | -                                                                  | -                                                                  |
+|                                                         | Which variable does the regression try to predict? | Variables regressed on (what information does this model work with)                                                                                                                                       | Brier score tested & trained on the whole set | Trained on 80% and tested on the rest (average value, 1000+ times) | Trained on 50% and tested on the rest (average value, 1000+ times) |
+|---------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1. Dumbest model                                        | Binary outcome                                     | None. Empty regression, just the intercept                                                                                                                                                                | 0.095496                                      | 0.09538288                                                         | 0.09542671                                                         |
+| 2. Regression without any subjective factors            | Binary outcome                                     | 1. Type of question 2. Homework vs Exam vs Lecture question 3. First vs second try 4. BDC                                                                                                                 | 0.082598                                      | 0.131296                                                           | 0.1412152                                                          |
+| 3. Regression model with inner experience               | Binary outcome                                     | 1. Type of question 2. Homework vs Exam vs Lecture question 3. First vs second try 4. Becker Depression Checklist Score. 5. Inner experience: Hunch to Incredibly Confident                               | 0.076962                                      | 0.1040722                                                          | 0.1149272                                                          |
+| 4. Full regression model                                | Binary outcome                                     | 1. Type of question    2. Homework vs Exam vs Lecture question  3. First vs second try 4. Becker Depression Checklist Score. 5. Inner experience: Hunch to Incredibly Confident 6. Subjective probability | 0.073224                                      | 0.09260587                                                         | 0.1020023                                                          |
+| 5. Regression model with only my subjective probability | Binary outcome                                     | 1. Subjective probability                                                                                                                                                                                 | 0.075541                                      | 0.07545493                                                         | 0.07538371                                                         |
+| 6. Subjective probability                               | Does not apply | Not a regression model            | Does not appy | Not a regression model                                                                                                                                                                    | Does not apply | My Brier score was 0.0755985 | -                                                                  | -                                                                  |
 
 ### 2.1. Dumb model
 
@@ -54,6 +57,7 @@ A dumb model which always outputs the overall base rate gets a Brier score of 0.
 
 #### 2.2.1. Code and output
 
+```
 > summary(LM6)
 
 Call:
@@ -65,21 +69,23 @@ Residuals:
 -1.00188  0.01493  0.04878  0.09309  0.49155 
 
 Coefficients:
-                                           Estimate Std. Error t value Pr(>|t|)    
-(Intercept)                               0.8408927  0.0893759   9.408  < 2e-16 ***
-as.factor(D$Type.of.question)MC           0.1898829  0.0590873   3.214 0.001396 ** 
-as.factor(D$Type.of.question)MS          -0.0080026  0.0618861  -0.129 0.897163    
-as.factor(D$Type.of.question)TF           0.1560246  0.0631872   2.469 0.013875 *  
-Is_Normal                                 0.0342562  0.0453966   0.755 0.450848    
-Is_Homework                              -0.0003015  0.0512829  -0.006 0.995311    
-BDC                                      -0.0020370  0.0015640  -1.302 0.193366    
-as.factor(Trial..1st.if.not.specified.)2 -0.2039517  0.0590451  -3.454 0.000599 ***
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+                                           Estimate Std. Error t value Pr(>|t|)   
 
-Residual standard error: 0.2897 on 497 degrees of freedom
-Multiple R-squared:  0.1349,	Adjusted R-squared:  0.1227 
-F-statistic: 11.07 on 7 and 497 DF,  p-value: 4.899e-13
+(Intercept)                               0.8408927  0.0893759   9.408  < 2e-16 ***  
+as.factor(D$Type.of.question)MC           0.1898829  0.0590873   3.214 0.001396 **  
+as.factor(D$Type.of.question)MS          -0.0080026  0.0618861  -0.129 0.897163  
+as.factor(D$Type.of.question)TF           0.1560246  0.0631872   2.469 0.013875 *  
+Is_Normal                                 0.0342562  0.0453966   0.755 0.450848  
+Is_Homework                              -0.0003015  0.0512829  -0.006 0.995311    
+BDC                                      -0.0020370  0.0015640  -1.302 0.193366  
+as.factor(Trial..1st.if.not.specified.)2 -0.2039517  0.0590451  -3.454 0.000599 ***  
+
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1  
+
+Residual standard error: 0.2897 on 497 degrees of freedom  
+Multiple R-squared:  0.1349,	Adjusted R-squared:  0.1227  
+F-statistic: 11.07 on 7 and 497 DF,  p-value: 4.899e-13  
+```
 
 #### 2.2.2. Interpretation
 I found it rather surprising that how depressed I was (BDC: Becker Depression Checklist) didn't seem to have that big of an effect. In particular, I try to adjust for my mood, but I wasn't particularly expecting to succeed. Anecdotically, I do see an effect of my mood on the extremity of my odds: The sadder I am the more recluctant I am to give 1:1000, 1:10000 and higher odds, even about things which I'm really sure about.
@@ -94,6 +100,7 @@ If I use this model to output predicted probabilities for each question, I get a
 
 #### 2.3.1. Code and output
 
+```
 > lm(Result_Binary ~ as.factor(D$Type.of.question) + as.factor(D$One.word) + Is_Normal + Is_Homework + BDC + as.factor(Trial..1st.if.not.specified.), data=D) -> LM1
 > summary(LM1)
 
@@ -125,6 +132,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.2813 on 492 degrees of freedom
 Multiple R-squared:  0.193,	Adjusted R-squared:  0.1733 
 F-statistic: 9.804 on 12 and 492 DF,  p-value: < 2.2e-16
+```
 
 #### 2.3.2 Interpretation
 As expected, the coefficients associated with a measure of my inner confidence check out. Huch < Somewhat confident < Confident < Very confident < Incredibly confident (IC). Note that all of the factors are present, instead of one of them having been swallowed by the intercept, because there were 3 times which I just left that question blank, and I didn't want to remove that data.
@@ -135,7 +143,7 @@ If I instead train the model on a random selection of 80% of the data points, an
 
 ### 2.4. Including my subjective probability & everything else.
 #### 2.4.1. Code and output
-
+```
 > summary(LM3)
 
 Call:
@@ -169,6 +177,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.2747 on 491 degrees of freedom
 Multiple R-squared:  0.2316,	Adjusted R-squared:  0.2113 
 F-statistic: 11.39 on 13 and 491 DF,  p-value: < 2.2e-16
+```
 
 #### 2.4.1. Interpretation
 All the other factors become slightly more irrelevant. It seems that my subjective probability does add information, a lot of it. After having seen the graph at the beginning, this is not surprising.
@@ -179,6 +188,7 @@ If I use this model to output probabilities for each question, I get a Brier sco
 ### 2.5. Including only my subjective probability
 
 #### 2.5.1. Code and output
+```
 > summary(LM2)
 
 Call:
@@ -198,6 +208,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.2754 on 503 degrees of freedom
 Multiple R-squared:  0.209,	Adjusted R-squared:  0.2074 
 F-statistic: 132.9 on 1 and 503 DF,  p-value: < 2.2e-16
+```
 
 #### 2.3.2. Interpretation
 Multiply my probability by 1.005-ish and take 1.2% from that, and I'd be slightly more accurate. I'm not reading much into that. If I do this, I get an slightly better Brier score of 0.075541, slightly better than my own 0.0755985.
