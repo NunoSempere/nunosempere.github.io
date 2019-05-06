@@ -231,4 +231,4 @@ If I were to redo this experiment, I'd:
 
 ## 4. Conclusion
 
-In conclusion, I am surprised that the dumb model beats the others most of the time, though I think this might be explained by the combination of not having that much data and of having a lot of variables: the random errors in my regression are large. I see that I am in general well calibrated (in the particular domain analyzed here) but with room for improvement when giving 1:5, 1:6, and 1:15 odds.
+In conclusion, I am surprised that the dumb model beats the others most of the time, though I think this might be explained by the combination of not having that much data and of having a lot of variables: the random errors in my regression are large. I see that I am in general well calibrated (in the particular domain under analysis) but with room for improvement when giving 1:5, 1:6, and 1:15 odds.
