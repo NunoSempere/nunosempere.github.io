@@ -5,6 +5,8 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[]
+[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 [Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  
 [Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  
 [Webpage for a friend](https://ciruelahaiti.github.io/)  
@@ -19,7 +21,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
-
+[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.html) (es)  
 [List of TAPs](https://nunosempere.github.io/rat/list-of-taps.html) (en)  
 [List of Superpowers I want to steal](https://nunosempere.github.io/) (en)  
