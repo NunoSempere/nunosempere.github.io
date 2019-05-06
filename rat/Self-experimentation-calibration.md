@@ -215,11 +215,11 @@ Multiply my probability by 1.005-ish and take 1.2% from that, and I'd be slightl
 
 If, like before, I train that model 1000 times on a randomly selected 80% of my dataset, and test it on the other 20%, I get on average a Brier score of 0.07545493, slightly *better* than my own 0.0755985, but not by much. Perhaps it gets that slight advantage because the p*1.0005 - 1.2% corrects my uncalibrated 1:15 odds without murking the rest too much? Surprisingly, if I train it on a randomly selected 50% of the dataset (1000 times), its average Brier score improves to 0.07538371. I do not think that a difference of 0.002 tells me much.
 
-## 3. Conclusion & things I would have done differently.
-In conclusion, I am surprised that the dumb model beats the others most of the time, though I think this might be explained by the combination of not having that much data and of having a lot of variables: the random errors in my regression are large. 
+## 3. Things I would do differently
+
 
 If I were to redo this experiment, I'd:
-- Use more data: I only used half the questions of the aforementioned course. 500 datapoints are really not that much.
+- Gather more data: I only used half the questions of the aforementioned course. 500 datapoints are really not that much.
 - Program a function to enter the data for me much earlier. Instead of doing that, I instead:
     1. Started by writting my probabilities in my lecture notes, with the intention of cribbing them later. Never got around to doing that.
     2. Started by writting it directly to a .csv myself
@@ -227,3 +227,8 @@ If I were to redo this experiment, I'd:
     4. Saw that still took too much time -> Wrote a function to wrap the other functions. Everything went much more smoothly afterwards.
 - Use a scale other than the BDC: it's not made for measuring daily moods.
 - Think through which data I want to collect from the beginning; I could have added the BDC from the start, but didn't.
+
+
+## 4. Conclusion
+
+In conclusion, I am surprised that the dumb model beats the others most of the time, though I think this might be explained by the combination of not having that much data and of having a lot of variables: the random errors in my regression are large. I see that I am in general well calibrated (in the particular domain analyzed here) but with room for improvement when giving 1:5, 1:6, and 1:15 odds.
