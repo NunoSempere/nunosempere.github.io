@@ -220,7 +220,7 @@ If, like before, I train that model 1000 times on a randomly selected 80% of my 
 
 If I were to redo this experiment, I'd:
 - Gather more data: I only used half the questions of the aforementioned course. 500 datapoints are really not that much.
-- Program a function to enter the data for me much earlier. Instead of doing that, I instead:
+- Program a function to enter the data for me much earlier. Instead of doing that, I:
     1. Started by writting my probabilities in my lecture notes, with the intention of cribbing them later. Never got around to doing that.
     2. Started by writting it directly to a .csv myself
     3. Saw that took too much time -> Wrote a couple of functions in R to do that for me
