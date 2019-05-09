@@ -87,4 +87,4 @@ It's also interesting to consider that today, a packet might take less than half
 
 ## Credit
 
-The SS Great Eastern was brought to my attention in a Facebook group.
+The SS Great Eastern was brought to my attention in the "Bountied Rationality" Facebook group.
