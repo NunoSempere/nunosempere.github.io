@@ -5,6 +5,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 [Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  
 [Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  
