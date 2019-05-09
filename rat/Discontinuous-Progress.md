@@ -75,8 +75,9 @@ It's also interesting to consider that today, a packet might take less than half
 [Wikipedia: Circumnavigation record progression](https://en.wikipedia.org/wiki/Circumnavigation_world_record_progression)
 
 ### Data
-[Wikipedia: List of circumnavigations  (until Yuri Gagarin)](https://nunosempere.github.io/rat/circum.csv)  
-[Fastest circumnavigation, year by year](nunosempere.github.io/rat/Circumnavigation-processed.csv)  
+[Wikipedia: List of circumnavigations  (until Yuri Gagarin) as a .csv file](https://nunosempere.github.io/rat/circum.csv)  
+
+[Fastest circumnavigation, year by year, as a .csv file](https://nunosempere.github.io/rat/Circumnavigation-processed.csv)  
 
 ## Also considered / under consideration:
 
