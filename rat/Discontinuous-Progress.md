@@ -31,10 +31,10 @@ Here follow four images which make the discontinuity apparent. In the later two,
 ## Discontinuity in the circumnavigation of the Earth
 
 We find 4 discontinuities: 
-1. From the first two explorers to later followers. Year = 1586. Estimated discontinuity equivalent to 203 | 240 years of previous progress.
-2. From big expeditions to liners and trains. Year 1870. Estimated discontinuity equivalent to 740 | 1986 years of equivalent progress.
-3. From ships to aircraft. Year 1931. Estimated discontinuity equivalent to 11 | 40.5 years
-4. From military aircraft to the first cosmonaut, Yuri Gagarin. Year 1961. Estimated discontinuity equivalent to 1 | 27.5 years.
+1. From the first two explorers to later followers. Year = 1586. Estimated discontinuity equivalent to 203 / 240 years of previous progress.
+2. From big expeditions to liners and trains. Year 1870. Estimated discontinuity equivalent to 740 / 1986 years of equivalent progress.
+3. From ships to aircraft. Year 1931. Estimated discontinuity equivalent to 11 / 40.5 years
+4. From military aircraft to the first cosmonaut, Yuri Gagarin. Year 1961. Estimated discontinuity equivalent to 1 / 27.5 years.
 
 The precise magnitude of these discontinuities depends on whether we measure time, or its logarithm. In both cases, we get very large discontinuities, plausibly of more than 100 years. However, our estimates are inexact. In particular, our data only shines in the period 1870 - 1949, and thus we are most confident in the discontinuity created by the first circumnavigation by plane (as opposed to by ship & train). This happened in 1931 and our two estimates of its magnitude are 11 and 40.5 years.
 
