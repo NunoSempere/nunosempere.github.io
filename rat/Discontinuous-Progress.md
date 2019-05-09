@@ -1,4 +1,4 @@
-# Discontinuous Progress in technological trends.
+# Discontinuous progress in technological trends.
 
 AI Impacts has a list of [promising research projects](https://aiimpacts.org/promising-research-projects/). One of them reads as follows:
 > Look for technologies that may have caused discontinuous progress on any metric. Find data for that metric over the relevant time, and measure the size of any discontinuity in terms of how many years of progress at usual rates happened at once. We have a list of technologies which others purport were discontinuous, to check. A particularly important one is recent Go AI as a discontinuity in Elo rating achievable, adjusted for hardware.
