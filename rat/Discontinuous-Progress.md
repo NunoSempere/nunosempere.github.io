@@ -9,7 +9,7 @@ AI Impacts has a list of [promising research projects](https://aiimpacts.org/pro
 
 At the point of transition between wooden and metal ships, the engineer Isambard Kingdom Brunel skipped ahead and built an ambitious ship which, with a length of 211 meters, wasn't quite twice as big as the ones preceding it, the SSC Great Eastern. It represented a discontinuity of about 40 years. Afterwards, competition between liner companies (and later cruises) kept a discontinuity from arising, though ship size kept increasing.
 
-Two difficulties arise: Firstly, the most convenient data only includes passenger ships. However, both categories were synonymous in the period of interest: passenger ships were routinely the biggest ships at least until WW1 (S President, the SS British Queen, SS Great Eastern, the RMS Celtic, RMS Baltic, the RMS Titanic, etc). Nonetheless, at some point afterwards, other categories of ship, i.e., oil tankers become the biggest ships overall. R.C. Anderson's *Big Ships in History* serves as a sanity check on this. Secondly, the sizes of the ships of antiquity are not well recorded. For this reason, I just consider data for European ships, starting in the 19th century, and exclude f.ex., Chinese, Greek and Javanese naval history. I feel that this makes sense, because the  [Thalamegos's](https://en.wikipedia.org/wiki/Thalamegos) (200 BCE) size of 115 meters just wasn't surpassed by anything in Europe until the SS Great Eastern itself, although perhaps by poorly documented [Chinese](https://en.wikipedia.org/wiki/Louchuan) and [Javanese](https://en.wikipedia.org/wiki/Djong_(ship)#Decline) ships.
+Two difficulties arise: Firstly, the most convenient data only includes passenger ships. However, the categories "biggest ship" and "biggest passenger ship" were often synonymous in the period of interest: passenger ships were routinely the biggest ships at least until WW1 (SS President, the SS British Queen, SS Great Eastern, the RMS Celtic, RMS Baltic, the RMS Titanic, etc). Nonetheless, at some point afterwards, other categories of ship, i.e., oil tankers become the biggest ships overall. R.C. Anderson's *Big Ships in History* serves as a sanity check on this. Secondly, the sizes of the ships of antiquity are not well recorded. For this reason, I just consider data for European ships, starting in the 19th century, and exclude f.ex., Chinese, Greek and Javanese naval history. I feel that this makes sense, because the  [Thalamegos's](https://en.wikipedia.org/wiki/Thalamegos) size of 115 meters (200 BCE) just wasn't surpassed by anything in Europe until the SS Great Eastern itself, although perhaps by poorly documented [Chinese](https://en.wikipedia.org/wiki/Louchuan) and [Javanese](https://en.wikipedia.org/wiki/Djong_(ship)#Decline) ships.
 
 Here follow four images which make the discontinuity apparent. In the later two, the already mentioned Thalamegos and the Syracusia (designed by Archimedes) are given as reference points.
 
@@ -23,6 +23,10 @@ Here follow four images which make the discontinuity apparent. In the later two,
 [Timeline of largest passenger ships](https://en.wikipedia.org/wiki/Timeline_of_largest_passenger_ships)  
 [Wikipedia: List of longuest ships](https://en.wikipedia.org/wiki/List_of_longest_ships)  
 *Big Ships in History*, 1913, R.C. Anderson.  
+
+### Data
+[Wikipedia: Timeline of largest passenger ships, as a .csv file](https://nunosempere.github.io/rat/Length_ships.csv
+)  
 
 ## Discontinuity in the circumnavigation of the Earth
 
@@ -69,11 +73,15 @@ It's also interesting to consider that today, a packet might take less than half
 [Wikipedia: List of circumnavigations](https://en.wikipedia.org/wiki/List_of_circumnavigations)  
 [Wikipedia: Circumnavigation record progression](https://en.wikipedia.org/wiki/Circumnavigation_world_record_progression)
 
+### Data
+[Wikipedia: List of circumnavigations  (until Yuri Gagarin)](https://nunosempere.github.io/rat/circum.csv)  
+[Fastest circumnavigation, year by year](nunosempere.github.io/rat/Circumnavigation-processed.csv)  
+
 ## Also considered / under consideration:
 
-- Saline solution for diarrhea
-- Discontinuities for yatch races
-- Transatlantic sailing record
+- Saline solution for diarrhea, as opposed to previous treatments.
+- Discontinuities for yatch races (A quick glance does not reveal any discontinuities. I do not intend to research this further)
+- Transatlantic sailing record (A quick glance does not reveal any discontinuities. I do not intend to research this further)
 
 ## Credit
 
