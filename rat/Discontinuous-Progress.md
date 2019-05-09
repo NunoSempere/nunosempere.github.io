@@ -2,31 +2,49 @@
 
 AI Impacts has a list of [promising research projects](https://aiimpacts.org/promising-research-projects/). One of them reads as follows:
 > Look for technologies that may have caused discontinuous progress on any metric. Find data for that metric over the relevant time, and measure the size of any discontinuity in terms of how many years of progress at usual rates happened at once. We have a list of technologies which others purport were discontinuous, to check. A particularly important one is recent Go AI as a discontinuity in Elo rating achievable, adjusted for hardware.
-
+> 
 > This is an input to our ongoing investigation into how frequently, and when, technological trends undergo discontinuous progress. This should inform our guesses about how likely AI development is to see discontinuous progress, both by providing a base rate, and telling us whether AI technologies seem especially susceptible. We take discontinuous progress in AI to be related to risk of fast takeoff.
 
 ## Discontinuity from the SS Great Eastern
 
-At the point of transition between wooden and metal ships, the engineer Isambard Kingdom Brunel skipped ahead and built an ambitious ship which, with a length of 211 meters, wasn't quite twice as big as the ones preceding it, the SSC Great Eastern. It represented a discontinuity of about 40 years. Afterwards, competition between liner companies (and later cruises) kept a discontinuity from arising, though ship size kept increasing.
+At the point of transition between wooden and metal ships, the engineer Isambard Kingdom Brunel skipped ahead and built an ambitious ship which, with a length of 211 meters, wasn't quite twice as big as the ones preceding it: the SSC Great Eastern. It represented a discontinuity of about 40 years. Afterwards, competition between liner companies (and later, cruises) kept a discontinuity from arising, though ship size kept increasing.
 
-Two difficulties arise: Firstly, the most convenient data only includes passenger ships. However, the categories "biggest ship" and "biggest passenger ship" were often synonymous in the period of interest: passenger ships were routinely the biggest ships at least until WW1 (SS President, the SS British Queen, SS Great Eastern, the RMS Celtic, RMS Baltic, the RMS Titanic, etc). Nonetheless, at some point afterwards, other categories of ship, i.e., oil tankers become the biggest ships overall. Secondly, the sizes of the ships of antiquity are not well recorded. For this reason, I just consider data for European ships, starting in the 19th century, and exclude f.ex., Chinese, Greek and Javanese naval history. I feel that this makes sense, because the  [Thalamegos's](https://en.wikipedia.org/wiki/Thalamegos) size of 115 meters (200 BCE) just wasn't surpassed by anything in Europe until the SS Great Eastern itself, although perhaps it was by poorly documented [Chinese](https://en.wikipedia.org/wiki/Louchuan) and [Javanese](https://en.wikipedia.org/wiki/Djong_(ship)#Decline) vessels.
+Three difficulties arise: Firstly, the most convenient data only includes passenger ships. However, the categories "biggest ship" and "biggest passenger ship" were often synonymous in the period of interest: passenger ships were routinely the biggest ships at least until WW1 (SS President, the SS British Queen, SS Great Eastern, the RMS Celtic, RMS Baltic, the RMS Mauretania, the RMS Titanic, etc). However, because this can be a potential concern, we also use a second dataset on "sailing vessels", described as:
 
-Here follow four images which make the discontinuity apparent. In the later two, the already mentioned Thalamegos and the Syracusia (designed by Archimedes) are given as reference points.
+> This is a list of large sailing vessels, past and present, including sailing mega yachts, tall ships, sailing cruise ships, and large sailing military ships. It is sorted by overall length. The list, which is in the form of a table, covers vessels greater than about 200 feet (61 m) LOA, which includes overhangs and spars (length on deck or waterline length are other common measures of ship length).
+
+This second dataset is centered on our period of interest, and also allows to see that considering or not considering the beam doesn't make a difference. But it is also greatly limited in that steamships, not sailing ships, started to dominate in length before the turn of the twentieth century, and thus, this dataset is most useful before that.
+
+Secondly, the sizes of the ships of antiquity are not well recorded. For this reason, the main dataset just considers data for European ships, starting in the 19th century, and exclude f.ex., Chinese, Greek and Javanese naval history. I feel that this makes sense, because the  [Thalamegos's](https://en.wikipedia.org/wiki/Thalamegos) size of 115 meters (200 BCE) just wasn't surpassed by anything in Europe until the SS Great Eastern itself, although perhaps it was by poorly documented [Chinese](https://en.wikipedia.org/wiki/Louchuan) and [Javanese](https://en.wikipedia.org/wiki/Djong_(ship)#Decline) vessels.
+
+Thirdly, methodological caution is in order: because the example was brought to my attention precisely because of its surprisingness, it's difficult to extract conclusions about base rates. Perhaps going through this Wikipedia list of [engineering branches](https://en.wikipedia.org/wiki/List_of_engineering_branches) and this other one of [branches of science](https://en.wikipedia.org/wiki/Branches_of_science) might prove more fruitful for arriving at base rates. 
+
+Nonetheless, perhaps the prominent role of the engineer Isambard Kingdom Brunel in the construction of the SS Great Eastern, as narrated by [Wikipedia](https://en.wikipedia.org/wiki/SS_Great_Eastern), highlights that the actions of a lone individual, acting in an exploratory manner, or directly disregarding economic incentives, can lead to a decently sized technological discontinuity.
+
+> I cannot act under any supervision, or form part of any system which recognises any other advisor than myself ... if any doubt ever arises on these points I must cease to be responsible and cease to act.
+
+Here follow six images which make the discontinuity apparent. In the third and fourth, the already mentioned Thalamegos and the Syracusia (designed by Archimedes) are given as reference points. The last two images correspond to our second dataset of sailing vessels. We notice that the Great Eastern, built in 1858, was first surpassed in the year 1899, for a discontinuity of 41 years. [Wikipedia](https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)) confirms this, and notes that the RMS Oceanic did *not* exceed the Great Eastern in tonnage, only in length.
 
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-3.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-4.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-1.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-2.png)  
+![](https://nunosempere.github.io/rat/SS-Great-Eastern-Dataset2.png)  
+![](https://nunosempere.github.io/rat/SS-Great-Eastern-Dataset2-with-beam.png)  
+
 
 ### Sources: 
 [Wikipedia: List of longuest wooden ships](https://en.wikipedia.org/wiki/List_of_longest_wooden_ships)  
 [Timeline of largest passenger ships](https://en.wikipedia.org/wiki/Timeline_of_largest_passenger_ships)  
 [Wikipedia: List of longuest ships](https://en.wikipedia.org/wiki/List_of_longest_ships)  
 *Big Ships in History*, 1913, R.C. Anderson.  
+[Wikipedia: List of large saling vessels](https://en.wikipedia.org/wiki/List_of_large_sailing_vessels)  
 
 ### Data
 [Wikipedia: Timeline of largest passenger ships (.csv)](https://nunosempere.github.io/rat/Length_ships.csv)  
 [Largest ship record progression (.csv)](https://nunosempere.github.io/rat/Length_ships-processed.csv)  
+[Large sailing vessels (.csv)](https://nunosempere.github.io/rat/length_ships_2.csv)  
+[Large sailing vessels, processed (.csv)](https://nunosempere.github.io/rat/length_ships_2-processed.csv)  
 
 ## Discontinuity in the circumnavigation of the Earth
 
@@ -82,8 +100,10 @@ It's also interesting to consider that today, a packet might take less than half
 
 - Saline solution for diarrhea, as opposed to previous treatments.
 - Time to send a message across the atlantic.
-- Discontinuities for yatch races (A quick glance does not reveal any discontinuities. I do not intend to research this further)
-- Transatlantic sailing record (A quick glance does not reveal any discontinuities. I do not intend to research this further)
+- Discontinuities for yatch races (No discontinuities are apparent. I do not intend to research this further)
+- Transatlantic sailing record (No discontinuities are apparent. I do not intend to research this further).
+
+It could also be interesting to research cases in which a lone individual is causally responsible for discontinuous progress. Norman Borlaug comes to mind.
 
 ## Credit
 
