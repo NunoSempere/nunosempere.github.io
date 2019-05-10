@@ -108,8 +108,8 @@ And here is that same table if we measure progress according to the logarithm (i
 [Wikipedia: Circumnavigation record progression](https://en.wikipedia.org/wiki/Circumnavigation_world_record_progression)
 
 ### Data
-[Wikipedia: List of circumnavigations until Yuri Gagarin (.csv)](https://nunosempere.github.io/rat/circum.csv)  
-[Fastest circumnavigation record progression (.csv)](https://nunosempere.github.io/rat/Circumnavigation-processed.csv)  
+[Circumnavigation record progression (.csv)](https://nunosempere.github.io/rat/circum.csv)  
+[Circumnavigation record progression, processed (.csv)](https://nunosempere.github.io/rat/Circumnavigation-processed.csv)  
 
 ## Also considered / under consideration:
 
