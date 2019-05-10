@@ -13,22 +13,20 @@ Three difficulties arise: Firstly, the most convenient data only includes passen
 
 > This is a list of large sailing vessels, past and present, including sailing mega yachts, tall ships, sailing cruise ships, and large sailing military ships. It is sorted by overall length. The list, which is in the form of a table, covers vessels greater than about 200 feet (61 m) LOA, which includes overhangs and spars (length on deck or waterline length are other common measures of ship length).
 
-This second dataset is centered on our period of interest, and also allows to see that considering or not considering the beam doesn't make a difference. But it is also greatly limited in that steamships, not sailing ships, started to dominate in length before the turn of the twentieth century, and thus, this dataset is most useful before that.
+This second dataset is centered on our period of interest, and also allows to see that considering or not considering the beam doesn't make a difference (spoiler: it doesn't). But it is also greatly limited in that steamships, not sailing ships, started to dominate in length before the turn of the twentieth century, and thus, this dataset is most useful for comparison with ships that come before the SS Great Eastern, not afterwards.
 
 Secondly, the sizes of the ships of antiquity are not well recorded. For this reason, the main dataset just considers data for European ships, starting in the 19th century, and exclude f.ex., Chinese, Greek and Javanese naval history. I feel that this makes sense, because the  [Thalamegos's](https://en.wikipedia.org/wiki/Thalamegos) size of 115 meters (200 BCE) just wasn't surpassed by anything in Europe until the SS Great Eastern itself, although perhaps it was by poorly documented [Chinese](https://en.wikipedia.org/wiki/Louchuan) and [Javanese](https://en.wikipedia.org/wiki/Djong_(ship)#Decline) vessels.
 
-Thirdly, methodological caution is in order: because the example was brought to my attention precisely because of its surprisingness, it's difficult to extract conclusions about base rates. Perhaps going through this Wikipedia list of [engineering branches](https://en.wikipedia.org/wiki/List_of_engineering_branches) and this other one of [branches of science](https://en.wikipedia.org/wiki/Branches_of_science) might prove more fruitful for arriving at base rates. 
+Thirdly, methodological caution is in order: this example was brought to my attention precisely because of its surprisingness, and thus it's difficult to extract conclusions about base rates. Going through this Wikipedia list of [engineering branches](https://en.wikipedia.org/wiki/List_of_engineering_branches) and this other one of [branches of science](https://en.wikipedia.org/wiki/Branches_of_science) might prove more fruitful for arriving at base rates. 
 
-Nonetheless, perhaps the prominent role of the engineer Isambard Kingdom Brunel in the construction of the SS Great Eastern, as narrated by [Wikipedia](https://en.wikipedia.org/wiki/SS_Great_Eastern), highlights that the actions of a lone individual, acting in an exploratory manner, or directly disregarding economic incentives, can lead to a decently sized technological discontinuity.
+Nonetheless, perhaps the prominent role of the engineer Isambard Kingdom Brunel in the construction of the SS Great Eastern, as narrated by [Wikipedia](https://en.wikipedia.org/wiki/SS_Great_Eastern), might serve as a proof of concept that the actions of a lone individual, acting in an exploratory manner, or directly disregarding economic incentives, can lead to a decently sized technological discontinuity.
 
-> I cannot act under any supervision, or form part of any system which recognises any other advisor than myself ... if any doubt ever arises on these points I must cease to be responsible and cease to act.
-
-Here follow six images which make the discontinuity apparent. In the first two, we notice that the Great Eastern, built in 1858, was first surpassed in length the year 1899, for a discontinuity of 41 years. [Wikipedia](https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)) confirms this, and notes that the RMS Oceanic did *not* exceed the Great Eastern in tonnage, only in length.
+Here follow six images which make the discontinuity apparent. In the first two, we notice that the Great Eastern, built in 1858, was first surpassed in length the year 1899, for a discontinuity of 41 years. [Wikipedia](https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)) confirms this, and notes that the RMS Oceanic of 1899 did *not* exceed the Great Eastern in tonnage, only in length.
 
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-3.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-4.png)  
 
-In the third and fourth images, the already mentioned Thalamegos and the Syracusia, the last of which was designed by Archimedes are given as reference points.
+In the third and fourth images, the already mentioned Thalamegos and the Syracusia, the last of which was designed by Archimedes, are given as reference points.
 
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-1.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-2.png)  
@@ -62,7 +60,7 @@ Consider circumnavigating the Earth, that is, travelling in the same direction u
 
 The precise magnitude of these discontinuities depends on whether we measure time, or its logarithm. In both cases, we get very large discontinuities, plausibly of more than 100 years. However, our estimates are inexact. In particular, our data only shines in the period 1870 - 1961, and thus we are most confident in the discontinuity created by the first circumnavigation by plane (as opposed to by ship & train). This happened in 1931 and our two estimates of the magnitude of that discontinuity are 11 and 40.5 years.
 
-According to the first measure, *the first cosmonaut wasn't really a discontinuity* (a deviation of 1 year from the predicted value). Furthtermore, if we estimate the next data point extrapolating the previous progress *linearly*, we get four-ish discontinuities. But as in the graphs below, the natural fit is not linear, it's hyperbolic / exponential-ish. So here definitions also get in the way, because whether any point is a discontinuity depends on which model we use to extrapolate from past data. 
+According to the first measure, *the first cosmonaut wasn't really a discontinuity* (a deviation of 1 year from the predicted value). Furthtermore, if we estimate the next data point extrapolating the previous progress *linearly*, we get four-ish discontinuities. But as the graphs below show, the natural fit is not linear, it's hyperbolic / exponential-ish. So here definitions also get in the way, because whether any point is a discontinuity depends on which model we use to extrapolate from past data. 
 
 Throughout the 19th century, we see ships develop into faster and faster ships, and then give way to planes, which in turn gain in speed, until they're all overtaken by Yuri Gagarin in a rocket. This repeated upmanship is what's downstream of the exponential shape, and you couldn't have predicted that by extrapolating the very real gains in ship speed at the beginning of the century; you couldn't have predicted rockets. As for the implications for AI scenarios, this example may serve to ilustrate the mechanics of how very fast progress can look like on the inside, and adds another datapoint for AI Impact's base rate estimation.
 
@@ -95,6 +93,7 @@ And here is that same table if we measure progress according to the logarithm (i
 | 1870 | 0.0014447 log2(days) /year                         | 2.9 log(days)                                                            | 1986 years                                                                                                                                                                                    |
 | 1931 | 0.0327053 log2(days) /year                          | 1.39 log2(days)                                                          | 40.5 years                                                                                                                                                                                    |
 | 1961 | 0.132842 log2(hours) /year                           | 4.18836 log2(hours)                                                      | 27.5 years                                                                                                                                                                                    |
+
 ### Sources:
 
 [Wikipedia: List of circumnavigations](https://en.wikipedia.org/wiki/List_of_circumnavigations)  
