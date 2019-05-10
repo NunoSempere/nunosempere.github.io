@@ -117,7 +117,7 @@ However, Wikipedia reveals that the first undersea cables were laid in *1858*!
 
 > A transatlantic telegraph cable is an undersea cable running under the Atlantic Ocean used for telegraph communications. The first was laid across the floor of the Atlantic from Telegraph Field, Foilhommerum Bay, Valentia Island in western Ireland to Heart's Content in eastern Newfoundland. The first communications occurred August 16, 1858, reducing the communication time between North America and Europe from ten days – the time it took to deliver a message by ship – to a matter of minutes. Transatlantic telegraph cables have been replaced by transatlantic telecommunications cables.
     
-So the above addition is perhaps spurious, that is, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message from Washington to Moscow would take less than an hour by 1961. This was, however, not the case: 
+So the above addition is perhaps spurious, that is, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message from around the Earth would take less than an hour by 1961. Here, fluency with the historical record comes in handy: we know that was not the case: 
 
 > The 1962 Cuban Missile Crisis made the hotline a priority. During the standoff, official diplomatic messages typically took six hours to deliver; unofficial channels, such as via television network correspondents, had to be used too as they were quicker.
 > ...
