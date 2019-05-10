@@ -78,30 +78,23 @@ Here is the logarithm plot, with some smoothing applied:
 
 ![](https://nunosempere.github.io/rat/Circum-log-2.png)  
 
-And furthermore, a table:
-
-
-
-
-
-
-blhah
+Some of above in a table:
 
 | Year | Rate of progress before                                 | Discontinuity in terms of time of travel  = New record - current record | How much extra time would have been needed?   = (point - previous predicted point)/ previous rate of progress   = (discontinuity - expected progress) / previous rate of progress |
 |------|---------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1586 | 1.1034 days/year  | 237 days                                                     | 203 years                                                                                                                    |
-| 1870 | 0.69 days/year          | 525 days                                                  | 740 years                                                                                                     |
-| 1931 | 1 day / year         | 13 days                                                     | 11 years                                                                                                              |
-| 1961 | 6.1 hours / year | 31 hours                        | 1 year                                                                                                      |
+| 1586 | 1.1034 days /year  | 237 days                                                     | 203 years                                                                                                                    |
+| 1870 | 0.69 days /year          | 525 days                                                  | 740 years                                                                                                     |
+| 1931 | 1 day /year         | 13 days                                                     | 11 years                                                                                                              |
+| 1961 | 6.1 hours /year | 31 hours                        | 1 year                                                                                                      |
 
 And here is that same table if we measure progress according to the logarithm (i.e., if halving the time needed is always equally impressive).
 
 | Year | Rate of progress before | Discontinuity in terms of time of travel  = New record - previous record | How much extra time would have been needed?  = (point - previous predicted point) / previous rate of progress = (New record - previous record - predicted advance) / previous rate of progress |
 |------|-----------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1586 | 0.00151660237 log2(days)/year                       | 0.3823431 log2(days)                                                     | 240 years                                                                                                                                                                                     |
-| 1870 | 0.001444656 log2(days)/year                         | 2.9 log(days)                                                            | 1986 years                                                                                                                                                                                    |
-| 1931 | 0.03270527 log2(days)/year                          | 1.39 log2(days)                                                          | 40.5 years                                                                                                                                                                                    |
-| 1961 | 0.132842 log2(hours)/year                           | 4.18836 log2(hours)                                                      | 27.5 years                                                                                                                                                                                    |
+| 1586 | 0.0015166 log2(days) /year                       | 0.3823431 log2(days)                                                     | 240 years                                                                                                                                                                                     |
+| 1870 | 0.0014447 log2(days) /year                         | 2.9 log(days)                                                            | 1986 years                                                                                                                                                                                    |
+| 1931 | 0.0327053 log2(days) /year                          | 1.39 log2(days)                                                          | 40.5 years                                                                                                                                                                                    |
+| 1961 | 0.132842 log2(hours) /year                           | 4.18836 log2(hours)                                                      | 27.5 years                                                                                                                                                                                    |
 ### Sources:
 
 [Wikipedia: List of circumnavigations](https://en.wikipedia.org/wiki/List_of_circumnavigations)  
