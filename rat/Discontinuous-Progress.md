@@ -85,7 +85,7 @@ Some of above in a table:
 | 1586 | 1.1034 days /year  | 237 days                                                     | 203 years                                                                                                                    |
 | 1870 | 0.69 days /year          | 525 days                                                  | 740 years                                                                                                     |
 | 1931 | 1 day /year         | 13 days                                                     | 11 years                                                                                                              |
-| 1961 | 6.1 hours /year | 31 hours                        | 1 year                                                                                                      |
+| 1961 | 6.1 hours /year | 31 hours                        | 1 year                      |
 
 And here is that same table if we measure progress according to the logarithm (i.e., if halving the time needed is always equally impressive).
 
