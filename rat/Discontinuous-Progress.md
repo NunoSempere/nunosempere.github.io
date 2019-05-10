@@ -60,17 +60,17 @@ Consider circumnavigating the Earth, that is, starting from one point, going in 
 3. From ships to aircraft. Year 1931. Estimated discontinuity equivalent to 11 / 40.5 years
 4. From military aircraft to the first cosmonaut, Yuri Gagarin. Year 1961. Estimated discontinuity equivalent to 1 / 27.5 years.
 
-The precise magnitude of these discontinuities depends on whether we measure time, or its logarithm. In both cases, we get very large discontinuities, plausibly of more than 100 years. However, our estimates are inexact. In particular, our data only shines in the period 1870 - 1949, and thus we are most confident in the discontinuity created by the first circumnavigation by plane (as opposed to by ship & train). This happened in 1931 and our two estimates of the magnitude of that discontinuity are 11 and 40.5 years.
+The precise magnitude of these discontinuities depends on whether we measure time, or its logarithm. In both cases, we get very large discontinuities, plausibly of more than 100 years. However, our estimates are inexact. In particular, our data only shines in the period 1870 - 1961, and thus we are most confident in the discontinuity created by the first circumnavigation by plane (as opposed to by ship & train). This happened in 1931 and our two estimates of the magnitude of that discontinuity are 11 and 40.5 years.
 
-According to the first measure, *the first cosmonaut wasn't really a discontinuity* (a deviation of 1 year from the predicted value). This brings us to our last point: If we estimate the next data point extrapolating the previous progress *linearly*, we get four-ish discontinuities. But as in the graphs below, the natural fit is not linear, it's hyperbolic / exponential. Throughout the 19th century, we see ships develop into faster and faster ships, and then give way to planes, which in turn gain in speed, until they're overtaken by Yuri Gagarin in a rocket. You couldn't have predicted rockets by extrapolating the very real gains in ship speed at the beginning of the century; you'd have had to realize that they were going to get repeatedly replaced, which is what results in the exponential / hyperbolic shape. 
+According to the first measure, *the first cosmonaut wasn't really a discontinuity* (a deviation of 1 year from the predicted value). Furthtermore, if we estimate the next data point extrapolating the previous progress *linearly*, we get four-ish discontinuities. But as in the graphs below, the natural fit is not linear, it's hyperbolic / exponential-ish. So here definitions also get in the way, because whether any point is a discontinuity depends on which model we use to extrapolate from past data. 
 
-So here definitions also get in the way, because whether any point is a discontinuity depends on which model we use to extrapolate from past data. 
+Throughout the 19th century, we see ships develop into faster and faster ships, and then give way to planes, which in turn gain in speed, until they're all overtaken by Yuri Gagarin in a rocket. This repeated upmanship is what's downstream of the exponential shape, and you couldn't have predicted that by extrapolating the very real gains in ship speed at the beginning of the century; you couldn't have predicted rockets. As for the implications for AI scenarios, this example may serve to ilustrate the mechanics of how very fast progress can look like on the inside, and adds another datapoint for AI Impact's base rate estimation.
 
 As to the visualization of the above: If we plot the overall time record, in minutes, we can appreciate the first two discontinuities.
 
 ![](https://nunosempere.github.io/rat/Circum.png)  
 
-They become apparent if we plot the logarithm (base 2) of the time (in minutes).
+The rest become apparent if we plot the logarithm (base 2) of the time (in minutes).
 
 ![](https://nunosempere.github.io/rat/Circum-log.png)  
 
@@ -78,7 +78,7 @@ Here is the logarithm plot, with some smoothing applied:
 
 ![](https://nunosempere.github.io/rat/Circum-log-2.png)  
 
-Here is furthermore a table:
+And furthermore, a table:
 
 
 | Year | Rate of progress before                                 | Discontinuity in terms of time of travel  = New record - current record | How much extra time would have been needed?   = (point - previous predicted point)/ previous rate of progress   = (discontinuity - expected progress) / previous rate of progress |
@@ -113,17 +113,17 @@ And here is that same table if we measure progress according to the logarithm (i
 
 ![](https://nunosempere.github.io/rat/Circum-log-packet.png)  
 
-However, Wikipedia reveals that the first undersea cables were laid in *1858*! So the above addition is perhaps spurious, because the time needed to send a message around the world had been greatly reduced by then. 
+However, Wikipedia reveals that the first undersea cables were laid in *1858*!
 
 > A transatlantic telegraph cable is an undersea cable running under the Atlantic Ocean used for telegraph communications. The first was laid across the floor of the Atlantic from Telegraph Field, Foilhommerum Bay, Valentia Island in western Ireland to Heart's Content in eastern Newfoundland. The first communications occurred August 16, 1858, reducing the communication time between North America and Europe from ten days – the time it took to deliver a message by ship – to a matter of minutes. Transatlantic telegraph cables have been replaced by transatlantic telecommunications cables.
     
-So, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message from Washington to Moscow would take less than an hour by 1961. This was, however, not the case: 
+So the above addition is perhaps spurious, that is, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message from Washington to Moscow would take less than an hour by 1961. This was, however, not the case: 
 
 > The 1962 Cuban Missile Crisis made the hotline a priority. During the standoff, official diplomatic messages typically took six hours to deliver; unofficial channels, such as via television network correspondents, had to be used too as they were quicker.
-
+> ...
 > During the [1962 Cuban Missile] crisis, the United States took nearly twelve hours to receive and decode Nikita Khrushchev's 3,000-word initial settlement message – a dangerously long time. By the time Washington had drafted a reply, a tougher message from Moscow had been received, demanding that U.S. missiles be removed from Turkey. White House advisers thought faster communications could have averted the crisis, and resolved it quicker. The two countries signed the Hot Line Agreement in June 1963 – the first time they formally took action to cut the risk of starting a nuclear war unintentionally. - Source: [Wikipedia](https://en.wikipedia.org/wiki/Moscow–Washington_hotline)
 
-I wonder how an extension of the circumnavigation data with the time needed to send a message to a point's antipode and back behaves. This is being researched.
+I wonder how an extension of the circumnavigation data with the time needed to send a message to a point's antipode and back behaves. I might research this further.
 
 - Discontinuities for yatch races (No discontinuities are apparent. I do not intend to research this further)
 - Transatlantic sailing record (No discontinuities are apparent. I do not intend to research this further).
