@@ -126,7 +126,7 @@ So the above addition is perhaps spurious, that is, given that transatlantic cab
 I wonder how an extension of the circumnavigation data with the time needed to send a message to a point's antipode and back behaves. I might research this further.
 
 - Discontinuities for yatch races (No discontinuities are apparent. I do not intend to research this further)
-- Transatlantic sailing record (No discontinuities are apparent. I do not intend to research this further).
+- Transatlantic sailing record / liner crossing times ([No discontinuities 1833-1952](https://transportgeography.org/?page_id=2135). I do not intend to research this further).
 - Cases in which a lone individual is causally responsible for discontinuous progress. Norman Borlaug.
 
 ## Credit
