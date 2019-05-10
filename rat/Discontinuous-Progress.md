@@ -81,22 +81,26 @@ Here is the logarithm plot, with some smoothing applied:
 And furthermore, a table:
 
 
+
+
+
+
+blhah
+
 | Year | Rate of progress before                                 | Discontinuity in terms of time of travel  = New record - current record | How much extra time would have been needed?   = (point - previous predicted point)/ previous rate of progress   = (discontinuity - expected progress) / previous rate of progress |
 |------|---------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1586 | (1082-1018) days /(1577-1519) years = 1.1034 days/year  | 1018-781 = 237 days                                                     | (237 days - (1589-1577)*1.1 days) / 1.1 days / year= 203 years                                                                                                                    |
-| 1870 | (781 – 605) days / (1841 – 1586) years = 0.69 days/year          | 605-80 days = 525 days                                                  | (525 days - (1870-1849 years)*0.69 days / year ) / 0.69 days/year = 740 years                                                                                                     |
-| 1931 | (80-21) days / (1929-1870) years = 1 day / year         | 21-8 days = 13 days                                                     | (13 days - (1931 - 1929) years * 1 day/year) / 1 day/year = 11 years                                                                                                              |
-| 1961 | (94 - 45) hours / (1957- 1949) years = 6.1 hours / year | 32 hours and 49 minutes - 108 minutes = 31 hours                        | ( 31 hours - 6.1 hours/year *(1961-1957) years ) / 6.1 hours / year ~ 1 year                                                                                                      |
+| 1586 | 1.1034 days/year  | 237 days                                                     | 203 years                                                                                                                    |
+| 1870 | 0.69 days/year          | 525 days                                                  | 740 years                                                                                                     |
+| 1931 | 1 day / year         | 13 days                                                     | 11 years                                                                                                              |
+| 1961 | 6.1 hours / year | 31 hours                        | 1 year                                                                                                      |
 
 And here is that same table if we measure progress according to the logarithm (i.e., if halving the time needed is always equally impressive).
-
-| Year | Rate of progress before (where log = log of base 2)                                 | Discontinuity in terms of time of travel  = New record - current record | How much extra time would have been needed?   = (point - previous predicted point)/ previous rate of progress   = (discontinuity - expected progress) / previous rate of progress |
-|------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1586 | (log2(1082)-log2(1018)) log2(days) /(1577-1519) years = 0.001444656 log2(days)/year | log2(1018)-log2(781) = 0.3823431 log2(days)                             | (0.3823431 log2(days) - (1589-1577)*0.001516602 log2(days)) / 0.08796 log2(days)/year= 240 years                                                                                  |
-| 1870 | (log2(781) – log2(605)) days / (1841 – 1586) years = 0.001444656 log2(days)/year    | log2(605)-log2(80) days = 2.9 log(days)                                 | (2.9 log(days) - (1870-1849 years)*0.001444656 log2(days)/year ) / 0.001444656 log2(days)/year = 1986 years                                                                       |
-| 1931 | (log2(80)-log2(21)) days / (1929-1870) years = 0.03270527 log2(days)/year           | log2(21)-log2(8) days = 1.39 log2(days)                                 | (1.392317 log(days) - (1931 - 1929) years * 0.03270527 log(days)/year / 0.03270527 log2(days)/year = 40.5 years                                                                   |
-| 1961 | (log2(94) - log2(45)log2(hours) / (1957- 1949) years = 0.132842 log2(hours) / year  | log2(32 hours and 49 minutes) - log2(108 minutes) = 4.18836 log2(hours) | ( 4.18836 log2(hours) - 0.132842 log2(hours) / year *(1961-1957) years ) / 27.52888 log2(hours) / year ~ 27.5 years                                                               |
-
+| Year | Rate of progress before (where log = log of base 2) | Discontinuity in terms of time of travel  = New record - previous record | How much extra time would have been needed?  = (point - previous predicted point)/ previous rate of progress = (New record - previous record - predicted advance) / previous rate of progress |
+|------|-----------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1586 | 0.00151660237 log2(days)/year                       | 0.3823431 log2(days)                                                     | 240 years                                                                                                                                                                                     |
+| 1870 | 0.001444656 log2(days)/year                         | 2.9 log(days)                                                            | 1986 years                                                                                                                                                                                    |
+| 1931 | 0.03270527 log2(days)/year                          | 1.39 log2(days)                                                          | 40.5 years                                                                                                                                                                                    |
+| 1961 | 0.132842 log2(hours)/year                           | 4.18836 log2(hours)                                                      | 27.5 years                                                                                                                                                                                    |
 ### Sources:
 
 [Wikipedia: List of circumnavigations](https://en.wikipedia.org/wiki/List_of_circumnavigations)  
