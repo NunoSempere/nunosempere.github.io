@@ -125,7 +125,9 @@ However, Wikipedia reveals that the first undersea cables were laid in *1858*!
 So the above addition is perhaps spurious, that is, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message around the Earth would take less than an 108 minutes by 1961. Here, fluency with the historical record comes in handy: we know that was not the case: 
 
 > The 1962 Cuban Missile Crisis made the hotline a priority. During the standoff, official diplomatic messages typically took six hours to deliver; unofficial channels, such as via television network correspondents, had to be used too as they were quicker.
+> 
 > ...
+> 
 > During the [1962 Cuban Missile] crisis, the United States took nearly twelve hours to receive and decode Nikita Khrushchev's 3,000-word initial settlement message – a dangerously long time. By the time Washington had drafted a reply, a tougher message from Moscow had been received, demanding that U.S. missiles be removed from Turkey. White House advisers thought faster communications could have averted the crisis, and resolved it quicker. The two countries signed the Hot Line Agreement in June 1963 – the first time they formally took action to cut the risk of starting a nuclear war unintentionally. - Source: [Wikipedia](https://en.wikipedia.org/wiki/Moscow–Washington_hotline)
 
 I wonder how an extension of the circumnavigation data with the time needed to send a message to a point's antipode and back behaves. I might research this further.
