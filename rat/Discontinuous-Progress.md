@@ -95,7 +95,8 @@ blhah
 | 1961 | 6.1 hours / year | 31 hours                        | 1 year                                                                                                      |
 
 And here is that same table if we measure progress according to the logarithm (i.e., if halving the time needed is always equally impressive).
-| Year | Rate of progress before (where log = log of base 2) | Discontinuity in terms of time of travel  = New record - previous record | How much extra time would have been needed?  = (point - previous predicted point)/ previous rate of progress = (New record - previous record - predicted advance) / previous rate of progress |
+
+| Year | Rate of progress before | Discontinuity in terms of time of travel  = New record - previous record | How much extra time would have been needed?  = (point - previous predicted point) / previous rate of progress = (New record - previous record - predicted advance) / previous rate of progress |
 |------|-----------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1586 | 0.00151660237 log2(days)/year                       | 0.3823431 log2(days)                                                     | 240 years                                                                                                                                                                                     |
 | 1870 | 0.001444656 log2(days)/year                         | 2.9 log(days)                                                            | 1986 years                                                                                                                                                                                    |
@@ -121,7 +122,7 @@ However, Wikipedia reveals that the first undersea cables were laid in *1858*!
 
 > A transatlantic telegraph cable is an undersea cable running under the Atlantic Ocean used for telegraph communications. The first was laid across the floor of the Atlantic from Telegraph Field, Foilhommerum Bay, Valentia Island in western Ireland to Heart's Content in eastern Newfoundland. The first communications occurred August 16, 1858, reducing the communication time between North America and Europe from ten days – the time it took to deliver a message by ship – to a matter of minutes. Transatlantic telegraph cables have been replaced by transatlantic telecommunications cables.
     
-So the above addition is perhaps spurious, that is, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message from around the Earth would take less than an hour by 1961. Here, fluency with the historical record comes in handy: we know that was not the case: 
+So the above addition is perhaps spurious, that is, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message around the Earth would take less than an 108 minutes by 1961. Here, fluency with the historical record comes in handy: we know that was not the case: 
 
 > The 1962 Cuban Missile Crisis made the hotline a priority. During the standoff, official diplomatic messages typically took six hours to deliver; unofficial channels, such as via television network correspondents, had to be used too as they were quicker.
 > ...
