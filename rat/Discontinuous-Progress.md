@@ -53,7 +53,7 @@ The last two images correspond to our second dataset of sailing vessels. A simil
 
 ## Discontinuity in the time needed to circumnavigate the Earth
 
-Consider circumnavigating the Earth, that is, starting from one point, going in one direction for a while, and returning to the same point. As technology develops, the time needed to do that gets shorter and shorter. We find 4 discontinuities: 
+Consider circumnavigating the Earth, that is, travelling in the same direction until one returns to the same point on the globe. As technology develops, the time needed to do that gets shorter and shorter. We find 4 discontinuities: 
 
 1. From the first two explorers to later followers. Year = 1586. Estimated discontinuity equivalent to 203 / 240 years of previous progress.
 2. From big expeditions to liners and trains. Year 1870. Estimated discontinuity equivalent to 740 / 1986 years of equivalent previous progress.
