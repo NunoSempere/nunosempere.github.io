@@ -23,15 +23,20 @@ Nonetheless, perhaps the prominent role of the engineer Isambard Kingdom Brunel 
 
 > I cannot act under any supervision, or form part of any system which recognises any other advisor than myself ... if any doubt ever arises on these points I must cease to be responsible and cease to act.
 
-Here follow six images which make the discontinuity apparent. In the third and fourth, the already mentioned Thalamegos and the Syracusia (designed by Archimedes) are given as reference points. The last two images correspond to our second dataset of sailing vessels. We notice that the Great Eastern, built in 1858, was first surpassed in the year 1899, for a discontinuity of 41 years. [Wikipedia](https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)) confirms this, and notes that the RMS Oceanic did *not* exceed the Great Eastern in tonnage, only in length.
+Here follow six images which make the discontinuity apparent. In the first two, we notice that the Great Eastern, built in 1858, was first surpassed in length the year 1899, for a discontinuity of 41 years. [Wikipedia](https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)) confirms this, and notes that the RMS Oceanic did *not* exceed the Great Eastern in tonnage, only in length.
 
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-3.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-4.png)  
+
+In the third and fourth images, the already mentioned Thalamegos and the Syracusia, the last of which was designed by Archimedes are given as reference points.
+
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-1.png)  
 ![](https://nunosempere.github.io/rat/SS-Great%20Eastern-2.png)  
+
+The last two images correspond to our second dataset of sailing vessels. A similar picture arises.
+
 ![](https://nunosempere.github.io/rat/SS-Great-Eastern-Dataset2.png)  
 ![](https://nunosempere.github.io/rat/SS-Great-Eastern-Dataset2-with-beam.png)  
-
 
 ### Sources: 
 [Wikipedia: List of longuest wooden ships](https://en.wikipedia.org/wiki/List_of_longest_wooden_ships)  
@@ -41,28 +46,37 @@ Here follow six images which make the discontinuity apparent. In the third and f
 [Wikipedia: List of large saling vessels](https://en.wikipedia.org/wiki/List_of_large_sailing_vessels)  
 
 ### Data
-[Wikipedia: Timeline of largest passenger ships (.csv)](https://nunosempere.github.io/rat/Length_ships.csv)  
-[Largest ship record progression (.csv)](https://nunosempere.github.io/rat/Length_ships-processed.csv)  
-[Large sailing vessels (.csv)](https://nunosempere.github.io/rat/length_ships_2.csv)  
-[Large sailing vessels, processed (.csv)](https://nunosempere.github.io/rat/length_ships_2-processed.csv)  
+[Timeline of largest passenger ships (.csv)](https://nunosempere.github.io/rat/Length_ships.csv)  
+[Timeline of largest passenger ships, processed (.csv)](https://nunosempere.github.io/rat/Length_ships-processed.csv)  
+[Large sailing vessels - Dataset 2 (.csv)](https://nunosempere.github.io/rat/length_ships_2.csv)  
+[Large sailing vessels -  Dataset 2, processed (.csv)](https://nunosempere.github.io/rat/length_ships_2-processed.csv)  
 
-## Discontinuity in the circumnavigation of the Earth
+## Discontinuity in the time needed to circumnavigate the Earth
 
-We find 4 discontinuities: 
+Consider circumnavigating the Earth, that is, starting from one point, going in one direction for a while, and returning to the same point. As technology develops, the time needed to do that gets shorter and shorter. We find 4 discontinuities: 
+
 1. From the first two explorers to later followers. Year = 1586. Estimated discontinuity equivalent to 203 / 240 years of previous progress.
-2. From big expeditions to liners and trains. Year 1870. Estimated discontinuity equivalent to 740 / 1986 years of equivalent progress.
+2. From big expeditions to liners and trains. Year 1870. Estimated discontinuity equivalent to 740 / 1986 years of equivalent previous progress.
 3. From ships to aircraft. Year 1931. Estimated discontinuity equivalent to 11 / 40.5 years
 4. From military aircraft to the first cosmonaut, Yuri Gagarin. Year 1961. Estimated discontinuity equivalent to 1 / 27.5 years.
 
-The precise magnitude of these discontinuities depends on whether we measure time, or its logarithm. In both cases, we get very large discontinuities, plausibly of more than 100 years. However, our estimates are inexact. In particular, our data only shines in the period 1870 - 1949, and thus we are most confident in the discontinuity created by the first circumnavigation by plane (as opposed to by ship & train). This happened in 1931 and our two estimates of its magnitude are 11 and 40.5 years.
+The precise magnitude of these discontinuities depends on whether we measure time, or its logarithm. In both cases, we get very large discontinuities, plausibly of more than 100 years. However, our estimates are inexact. In particular, our data only shines in the period 1870 - 1949, and thus we are most confident in the discontinuity created by the first circumnavigation by plane (as opposed to by ship & train). This happened in 1931 and our two estimates of the magnitude of that discontinuity are 11 and 40.5 years.
 
-If we plot the overall time record, in minutes, we can appreciate the first two discontinuities.
+According to the first measure, *the first cosmonaut wasn't really a discontinuity* (a deviation of 1 year from the predicted value). This brings us to our last point: If we estimate the next data point extrapolating the previous progress *linearly*, we get four-ish discontinuities. But as in the graphs below, the natural fit is not linear, it's hyperbolic / exponential. Throughout the 19th century, we see ships develop into faster and faster ships, and then give way to planes, which in turn gain in speed, until they're overtaken by Yuri Gagarin in a rocket. You couldn't have predicted rockets by extrapolating the very real gains in ship speed at the beginning of the century; you'd have had to realize that they were going to get repeatedly replaced, which is what results in the exponential / hyperbolic shape. 
+
+So here definitions also get in the way, because whether any point is a discontinuity depends on which model we use to extrapolate from past data. 
+
+As to the visualization of the above: If we plot the overall time record, in minutes, we can appreciate the first two discontinuities.
 
 ![](https://nunosempere.github.io/rat/Circum.png)  
 
 They become apparent if we plot the logarithm (base 2) of the time (in minutes).
 
 ![](https://nunosempere.github.io/rat/Circum-log.png)  
+
+Here is the logarithm plot, with some smoothing applied:
+
+![](https://nunosempere.github.io/rat/Circum-log-2.png)  
 
 Here is furthermore a table:
 
@@ -83,10 +97,6 @@ And here is that same table if we measure progress according to the logarithm (i
 | 1931 | (log2(80)-log2(21)) days / (1929-1870) years = 0.03270527 log2(days)/year           | log2(21)-log2(8) days = 1.39 log2(days)                                 | (1.392317 log(days) - (1931 - 1929) years * 0.03270527 log(days)/year / 0.03270527 log2(days)/year = 40.5 years                                                                   |
 | 1961 | (log2(94) - log2(45)log2(hours) / (1957- 1949) years = 0.132842 log2(hours) / year  | log2(32 hours and 49 minutes) - log2(108 minutes) = 4.18836 log2(hours) | ( 4.18836 log2(hours) - 0.132842 log2(hours) / year *(1961-1957) years ) / 27.52888 log2(hours) / year ~ 27.5 years                                                               |
 
-It's interesting to see that according to the first measure, *the first cosmonaut wasn't really a discontinuity* (a deviation of 1 year from the predicted value). After Gagarin, one might think that it's not possible to reduce the time any further. Note, however, that sending a digital copy of a human through the internet might count. Also note that your definitions get in the way.
-
-It's also interesting to consider that today, a packet might take less than half a second to circumnavigate the Earth (perhaps [180-400 miliseconds](https://serverfault.com/questions/143804/network-latency-how-long-does-it-take-for-a-packet-to-travel-halfway-around-t), according to a source from 2010). Another discontinuity to investigate might be the time needed to send a message through the Atlantic.
-
 ### Sources:
 
 [Wikipedia: List of circumnavigations](https://en.wikipedia.org/wiki/List_of_circumnavigations)  
@@ -99,11 +109,25 @@ It's also interesting to consider that today, a packet might take less than half
 ## Also considered / under consideration:
 
 - Saline solution for diarrhea, as opposed to previous treatments.
-- Time to send a message across the atlantic.
+- Time to send a message across the Atlantic / around the Earth. For the circumnavigation case, I added an additional datapoint [(time=0.4 seconds, year = 2010)](https://serverfault.com/questions/143804/network-latency-how-long-does-it-take-for-a-packet-to-travel-halfway-around-t), corresponding to the time it takes for a message to go from New York to Australia and back. The resulting graph would be like so:
+
+![](https://nunosempere.github.io/rat/Circum-log-packet.png)  
+
+However, Wikipedia reveals that the first undersea cables were laid in *1858*! So the above addition is perhaps spurious, because the time needed to send a message around the world had been greatly reduced by then. 
+
+> A transatlantic telegraph cable is an undersea cable running under the Atlantic Ocean used for telegraph communications. The first was laid across the floor of the Atlantic from Telegraph Field, Foilhommerum Bay, Valentia Island in western Ireland to Heart's Content in eastern Newfoundland. The first communications occurred August 16, 1858, reducing the communication time between North America and Europe from ten days – the time it took to deliver a message by ship – to a matter of minutes. Transatlantic telegraph cables have been replaced by transatlantic telecommunications cables.
+    
+So, given that transatlantic cables had already been laid, we'd expect that the time needed to send a message from Washington to Moscow would take less than an hour by 1961. This was, however, not the case: 
+
+> The 1962 Cuban Missile Crisis made the hotline a priority. During the standoff, official diplomatic messages typically took six hours to deliver; unofficial channels, such as via television network correspondents, had to be used too as they were quicker.
+
+> During the [1962 Cuban Missile] crisis, the United States took nearly twelve hours to receive and decode Nikita Khrushchev's 3,000-word initial settlement message – a dangerously long time. By the time Washington had drafted a reply, a tougher message from Moscow had been received, demanding that U.S. missiles be removed from Turkey. White House advisers thought faster communications could have averted the crisis, and resolved it quicker. The two countries signed the Hot Line Agreement in June 1963 – the first time they formally took action to cut the risk of starting a nuclear war unintentionally. - Source: [Wikipedia](https://en.wikipedia.org/wiki/Moscow–Washington_hotline)
+
+I wonder how an extension of the circumnavigation data with the time needed to send a message to a point's antipode and back behaves. This is being researched.
+
 - Discontinuities for yatch races (No discontinuities are apparent. I do not intend to research this further)
 - Transatlantic sailing record (No discontinuities are apparent. I do not intend to research this further).
-
-It could also be interesting to research cases in which a lone individual is causally responsible for discontinuous progress. Norman Borlaug comes to mind.
+- Cases in which a lone individual is causally responsible for discontinuous progress. Norman Borlaug.
 
 ## Credit
 
