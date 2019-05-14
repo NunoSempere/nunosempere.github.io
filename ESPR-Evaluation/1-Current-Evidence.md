@@ -81,10 +81,6 @@ To the extent that OpenPhilantropy prefers these and other weak forms of evidenc
 
 The questions designing a RCT poses are hard, but the bigger problem is that there's an incentive to not ask them at all. But that would be agaist CFAR's ethos, as outlined in the introduction.
 
-## Student profiles.
-
-
-
 ## Alternatives to espr: The cheapest option.
 One question which interests me is: what is the cheapest version of the program which is still cost effective? What happens if you just record the classes, send them to bright people, and answer their questions? What if you set up a course on edx? Interventions based on universities and highschools are likely to be much cheaper, given that neither board nor flight, nor classrooms would have to be paid for. Is there a low-cost, scalable approach?
 
