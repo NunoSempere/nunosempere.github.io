@@ -26,7 +26,7 @@
 ![](https://nunosempere.github.io/rat/eamentalhealth/Q28.png)  
 
 
-## The Code to produce them was:
+## The Code to produce them, in R, was:
 
 ```
 # EA Mental Health - Clean
@@ -49,8 +49,8 @@ library(viridisLite)
 library(viridis)
 library(forcats)
 
-setwd("/home/nuno/Documents/Effective Altruism/EA Mental Health/")
-setwd("/home/nuno/Documents/Effective Altruism/EA Mental Health/2")
+# Set your working directory to where the data is:
+setwd("directory")
 
 A <- read.csv("Responses.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
   ## Note: if you don't select stringsAsFactors = FALSE, you can't manipulate elements as strings (for example, with grepl) unless you first process your data. For example: as.character(A[,column of interest]) -> A[,column of interest]
@@ -241,7 +241,7 @@ as.data.frame(MI) -> MI
     legend.position="bottom"
     ) 
   ) %>%
-    ggsave("Q5c.png", plot =., units="in", width=10, height=5, dpi=800)
+    ggsave("Q5.png", plot =., units="in", width=10, height=5, dpi=800)
 
 ## Q6: Which of these conditions do you think you may have  but have never been formally diagnosed with?
   ## I guess we can just reuse the code from Q5
@@ -301,7 +301,7 @@ as.data.frame(MI2) -> MI2
       legend.position="bottom"
     ) 
 ) %>%
-  ggsave("Q6c.png", plot =., units="in", width=10, height=5, dpi=800)
+  ggsave("Q6.png", plot =., units="in", width=10, height=5, dpi=800)
 
 
 ## Q5 and Q6 together. Both (formally diagnosed or not) count.
@@ -802,7 +802,7 @@ factor(Receiving$category, levels = Receiving$category) -> Receiving$category
         plot.title = element_text(hjust = 0.5)
         ) 
 ) %>%
-  ggsave(paste(c("Q", i-ini,"-7",".png"), collapse=""), plot =., units="in", width=8, height=6, dpi=800)
+  ggsave(paste(c("Q", i-ini,".png"), collapse=""), plot =., units="in", width=8, height=6, dpi=800)
 
 
 ## "Q18: How satisfied are you\nwith the mental healthcare you ve received?"
