@@ -18,7 +18,7 @@ We can thus create the following six variables:
 - X: A binary variable: 1 if the person belongs to the 12.21% of respondents who don't describe themselves as male or female, or decline to provide their gender, 0 otherwise
 - Y: A binary variable. 1 if tthe person belongs to the 7.59% of respondents who don't describe themselves as male or female, 0 otherwise. It represents X excluding the 4.62% of respondents who decline to reveal their gender.
 
-Thus, we can regress the first four variables on the fourth and fifth.
+Thus, we can regress the first four variables on the fifth and sixth.
 
 ## Results
 
