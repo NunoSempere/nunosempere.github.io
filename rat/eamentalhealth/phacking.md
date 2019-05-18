@@ -22,16 +22,16 @@ Thus, we can regress the first four variables on the fifth and sixth.
 
 ## Results
 
-If we choose only one among the 8 comparisons, the results are *not* whatever we want them to be, because the data is extremely suggestive of one interpretation. But we can massage them, concluding either:
-a) If we only report B ~ X (the only regression which did not reach significance), we find no significant effect, smallish effect which could be due to chance, because p>0.1.
-b) If we only report A ~ Y, we find a huge effect; whereas male or female EAs have a mean of 0.76 mental ilnesses, gender nonconforming EAs have a mean of 1.6 mental ilnesses, p < 0.001. If we bother to [calculate the exact p-value](https://www.wolframalpha.com/input/?i=N(mean%3D0,+standard+deviation+%3D+0.23271)+>+0.84798), it's [~0.0003649317](https://www.wolframalpha.com/input/?i=((2476491678888003+e)%2F18446744073709551616)). Additionally, "the most conservative method, which is free of dependence and distributional assumptions, is the Bonferroni correction" [Wikipedia](https://en.wikipedia.org/wiki/Multiple_comparisons_problem). If we harshly apply it to correct for having tested 8 hypothesis, we get p = 0.0003649317*8 = 0.002919452 ~ 0.003, which is still ridiculously low.
+If we choose only one among the 8 comparisons, the results are *not* whatever we want them to be, because the data is extremely suggestive of one interpretation. But we can massage them, concluding either:  
+a) If we only report B ~ X (the only regression which did not reach significance), we find no significant effect, smallish effect which could be due to chance, because p>0.1.  
+b) If we only report A ~ Y, we find a huge effect; whereas male or female EAs have a mean of 0.76 mental ilnesses, gender nonconforming EAs have a mean of 1.6 mental ilnesses, p < 0.001. If we bother to [calculate the exact p-value](https://www.wolframalpha.com/input/?i=N(mean%3D0,+standard+deviation+%3D+0.23271)+>+0.84798), it's [~0.0003649317](https://www.wolframalpha.com/input/?i=((2476491678888003+e)%2F18446744073709551616)). Additionally, "the most conservative method, which is free of dependence and distributional assumptions, is the Bonferroni correction" [Wikipedia](https://en.wikipedia.org/wiki/Multiple_comparisons_problem). If we harshly apply it to correct for having tested 8 hypothesis, we get p = 0.0003649317\*8 = 0.002919452 ~ 0.003, which is still ridiculously low.
 
 ## A note on regressions and frequentist probability.
-If you have 303 values for the variable A: {A1, A2, A3, ..., A303} and 303 values for the variable B. {B1, B2, B3, ..., B303}, you consider lines of the form A = I + C*B, and look at their associated points {(I+C*B1,B1),(I+C*B2,B2), (I+C*B3,B3), ..., (I+C*B303,B303)}. They are separated from the points {(A1,B1),(A2,B2),(A3,B3),..., (A303,B303)} by whatever distance.
+If you have 303 values for the variable A: {A1, A2, A3, ..., A303} and 303 values for the variable B. {B1, B2, B3, ..., B303}, you consider lines of the form A = I + C\*B, and look at their associated points {(I+C\*B1,B1),(I+C\*B2,B2), (I+C\*B3,B3), ..., (I+C\*B303,B303)}. They are separated from the points {(A1,B1),(A2,B2),(A3,B3),..., (A303,B303)} by whatever distance.
 
-For example, with I and C set, the point (I+C*B1, B1) is separated from (A1,B1) by a distance of sqrt((I+C*B1 - A1)^2 - (B1-B1)^2) = sqrt(((I+C*B1 - A1)^2)) = abs(I+C*B1 - A1). In the mathematical concept of distance, which is always greater than 0, but we do want the sign, so d1 = (I+C*B1 - A1). All in all, you have 303 such distances: {d1, d2, d3, ..., d4}
+For example, with I and C set, the point (I+C\*B1, B1) is separated from (A1,B1) by a distance of sqrt((I+C\*B1 - A1)^2 - (B1-B1)^2) = sqrt(((I+C\*B1 - A1)^2)) = abs(I+C\*B1 - A1). In the mathematical concept of distance, which is always greater than 0, but we do want the sign, so d1 = (I+C\*B1 - A1). All in all, you have 303 such distances: {d1, d2, d3, ..., d4}
 
-You then find the values I and C which minimize the sum of the distances from the point (Ai, Bi) to the point (I+C*Bi, Bi). That is, you find the line A = I + C*B which best fits your data. We'll want to distinguish between I and C as variables and (II,CC) as the point which solves their minimization problem.
+You then find the values I and C which minimize the sum of the distances from the point (Ai, Bi) to the point (I+C\*Bi, Bi). That is, you find the line A = I + C\*B which best fits your data. We'll want to distinguish between I and C as variables and (II,CC) as the point which solves their minimization problem.
 
 Now, you can consider the distances which you calculated before: {d1, d2, d3, ..., d4}, treat them like rightful variables, and calculate it's mean and its standard deviation. Intuitively, the mean is going to be 0, because otherwise, you would have another better line (just change the intercept). Keep the standard deviation of the distances = SD in mind, though.
 
@@ -44,7 +44,7 @@ The frequentist then carries a process which is similar to, but not quite same p
 ### As for the cold hard facts, have a look at the data yourself:
 ### A ~ X
 n=303
-Line of best fit: A = 1.62030 +  0.48781*X
+Line of best fit: A = 1.62030 +  0.48781\*X
 Frequentist confidence that the term which multiplies the X is different from 0: p < 0.1 
 
 
@@ -79,7 +79,7 @@ F-statistic:  3.38 on 1 and 301 DF,  p-value: 0.06696
 
 ## A ~ Y
 n=303
-Line of best fit: A = 0.76071 +  0.84798*Y
+Line of best fit: A = 0.76071 +  0.84798\*Y
 Frequentist confidence that the term which multiplies the Y is different from 0: p < 0.001.
 ```
 > summary(
@@ -109,7 +109,7 @@ F-statistic: 13.28 on 1 and 301 DF,  p-value: 0.0003161
 
 ## B ~ X
 n=303
-Line of best fit: B = 2.4662 + 0.5609*X
+Line of best fit: B = 2.4662 + 0.5609\*X
 Frequentist confidence that the term which multiplies the X is different from 0: p > 0.1
 
 ```
@@ -141,7 +141,7 @@ F-statistic: 1.845 on 1 and 301 DF,  p-value: 0.1754
 
 ## B ~ Y
 n=303
-Line of best fit: B = 1.60714 + 0.95807*Y
+Line of best fit: B = 1.60714 + 0.95807\*Y
 Frequentist confidence that the term which multiplies the Y is different from 0: p<0.01
 
 ```
@@ -172,7 +172,7 @@ F-statistic: 8.681 on 1 and 301 DF,  p-value: 0.003466
 
 ## C ~ X
 n=303
-Line of best fit: C = 0.43985 + 0.15474*X
+Line of best fit: C = 0.43985 + 0.15474\*X
 Frequentist confidence that the term which multiplies the X is different from 0: p<0.1
 
 ```
@@ -199,7 +199,7 @@ F-statistic: 3.144 on 1 and 301 DF,  p-value: 0.0772
 
 ## C ~ Y
 n=303
-Line of best fit: C= 0.43214+ 0.35047*Y
+Line of best fit: C= 0.43214+ 0.35047\*Y
 Frequentist confidence that the term which multiplies the Y is different from 0: p<0.01
 ```
 > summary(lm(C ~ Y))
@@ -226,7 +226,7 @@ F-statistic: 10.82 on 1 and 301 DF,  p-value: 0.001123
 
 ## D ~ X
 n=303
-Line of best fit: = 0.70000 + 0.21304*X
+Line of best fit: = 0.70000 + 0.21304\*X
 Frequentist confidence that the term which multiplies the X is different from 0: p<0.05
 
 ```
@@ -255,7 +255,7 @@ F-statistic: 4.789 on 1 and 301 DF,  p-value: 0.0294
 
 ## D ~ Y
 n=303
-Line of best fit: = 0.69925 + 0.07897*Y
+Line of best fit: = 0.69925 + 0.07897\*Y
 Frequentist confidence that the term which multiplies the Y is different from 0: p<0.05
 
 ```
