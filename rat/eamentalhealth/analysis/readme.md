@@ -6,7 +6,7 @@
 - 1.1. According to age.
 - 1.2. According to country.
 - 1.3. According to gender.
-- Bonus: [A practical exercise in p-hacking (or not)](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)
+- Bonus: [A practical exercise in p-hacking (or not)](https://nunosempere.github.io/rat/eamentalhealth/analysis/p-hacking.html)
 - 1.4. Bottom line.
 2. Does EA have a mental health problem?
 3. Is more involvement with EA correlated with mental ilness?  
@@ -29,7 +29,7 @@ EA Survey 2018:
 However, in this survey, 54.46% of respondents reported being male, 33.33% of respondents reported being female, and 12.21% described themselves as other (7.59%) or declined to self-identify (4.62%).
 
 ### 1.4. Bottom line:
-Editorial bottom line: With respect to age, country, and gender, there seem to be significant but not overwhelming differences. The differences in gender identification might be indicative of selection effects affecting this survey. This is because perhaps people in this third category have higher rates of mental ilness. I have explored this hypothesis at length here: [A practical exercise in p-hacking (or not)](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html).
+Editorial bottom line: With respect to age, country, and gender, there seem to be significant but not overwhelming differences. The differences in gender identification might be indicative of selection effects affecting this survey. This is because perhaps people in this third category have higher rates of mental ilness. I have explored this hypothesis at length here: [A practical exercise in p-hacking (or not)](https://nunosempere.github.io/rat/eamentalhealth/analysis/p-hacking.html).
 
 ## 2. Does EA have a mental health problem?
 Initially, I was intending to find out the different mental disorder rates in the different countries, and combine that with the distribution in the data. The webpage [Our World in Data](https://ourworldindata.org/mental-health) provides the necessary data:
@@ -167,7 +167,7 @@ The effect is very robust to different modelizations: regressing instead on empt
 
 Here is the above, presented visually
 
-![]([nunosempere.github.com/eamentalhealth/A5.png)
+![]([nunosempere.github.com/eamentalhealth/A4.png)
 
 The following table is the cold, raw, hard data for the graphic. 
 > # Distribution of answers to "Q22: I believe that offering mental health resources to effective altruists\nis NOT likely to be one of the most effective interventions available?"
