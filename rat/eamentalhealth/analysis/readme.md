@@ -170,8 +170,8 @@ Here is the above, presented visually
 ![]([nunosempere.github.com/eamentalhealth/A4.png)
 
 The following table is the cold, raw, hard data for the graphic. 
-> # Distribution of answers to "Q22: I believe that offering mental health resources to effective altruists\nis NOT likely to be one of the most effective interventions available?"
 ```
+> # Distribution of answers to "Q22: I believe that offering mental health resources to effective altruists\nis NOT likely to be one of the most effective interventions available?"
                group      freq                                                type
 1   Neutral/Not sure 47.656250                          Thinks they could benefit.
 2           Disagree 28.125000                          Thinks they could benefit.
