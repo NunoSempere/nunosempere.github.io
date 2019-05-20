@@ -168,7 +168,7 @@ The effect is very robust to different modelizations: regressing instead on empt
 
 Here is the above, presented visually
 
-![](https://nunosempere.github.com/rat/eamentalhealth/analysis/A3.png)
+![](https://nunosempere.github.io/rat/eamentalhealth/analysis/A3.png)
 
 The following table is the cold, raw, hard data for the graphic. 
 ```
