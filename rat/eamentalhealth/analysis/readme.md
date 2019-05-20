@@ -17,10 +17,11 @@
 ## 1. Is the population which answered the survey representative of EA overall?
 
 ### 1.1. According to age
-![]([https://nunosempere.github.io/rat/eamentalhealth/analysis/A1.png)
+![](https://nunosempere.github.io/rat/eamentalhealth/analysis/A1.png)
+![]()
 
 ### 1.2. According to country.
-![]([https://nunosempere.github.io/rat/eamentalhealth/analysis/A2.png)
+![](https://nunosempere.github.io/rat/eamentalhealth/analysis/A2.png)
 
 ### 1.3. According to gender.
 EA Survey 2018: 
@@ -167,7 +168,7 @@ The effect is very robust to different modelizations: regressing instead on empt
 
 Here is the above, presented visually
 
-![]([https://nunosempere.github.com/rat/eamentalhealth/analysis/A3.png)
+![](https://nunosempere.github.com/rat/eamentalhealth/analysis/A3.png)
 
 The following table is the cold, raw, hard data for the graphic. 
 ```
