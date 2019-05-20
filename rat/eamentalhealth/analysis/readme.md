@@ -17,10 +17,10 @@
 ## 1. Is the population which answered the survey representative of EA overall?
 
 ### 1.1. According to age
-![]([nunosempere.github.com/rat/eamentalhealth/analysis/A1.png)
+![]([nunosempere.github.io/rat/eamentalhealth/analysis/A1.png)
 
 ### 1.2. According to country.
-![]([nunosempere.github.com/rat/eamentalhealth/analysis/A2.png)
+![]([nunosempere.github.io/rat/eamentalhealth/analysis/A2.png)
 
 ### 1.3. According to gender.
 EA Survey 2018: 
@@ -34,7 +34,7 @@ Editorial bottom line: With respect to age, country, and gender, there seem to b
 ## 2. Does EA have a mental health problem?
 Initially, I was intending to find out the different mental disorder rates in the different countries, and combine that with the distribution in the data. The webpage [Our World in Data](https://ourworldindata.org/mental-health) provides the necessary data:
 
-![share-with-mental-and-substance-disorders.png]
+![nunosempere.github.io/rat/eamentalhealth/analysis/share-with-mental-and-substance-disorders.png]
 
 We see that the distribution is broadly similar across the countries among which EA has a presence. Most importantly, it doesn't surpass ~25% in any country, whereas among survey respondents:
 - 45% have been diagnosed with one or more mental disorders.
@@ -89,7 +89,7 @@ F-statistic: 0.4302 on 4 and 298 DF,  p-value: 0.7868
 ```
 The key column is "Estimate". Smaller numbers are better, and we see that the more often one goes, the less likely is one to have been diagnosed with a mental ilness. No > No, but I regularly participate in an EA online group  > Yes, occasionally > Yes often. 
 
-In the interest of total disclosure, here is a link with the 20 regressions carried out, and the code used to generate them: ![]([nunosempere.github.com/eamentalhealth/regressions_EA_mental_health.html) 
+In the interest of total disclosure, here is a link with the 20 regressions carried out, and the code used to generate them: ![]([nunosempere.github.io/eamentalhealth/regressions_EA_mental_health.html) 
 
 The bottomline seems to be that EA is correlated with better mental health, across almost all measures. However, the error bars are humongous, and no significance thresholds are reached. Note that this is only valid for people who are already involved enough with EA to answer this survey. Curiously, I was kind of expecting the opposite result. It would just have been so much more interesting / contrarian.
 
