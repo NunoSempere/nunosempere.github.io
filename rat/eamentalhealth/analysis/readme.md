@@ -17,10 +17,10 @@
 ## 1. Is the population which answered the survey representative of EA overall?
 
 ### 1.1. According to age
-![]([nunosempere.github.io/rat/eamentalhealth/analysis/A1.png)
+![]([https://nunosempere.github.io/rat/eamentalhealth/analysis/A1.png)
 
 ### 1.2. According to country.
-![]([nunosempere.github.io/rat/eamentalhealth/analysis/A2.png)
+![]([https://nunosempere.github.io/rat/eamentalhealth/analysis/A2.png)
 
 ### 1.3. According to gender.
 EA Survey 2018: 
@@ -34,7 +34,7 @@ Editorial bottom line: With respect to age, country, and gender, there seem to b
 ## 2. Does EA have a mental health problem?
 Initially, I was intending to find out the different mental disorder rates in the different countries, and combine that with the distribution in the data. The webpage [Our World in Data](https://ourworldindata.org/mental-health) provides the necessary data:
 
-![nunosempere.github.io/rat/eamentalhealth/analysis/share-with-mental-and-substance-disorders.png]
+![](https://nunosempere.github.io/rat/eamentalhealth/analysis/share-with-mental-and-substance-disorders.png)
 
 We see that the distribution is broadly similar across the countries among which EA has a presence. Most importantly, it doesn't surpass ~25% in any country, whereas among survey respondents:
 - 45% have been diagnosed with one or more mental disorders.
@@ -167,7 +167,7 @@ The effect is very robust to different modelizations: regressing instead on empt
 
 Here is the above, presented visually
 
-![]([nunosempere.github.com/rat/eamentalhealth/analysis/A3.png)
+![]([https://nunosempere.github.com/rat/eamentalhealth/analysis/A3.png)
 
 The following table is the cold, raw, hard data for the graphic. 
 ```
