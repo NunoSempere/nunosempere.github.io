@@ -131,7 +131,7 @@ Multiple R-squared:  0.08305,	Adjusted R-squared:   0.08
 F-statistic: 27.26 on 1 and 301 DF,  p-value: 3.321e-07
 ```
 
-I had forgotten how high the heaven is and how deep the earth is! If people think they can benefit from mental health ressources, the probability that they agree or strongly agree with the statement "I believe that offering mental health resources to its members is an effective use of the EA Community's resources" goes up from 42.857% to 29.018% + 42.857% = 71.875%, with a p-value of 3.321e-07!
+I had forgotten how deep the waters are. If people think they can benefit from mental health ressources, the probability that they agree or strongly agree with the statement "I believe that offering mental health resources to its members is an effective use of the EA Community's resources" goes up from 42.857% to 29.018% + 42.857% = 71.875%, with a p-value of 3.321e-07!
 
 Similarly, the probability that they agree with the statement "I believe that offering mental health resources to effective altruists is NOT likely to be one of the most effective interventions available" goes down from 32.571% to 32.571%-16.165% = 16.406%, with a p-value of 0.001409!
 
