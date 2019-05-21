@@ -1,3 +1,4 @@
+´´´
 > colnames(A)[c(7,8)]
 [1] "Which.of.these.conditions.have.you.been.formally.diagnosed.with."                                 
 [2] "Which.of.these.conditions.do.you.think.you.may.have..but.have.never.been.formally.diagnosed.with."
@@ -481,3 +482,4 @@ Residual standard error: 0.4508 on 297 degrees of freedom
 Multiple R-squared:  0.0006157,	Adjusted R-squared:  -0.002749 
 F-statistic: 0.183 on 1 and 297 DF,  p-value: 0.6691
 
+´´´
