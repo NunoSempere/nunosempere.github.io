@@ -90,7 +90,7 @@ F-statistic: 0.4302 on 4 and 298 DF,  p-value: 0.7868
 ```
 The key column is "Estimate". Smaller numbers are better, and we see that the more often one goes, the less likely is one to have been diagnosed with a mental ilness. No > No, but I regularly participate in an EA online group  > Yes, occasionally > Yes often. 
 
-In the interest of total disclosure, here is a link with the 20 regressions carried out, and the code used to generate them: ![]([https://nunosempere.github.io/rat/eamentalhealth/analysis/regressions_EA_mental_health.html) 
+In the interest of total disclosure, [here](https://nunosempere.github.io/rat/eamentalhealth/analysis/regressions_EA_mental_health.html)  is a link with the 20 regressions carried out, and the code used to generate them.
 
 The bottomline seems to be that EA is correlated with better mental health, across almost all measures. However, the error bars are humongous, and no significance thresholds are reached. Note that this is only valid for people who are already involved enough with EA to answer this survey. Curiously, I was kind of expecting the opposite result. It would just have been so much more interesting / contrarian.
 
