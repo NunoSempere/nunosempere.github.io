@@ -5,6 +5,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  
 [A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  
 [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
