@@ -1,4 +1,4 @@
-# Unfair chess: A new variant of chess
+# Unfair chess
 
 Rules: 
 - Rule 1: Player One controls the white pieces. For every move he makes, Player Two makes two moves
