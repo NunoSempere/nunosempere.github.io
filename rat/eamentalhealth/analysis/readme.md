@@ -449,6 +449,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Notice that the regression can be rewritten as:
 
 hours_lost ~ Dummy_for(Thinks they need some kind of healthcare) +  Dummy_for(Thinks they need some kind of healthcare)\*Dummy_for(Is receiving the mental healthcare they think they need).  
+
 And that Dummy_for(Thinks they need some kind of healthcare) ~ Dummy(Has a mental condition)  
 
 If this was fully rigorous, giving people "the mental healthcare they need" would reduce hours lost per two weeks from 10.3071 to 7.7986, that is, a difference of 2.5 hours per two weeks, or 1.25 hours per week. Results are similar if we:
