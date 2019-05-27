@@ -25,7 +25,7 @@
 - 10.3. By mental health
 - 10.4. By age
 - 10.5. By involvement in EA.
-11. Insightful comments made by the respondents. [To be added]
+11. Insightful comments made by the respondents.
 12. Conclusion, with some Fermi estimates. [To be added]
 
 ## 1. Is the population which answered the survey representative of EA overall?
@@ -148,7 +148,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 ```
 
 Two narratives present themselves: 
-1: This is a bias, a component of self-interest. More charitably, people are more selfish when they are suffering.
+1: This is a bias, a component of self-interest.
 2: People who feel mental pain have *grokked* negative utilitarianism, or similarly have different intuitions about the matter.
 
 For various factors, some of which are opaque to me, my system 1 is more sympathetic with the first framing. Thus, I'd propose that this topic is more conducive to research analysis of the sort in which QALYs are estimated, and that asking the broad public for opinions is not that valuable.
@@ -412,11 +412,12 @@ Respondents could choose one of the following options, after being prompted by t
 
 We can thus define two dummy variables and regress on them.
 ```
-> Receiving_positive = A[,19]%in%c("Agree", "Strongly agree")*1         ## 1/TRUE if the respondent thinks they're receiving the mental healthcare they need, 0/FALSE otherwise. Note that this excludes respondents who feel that they don't need mental healthcare.
+> Receiving_positive = A[,19]%in%c("Agree", "Strongly agree")*1         ## 1/TRUE if the respondent thinks they're receiving the mental healthcare they need, 0/FALSE otherwise.
 > Receiving_negative= A[,19]%in%c("Disagree", "Strongly disagree")*1    ## 1/TRUE if the respondent thinks they're not receiving the mental healthcare they need, 0/FALSE otherwise.
 ```
 
-The results seem to indicate that when respondents receive the mental health care they think they need, they improve. Note that we care about how much. Note as well that both of the coefficients are positive because the intercept refers to respondents who did not feel they needed mental healthcare. 
+The results seem to indicate that when respondents receive the mental health care they think they need, they improve. Note that both of the coefficients are positive because the intercept refers to respondents who did not feel they needed mental healthcare. 
+
 ```
 > summary(lm(hours_lost ~ Receiving_positive + Receiving_negative))
 
@@ -444,16 +445,6 @@ Receiving_negativeTRUE   2.9386     0.3185   9.227  < 2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-```
-
-Notice that the regression can be rewritten as:
-```
-hours_lost ~ Dummy_for(Thinks they need some kind of healthcare) +  Dummy_for(Thinks they need some kind of healthcare)\*Dummy_for(Is receiving the mental healthcare they think they need).  
-```
-
-And that 
-```
-Dummy_for(Thinks they need some kind of healthcare) ~ Dummy(Has a mental condition)  
 ```
 
 If this was fully rigorous, giving people "the mental healthcare they need" would reduce hours lost per two weeks from 10.3071 to 7.7986, that is, a difference of 2.5 hours per two weeks, or 1.25 hours per week. Results are similar if we:
@@ -493,15 +484,14 @@ Receiving_positive[m_ill3]TRUE  -0.7131     0.2596  -2.747  0.00698 **
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 ```
 
-In the ideal case, if information was free, what I'd like to have is a randomized trial in which:
+Alas, we cannot take the above crosssections at face value. Imagine, for example, that people with lighter mental conditions find it easier to deal with the hassle of finding good treatment, which seems plausible. In that case, the causal arrow would go both ways: (getting good mental healthcare -> healing occurs -> people lose less hours each week), but also (having a lighter mental ilness -> easier to find good mental healthcare) + (having a lighter mental ilness -> loose less work hours). It could also be that, as people regress to the mean with respect to their mental ilness, and become happier, they attribute their improvement to whatever therapy they were receiving, and become more satisfied with it. If we assume that the bias goes in the direction of amplifying the effect of good mental healthcare, the above figures become an upper estimate of its effect.
+
+In the ideal case, what I'd like to have is a randomized trial in which:
 - Productivity and severity of mental ilness are measured across a population
 - Mental healthcare is provided to a randomly selected part of the population; the treatment group.
 - Part of the treatment group takes up that freely provided mental heathcare, and part of the control group pays for the treatment out of pocket.
 - Some time passes.
 - Productivity and severity of mental ilness are measured again, both in the control and treatment group.
-
-Alas, we don't have that, and thus cannot take the above crosssections at face value. Imagine, for example, that people with lighter mental conditions find it easier to deal with the hassle of finding good treatment, which seems plausible. In that case, the causal arrow would go both ways: (getting good mental healthcare -> healing occurs -> people lose less hours each week), but also (having a lighter mental ilness -> easier to find good mental healthcare) + (having a lighter mental ilness -> loose less work hours). It could also be that, as people regress to the mean with respect to their mental ilness, and become happier, they attribute their improvement to whatever therapy they were receiving, and become more satisfied with it. If we assume that the bias goes in the direction of amplifying the effect of good mental healthcare, the above figures become an upper estimate of its effect.
-
 
 ## 10. How does access to mental health ressources vary with a wide variety of factors?
 
@@ -550,7 +540,65 @@ No effect.
 ### 10.5. By involvement in EA.
 No effect. 
 
-## Survey questions
+## 11. Insightful comments made by the respondents. 
+Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase some of the key ideas and leave a technical comment for the footnotes [1], which does not constitute an endorsement.
+
+### 11.1. Selection effects in EA. 
+Some respondents suggested that EA attracts people with mental ilnesses. Perhaps there is a snowball effect going on, perhaps it selects from demographic which have higher rates of mental ilness. Thus, a particularly cost effective way to fight mental health in EA might be to do outreach amongst people who do not have mental health issues.
+
+### 11.2. Do mental health problems stem from EA-specific beliefs?
+A respondent asked about how to deal with work-aholism when your work actually matters. Some people have talked with me about how, if ideas related to existential risk are internalized, Angst might occur. Thus, for EA specific problems, therapists familiar with EA ideas might help more than regular therapists.
+
+On the other hand, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/), and interacting with the content is not the point at all, i.e., even if the world is ending, the best move is to work against that, calmly. Thus, EA therapists might be counterproductive.
+
+### 11.4. EA may not have a comparative advantage in providing mental health ressources.
+Either the market or other organizations, like universities or other NGOs specifically dedicated to mental health (CAMH, Zendo are mentioned, but I am not familiar with them). 
+
+### 11.5. EA France has something going on 
+EA France has a group in which they read *Feeling Good*, by David Burns.  I personally have benefitted from the book, and know that it's available on libgen (or a mirror, like b-ok.org).
+
+Anyways, here is a formal invitation to EA France to talk about how the group is organized.
+
+### 11.6. Visceral comparison with global poverty
+I think someone who has nothing to eat in a developing country still has it worse than someone living with depression. I'd earlier donate a 100 euros to cure two blind people from blindness than spend it on an hour of therapy for me.
+
+### 11.7. Moral hazard.
+Some people may join EA just to use these resources. Or some EAs who were paying for their therapy might choose to get it for free instead. 
+
+### 11.8. Layers of indirectness.
+A respondent mentions that providing mental health ressources goes through two layers of indirectness: therapy may not help mental health, which may not help productivity. Additionally, offering therapy does not mean that therapy is taken up, and an increase in productivity might not mean that the world will be made better. 
+
+Thinking about this further, the case for providing EAs with mental healthcare rests on three distinct pathways to impact:
+1. Providing mental healthcare to anyone with a mental condition makes them happier, and this in itself makes the world better.
+2. Providing mental healthcare to effective altruists earning to give makes them work more and thus earn more money, which they then donate to effective charities, and this makes the world better.
+3. Providing mental heathcare to effective altruists working in really effective projects makes them more likely to succeed in their undertakings. If these undertakings succeed, this makes the world better.
+
+In each of the three cases, there are many different steps in the process of providing mental healthcare, until impact is reached:
+- Mental healthcare is offered to EAs.
+- Some, but not all the EAs who need it apply for it.
+- Some non EAs also apply. They are somehow filtered.
+- Some EAs who would have paid for healthcare out of their own pocket get it for free instead.
+    - Note that for some EAs, the limiting factor may not be money, but spoons/energy/not procrastinating.
+- Mental healthcare works, and improves the patient's mental health somehow.
+- In pathway 1, the process ends here. 
+- In pathway 2, better mental health leads to a degree of higher work efficiency / more work hours -> More donations to effective charities, f.ex., GiveDirectly -> Impact pathway of GiveDirectly.
+- In pathway 3, better mental health -> higher likelihood of success -> pathway to impact of the effective project.
+
+### 11.9. A support group for EAs with ADHD
+A commenter talked about forming a support group for EAs with ADHD. Here is a formal invitation to establish one.
+
+### 11.10. Cheap ressources.
+Whereas therapists are relatively expensive, it's relatively cheap to make [Nate Soares' writing on guilt] (http://mindingourway.com/guilt/) more widely known. I personally have also recently gotten some value out of Kaj Sotala's blogposts on psychological frameworks (https://kajsotala.fi/blog/blog_english/); there a certain power in hearing other people talk about their struggles with mental conditions. 
+
+SlateStarCodex's list of [mental health professionals](https://slatestarcodex.com/psychiat-list/), [ressources](https://www.reddit.com/r/raisedbynarcissists/comments/6cdmn2/new_here_helpful_posts_comments_from_rbnbestof/) by [r/raisedbynarcissists](https://www.reddit.com/r/raisedbynarcissists/wiki/helpfullinks), and in particular [this list of books for building your life](https://www.reddit.com/r/raisedbynarcissists/comments/1axuzu/book_list_for_building_your_life/), are free. I've personally gotten some value out of these [Strategies and tools for getting through a break up](https://www.lesswrong.com/posts/opLKzAFQWCco8wQiH/strategies-and-tools-for-getting-through-a-break-up). The aforementioned *Feeling Good*, by David Burns is also free if found online (b-ok.org). 
+
+The point being that there are a lot of mental health ressources and information online, if only one knew where to find them, and >10% of survey respondents answered that finding information on mental health ressources was hard or very hard:
+
+![](https://nunosempere.github.io/rat/eamentalhealth/Q15-b.png)
+
+[1] Technical note: Let a be a variable which stands for an individual eas, and consider a mapping of O: A-> |N, such that O(a) falls in {1,...,n}, and consider a function like f(x) = c\*x^(-j)\*(1 + 1/sqrt(2\*pi\*9)\*exp(-x^2 / 2\*9}\*sin(x)/BB(6)), where BB is the busy beaver function. It may be that the counterfactual impact of eas follows such a distribution, and also j and c are arbitrary constants, j preferably greater than 3, because otherwise the variance is not well defined, and consider the relationship which the integral from 1 to k of f(x)dx and the integral from k+1 to n of f(x) dx have. It wouldn't  be unsurprising if O(a) were not inversely correlated with conscientiousnes and initiative, and correlated, perhaps causally, with more mental health problems, as these variables often are. In particular, consider the first k such that the integral from 1 to k of f(x)dx > the integral from k+1 to n of f(x) dx. The question is now whether for high O(a), offering mental health is worth it, given that O(a) is a priori unknown, and that computing the exact value of f(O(a)) is arduous / subject to Goodhart's law or to moral hazards.
+
+## Inf. Survey questions
 1. How involved are you in the Effective Altruism Community?	
 2. Do you attend EA meetings?	
 3. How much impact do EA ideas have on your life?	
