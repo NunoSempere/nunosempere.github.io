@@ -148,7 +148,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 ```
 
 Two narratives present themselves: 
-1: This is a bias, a component of self-interest.
+1: This is a bias, a component of self-interest. More charitably, people are more selfish when they are suffering.
 2: People who feel mental pain have *grokked* negative utilitarianism, or similarly have different intuitions about the matter.
 
 For various factors, some of which are opaque to me, my system 1 is more sympathetic with the first framing. Thus, I'd propose that this topic is more conducive to research analysis of the sort in which QALYs are estimated, and that asking the broad public for opinions is not that valuable.
@@ -550,8 +550,7 @@ No effect.
 ### 10.5. By involvement in EA.
 No effect. 
 
-
-## Inf. Survey questions
+## Survey questions
 1. How involved are you in the Effective Altruism Community?	
 2. Do you attend EA meetings?	
 3. How much impact do EA ideas have on your life?	
