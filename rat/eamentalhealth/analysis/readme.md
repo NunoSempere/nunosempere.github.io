@@ -594,6 +594,8 @@ With regards to pathway 2, we have a rough upwards crosssectional estimate of 2 
 - Gains because of therapy continue after therapy has ended
     - As opposed to regression to the mean? That is, the gains of therapy might not be people getting better, but people getting better sooner.
 
+![](https://nunosempere.github.io/rat/eamentalhealth/analysis/Q7-9b.png)
+
 With regards to pathway 3, it is my impression that people in top charities and EA organizations already get good mental healthcare, though about rogue effective altruists I cannot say much. 
 
 With regards to other fuzzier pathways, they would have to be outlined first. 
