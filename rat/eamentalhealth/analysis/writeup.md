@@ -1,8 +1,8 @@
 # EA Mental Health Survey: Results and Analysis.
 
-Epistemic status: I would really like for this to be replicated by the Annual the EA Survey organized by Rethink Charity
-Credit: Danica Willbanks, with the help of EA Spain, including myself, created and carried out the survey. The analysis which follows is mine, with some suggestions on which regressions to run by Danica.
+Epistemic status: I am confident in everything I say. Conscious of the limitations of the data, I would really like for this to be replicated by the Annual EA Survey organized by Rethink Charity. 
 
+Credit: Danica Willbanks created and carried out the survey, with the help of several EA Spain members, including myself. The analysis which follows is mine, with some suggestions on which regressions to run by Danica.
 
 ## Index:
 
