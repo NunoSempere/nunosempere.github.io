@@ -724,7 +724,7 @@ In personal converations, a person in the outer orbit of the EA community has po
 
 ## E. Summary
 
-We first provided some shiny plots which summarized our results. 
+We first provided some shiny plots which summarized the results of the survey. 
 
 Then, we proceeded to analyze these results. We have seen that demographically, respondents varied somewhat compared with the 2018 EA Survey, but didn't worry too much about that. The rates of mental ilnesses were astoundingly high: 45% of respondents had been diagnosed with at least one mental condition, which shoots up to 71% if we include respondents who think they have a mental condition, but have not formally been diagnosed with one.
 
