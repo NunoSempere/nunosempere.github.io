@@ -55,7 +55,7 @@ We see that the distribution is broadly similar across the countries among which
 - 45% have been diagnosed with one or more mental disorders (from our list).
 - 71% either have been diagnosed with one or more mental disorders, or intuit they have one.
 - The average number of mental ilnesses respondents have been diagnosed with is 0.82
-- The average number of mental ilnesses respondents have either been diagnosed with or intuit they have is 1.68. This number is higher than one because some (many respondents) have more than one disorder.
+- The average number of mental ilnesses respondents have either been diagnosed with or intuit they have is 1.68. This number is higher than one because some (many respondents) have more than one disorder. This is not particularly surprising: see [Understanding Comorbid Depression and Anxiety](https://www.psychiatrictimes.com/articles/understanding-comorbid-depression-and-anxiety). 
 
 Thus, we can conclude with certainty that there are selection effects going on. Whether this is at the level of the EA community or at the survey level is not deducible from the data. That is, it could either be that EA attracts people with mental disorders, or that the survey attracts respondents with mental disorders. Thus, we suggest adding a mental health section to the yearly EA Survey by Rethink Charity.
 
@@ -70,8 +70,8 @@ The first four questions in our survey relate to involvement with EA:
 And two measures of mental ilness:
 - A. A binary variable indicating whether a person was diagnosed with any mental ilness (from our list) or not.
 - B. A binary variable indicating whether a person was diagnosed with any mental ilness / think they have a mental ilness, or not
-- C. An integer variable with the number of mental ilnesses a person has.
-- D. An integer variable with the number of mental ilnesses a person has or thinks they have.
+- C. An integer variable with the number of mental ilnesses a person has been diagnosed with.
+- D. An integer variable with the number of mental ilnesses a person has been diagnosed with, or thinks they have.
 
 We have run 20 linear models, regressing each of our measures of mental ilness with the answers to each of the four questions, and their sum (where verbal scales are converted to numerical ones when required. For example, a {"No", "Yes"} is converted to {0,1}. As a technical note, whether it's converted to {0,1} or to {1,2} doesn't affect the regression coefficient, just the intercept)
 
@@ -91,11 +91,13 @@ A$Do.you.attend.EA.meetings.Yes, occasionally                                   
 A$Do.you.attend.EA.meetings.Yes, often                                              0.1042     0.2926   0.356    0.722
 
 ```
-The key column is "Estimate". Smaller numbers are better, and we see that the more often one goes, the less likely is one to have been diagnosed with a mental ilness. No > No, but I regularly participate in an EA online group  > Yes, occasionally > Yes often. 
+The key column is "Estimate". Smaller numbers are better, and we see that the more often one goes, the less likely is one to have been diagnosed with a mental ilness. No > No, but I regularly participate in an EA online group  > Yes, occasionally ~ Yes often. 
 
 In the interest of total disclosure, [here](https://nunosempere.github.io/rat/eamentalhealth/analysis/regressions_EA_mental_health.html)  is a link with the 20 regressions carried out, and the code used to generate them.
 
-The bottomline seems to be that EA is correlated with better mental health, across almost all measures. However, the error bars are humongous, and no significance thresholds are reached. Note that this is only valid for people who are already involved enough with EA to answer this survey. Curiously, I was kind of expecting the opposite result. It would just have been so much more interesting / contrarian.
+The bottomline seems to be that EA is correlated with better mental health, across almost all measures. However, the error bars are humongous, and no significance thresholds are reached. Note that this is only valid for people who are already involved enough with EA to answer this survey. 
+
+Curiously, I was kind of expecting the opposite result. It would just have been so much more interesting / contrarian. See also: [Efffective Altruists, not as mentally ill as you think](https://slatestarcodex.com/2015/03/06/effective-altruists-not-as-mentally-ill-as-you-think/)
 
 ### 4. Is being mentally ill predictive of answering yes to: "Do you think you could personally benefit from EA community mental health resources?"
 
@@ -541,15 +543,23 @@ No effect.
 No effect. 
 
 ## 11. Insightful comments made by the respondents. 
-Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase some of the key ideas and leave a technical comment for the footnotes [1], which does not constitute an endorsement.
+Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase some of the key ideas and leave a technical comment for the footnotes [1]. This does not constitute an endorsement.
 
 ### 11.1. Selection effects in EA. 
 Some respondents suggested that EA attracts people with mental ilnesses. Perhaps there is a snowball effect going on, perhaps it selects from demographic which have higher rates of mental ilness. Thus, a particularly cost effective way to fight mental health in EA might be to do outreach amongst people who do not have mental health issues.
 
-### 11.2. Do mental health problems stem from EA-specific beliefs?
-A respondent asked about how to deal with work-aholism when your work actually matters. Some people have talked with me about how, if ideas related to existential risk are internalized, Angst might occur. Thus, for EA specific problems, therapists familiar with EA ideas might help more than regular therapists.
+This model is consistent with finding out that, among effective altrists, more effective altruism is not correlated (or correlated weakly) with better mental health (see section 3.)
 
-On the other hand, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/), and interacting with the content is not the point at all, i.e., even if the world is ending, the best move is to work against that, calmly. Thus, EA therapists might be counterproductive.
+### 11.2. Do mental health problems stem from EA-specific beliefs?
+A respondent asked about how to deal with work-aholism when your work actually matters. Some people have talked with me about how, if ideas related to existential risk are internalized, Angst might occur. Thus, for EA specific problems, therapists familiar with EA ideas might help more than regular therapists. 
+
+What follows are my own thoughts.
+
+This model is not is not consistent with finding out that, among effective altrists, more effective altruism is not correlated (or correlated weakly) with better mental health (see section 3). That is, if effective altruism caused mental ilness, we have lost part of the probability mass which comes from (more effective altruism -> more mental ilness). Instead, only the probability mass corresponding to (if a certain level of effective altruism is reached -> more mental ilness). 
+
+For a toy model, consider for example whether mental ilness is caused by involvement in effective altruism and mediated by understanding x-risk, that is, suppose that understanding x-risk led to (a chance of developing) depression/anxiety, and that higher levels of effective altruism led to higher chances of understanding x-risk. For example, suppose that numerical answers to "How involved are you in the EA community?", from 1 to 6 were such that: Answering 1 (not very involved) leads to a 10% probability of understanding x-risk, 2->20%, ..., 6-> 60%. Imagine then that our survey has serious selection effects (such that people with more mental ilness and people more familiar with effective altruism are more likely to participate). Then the effect would be amplified by these selection effects, and we *would* see a correlation between effective altruism and worse mental health. 
+
+The fact that we *don't* is indicative of other models, like models with selection effects. For example, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/). Maybe minds with mental conditions look for things to be depressed or anxious about, and effective altruism happens to provide some. Crucially, the counterfactual would not be not freaking out about stuff, it would be having fixated on something else to freak out about, like american politics, climate change, sexual assault, not being lovable, etc. *The content and origin of the idea being fixated on might be besides the point*. Under this model, EA therapists might be counterproductive.
 
 ### 11.4. EA may not have a comparative advantage in providing mental health ressources.
 Either the market or other organizations, like universities or other NGOs specifically dedicated to mental health (CAMH, Zendo are mentioned, but I am not familiar with them). 
@@ -557,7 +567,7 @@ Either the market or other organizations, like universities or other NGOs specif
 ### 11.5. EA France has something going on 
 EA France has a group in which they read *Feeling Good*, by David Burns.  I personally have benefitted from the book, and know that it's available on libgen (or a mirror, like b-ok.org).
 
-Anyways, here is a formal invitation to EA France to talk about how the group is organized.
+Here is a formal invitation to EA France to talk about how the group is organized.
 
 ### 11.6. Visceral comparison with global poverty
 I think someone who has nothing to eat in a developing country still has it worse than someone living with depression. I'd earlier donate a 100 euros to cure two blind people from blindness than spend it on an hour of therapy for me.
@@ -565,38 +575,59 @@ I think someone who has nothing to eat in a developing country still has it wors
 ### 11.7. Moral hazard.
 Some people may join EA just to use these resources. Or some EAs who were paying for their therapy might choose to get it for free instead. 
 
-### 11.8. Layers of indirectness.
-A respondent mentions that providing mental health ressources goes through two layers of indirectness: therapy may not help mental health, which may not help productivity. Additionally, offering therapy does not mean that therapy is taken up, and an increase in productivity might not mean that the world will be made better. 
+### 11.8. Layers of indirectness and pathways to impact.
+A respondent mentions that providing mental health ressources goes through two layers of indirectness: therapy may not help mental health, which may not help productivity. the comment stops here; what follows are my own thoughts.
 
-Thinking about this further, the case for providing EAs with mental healthcare rests on three distinct pathways to impact:
+Additionally, offering therapy does not mean that therapy is taken up, and an increase in productivity might not mean that the world will be made better. 
+
+Thinking about this further, the case for providing EAs with mental healthcare seems to rest on several distinct pathways to impact:
 1. Providing mental healthcare to anyone with a mental condition makes them happier, and this in itself makes the world better.
 2. Providing mental healthcare to effective altruists earning to give makes them work more and thus earn more money, which they then donate to effective charities, and this makes the world better.
 3. Providing mental heathcare to effective altruists working in really effective projects makes them more likely to succeed in their undertakings. If these undertakings succeed, this makes the world better.
+4. Others, like "flourishing of the community". Although its specific impact might be difficult to measure, providing mental health, together with other measures, makes the community flourish, and this leads to a better world.
 
-In each of the three cases, there are many different steps in the process of providing mental healthcare, until impact is reached:
+With regards to pathway 1, [perhaps effective altruism are not the best demographic to worry about](https://forum.effectivealtruism.org/posts/XWSTBBH8gSjiaNiy7/cause-profile-mental-health). 
+
+With regards to pathway 2, we have a rough upwards crosssectional estimate of 2 hours of work saved per week if satisfactory mentalh healthcare is provided (with a more realistic estimate being 1 hour/week). If therapy lasts one hour per week, and the therapist has to be paid for one hour, in the short term no real time gain might be made. However, this is only indicative, and one could argue that:
+- The distribution is more important than the mean. That is, the average person does not exist; we may have a small number of people who could be a lot more effective if they had mental health, and a lot of people who wouldn't benefit that much (see image below)
+    - This requires to argue that filtering and organizational costs are not likely to be significant. I am skeptical of this if organized centrally, and less skeptical if local EA groups organize it themselves.
+- Gains because of therapy continue after therapy has ended
+    - As opposed to regression to the mean? That is, the gains of therapy might not be people getting better, but people getting better sooner.
+
+With regards to pathway 3, it is my impression that people in top charities and EA organizations already get good mental healthcare, though about rogue effective altruists I cannot say much. 
+
+With regards to other fuzzier pathways, they would have to be outlined first. 
+
+In each of the first three cases, there are many different steps in the process of providing mental healthcare, until impact is reached. I do not think this is a case of the conjunctive fallacy, but more of a case of attrition.
 - Mental healthcare is offered to EAs.
 - Some, but not all the EAs who need it apply for it.
 - Some non EAs also apply. They are somehow filtered.
 - Some EAs who would have paid for healthcare out of their own pocket get it for free instead.
-    - Note that for some EAs, the limiting factor may not be money, but spoons/energy/not procrastinating.
+    - Note that people with mental conditions, the limiting factor may not be money, but spoons/energy/not procrastinating.
 - Mental healthcare works, and improves the patient's mental health somehow.
 - In pathway 1, the process ends here. 
 - In pathway 2, better mental health leads to a degree of higher work efficiency / more work hours -> More donations to effective charities, f.ex., GiveDirectly -> Impact pathway of GiveDirectly.
-- In pathway 3, better mental health -> higher likelihood of success -> pathway to impact of the effective project.
+- In pathway 3, better mental health -> higher likelihood of success -> pathway to impact of the effective project. The project presumably has to be at some point asessed.
+
+All in all, althought the questions in our survey only ask about "offering mental health resources to effective altruists" in the abstract, the specific pathway to impact matters, because the several outlined here are different. In particular, if none of them work, being fuzzy about which one is in effect wouldn't help.
 
 ### 11.9. A support group for EAs with ADHD
-A commenter talked about forming a support group for EAs with ADHD. Here is a formal invitation to establish one.
+A commenter talked about forming a support group for EAs with ADHD. Here is a formal invitation to create one.
 
 ### 11.10. Cheap ressources.
 Whereas therapists are relatively expensive, it's relatively cheap to make [Nate Soares' writing on guilt] (http://mindingourway.com/guilt/) more widely known. I personally have also recently gotten some value out of Kaj Sotala's blogposts on psychological frameworks (https://kajsotala.fi/blog/blog_english/); there a certain power in hearing other people talk about their struggles with mental conditions. 
 
-SlateStarCodex's list of [mental health professionals](https://slatestarcodex.com/psychiat-list/), [ressources](https://www.reddit.com/r/raisedbynarcissists/comments/6cdmn2/new_here_helpful_posts_comments_from_rbnbestof/) by [r/raisedbynarcissists](https://www.reddit.com/r/raisedbynarcissists/wiki/helpfullinks), and in particular [this list of books for building your life](https://www.reddit.com/r/raisedbynarcissists/comments/1axuzu/book_list_for_building_your_life/), are free. I've personally gotten some value out of these [Strategies and tools for getting through a break up](https://www.lesswrong.com/posts/opLKzAFQWCco8wQiH/strategies-and-tools-for-getting-through-a-break-up). The aforementioned *Feeling Good*, by David Burns is also free if found online (b-ok.org). 
+SlateStarCodex's list of [mental health professionals](https://slatestarcodex.com/psychiat-list/), [ressources](https://www.reddit.com/r/raisedbynarcissists/comments/6cdmn2/new_here_helpful_posts_comments_from_rbnbestof/) by [r/raisedbynarcissists](https://www.reddit.com/r/raisedbynarcissists/wiki/helpfullinks), and in particular [this list of books for building your life](https://www.reddit.com/r/raisedbynarcissists/comments/1axuzu/book_list_for_building_your_life/), are free. I've personally gotten some value out of these [Strategies and tools for getting through a break up, from LessWrong](https://www.lesswrong.com/posts/opLKzAFQWCco8wQiH/strategies-and-tools-for-getting-through-a-break-up). The aforementioned *Feeling Good*, by David Burns is also free if found online (b-ok.org). 
 
 The point being that there are a lot of mental health ressources and information online, if only one knew where to find them, and >10% of survey respondents answered that finding information on mental health ressources was hard or very hard:
 
 ![](https://nunosempere.github.io/rat/eamentalhealth/Q15-b.png)
 
-[1] Technical note: Let a be a variable which stands for an individual eas, and consider a mapping of O: A-> |N, such that O(a) falls in {1,...,n}, and consider a function like f(x) = c\*x^(-j)\*(1 + 1/sqrt(2\*pi\*9)\*exp(-x^2 / 2\*9}\*sin(x)/BB(6)), where BB is the busy beaver function. It may be that the counterfactual impact of eas follows such a distribution, and also j and c are arbitrary constants, j preferably greater than 3, because otherwise the variance is not well defined, and consider the relationship which the integral from 1 to k of f(x)dx and the integral from k+1 to n of f(x) dx have. It wouldn't  be unsurprising if O(a) were not inversely correlated with conscientiousnes and initiative, and correlated, perhaps causally, with more mental health problems, as these variables often are. In particular, consider the first k such that the integral from 1 to k of f(x)dx > the integral from k+1 to n of f(x) dx. The question is now whether for high O(a), offering mental health is worth it, given that O(a) is a priori unknown, and that computing the exact value of f(O(a)) is arduous / subject to Goodhart's law or to moral hazards.
+### 11.10. Providing mental health ressources is creepy
+In personal converations, a person in the outer orbit of the EA community has pointed out to me that providing mental health is creepy, and that they feel cringe when thinking about the idea. The word "cult" is mentioned. I am uncertain about their epistemic level, but it is not implausible that providing mental health may put prospective EAs off.
+
+
+[1] Technical note: Let a be a variable which stands for an individual eas, and consider a mapping of O: A-> |N, such that O(a) falls in {1,...,n}, and consider a function like f(x) = c\*x^(-j)\*(1 + 1/sqrt(2\*pi\*9)\*exp(-x^2 / 2\*9}\*sin(x)/BB(6)), where BB is the busy beaver function. It may be that the counterfactual impact of eas follows such a distribution; j and c would be arbitrary constants, with j preferably greater than 3, because otherwise the variance is not well defined, and consider the relationship which the integral from 1 to k of f(x)dx and the integral from k+1 to n of f(x) dx have. It wouldn't  be unsurprising if O(a) were not inversely correlated with conscientiousnes and initiative, and correlated, perhaps causally, with more mental health problems, as these variables often are. Now consider the first k such that the integral from 1 to k of f(x)dx > the integral from k+1 to n of f(x) dx. The question is now whether for high O(a), offering mental health is worth it, given that O(a) is a priori unknown, and that computing the exact value of f(O(a)) is arduous / subject to Goodhart's law or to moral hazards.
 
 ## Inf. Survey questions
 1. How involved are you in the Effective Altruism Community?	
