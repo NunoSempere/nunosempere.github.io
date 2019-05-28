@@ -475,9 +475,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 #### 9.2. How is this mediated by treatment and access to treatment?
 So unsurprisingly, having a mental ilness decreases both work hours, and self-reported productivity when working. Thus, a pressing question is whether therapy has an effect on that. 
 
-Four questions ask about treatment or access to treatment:
-- How challenging was it to receive the mental healthcare services you needed within the past 12 months?	
-- How challenging is it to find useful information on mental healthcare services? 	
+Two questions ask about access to treatment:
 - "I am currently receiving the mental healthcare I need."
 - How satisfied are you with the mental healthcare you've received?	
 
@@ -627,7 +625,7 @@ No effect.
 #### 10.5. By involvement in EA.
 No effect. 
 
-### 11. Implications for mental health in EA overall, guided by some insightful comments made by the respondents. 
+## D. Implications for mental health in EA overall, guided by some insightful comments made by the respondents. 
 
 Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase and expand on some of the key ideas and leave a technical comment for the footnotes [1]. I have found these comments very useful as way to think about the problem of mental health in EA overall.
 
@@ -715,7 +713,7 @@ The point being that there are a lot of mental health ressources and information
 Thus, it is a high tractability, high neglectedness, small to medium impact task to create such a list of mental ressources for the EA community, even if collated and scavenged from other sources. If such a ressource already exist, some respondents do not seem to know about it.
 
 #### 11.10. Providing mental health ressources is creepy
-In personal converations, a person in the outer orbit of the EA community has pointed out to me that providing mental health is creepy, and that they feel cringe when thinking about the idea. The word "cult" is mentioned. I am uncertain about their epistemic level, but it is not implausible that providing mental health may put prospective EAs off.
+In personal converations, a person in the outer orbit of the EA community has pointed out to me that providing mental health is creepy, and that they feel cringe when thinking about the idea. The word "cult" is mentioned. It is not implausible that providing mental health may put prospective EAs off.
 
 
 [1] [Technical note](https://concepts.effectivealtruism.org/concepts/information-hazards/): Let a be a variable which stands for an individual eas, and consider a mapping of O: A-> |N, such that O(a) falls in {1,...,n}, and consider a function like f(x) = c\*x^(-j)\*(1 + 1/sqrt(2\*pi\*9)\*exp(-x^2 / 2\*9}\*sin(x)/BB(6)), where BB is the busy beaver function. It may be that the counterfactual impact of eas follows such a distribution; j and c would be arbitrary constants, with j preferably greater than 3, because otherwise the variance is not well defined, and consider the relationship which the integral from 1 to k of f(x)dx and the integral from k+1 to n of f(x) dx have. It wouldn't  be unsurprising if O(a) were not inversely correlated with conscientiousnes and initiative, and correlated, perhaps causally, with more mental health problems, as these variables often are. Now consider the first k such that the integral from 1 to k of f(x)dx > the integral from k+1 to n of f(x) dx. The question is now whether for high O(a), offering mental health is worth it, given that O(a) is a priori unknown, and that computing the exact value of f(O(a)) is arduous / subject to Goodhart's law or to moral hazards. 
