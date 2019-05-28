@@ -276,9 +276,9 @@ However, I insisted in adding the second question because the connotations are s
 As it turns out, only 30% of respondents gave the same answer to the two questions. This is not correlated with mental disorders, age, sex, gender, impact of EA ideas in one's life or involvement in the EA community. It is, however, weakly correlated with donating to GiveWell recommended charities.
 
 ### 7. How does further involment in EA correlate with opinions on the value of mental health resources?
-The correlation between involvement in EA and having a positive opinion of providing mental health ressources is positive, but small and not significant at all. I wouldn't read anything into this.
+The correlation between involvement in EA and having a positive opinion of providing mental health ressources is positive, but small and not significant at all. I wouldn't read anything into this, but I am reporting this because I ran the regression.
 
-The above is true both if we create a dummy for each possible answer (which are: "Strongly disagree", "Disagree", "", "Neutral/Not sure", "Agree", "Strongly agree") and if we instead convert the answers into a number ("Strongly disagree" = -2, "Disagree" = -1, ""=0, "Neutral/Not sure"=0, "Agree"=1, "Strongly agree"=2) and run a regression on that. For that matter, the switch function in R proved usatisfactory for working on strings; I wrote one more suited to my purposes and sufficient for n=303.
+The above is true both if we create a dummy for each possible answer (which are: "Strongly disagree", "Disagree", "", "Neutral/Not sure", "Agree", "Strongly agree") and also if we instead convert the answers into a number ("Strongly disagree" = -2, "Disagree" = -1, ""=0, "Neutral/Not sure"=0, "Agree"=1, "Strongly agree"=2) and run a regression on that. For that matter, the switch function in R proved usatisfactory for working on strings; I wrote one more suited to my purposes and sufficient for n=303.
 
 ```
 switch2 <- function(Elements, Compare_With, Output_if_found, Output_if_Else){
@@ -287,7 +287,9 @@ switch2 <- function(Elements, Compare_With, Output_if_found, Output_if_Else){
     i=1 
     found=FALSE
     for(comparator in Compare_With){
-       if(element == comparator){
+       if(is.na(element) | is.na(comparator)){
+         
+       } else if(element == comparator){
          found = TRUE
          Lista = c(Lista, Output_if_found[i])
        }
