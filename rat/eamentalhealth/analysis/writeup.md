@@ -28,6 +28,7 @@ Credit: Danica Willbanks created and carried out the survey, with the help of se
 9. How does mental health affect productivity, and how is this mediated by access to healthcare?
 - 9.1. How does mental health affect productivity?
 - 9.2. How is lost productivity mediated by treatment and access to treatment?
+- 9.3. Same as the above, with a different operationalization
 10. How does access to mental health ressources vary with a variety of factors?
 - 10.1. By countries or continent.
 - 10.2. By race/ethnicity.
@@ -595,6 +596,371 @@ But I can't have that with the current physics, so the most similar possible thi
 
 The point being that, at each step that our data deviates from this, errors may arise.
 
+#### 9.3. Correlation of the Work Productivity and Impairment Scale with mental health
+
+We ask essentially the same questions as above, but with a different operationalization.
+
+The Work Productivity and Impairment Scale has had some thought put into it, and in how to represent the results. Quoting directly from their [webpage](http://www.reillyassociates.net/WPAI_Scoring.html)
+
+> WPAI outcomes are expressed as impairment percentages, with higher numbers indicating greater impairment and less productivity, i.e., worse outcomes, as follows: 
+> 
+> Questions:
+> 1 = currently employed
+> 2 = hours missed due to health problems
+> 3 = hours missed other reasons
+> 4 = hours actually worked
+> 5 = degree health affected productivity while working
+> 6 = degree health affected regular activities
+> 
+> Scores:
+> Multiply scores by 100 to express in percentages.
+>
+> Percent work time missed due to health: Q2/(Q2+Q4)
+>
+> Percent impairment while working due to health: Q5/10
+>
+> Percent overall work impairment due to health:
+>      Q2/(Q2+Q4)+[(1-(Q2/(Q2+Q4)))x(Q5/10)]
+>
+> Percent activity impairment due to health: Q6/10 
+
+In R, this would be
+
+```
+Percent_missed_due_to_mental_health = as.integer(horus$hours_missed_processed) / (as.integer(horus$hours_missed_processed) + as.integer(horus$hours_worked))
+
+Impairment_while_working_due_to_mental_health = A$During.the.past.14.days..how.much.did.mental.health.problems.affect.your.productivity.while.you.were.working./10
+
+## But because the survey mistakenly provided a scale from 1-10, instead of a scale from 0-10, a correction must be made:
+Impairment_while_working_due_to_mental_health = (A$During.the.past.14.days..how.much.did.mental.health.problems.affect.your.productivity.while.you.were.working.-1)/9
+
+Overall_work_impairment = Percent_missed_due_to_mental_health + (1-Percent_missed_due_to_mental_health )*Impairment_while_working_due_to_mental_health
+Overall_work_impairment = Overall_work_impairment*100 ## To express this is percentages.
+```
+
+We will use the percent overall work impairment due to health as our productivity measure.
+
+Now, we can correlate productivity lost with having or not having a mental ilness. Because I'm not sure respondents understood that an answer of 5 on a scale of 1-10 would be interpreted as a 50% reduction in effectiveness, I'm hesitant to interpret this as a percentage. If we speak about points in the abstract:
+- When regressing lost productivity on mental conditions diagnosed and intuited: Being diagnosed with a mental condition is correlated with 42 points of lost productivity, and Intuiting one has a mental ilness (as opposed to having been diagnosed with one) is correlated with a lost of ~27 points of lost productivity
+- Each additional diagnosed mental ilness is correlated with a ~15 point in productivity loss.
+
+The regressions carried out are:
+
+```
+> summary(lm(Overall_work_impairment~A$m_ill_or_not))
+
+Call:
+lm(formula = Overall_work_impairment ~ A$m_ill_or_not)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-52.766 -23.113  -3.935  20.538  66.134 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      23.113      2.219  10.414   <2e-16 ***
+A$m_ill_or_not   29.653      3.281   9.038   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 26.91 on 269 degrees of freedom
+  (32 observations deleted due to missingness)
+Multiple R-squared:  0.2329,	Adjusted R-squared:  0.2301 
+F-statistic: 81.69 on 1 and 269 DF,  p-value: < 2.2e-16
+
+> summary(lm(Overall_work_impairment~A$m_ill_or_not2))
+
+Call:
+lm(formula = Overall_work_impairment ~ A$m_ill_or_not2)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-47.36 -14.03   0.86  19.30  52.64 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)       10.251      2.908   3.525 0.000497 ***
+A$m_ill_or_not2   37.112      3.446  10.771  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 25.68 on 269 degrees of freedom
+  (32 observations deleted due to missingness)
+Multiple R-squared:  0.3013,	Adjusted R-squared:  0.2987 
+F-statistic:   116 on 1 and 269 DF,  p-value: < 2.2e-16
+
+> summary(lm(Overall_work_impairment~A$m_ill_or_not + (A$m_ill_or_not2 & !A$m_ill_or_not)))
+
+Call:
+lm(formula = Overall_work_impairment ~ A$m_ill_or_not + (A$m_ill_or_not2 & 
+    !A$m_ill_or_not))
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-52.77 -15.43   0.86  17.82  51.59 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                             10.251      2.829   3.624 0.000347 ***
+A$m_ill_or_not                          42.515      3.610  11.775  < 2e-16 ***
+A$m_ill_or_not2 & !A$m_ill_or_notTRUE   27.402      4.129   6.637 1.77e-10 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 24.98 on 268 degrees of freedom
+  (32 observations deleted due to missingness)
+Multiple R-squared:  0.3412,	Adjusted R-squared:  0.3363 
+F-statistic:  69.4 on 2 and 268 DF,  p-value: < 2.2e-16
+
+> summary(lm(Overall_work_impairment~A$num_mental_ilnesses))
+
+Call:
+lm(formula = Overall_work_impairment ~ A$num_mental_ilnesses)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-59.17 -21.14  -3.74  17.30  64.21 
+
+Coefficients:
+                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)             25.036      2.007  12.475   <2e-16 ***
+A$num_mental_ilnesses   14.089      1.454   9.688   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 26.45 on 269 degrees of freedom
+  (32 observations deleted due to missingness)
+Multiple R-squared:  0.2586,	Adjusted R-squared:  0.2559 
+F-statistic: 93.85 on 1 and 269 DF,  p-value: < 2.2e-16
+
+> summary(lm(Overall_work_impairment~A$num_mental_ilnesses2))
+
+Call:
+lm(formula = Overall_work_impairment ~ A$num_mental_ilnesses2)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-50.013 -16.426  -5.314  15.953  59.286 
+
+Coefficients:
+                       Estimate Std. Error t value Pr(>|t|)    
+(Intercept)             16.4255     2.1752   7.551 6.73e-13 ***
+A$num_mental_ilnesses2  12.1443     0.9577  12.681  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 24.31 on 269 degrees of freedom
+  (32 observations deleted due to missingness)
+Multiple R-squared:  0.3741,	Adjusted R-squared:  0.3718 
+F-statistic: 160.8 on 1 and 269 DF,  p-value: < 2.2e-16
+
+> summary(lm(Overall_work_impairment~A$m_ill_or_not2 + A$num_mental_ilnesses2))
+
+Call:
+lm(formula = Overall_work_impairment ~ A$m_ill_or_not2 + A$num_mental_ilnesses2)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-44.35 -13.30  -0.34  16.14  55.65 
+
+Coefficients:
+                       Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              10.251      2.688   3.814 0.000170 ***
+A$m_ill_or_not2          16.453      4.387   3.750 0.000216 ***
+A$num_mental_ilnesses2    8.821      1.288   6.847 5.14e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 23.74 on 268 degrees of freedom
+  (32 observations deleted due to missingness)
+Multiple R-squared:  0.4053,	Adjusted R-squared:  0.4009 
+F-statistic: 91.34 on 2 and 268 DF,  p-value: < 2.2e-16
+```
+
+#### 9.4. Correlation of the Work Productivity and Impairment Scale with mental health, mediated by an index of access.
+With respect to accessibility, we can consider the following 4 questions:
+14. How challenging was it to receive the mental healthcare services you needed within the past 12 months?	
+15. How challenging is it to find useful information on mental healthcare services? 	
+16. Do you experience financial difficulties as a result of mental healthcare?	
+17. "I am currently receiving the mental healthcare I need." 	
+18. How satisfied are you with the mental healthcare you've received?	
+
+And aggregate them into an index, by assigning a numerical score to each answer to each question, and adding up the scores for each respondent.
+```
+> i=16
+> colnames(A)[i]
+[1] "How.challenging.was.it.to.receive.the.mental.healthcare.services.you.needed.within.the.past.12.months."
+> unique(A[,i])
+[1] "Fairly easy"                                                                                                       
+[2] "I have not needed mental healthcare services in the past 12 months."                                               
+[3] "Very hard"                                                                                                         
+[4] "Fairly hard"                                                                                                       
+[5] "Moderate"                                                                                                          
+[6] ""                                                                                                                  
+[7] "I did not seek out mental healthcare services in the past 12 months but believe I could have benefitted from them."
+[8] "Very easy"                                                                                                         
+> switch2(A[,16],unique(A[,16]),c(1,0,-2,-1,0,0,0,2),0) -> I1
+> i=17
+> colnames(A)[i]
+[1] "How.challenging.is.it.to.find.useful.information.on.mental.healthcare.services."
+> unique(A[,i])
+[1] "Moderate"                                                        
+[2] "I have not looked for information on mental healthcare services."
+[3] "Very hard"                                                       
+[4] "Fairly easy"                                                     
+[5] "Fairly hard"                                                     
+[6] ""                                                                
+[7] "Very easy"                                                       
+> switch2(A[,17],unique(A[,17]),c(0,0,-2,1,-1,0,2),0) -> I2
+> i=18
+> colnames(A)[i]
+[1] "Do.you.experience.financial.difficulties.as.a.result.of.mental.healthcare."
+> unique(A[,i])
+[1] "Never"     "Regularly" "Sometimes" "Rarely"    ""         
+> switch2(A[,i],unique(A[,i]),c(2,-2,-1,1,0),0) -> I3
+> i=19
+> colnames(A)[19]
+[1] "X.I.am.currently.receiving.the.mental.healthcare.I.need..."
+> unique(A[,i])
+[1] "Strongly agree"                            
+[2] "Agree"                                     
+[3] "Strongly disagree"                         
+[4] "Disagree"                                  
+[5] "I do not currently need mental healthcare."
+[6] ""                                          
+> switch2(A[,i],unique(A[,i]),c(2,1,-2,-1,0,0),0) -> I4
+> i=20
+> colnames(A)[20]
+[1] "How.satisfied.are.you.with.the.mental.healthcare.you.ve.received."
+> unique(A[,i])
+[1] "Fairly satisfied"                               
+[2] "I have not received mental healthcare services."
+[3] "Very dissatisfied"                              
+[4] "Fairly dissatisfied"                            
+[5] "Very satisfied"                                 
+[6] ""                                               
+> switch2(A[,i],unique(A[,i]),c(1,0,-2,-1,2,0),0) -> I5
+> Index = I1+I2+I3+I4+I5
+```
+
+Now, the correlation we want to run is:
+
+```
+Productivity lost ~ Having a mental condition + Having a mental condition * Our index of access
+```
+
+This is because having a mental condition is correlated with having nonzero answers in our index of access. In any case, we'll also want to run the same regression restricting it to people with at least one mental health condition.  The results are as follows:
+
+```
+> Index_of_access_mediated_by_mh = Index*A$m_ill_or_not2
+> max(Index_of_access_mediated_by_mh, na.rm=TRUE)
+[1] 10
+> min(Index_of_access_mediated_by_mh, na.rm=TRUE)
+[1] -9
+> summary(lm(Overall_work_impairment ~ A$m_ill_or_not2 + Index_of_access_mediated_by_mh))
+
+Coefficients:
+                               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     10.2508     2.7209   3.767 0.000203 ***
+A$m_ill_or_not2                 42.2708     3.3277  12.703  < 2e-16 ***
+Index_of_access_mediated_by_mh  -3.0173     0.4818  -6.263  1.5e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+```
+That is, for respondents who have a mental health condition, having the worst possible score in the index of access, a -10, is correlated with losing -3*(-10) = 30 less productivity points, that is, perhaps being 30%  less productive. Note that the minimum score was -9. On the other hand, having the best score in the index of access, a 10, is correlated with losing -3*10 = -30 productivity points, that is, perhaps being 30% more productive. That would be on top of a productivity loss of 42% for having a mental ilness in the first place.
+
+Repeating myself, I would take these numbers with a grain of salt, because I'm not sure respondents understood that an answer of 5 on a scale of 1-10 would be interpreted as a 50% reduction in effectiveness. If the survey is administered again, I'd prefer for the question to make a reference to percentages explicitly. And still I would be skeptical, because I don't expect people to estimate percentage of productivity lost with much precision. The reader is welcome to come to their own conclusions.
+
+However, if taken at face value, these answers imply that the value of providing mental health ressources might be huge. More precisely, if the above is an upper bound, the upper bound is high enough for continued interest. A lower bound, modulo survey selection effects, is an average loss of 10% of work hours among the respondents, and a loss of 18% of work hours among those diagnosed with a mental condition.
+
+```
+> mean(Percent_missed_due_to_mental_health, na.rm=TRUE)
+[1] 0.1032673
+> mean(Percent_missed_due_to_mental_health[A$m_ill_or_not2==1], na.rm=TRUE)
+[1] 0.1422757
+> mean(Percent_missed_due_to_mental_health[A$m_ill_or_not==1], na.rm=TRUE)
+[1] 0.1793087
+```
+
+#### 9.5 The impact of just providing information.
+
+Using the same methodologies as above, the crossectional estimate of providing better information are also large. A productivity improvement of ~10% if information is very easy to come by, respectively a productivity loss of ~10% if finding it is very hard (~12% if restricting the regression to those with a diagnosis)
+
+Alone in terms of work hours, 2 would be gain (resp. lost) every two weeks if responents find information very easy to come by (resp. very hard), amongst respondents who have been diagnosed with a mental ilness or think they have one (~3 hours if one only considers those with a diagnosis).
+
+I personally consider it likely that the effect is so large because the causal mechanism goes in both directions: a less burdensome mental ilness -> easier to do things like finding information, or not missing work hours, but also: information is easier to find -> condition gets better -> less work hours are missed.
+
+```
+> i=17
+> colnames(A)[i]
+[1] "How.challenging.is.it.to.find.useful.information.on.mental.healthcare.services."
+> unique(A[,i])
+[1] "Moderate"                                                        
+[2] "I have not looked for information on mental healthcare services."
+[3] "Very hard"                                                       
+[4] "Fairly easy"                                                     
+[5] "Fairly hard"                                                     
+[6] ""                                                                
+[7] "Very easy"                                                       
+> switch2(A[,17],unique(A[,17]),c(0,0,-2,1,-1,0,2),0) -> I2
+
+> summary(lm(Overall_work_impairment ~ I2))
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   37.791      1.920  19.684   <2e-16 ***
+I2            -4.626      2.136  -2.166   0.0312 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+> summary(lm(Overall_work_impairment[A$m_ill_or_not2==1] ~ I2[A$m_ill_or_not2==1]))
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                48.659      2.151  22.623   <2e-16 ***
+I2[A$m_ill_or_not2 == 1]   -5.438      2.168  -2.509   0.0129 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+> summary(lm(Overall_work_impairment[A$m_ill_or_not==1] ~ I2[A$m_ill_or_not==1]))
+
+Coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+(Intercept)               54.396      2.664  20.415   <2e-16 ***
+I2[A$m_ill_or_not == 1]   -5.946      2.490  -2.388   0.0185 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+> summary(lm(hours_lost ~ I2))
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   6.3751     0.9306   6.851 4.61e-11 ***
+I2           -0.7227     1.0165  -0.711    0.478    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+> summary(lm(hours_lost[A$m_ill_or_not2==1] ~ I2[A$m_ill_or_not2==1]))
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                8.7592     1.2541   6.985 4.09e-11 ***
+I2[A$m_ill_or_not2 == 1]  -0.9925     1.2510  -0.793    0.428    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+> summary(lm(hours_lost[A$m_ill_or_not==1] ~ I2[A$m_ill_or_not==1]))
+
+Coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+(Intercept)               11.443      1.860   6.153 8.74e-09 ***
+I2[A$m_ill_or_not == 1]   -1.401      1.716  -0.816    0.416    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+```
+
 ### 10. How does access to mental health ressources vary with a wide variety of factors?
 
 Acess is asked about in the following four questions:  
@@ -729,17 +1095,17 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase and expand on some of the key ideas and leave a technical comment for the footnotes [1]. I have found these comments very useful as way to think about the problem of mental health in EA overall.
 
-#### 11.1. Selection effects in EA. 
+#### 1.1. Selection effects in EA. 
 Some respondents suggested that EA attracts people with mental ilnesses. Perhaps there is a snowball effect going on, perhaps it selects from demographic which have higher rates of mental ilness. Thus, a particularly cost effective way to fight mental health in EA might be to do outreach amongst people who do not have mental health issues.
 
 This model is consistent with finding out that, among effective altrists, more effective altruism is not correlated (or correlated weakly) with better mental health (see section 3.)
 
-#### 11.2. Do mental health problems stem from EA-specific beliefs?
+#### 1.2. Do mental health problems stem from EA-specific beliefs?
 A respondent asked about how to deal with work-aholism when your work actually matters. Some people have talked with me about how, if ideas related to existential risk are internalized, Angst might occur. Thus, for EA specific problems, therapists familiar with EA ideas might help more than regular therapists. 
 
 What follows are my own thoughts.
 
-This model is not is not consistent with finding out that, among effective altrists, more effective altruism is not correlated (or correlated weakly) with better mental health (see section 3). That is, if effective altruism caused mental ilness, we have lost part of the probability mass which comes from (more effective altruism -> more mental ilness). Instead, only the probability mass corresponding to (if a certain level of effective altruism is reached -> more mental ilness). 
+This model is not is not consistent with finding out that, among effective altruists, more effective altruism is not correlated (or correlated weakly) with better mental health (see section 3). That is, if effective altruism caused mental ilness, we have lost part of the probability mass which comes from (more effective altruism -> more mental ilness). Instead, only the probability mass corresponding to (if a certain level of effective altruism is reached -> more mental ilness). 
 
 For a toy model, consider for example whether mental ilness is caused by involvement in effective altruism and mediated by understanding x-risk, that is, suppose that understanding x-risk led to (a chance of developing) depression/anxiety, and that higher levels of effective altruism led to higher chances of understanding x-risk. For example, suppose that numerical answers to "How involved are you in the EA community?", from 1 to 6 were such that: Answering 1 (not very involved) leads to a 10% probability of understanding x-risk, 2->20%, ..., 6-> 60%. Imagine then that our survey has serious selection effects (such that people with more mental ilness and people more familiar with effective altruism are more likely to participate). Then the effect would be amplified by these selection effects, and we *would* see a correlation between effective altruism and worse mental health. 
 
@@ -778,6 +1144,7 @@ With regards to pathway 2, we have a rough upwards crosssectional estimate of 2 
 - Gains because of therapy continue after therapy has ended
     - As opposed to regression to the mean? That is, the gains of therapy might not be people getting better, but people getting better sooner.
 - People who recover from a mental ilness because of help from the EA community might not donate 10% of the counterfactual gain, but more. 
+- The gain is not only in the form of hours missed, but in productivity gained while working.
 
 ![](https://nunosempere.github.io/rat/eamentalhealth/analysis/Q7-9b.png)
 
@@ -834,6 +1201,8 @@ As a proof of concept, we run a correlation on whether having mental health prob
 
 We then ask what the effect of mental health on productivity is, and how access to treatment mediates it. We see that people lose a lot of hours because of mental ilness: an additional diagnosed mental ilness is correlated with a loss of ~5 hours per 2 weeks. But  conditions are highly comorbid, so being mentally ill is correlated with losing ~9 hours per 2 weeks. This is not homogeneusly distributed, but instead like a power law: a small proportion of respondents (~10%-20%) loose a lot of hours. Limiting our regression to that 10-20% takes our statistical power away, but nonetheless, knowing the shape of the distribution helps indicate what sort of interventions might be valuable.
 
-Dividing respondents by whether they have received satisfactory healthcare, we find that those who have loose ~1-2 hours of work less than those who have not, and we think that this is probably and upwards estimate. In total, among our respondents 1 758 hours of work were lost because of mental ilness in the two weeks previous to our survey, compared to 16 737 hours worked, and 1 899 hours missed because of other reasons. We also ask whether productivity is lost because of mental ilness, but our scale is inadequate to estimate effects, because we do not know to quantify the amount of productivity lost which a "6" represents.
+Segregating respondents by whether they have received satisfactory healthcare, we find that those who have loose ~1-2 hours of work less than those who have not, and we think that this is probably and upwards estimate. In total, among our respondents 1 758 hours of work were lost because of mental ilness in the two weeks previous to our survey, compared to 16 737 hours worked, and 1 899 hours missed because of other reasons. 
 
-Several questions in our survey ask respondents for their personal opinions and insights, and some of the observations which they make are quite sharp. I present the ones which are likely to be useful, expand on some of them, and see whether the data gathered supports the hypothesis they propose. That section is likely to be accessible to the casual reader, nonetheless, here are some brief highlights: Many respondents seem to think that there are selection effects going on in EA. Others propose that EA itself causally leads to mental conditions, and I give some nondefinitive arguments to why that might not be the case, supported by the data at hand.  I sketch several layers which providing mental health would have to go through before the world is positively changed, consider three different possible pathways to impact which providing mental health to effective altruists may have, and warn that if none of them work, being fuzzy about which ones are in effect wouldn't help. Many respondents suggest creating or scavenging mental health ressources, and I mention some which have been of use to me. EA France seems to have something going on with a book club for reading *Feeling Good*, by David Burns, and I extend them an invitation to talk about it. 
+We look at the impact on mental health on productivity a second time with a different modelization, this time using The Work Productivity and Impairment Scale, and get what I think are upwards estimates of productivity lost, and of productivity regainable with suitable mental health ressources. We have the problem that the scale assumes that a 6 on a scale of 1-10 corresponds to a productivity loss of 60%, and I'm not sure whether that's what respondents thought when answering the question. We also get a high crossectional estimate of the value of information, but this is likely to be too high because of issues with causal bidirectionality.
+
+Several questions in our survey ask respondents for their personal opinions and insights, and some of the observations which they make are quite sharp. I present the ones which are likely to be useful, expand on some of them, and see whether the data gathered supports the hypothesis they propose. That section is likely to be accessible to the casual reader, nonetheless, here are some brief highlights: Many respondents seem to think that there are selection effects going on in EA. Others propose that EA itself causally leads to mental conditions, and I give some nondefinitive arguments to why that might not be the case, supported by the data at hand.  I sketch several layers which providing mental health would have to go through before the world is positively changed, consider three different possible pathways to impact which providing mental health to effective altruists may have, and warn that if none of them work, being fuzzy about which ones are in effect wouldn't help. Many respondents suggest creating or scavenging mental health ressources, and I mention some which have been of use to me. EA France seems to have something going on with a book club for reading *Feeling Good*, by David Burns, and I extend them an invitation to talk about it.
