@@ -593,18 +593,48 @@ But I can't have that with the current physics, so the most similar possible thi
 - Some time passes.
 - Productivity and severity of mental ilness are measured again, both in the control and treatment group. The difference in outcomes is an estimate of the impact of the intervention.
 
-At each step that our data deviates from this, errors may arise.
+The point being that, at each step that our data deviates from this, errors may arise.
 
 ### 10. How does access to mental health ressources vary with a wide variety of factors?
 
-Acess is asked about in the following two questions:
+Acess is asked about in the following four questions:  
+
 14. How challenging was it to receive the mental healthcare services you needed within the past 12 months?	
 15. How challenging is it to find useful information on mental healthcare services? 	
+16. Do you experience financial difficulties as a result of mental healthcare?	
+17. "I am currently receiving the mental healthcare I need." 	
+18. How satisfied are you with the mental healthcare you've received?	
 
 The main limitation of these questions is that the answers will depend on the subjective experience and capabilities of the respondents.
 
+I find questions 17 and 18 to be the most informative variants, and have used them to codify access to healthcare. I also see the later three questions to be logically disjunct, that is, one could in principle have found it very easy to get information, but be really unsatisfied with the mental healthcare one ends up receiving. However, running regressions, we see that they're all significantly correlated with each other (but there's still variability left). For example, if we correlate the first with the rest, after transforming verbal answers to a numerical scale, we get:
+
+```
+Call:
+lm(formula = I1 ~ I2 + I3 + I4 + I5)3
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2.18679 -0.32863 -0.05572  0.34069  1.97955 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.07572    0.05586  -1.356   0.1763    
+I2           0.23485    0.05101   4.604 6.15e-06 ***
+I3           0.06572    0.03158   2.081   0.0383 *  
+I4           0.27290    0.04292   6.358 7.66e-10 ***
+I5           0.19958    0.04818   4.142 4.48e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+```
+
+Thus, an index of this questions might be meaningful, that is, taking answers from each question, mapping them into a scale, and summing the scores from each scale. Initially, I considered only questions 14 and 15 when answering this section, and only later did I add the index; thus, I am reporting both results (though they're pretty similar).
+
 #### 10.1. By countries or continent.
-With 52 countries and 303 respondents, we don't have the power to say anything. We still don't have anything to say if we aggregate by continent instead, except that unsuprisingly, respondents find it more difficult to access mental healthcare in Africa than in any other continent. However, the effect was not significant, given that very few respondents were from Africa.
+With 52 countries and 303 respondents, we don't have the power to say anything. We still don't have anything to say if we aggregate by continent instead, except that unsuprisingly, respondents find it more difficult to access mental healthcare in Africa than in any other continent. However, the effect was not significant, given that very few respondents were from Africa. 
+
+This holds both if we consider questions separately and if we consider an index.
 
 #### 10.2. By race/ethnicity.
 Perhaps unsurprisingly, white people find it less challenging to receive mental healthcare, and to find information about it. The effect is magnified when considering only respondents with a mental condition.
@@ -618,6 +648,8 @@ A$Race.ethnicity[M_ILL2]Asian                     0.9167     1.2960   0.707    0
 A$Race.ethnicity[M_ILL2]Hispanic or Latino/a/x    0.6667     2.2105   0.302    0.763
 A$Race.ethnicity[M_ILL2]Mixed race/Multi-racial   1.1667     1.4621   0.798    0.426
 A$Race.ethnicity[M_ILL2]White                     1.7576     1.1178   1.572    0.118
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 > summary(lm(switch2(A[,16], c("Very easy", "Fairly easy", "Moderate", "Fairly hard", "Very hard"), c(3,1,-1,-3),0) ~ A$Race.ethnicity))
@@ -631,16 +663,67 @@ A$Race.ethnicityHispanic or Latino/a/x   0.21667    0.73569   0.295    0.769
 A$Race.ethnicityMiddle Eastern           0.41667    1.05562   0.395    0.693
 A$Race.ethnicityMixed race/Multi-racial  0.08333    0.69106   0.121    0.904
 A$Race.ethnicityWhite                    0.46730    0.40896   1.143    0.254
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+```
+
+This broadly holds if we consider an index, though now Hispanics get better access the rest.
+```
+> summary(lm(Index ~ A$Race.ethnicity))
+
+Coefficients:
+                                        Estimate Std. Error t value Pr(>|t|)  
+(Intercept)                               0.4615     0.8882   0.520   0.6037  
+A$Race.ethnicityAsian                     1.1635     1.1028   1.055   0.2923  
+A$Race.ethnicityBlack                     1.0385     2.4324   0.427   0.6697  
+A$Race.ethnicityHispanic or Latino/a/x    1.9385     1.6852   1.150   0.2510  
+A$Race.ethnicityMiddle Eastern            0.5385     2.4324   0.221   0.8250  
+A$Race.ethnicityMixed race/Multi-racial   1.5385     1.5013   1.025   0.3063  
+A$Race.ethnicityWhite                     1.5505     0.9110   1.702   0.0898 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
 ```
 
 #### 10.3. By mental health
-Among all our markers, having worse mental health is correlated with finding it more challenging to receive mental healthcare, and to find information about it. Sometimes the effect is significant, p<0.05, but it it is never large (the largest is a change of -0.16 in a -3 to +3 scale)
-
+Among all our markers, having worse mental health is correlated with finding it more challenging to receive mental healthcare, and to find information about it. Sometimes the effect is significant, p<0.05, but it it is never large (the largest is a change of -0.16 in a -3 to +3 scale). This also holds if we consider an index. This might be explained as follows: Once you have a mental ilness, gettingI think that this is (good) treatment for it doesn't mean you stop having it.
+3
 #### 10.4. By age
-No effect. 
+No effect. No effect with index, by which I mean that the coefficient is close to 0, and that the standard error is also small.
 
 #### 10.5. By involvement in EA.
-No effect. 
+No effect considering questions 14-15. If we consider an index, more involvement with EA is correlated with slightly better access to healthcare.
+
+```
+### This is an index  with the first 4 questions of our survey.
+> A[,3]+((A[,4]=="No")*0 + (A[,4]=="No, but I regularly participate in an EA online group")*1 + (A[,4]=="Yes, occasionally")*2 + (A[,4]=="Yes")*3) +A[,5]+(A[,6]=="Yes")*1 -> Involvement_in_EA
+> summary(lm(Index ~ Involvement_in_EA))
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)  
+(Intercept)        0.24229    0.69103   0.351    0.726  
+Involvement_in_EA  0.16547    0.06625   2.498    0.013 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+```
+
+If we disgreggate where this comes from, we see that the effect is coming from more involvement with EA being correlated EAs experiencing less financial difficulties because of mental ilness, and with being more satisfied with the healthcare they get. However, this is difficult to tell, because all the factors are correlated with each other.
+
+```
+> summary(lm(Involvement_in_EA ~ I1 + I2 + I3 + I4 + I5))
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  9.78822    0.22237  44.017   <2e-16 ***
+I1           0.01158    0.22948   0.050    0.960    
+I2           0.09307    0.20785   0.448    0.655    
+I3           0.16772    0.12557   1.336    0.183    
+I4           0.23564    0.18026   1.307    0.192    
+I5           0.09623    0.19526   0.493    0.623    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+```
 
 ## D. Implications for mental health in EA overall, guided by some insightful comments made by the respondents. 
 
