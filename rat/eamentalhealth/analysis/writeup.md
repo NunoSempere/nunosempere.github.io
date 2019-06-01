@@ -236,11 +236,15 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 ```
 
-Two narratives present themselves: 
-1: This is a bias, a component of self-interest.
+Several interpretations present themselves.
+1: This is a bias, a component of self-interest. Perhaps people who have mental ilnesses are in more pain, and people who feel pain are more selfish. If this was an op-ed piece, much could be said about how the above is why we take care of cultivating rationality, and I'd propose that this topic is more conducive to research analysis of the sort in which QALYs are estimated, and that asking the broad public for opinions is not that valuable.
 2: People who feel mental pain have *grokked* negative utilitarianism, or similarly have different intuitions about the matter.
+3: "Those who believe they could personally benefit might assess ressources as more valuable precisely because they benefit themselves" is logically equivalent to "Those who don't believe they could personally benefit might assess resources as less valuable precisely because they wouldn't benefit themselves", but in the second case, the connotation is that the bias is on the part of the mentally healthy people. More neutrally, this is perhaps a case of the typical mind fallacy, in which both mentally healthy and mentally ill people use the heuristic of estimating the typical EA mind as similar to their mind, and thus reach different conclusions.
+4: Others.
 
-For various factors, some of which are opaque to me, my system 1 is more sympathetic with the first framing. Thus, I'd propose that this topic is more conducive to research analysis of the sort in which QALYs are estimated, and that asking the broad public for opinions is not that valuable.
+Personal comment: After having considered the above interpretations, I still assign most of the probability mass to interpretation 1: that this mechanism is [due to self-interest, or structurally similar to it](http://elephantinthebrain.com). That seems to me to be the most straightforward and simple hypothesis, whereas I see the other ones as sophisticated ex post facto rationalizations, that is, of being the answers to the following question: now that we know that this happened, what other mechanisms could explain the same phenomenon while not accusing anyone of being influenced by self-interest? (that has been, incidentally, the algorithm used to generate these ideas). To express the above numerically, I think that the intuitive odds which I assign to (Interpretation 1: Interpretation 2 or Interpretation 3) would broadly and roughly be in the neighbourhood of (98:2) to (80:20), but definitely not (50:50). This judgement may appear, and in fact be, one-sided. 
+
+Readers are welcome to reach their own conclusions. 
 
 The effect is very robust to different modelizations: regressing instead on empty answers to question 25:  "Which if any of the following resources do you think you could potentially benefit from?", regressing on whether the respondents have a mental disorder instead of whether they say they'd benefit from mental health ressources, including "Not sure" answers in the regression, etc.
 
@@ -265,8 +269,6 @@ The following table is the cold, raw, hard data for the graphic.
 11    Strongly agree  8.571429  Does not think they could benefit, or is not sure.
 12 Strongly disagree  1.714286  Does not think they could benefit, or is not sure.
 ```
-
-Much could be said about how the above is why we take care of cultivating rationality.
 
 ### 6. Striving for Consistency. When is effective use of the EA Community's resources != the most effective interventions?
 According to my understanding of "effective" and "effective altruism", the following two questions have equivalent meanings:
@@ -575,12 +577,23 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 Alas, we cannot take the above crosssections at face value. Imagine, for example, that people with lighter mental conditions find it easier to deal with the hassle of finding good treatment, which seems plausible. In that case, the causal arrow would go both ways: (getting good mental healthcare -> healing occurs -> people lose less hours each week), but also (having a lighter mental ilness -> easier to find good mental healthcare) + (having a lighter mental ilness -> loose less work hours). It could also be that, as people regress to the mean with respect to their mental ilness, and become happier, they attribute their improvement to whatever therapy they were receiving, and become more satisfied with it. If we assume that the bias goes in the direction of amplifying the effect of good mental healthcare, the above figures become an upper estimate of its effect.
 
-In the ideal case, what I'd like to have is a randomized trial in which:
+In the ideal case, what I'd like to have is an experiment in which:
+- Productivity and severity of mental ilness are measured across a population. Or just utilons.
+- I instantiate a second copy of this world.
+- In one copy, I offer the treatment. I notice that some people don't take it, even though they could.
+- In another copy, I don't. I notice that some people get something similar to the intervention. If I provide information, maybe some people already knew it. If I provide free treatment, maybe some people are not limited by money, and pay for it themselves. When the treatment is not provided, people don't just sit and do nothing, but try their own things.
+- I wait for some time.
+- I measure productivity and severity of mental ilness again. Or utilons.
+- The difference in between what happened in the two worlds is the impact of my intervention, and divided by the cost, the impact per unit of money. 
+
+But I can't have that with the current physics, so the most similar possible thing to the above, and what I'd actually like to have, is something like a randomized trial, in which:
 - Productivity and severity of mental ilness are measured across a population
-- Mental healthcare is provided to a randomly selected part of the population; the treatment group.
-- Part of the treatment group takes up that freely provided mental heathcare, and part of the control group pays for the treatment out of pocket.
+- I simulate splitting the two worlds by having a treatment and a control group.
+- I offer the intervention to the treatment, but not to the control group.
 - Some time passes.
-- Productivity and severity of mental ilness are measured again, both in the control and treatment group.
+- Productivity and severity of mental ilness are measured again, both in the control and treatment group. The difference in outcomes is an estimate of the impact of the intervention.
+
+At each step that our data deviates from this, errors may arise.
 
 ### 10. How does access to mental health ressources vary with a wide variety of factors?
 
