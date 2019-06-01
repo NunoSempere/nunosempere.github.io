@@ -28,7 +28,9 @@ Credit: Danica Willbanks created and carried out the survey, with the help of se
 9. How does mental health affect productivity, and how is this mediated by access to healthcare?
 - 9.1. How does mental health affect productivity?
 - 9.2. How is lost productivity mediated by treatment and access to treatment?
-- 9.3. Same as the above, with a different operationalization
+- 9.3. Correlation of the Work Productivity and Impairment Scale with mental health
+- 9.4. Correlation of the Work Productivity and Impairment Scale with mental health, mediated by an index of access.
+- 9.5 The impact of just providing information.
 10. How does access to mental health ressources vary with a variety of factors?
 - 10.1. By countries or continent.
 - 10.2. By race/ethnicity.
@@ -1111,21 +1113,21 @@ For a toy model, consider for example whether mental ilness is caused by involve
 
 The fact that we *don't* is indicative of other models, like models with selection effects. For example, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/). Maybe minds with mental conditions look for things to be depressed or anxious about, and effective altruism happens to provide some. Crucially, the counterfactual would not be not freaking out about stuff, it would be having fixated on something else to freak out about, like american politics, climate change, sexual assault, not being lovable, etc. *The content and origin of the idea being fixated on might be besides the point*. Under this model, EA therapists might be counterproductive.
 
-#### 11.3. EA may not have a comparative advantage in providing mental health ressources.
+#### 1.3. EA may not have a comparative advantage in providing mental health ressources.
 Either the market or other organizations, like universities or other NGOs specifically dedicated to mental health (CAMH, Zendo are mentioned, but I am not familiar with them). 
 
-#### 11.4. EA France has something going on 
+#### 1.4. EA France has something going on 
 EA France has a group in which they read *Feeling Good*, by David Burns.  I personally have benefitted from the book, and know that it's available on libgen (or a mirror, like b-ok.org).
 
 Here is a formal invitation to EA France to talk about how the group is organized.
 
-#### 11.5. Visceral comparison with global poverty
+#### 1.5. Visceral comparison with global poverty
 A respondent notes that they think someone who has nothing to eat in a developing country still has it worse than someone living with depression, and that they'd rather donate a 100 euros to cure two blind people from blindness than spend it on an hour of therapy for themselves. I empathize with this, and I also like second order effects. That is, going to therapy might allow someone to earn and donate more money, and thus cure more blind people, but this depends on the specifics of how much time is saved, how much money the person makes, how much therapy costs, and how much effort it takes to organize the whole thing.
 
-#### 11.6. Moral hazard.
+#### 1.6. Moral hazard.
 Some people may join EA just to use these resources. Or some EAs who were paying for their therapy might choose to get it for free instead. 
 
-#### 11.7. Layers of indirectness and pathways to impact.
+#### 1.7. Layers of indirectness and pathways to impact.
 A respondent mentions that providing mental health ressources goes through two layers of indirectness: therapy may not help mental health, which may not help productivity. the comment stops here; what follows are my own thoughts.
 
 Additionally, offering therapy does not mean that therapy is taken up, and an increase in productivity might not mean that the world will be made better. 
@@ -1165,10 +1167,10 @@ In each of the first three cases, there are many different steps in the process 
 
 All in all, althought the questions in our survey only ask about "offering mental health resources to effective altruists" in the abstract, the specific pathway to impact matters, because the several outlined here are different. In particular, if none of them work, being fuzzy about which one is in effect wouldn't help.
 
-#### 11.8. A support group for EAs with ADHD
+#### 1.8. A support group for EAs with ADHD
 A commenter talked about forming a support group for EAs with ADHD. Here is a formal invitation to create one.
 
-#### 11.9. Cheap ressources.
+#### 1.9. Cheap ressources.
 Whereas therapists are relatively expensive, it's relatively cheap to make [Nate Soares' writing on guilt] (http://mindingourway.com/guilt/) more widely known. I personally have also recently gotten some value out of Kaj Sotala's blogposts on psychological frameworks (https://kajsotala.fi/blog/blog_english/); there is a certain power in hearing other people talk about their struggles with mental conditions. 
 
 SlateStarCodex's list of [mental health professionals](https://slatestarcodex.com/psychiat-list/), [ressources](https://www.reddit.com/r/raisedbynarcissists/comments/6cdmn2/new_here_helpful_posts_comments_from_rbnbestof/) by [r/raisedbynarcissists](https://www.reddit.com/r/raisedbynarcissists/wiki/helpfullinks), and in particular [this list of books for building your life](https://www.reddit.com/r/raisedbynarcissists/comments/1axuzu/book_list_for_building_your_life/), are free. I've personally gotten some value out of these [Strategies and tools for getting through a break up, from LessWrong](https://www.lesswrong.com/posts/opLKzAFQWCco8wQiH/strategies-and-tools-for-getting-through-a-break-up). Julia Wise seems to have [some](https://forum.effectivealtruism.org/posts/CJZGFxzHfdPuu2X76/a-mental-health-resource-for-ea-community) useful [things](https://forum.effectivealtruism.org/posts/ZGW8Tmc6mDWZTnqyo/burnout-and-self-care). The aforementioned *Feeling Good*, by David Burns is also free if found online (b-ok.org). 
@@ -1179,7 +1181,7 @@ The point being that there are a lot of mental health ressources and information
 
 Thus, it is a high tractability, high neglectedness, small to medium impact task to create such a list of mental ressources for the EA community, even if collated and scavenged from other sources. If such a ressource already exist, some respondents do not seem to know about it.
 
-#### 11.10. Providing mental health ressources is creepy
+#### 1.10. Providing mental health ressources is creepy
 In personal converations, a person in the outer orbit of the EA community has pointed out to me that providing mental health is creepy, and that they feel cringe when thinking about the idea. The word "cult" is mentioned. It is not implausible that providing mental health may put prospective EAs off.
 
 
