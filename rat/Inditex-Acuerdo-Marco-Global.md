@@ -79,5 +79,5 @@ Hace poco tiempo, Facebook contrató a algunos de los críticos más feroces de 
 
 Es decir, sería plausible que aquellos tres individuos fueran increíblemente capaces y morales, y que sin embargo aquello que consiguiesen cambiar fuese un 1%, pues Facebook es una máquina enorme y pesada. ¿En su opinión experta, está algo así pasando con respecto al AMG? 
 
-Respetuosamente,
+Respetuosamente,  
 [-]
