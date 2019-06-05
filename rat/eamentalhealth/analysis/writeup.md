@@ -31,6 +31,7 @@ Credit: Danica Willbanks created and carried out the survey, with the help of se
 - 9.3. Correlation of the Work Productivity and Impairment Scale with mental health
 - 9.4. Correlation of the Work Productivity and Impairment Scale with mental health, mediated by an index of access.
 - 9.5 The impact of just providing information.
+- 9.6 For completeness's sake: All the possible correlations impact ~ productivity
 10. How does access to mental health ressources vary with a variety of factors?
 - 10.1. By countries or continent.
 - 10.2. By race/ethnicity.
@@ -185,7 +186,7 @@ The key column is "Estimate". Smaller numbers are better, and we see that the mo
 
 In the interest of total disclosure, [here](https://nunosempere.github.io/rat/eamentalhealth/analysis/regressions_EA_mental_health.html)  is a link with the 20 regressions carried out, and the code used to generate them.
 
-The bottomline seems to be that EA is correlated with better mental health, across almost all measures. However, the error bars are humongous, and no significance thresholds are reached. Note that this is only valid for people who are already involved enough with EA to answer this survey. 
+The bottom-line seems to be that EA is correlated with better mental health, across almost all measures. However, the error bars are humongous, and no significance thresholds are reached. Note that this is only valid for people who are already involved enough with EA to answer this survey. 
 
 Curiously, I was kind of expecting the opposite result. It would just have been so much more interesting / contrarian. See also: [Efffective Altruists, not as mentally ill as you think](https://slatestarcodex.com/2015/03/06/effective-altruists-not-as-mentally-ill-as-you-think/)
 
@@ -963,6 +964,83 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 ```
 
+### 9.6 For completeness's sake: All the possible correlations impact ~ productivity
+
+For completeness' sake, we report the correlations between our measures of access and our two measures of productivity. To do this, we define two functions which run the linear models:
+
+```
+> correlation_matrix <- function(X,Y){
++   ## X and Y are matrices. X ~ Y
++   n1 = dim(X)[2] 
++   n2= dim(Y)[2]
++   M = matrix(nrow=n1, ncol=n2)
++   for(i in c(1:n1)){
++     for(j in c(1:n2)){
++       lm(X[,i]~Y[,j])$coefficients[2] -> M[i,j]
++     }
++   }
++   colnames(M) = colnames(Y)
++   rownames(M) = colnames(X)
++   return(M)
++   
++ }
+> correlation_matrix_p_values <- function(X,Y){
++   ## X and Y are matrices. X ~ Y
++   n1 = dim(X)[2] 
++   n2= dim(Y)[2]
++   M = matrix(nrow=n1, ncol=n2)
++   for(i in c(1:n1)){
++     for(j in c(1:n2)){
++       summary(lm(X[,i] ~ Y[,j]))$coefficients[2,4] -> M[i,j]
++     }
++   }
++   colnames(M) = colnames(Y)
++   rownames(M) = colnames(X)
++   return(M)
++   
++ }
+```
+
+Using them, here are the coefficients for the general population (MHS = "Mental health services").
+```
+Coefficients
+                             Index Challenging to receive MHS Information Financial diffs Receiving MHS Satisfied with MHS
+hours_lost              -0.9492239                  -1.664492  -0.7227279       -3.291063    -0.7653226          -1.588250
+Overall_work_impairment -3.2373464                  -5.223169  -4.6262763      -10.067441    -4.0892950          -4.511133
+
+p-values
+                               Index Challenging to receive MHS Information Financial diffs Receiving MHS Satisfied with MHS
+hours_lost              6.777912e-04                 0.09849592  0.47768328    1.440813e-06    0.38272096         0.08794883
+Overall_work_impairment 1.599339e-08                 0.01459374  0.03117023    2.417075e-13    0.02585968         0.02255311
+```
+
+For people diagnosed with a mental condition:
+```
+Coefficients
+                       Index Challenging to receive MHS Information Financial diffs Receiving MHS Satisfied with MHS
+hours_lost_m_ill -0.9956094                  -2.230846   -1.400980       -2.572942     -1.675877          -2.798331
+OWI_m_ill        -3.0273272                  -7.754313   -5.946413       -5.717414     -6.406658          -8.781692
+
+p-values
+                        Index Challenging to receive MHS Information Financial diffs Receiving MHS Satisfied with MHS
+hours_lost_m_ill 2.302578e-02               0.1595372489  0.41580331      0.03207855   0.246363280       6.700219e-02
+OWI_m_ill        1.202185e-06               0.0009597469  0.01846288      0.00100412   0.002386186       9.873393e-05
+```
+
+And for people who have either been diagnosed with one or who think they have one:
+```
+Coefficients
+                       Index Challenging to receive MHS Information Financial diffs Receiving MHS Satisfied with MHS
+hours_lost_m_ill2 -0.9472378                  -1.941253  -0.9925338       -2.824257    -0.9204575          -2.219678
+OWI_m_ill2        -3.0172680                  -6.067586  -5.4382773       -7.243670    -4.4996800          -6.806081
+
+p-values
+                       Index Challenging to receive MHS Information Financial diffs Receiving MHS Satisfied with MHS
+hours_lost_m_ill2 4.657930e-03                0.105408672  0.42847492    9.500027e-04    0.38496906       0.0487938200
+OWI_m_ill2        1.246629e-07                0.004133647  0.01294885    6.681036e-07    0.01494088       0.0006040557
+```
+
+
 ### 10. How does access to mental health ressources vary with a wide variety of factors?
 
 Acess is asked about in the following four questions:  
@@ -997,7 +1075,42 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 ```
 
-Thus, an index of this questions might be meaningful, that is, taking answers from each question, mapping them into a scale, and summing the scores from each scale. Initially, I considered only questions 14 and 15 when answering this section, and only later did I add the index; thus, I am reporting both results (though they're pretty similar).
+More generally, here follow first all the correlations between answers to any two questions, and the p-values:
+
+```
+> Data = cbind(I1,I2,I3,I4,I5)
+> colnames(Data) = c("Challenging to receive MHS", "Information", "Financial difficulties","Receiving MHS", "Satisfied with MHS")
+> rcorr(Data)
+                           Challenging to receive MHS Information Financial difficulties Receiving MHS Satisfied with MHS
+Challenging to receive MHS                       1.00        0.41                   0.16          0.47               0.43
+Information                                      0.41        1.00                   0.17          0.24               0.37
+Financial difficulties                           0.16        0.17                   1.00          0.09              -0.03
+Receiving MHS                                    0.47        0.24                   0.09          1.00               0.38
+Satisfied with MHS                               0.43        0.37                  -0.03          0.38               1.00
+
+n= 303 
+
+
+P
+                           Challenging to receive MHS Information Financial difficulties Receiving MHS Satisfied with MHS
+Challenging to receive MHS                            0.0000      0.0050                 0.0000        0.0000            
+Information                0.0000                                 0.0028                 0.0000        0.0000            
+Financial difficulties     0.0050                     0.0028                             0.1356        0.6409            
+Receiving MHS              0.0000                     0.0000      0.1356                               0.0000            
+Satisfied with MHS         0.0000                     0.0000      0.6409                 0.0000                          
+```
+
+and the covariance matrix:
+```
+                           Challenging to receive MHS Information Financial difficulties Receiving MHS Satisfied with MHS
+Challenging to receive MHS                  0.7597753   0.3140778             0.18351802     0.4249885         0.35953927
+Information                                 0.3140778   0.7630319             0.19582322     0.2195922         0.31106157
+Financial difficulties                      0.1835180   0.1958232             1.71407339     0.1159268        -0.03387756
+Receiving MHS                               0.4249885   0.2195922             0.11592682     1.0615697         0.38125369
+Satisfied with MHS                          0.3595393   0.3110616            -0.03387756     0.3812537         0.92527266
+```
+
+Thus, because they are correlated, but not perfectly, an index of this questions might be meaningful, that is, taking answers from each question, mapping them into a scale, and summing the scores from each scale. Initially, I considered only questions 14 and 15 when answering this section, and only later did I add the index; thus, I am reporting both results (though they're pretty similar).
 
 #### 10.1. By countries or continent.
 With 52 countries and 303 respondents, we don't have the power to say anything. We still don't have anything to say if we aggregate by continent instead, except that unsuprisingly, respondents find it more difficult to access mental healthcare in Africa than in any other continent. However, the effect was not significant, given that very few respondents were from Africa. 
@@ -1055,8 +1168,8 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 ```
 
 #### 10.3. By mental health
-Among all our markers, having worse mental health is correlated with finding it more challenging to receive mental healthcare, and to find information about it. Sometimes the effect is significant, p<0.05, but it it is never large (the largest is a change of -0.16 in a -3 to +3 scale). This also holds if we consider an index. This might be explained as follows: Once you have a mental ilness, gettingI think that this is (good) treatment for it doesn't mean you stop having it.
-3
+Among all our markers, having worse mental health is correlated with finding it more challenging to receive mental healthcare, and to find information about it. Sometimes the effect is significant, p<0.05, but it it is never large (the largest is a change of -0.16 in a -3 to +3 scale). This also holds if we consider an index. This might be explained as follows: Once you have a mental ilness, getting (good) treatment for it doesn't mean you stop having it.
+
 #### 10.4. By age
 No effect. No effect with index, by which I mean that the coefficient is close to 0, and that the standard error is also small.
 
@@ -1205,6 +1318,6 @@ We then ask what the effect of mental health on productivity is, and how access 
 
 Segregating respondents by whether they have received satisfactory healthcare, we find that those who have loose ~1-2 hours of work less than those who have not, and we think that this is probably and upwards estimate. In total, among our respondents 1 758 hours of work were lost because of mental ilness in the two weeks previous to our survey, compared to 16 737 hours worked, and 1 899 hours missed because of other reasons. 
 
-We look at the impact on mental health on productivity a second time with a different modelization, this time using The Work Productivity and Impairment Scale, and get what I think are upwards estimates of productivity lost, and of productivity regainable with suitable mental health ressources. We have the problem that the scale assumes that a 6 on a scale of 1-10 corresponds to a productivity loss of 60%, and I'm not sure whether that's what respondents thought when answering the question. We also get a high crossectional estimate of the value of information, but this is likely to be too high because of issues with causal bidirectionality.
+We look at the impact on mental health on productivity a second time with a different modelization, this time using The Work Productivity and Impairment Scale, and get what I think are upwards estimates of productivity lost, and of productivity regainable with suitable mental health ressources. We have the problem that the scale assumes that a 6 on a scale of 1-10 corresponds to a productivity loss of 60%, and I'm not sure whether that's what respondents thought when answering the question. We also get a high crossectional estimate of the value of information, but this is likely to be too high because of issues with causal bidirectionality. For completeness'  sake, we report how access is correlated with productivity for all our measures of access, hoping that this be an additional data-point when asessing potential interventions.
 
 Several questions in our survey ask respondents for their personal opinions and insights, and some of the observations which they make are quite sharp. I present the ones which are likely to be useful, expand on some of them, and see whether the data gathered supports the hypothesis they propose. That section is likely to be accessible to the casual reader, nonetheless, here are some brief highlights: Many respondents seem to think that there are selection effects going on in EA. Others propose that EA itself causally leads to mental conditions, and I give some nondefinitive arguments to why that might not be the case, supported by the data at hand.  I sketch several layers which providing mental health would have to go through before the world is positively changed, consider three different possible pathways to impact which providing mental health to effective altruists may have, and warn that if none of them work, being fuzzy about which ones are in effect wouldn't help. Many respondents suggest creating or scavenging mental health ressources, and I mention some which have been of use to me. EA France seems to have something going on with a book club for reading *Feeling Good*, by David Burns, and I extend them an invitation to talk about it.
