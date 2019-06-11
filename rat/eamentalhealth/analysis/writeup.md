@@ -2,11 +2,13 @@
 
 Epistemic status: I am confident in everything I say. Conscious of the limitations of the data, and conscious that our estimates are full of noise, I would really like for this to be replicated by the annual EA Survey organized by Rethink Charity. Point estimates should not be taken at face value; the standard deviations are large and reported for a reason.
 
-Credit: Danica Willbanks created and carried out the survey, with the help of several EA Spain members, including myself. She also provided some suggestions for which regressions to run. Jaime Sevilla has provided good mentorship in general, and light editing work in particular. The analysis which follows is mine.
+Credit: Danica Willbanks created and carried out the survey, with the help of several EA Spain members, including myself. She also provided some suggestions for which regressions to run. Jaime Sevilla has provided good mentorship in general, and light editing work in particular. Any mistakes are mine alone.
 
-## Most important results and actionables
+## Abstract
 
-This obviously has an editorial character. 12 thousand-odd words frivolously reduced to less than 1000 characters leave:
+Using data from a 303 person survey of effective altruists, we shed some light on the mental health of the EA community. In particular, we provide data and analysis relevant to providing mental health resources to effective altruists. We hope that this document contributes to a deep understanding of the subject area among people who need to f.ex. make funding decisions about the matter.
+
+For the casual reader, 12 thousand-odd words frivolously reduced to less than 1000 characters leave:
 
 Four most important results:
 - More involvement in EA is positively, but not significantly, correlated with better mental health.
@@ -66,8 +68,6 @@ Three most important actionables:
 9. Providing mental health resources is creepy
 10. Power law distribution
 11. Cheap resources.
-
-#### E. Actionables.
 
 ## A. Questions asked by the survey.
 
