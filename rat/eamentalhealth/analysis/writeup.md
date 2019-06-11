@@ -2,7 +2,7 @@
 
 Epistemic status: I am confident in everything I say. Conscious of the limitations of the data, and conscious that our estimates are full of noise, I would really like for this to be replicated by the annual EA Survey organized by Rethink Charity. Point estimates should not be taken at face value; the standard deviations are large and reported for a reason.
 
-Credit: Danica Willbanks created and carried out the survey, with the help of several EA Spain members, including myself. The analysis which follows is mine, with some suggestions on which regressions to run by Danica.
+Credit: Danica Willbanks created and carried out the survey, with the help of several EA Spain members, including myself. She also provided some suggestions for which regressions to run. Jaime Sevilla has provided good mentorship in general, and light editing work in particular. The analysis which follows is mine.
 
 ## Most important results and actionables
 
