@@ -1222,7 +1222,7 @@ I5           0.09623    0.19526   0.493    0.623
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 ```
 
-## D. Implications for mental health in EA overall, guided by some insightful comments made by the respondents. 
+## D. Crucial considerations for mental health in EA. 
 
 Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase and expand on some of the key ideas and leave a technical comment for the footnotes [1]. I have found these comments very useful as a way to think about the problem of mental health in EA overall.
 
@@ -1240,7 +1240,10 @@ This model is not consistent with finding out that, among effective altruists, m
 
 For a toy model, consider for example whether mental illness is caused by involvement in effective altruism and mediated by understanding x-risk, that is, suppose that understanding x-risk led to (a chance of developing) depression/anxiety and that higher levels of effective altruism led to higher chances of understanding x-risk. For example, suppose that numerical answers to "How involved are you in the EA community?", from 1 to 6 were such that: Answering 1 (not very involved) leads to a 10% probability of understanding x-risk, 2->20%, ..., 6-> 60%. Imagine then that our survey has serious selection effects (such that people with more mental illness and people more familiar with effective altruism are more likely to participate). Then the effect would be amplified by these selection effects, and we *would* see a correlation between effective altruism and worse mental health. 
 
-The fact that we *don't* is indicative of other models, like models with selection effects. For example, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/). Maybe minds with mental conditions look for things to be depressed or anxious about, and effective altruism happens to provide some. Crucially, the counterfactual would not be not freaking out about stuff, it would be having fixated on something else to freak out about, like American politics, climate change, sexual assault, not being lovable, etc. *The content and origin of the idea being fixated on might be beside the point*. Under this model, EA therapists might be counterproductive.
+The fact that we *don't* is indicative of other models, like models with selection effects. For example, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/). Maybe minds with mental conditions / high neuroticism minds look for things to be depressed or anxious about, and effective altruism happens to provide some such ideas. 
+
+Crucially, the counterfactual would not be not freaking out about stuff, it would be having fixated on something else to freak out about, like American politics, climate change, sexual assault, not being lovable, etc. Pithily expressed by a person in the orbit of the EA community: "If it's not utilitarian guilt, it's feminist guilt, if it's not feminist guilt, it's kindness guilt, and so on". *The content and origin of the idea being fixated on might be beside the point*. Under this model, EA therapists might be counterproductive.
+
 
 ### 3. EA may not have a comparative advantage in providing mental health resources.
 Either the market or other organizations, like universities or other NGOs specifically dedicated to mental health (CAMH, Zendo are mentioned, but I am not familiar with them). 
