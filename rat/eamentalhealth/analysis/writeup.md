@@ -6,7 +6,7 @@ Credit: Danica Willbanks created and carried out the survey, with the help of se
 
 ## Abstract
 
-Using data from a 303 person survey of effective altruists, we shed some light on the mental health of the EA community. In particular, we provide data and analysis relevant to providing mental health resources to effective altruists. We hope that this document contributes to a deep understanding of the subject area among people who need to f.ex. make funding decisions about the matter.
+Using data from a 303 person survey of effective altruists, we shed some light on the mental health of the EA community. In particular, I provide data and analysis relevant to providing mental health resources to effective altruists. I hope that this document contributes to a deep understanding of the subject area among people who need to f.ex. make funding decisions about the matter. Additionally, I hope it helps showcase my abilities as an analysist.
 
 For the casual reader, 12 thousand-odd words frivolously reduced to less than 1000 characters leave:
 
