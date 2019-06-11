@@ -10,7 +10,7 @@ Using data from a 303 person survey of effective altruists, we shed some light o
 
 For the casual reader, 12 thousand-odd words frivolously reduced to less than 1000 characters leaves:
 
-Five most important results:
+Four most important results:
 - More involvement in EA is positively, but not significantly, correlated with better mental health.
 - Having a mental health condition is very strongly correlated with thinking that providing mental health resources to EAs is likely to be effective.
 - The impact of mental conditions is large. Among our 303 respondents, 1 758 hours of work were lost because of mental illness in the two weeks previous to our survey, compared to 16 737 hours worked, and 1 899 hours missed because of other reasons. 
