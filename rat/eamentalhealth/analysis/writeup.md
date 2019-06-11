@@ -10,16 +10,16 @@ Using data from a 303 person survey of effective altruists, we shed some light o
 
 For the casual reader, 12 thousand-odd words frivolously reduced to less than 1000 characters leaves:
 
-Four most important results:
+Five most important results:
 - More involvement in EA is positively, but not significantly, correlated with better mental health.
 - Having a mental health condition is very strongly correlated with thinking that providing mental health resources to EAs is likely to be effective.
 - The impact of mental conditions is large. Among our 303 respondents, 1 758 hours of work were lost because of mental illness in the two weeks previous to our survey, compared to 16 737 hours worked, and 1 899 hours missed because of other reasons. 
 - Providing information about already existing resources seems more promising than directly providing resources such as therapy.
 
 Three most important actionables:
-- Have someone from EA France write up how their *Feeling Good* reading group goes. 
 - Incorporate a mental health section to the annual EA Survey to figure out the extent of mental health selection effects in EA. 
 - Compile a list of mental health resources useful to EAs, and let EAs know it exists.
+- Have someone from EA France write up how their *Feeling Good* reading group goes. 
 
 ## Index:
 
@@ -1315,25 +1315,3 @@ The point being that there are a lot of mental health resources and information 
 ![](https://nunosempere.github.io/rat/eamentalhealth/Q15-b.png)
 
 Thus, it is a high tractability, high neglectedness, small to high impact task to create such a list of mental resources for the EA community, even if collated and scavenged from other sources. If such a resource already exists, plenty of respondents do not seem to know about it.
-
-## E. Summary
-(deprecated)
-We first provided some shiny plots which summarized the results of the survey. 
-
-Then, we proceeded to analyze these results. We have seen that demographically, respondents varied somewhat compared with the 2018 EA Survey, but didn't worry too much about that. The rates of mental illnesses were astoundingly high: 45% of respondents had been diagnosed with at least one mental condition, which shoots up to 71% if we include respondents who think they have a mental condition but have not formally been diagnosed with one.
-
-This makes us suspect selection effects, but from the data, we cannot know whether these play out at the level of our survey, or at the level of the EA community. For this reason, we'd **strongly suggest to add a mental health section to the annual EA survey**. Nonetheless, some conclusions can be reached despite a potential bias, because sometimes the bias either doesn't matter, or we know its direction. 
-
-We also have the issue of p-hacking, or in general picking and choosing regressions to push a conclusion. Because computing power is cheap, we choose to instead run all the regressions, that is, we choose to operationalize our questions and to model our data in many different ways, and report the aggregate results. Additionally, most of our conclusions carry the caveat of coming from a cross-sectional analysis, a method which not only can be unreliable, but also doesn't tell us the direction of our effect. For example, if we run a regression GDP ~ education, we see that richer countries are more educated, but we can't say whether that is because they like to spend their money on education, or because being more educated makes them richer.
-
-Nonetheless, our first conclusion is that, among the respondents of this survey, more involvement in the EA community is positively correlated with better mental health. The correlation does not reach any significance threshold whatsoever, and, we're relieved to find out that it doesn't go in the opposite direction. This is evidence against EA causing mental health problems, and a toy model is presented in which EA causes mental health through the idea of x-risk; we find that such a model is not consistent with our data. 
-
-As a proof of concept, we run a correlation on whether having mental health problems is correlated with thinking one could benefit from mental health resources; we find the expected correlation and get an absurdly low p-value. We also run a correlation on potential self-interested, that is, we ask whether thinking one could benefit from mental health resources is correlated with answering that providing these resources would be an effective thing to do. Again, we get a positive correlation with absurdly low p-values.
-
-We then ask what the effect of mental health on productivity is, and how access to treatment mediates it. We see that people lose a lot of hours because of mental illness: an additional diagnosed mental illness is correlated with a loss of ~5 hours per 2 weeks. But conditions are highly co-morbid, so being mentally ill is correlated with losing ~9 hours per 2 weeks. This is not homogeneously distributed, but instead like a power law: a small proportion of respondents (~10%-20%) lose a lot of hours. Limiting our regression to that 10-20% takes our statistical power away, but nonetheless, knowing the shape of the distribution helps indicate what sort of interventions might be valuable.
-
-Segregating respondents by whether they have received satisfactory healthcare, we find that those who have loose ~1-2 hours of work less than those who have not, and we think that this is probably and upwards estimate. In total, among our respondents, 1 758 hours of work were lost because of mental illness in the two weeks previous to our survey, compared to 16 737 hours worked, and 1 899 hours missed because of other reasons. 
-
-We look at the impact on mental health on productivity a second time with a different modelization, this time using The Work Productivity and Impairment Scale, and get what I think are upwards estimates of productivity lost, and of productivity regainable with suitable mental health resources. We have the problem that the scale assumes that a 6 on a scale of 1-10 corresponds to a productivity loss of 60%, and I'm not sure whether that's what respondents thought when answering the question. We also get a high cross-sectional estimate of the value of information, but this is likely to be too high because of issues with causal bidirectionality. For completeness' sake, we report how access is correlated with productivity for all our measures of access, hoping that this be an additional data-point when assessing potential interventions.
-
-Several questions in our survey ask respondents for their personal opinions and insights, and some of the observations which they make are quite sharp. I present the ones which are likely to be useful, expand on some of them, and see whether the data gathered supports the hypothesis they propose. That section is likely to be accessible to the casual reader, nonetheless, here are some brief highlights: Many respondents seem to think that there are selection effects going on in EA. Others propose that EA itself causally leads to mental conditions, and I give some nondefinitive arguments to why that might not be the case, supported by the data at hand.  I sketch several layers which providing mental health would have to go through before the world is positively changed, consider three different possible pathways to impact which providing mental health to effective altruists may have, and warn that if none of them work, being fuzzy about which ones are in effect wouldn't help. Many respondents suggest creating or scavenging mental health resources, and I mention some which have been of use to me. EA France seems to have something going on with a book club for reading *Feeling Good*, by David Burns, and I extend them an invitation to talk about it.
