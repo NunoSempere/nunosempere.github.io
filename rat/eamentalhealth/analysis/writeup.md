@@ -257,10 +257,10 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 ```
 
 Several interpretations present themselves.
-1: This is a bias, a component of self-interest. Perhaps people who have mental illnesses are in more pain, and people who feel pain are more selfish. If this was an op-ed piece, much could be said about how the above is why we take care of cultivating rationality, and I'd propose that this topic is more conducive to research analysis of the sort in which QALYs are estimated, and that asking the broad public for opinions is not that valuable.
-2: People who feel mental pain have *grokked* negative utilitarianism, or similarly have different intuitions about the matter.
-3: "Those who believe they could personally benefit might assess resources as more valuable precisely because they benefit themselves" is logically equivalent to "Those who don't believe they could personally benefit might assess resources as less valuable precisely because they wouldn't benefit themselves", but in the second case, the connotation is that the bias is on the part of the mentally healthy people. More neutrally, this is perhaps a case of the typical mind fallacy, in which both mentally healthy and mentally ill people use the heuristic of estimating the typical EA mind as similar to their mind, and thus reach different conclusions.
-4: Others.
+1: This is a bias, a component of self-interest. Perhaps people who have mental illnesses are in more pain, and people who feel pain are more selfish. If this was an op-ed piece, much could be said about how the above is why we take care of cultivating rationality, and I'd propose that this topic is more conducive to research analysis of the sort in which QALYs are estimated, and that asking the broad public for opinions is not that valuable.  
+2: People who feel mental pain have *grokked* negative utilitarianism, or similarly have different intuitions about the matter.  
+3: "Those who believe they could personally benefit might assess resources as more valuable precisely because they benefit themselves" is logically equivalent to "Those who don't believe they could personally benefit might assess resources as less valuable precisely because they wouldn't benefit themselves", but in the second case, the connotation is that the bias is on the part of the mentally healthy people. More neutrally, this is perhaps a case of the typical mind fallacy, in which both mentally healthy and mentally ill people use the heuristic of estimating the typical EA mind as similar to their mind, and thus reach different conclusions.  
+4: Others.  
 
 Personal comment: After having considered the above interpretations, I still assign most of the probability mass to interpretation 1: that this mechanism is [due to self-interest, or structurally similar to it](http://elephantinthebrain.com). That seems to me to be the most straightforward and simple hypothesis, whereas I see the other ones as sophisticated ex post facto rationalizations, that is, of being the answers to the following question: now that we know that this happened, what other mechanisms could explain the same phenomenon while not accusing anyone of being influenced by self-interest? (that has been, incidentally, the algorithm used to generate these ideas). To express the above numerically, I think that the intuitive odds which I assign to (Interpretation 1: Interpretation 2: Interpretation 3) would broadly and roughly be more like (80:2:10), and not at all like (33:33:33). This judgement may appear, and in fact be, one-sided. Readers are welcome to reach their own conclusions. 
 
@@ -372,7 +372,7 @@ Of course, the relation "(significantly) correlated to" is not transitive in the
 What is the effect of mental health on productivity, and how does access to healthcare mediate it? 
 
 #### 9.1. How does mental health affect productivity?
-We can correlate our four markers of mental illness on our two measures of lost productivity lost. However, the correlation runs both ways: from the data we cannot deduce whether people with mental conditions lose productivity, or whether losing productivity (i.e., losing a job) makes people more likely to be mentally ill. 
+We can correlate our four markers of mental illness on our two measures of lost productivity. However, the correlation runs both ways: from the data we cannot deduce whether people with mental conditions lose productivity, or whether losing productivity (i.e., losing a job) makes people more likely to be mentally ill. 
 
 If we assume that the effect is purely unidirectional (mental illness -> lost productivity), three highlights are:
 - Being diagnosed with one or more mental conditions would cause a loss of ~9 hours per 2 weeks.
@@ -566,6 +566,7 @@ In this last case, the implied effect doubles, to 2.2 hours saved per week, as s
 
 ```
 > m_ill3= (Receiving_positive | Receiving_negative) & A$m_ill_or_not
+## Here, we restrict the regression to people diagnosed with a mental condition.
 > sum(m_ill3)
 [1] 124
 > summary(lm(hours_lost[m_ill3] ~ Receiving_positive[m_ill3]))
@@ -581,9 +582,12 @@ Receiving_positive[m_ill3]TRUE   -4.428      4.018  -1.102    0.273
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 ```
 
-Note that, in none of the above cases we've gotten a significant effect. This is because outliers, for example, respondents who lost a job because of mental illness, and thus ~40 hours per week, make the error bars huge. In this case, excluding outliers doesn't make sense at all; instead, knowing where the error comes from, I think it makes sense to not get hung up on p-values. As a proof of concept, here is the same regression as above, but considering the logarithm of hours lost (which gives less weight to outliers); we "suddenly" reach significance (p-value of 0.00698). On the flip-side, the logarithm of hours lost is not an intuitive unit in which to report results. 
+Note that, in none of the above cases we've gotten a significant effect. For example, if we consider the whole population, our coefficients for receiving and not receiving satisfactory mental healthcare are significant, but not significantly different from each other.
+
+I think that this is a function of outliers. For example, respondents who lost a job because of mental illness, and thus ~40 hours per week, make the error bars huge. In this case, excluding outliers doesn't make sense at all; instead, knowing where the error comes from, I think it makes sense to not get hung up on p-values. As a proof of concept, here is the same regression as above, but considering the logarithm of hours lost (which gives less weight to outliers); we "suddenly" reach significance (p-value of 0.00698). On the flip-side, the logarithm of hours lost is not an intuitive unit in which to report results. 
 
 ```
+## Here, we restrict the regression to people diagnosed with a mental condition.
 > summary(lm(log(hours_lost[m_ill3]+1) ~ Receiving_positive[m_ill3]))
 Coefficients:
                                Estimate Std. Error t value Pr(>|t|)    
@@ -621,13 +625,13 @@ The Work Productivity and Impairment Scale has had some thought put into it, and
 
 > WPAI outcomes are expressed as impairment percentages, with higher numbers indicating greater impairment and less productivity, i.e., worse outcomes, as follows: 
 > 
-> Questions:
-> 1 = currently employed
-> 2 = hours missed due to health problems
-> 3 = hours missed other reasons
-> 4 = hours actually worked
-> 5 = degree health affected productivity while working
-> 6 = degree health affected regular activities
+> Questions:  
+> 1 = currently employed  
+> 2 = hours missed due to health problems  
+> 3 = hours missed other reasons  
+> 4 = hours actually worked  
+> 5 = degree health affected productivity while working  
+> 6 = degree health affected regular activities  
 > 
 > Scores:
 > Multiply scores by 100 to express in percentages.
@@ -655,7 +659,7 @@ Overall_work_impairment = Percent_missed_due_to_mental_health + (1-Percent_misse
 Overall_work_impairment = Overall_work_impairment*100 ## To express this is percentages.
 ```
 
-We will use the percent overall work impairment due to health as our productivity measure.
+We will use the percent overall work impairment due to mental health as our productivity measure.
 
 Now, we can correlate productivity lost with having or not having a mental illness. Because I'm not sure respondents understood that an answer of 5 on a scale of 1-10 would be interpreted as a 50% reduction in effectiveness, I'm hesitant to interpret this as a percentage. If we speak about points in the abstract:
 - When regressing lost productivity on mental conditions diagnosed and intuited: Being diagnosed with a mental condition is correlated with 42 points of lost productivity, and Intuiting one has a mental illness (as opposed to having been diagnosed with one) is correlated with a loss of ~27 points of lost productivity
@@ -796,6 +800,7 @@ F-statistic: 91.34 on 2 and 268 DF,  p-value: < 2.2e-16
 
 #### 9.4. Correlation of the Work Productivity and Impairment Scale with mental health, mediated by an index of access.
 With respect to accessibility, we can consider the following 4 questions:
+
 14. How challenging was it to receive the mental healthcare services you needed within the past 12 months?    
 15. How challenging is it to find useful information on mental healthcare services?     
 16. Do you experience financial difficulties as a result of mental healthcare?    
@@ -904,7 +909,7 @@ However, if taken at face value, these answers imply that the value of providing
 
 Using the same methodologies as above, the crossectional estimate of providing better information is also large. A productivity improvement of ~10% if information is very easy to come by, respectively a productivity loss of ~10% if finding it is very hard (~12% if restricting the regression to those with a diagnosis)
 
-Alone in terms of work hours, 2 would be gain (resp. lost) every two weeks if respondents find information very easy to come by (resp. very hard), amongst respondents who have been diagnosed with a mental illness or think they have one (~3 hours if one only considers those with a diagnosis).
+Alone in terms of work hours, 2 would be gained (resp. lost) every two weeks if respondents find information very easy (resp. very hard) to come by, amongst respondents who have been diagnosed with a mental illness or think they have one. If we only look at respondents with a diagnosis, this estimate increases to ~3 hours.
 
 I personally consider it likely that the effect is so large because the causal mechanism goes in both directions: a less burdensome mental illness -> easier to do things like finding information, or not missing work hours, but also: information is easier to find -> condition gets better -> fewer work hours are missed.
 
