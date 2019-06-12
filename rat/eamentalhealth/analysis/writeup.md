@@ -1,5 +1,3 @@
-# EA Mental Health Survey: Results and Analysis.
-
 Epistemic status: I am confident in everything I say. Conscious of the limitations of the data, and conscious that our estimates are full of noise, I would really like for this to be replicated by the annual EA Survey organized by Rethink Charity. Point estimates should not be taken at face value; the standard deviations are large and reported for a reason.
 
 Credit: Danica Willbanks created and carried out the survey, with the help of several EA Spain members, including myself. She also provided some suggestions for which regressions to run. Jaime Sevilla has provided good mentorship in general, and light editing work in particular. Any mistakes are mine alone.
@@ -176,13 +174,13 @@ The first four questions in our survey relate to involvement with EA:
 - How much impact do EA ideas have on your life?    
 - Do you donate part of your income to GiveWell recommended charities?     
 
-And two measures of mental illness:
+And four measures of mental illness:
 - A. A binary variable indicating whether a person was diagnosed with any mental illness (from our list) or not.
 - B. A binary variable indicating whether a person was diagnosed with any mental illness / think they have a mental illness, or not
 - C. An integer variable with the number of mental illnesses a person has been diagnosed with.
 - D. An integer variable with the number of mental illnesses a person has been diagnosed with or thinks they have.
 
-We have run 20 linear models, regressing each of our measures of mental illness with the answers to each of the four questions, and their sum (where verbal scales are converted to numerical ones when required. For example, a {"No", "Yes"} is converted to {0,1}. 
+We have run 20 linear models, regressing each of our measures of mental illness with the answers to each of the four questions, and their sum (where verbal scales are converted to numerical ones when required. For example, a {"No", "Yes"} is converted to {0,1}.) 
 
 In 17/20 cases, we get a positive but insignificant effect. One case is ambiguous and still insignificant, and the remaining 2/20 cases are negative but still insignificant. That is, further involvement with EA across all but one model makes one less likely to have mental illnesses, and to have fewer mental illnesses, but at no point does this reach significance thresholds.
 
@@ -208,7 +206,7 @@ The bottom-line seems to be that EA is correlated with better mental health, acr
 
 Curiously, I was kind of expecting the opposite result. It would just have been so much more interesting / contrarian. See also: [Efffective Altruists, not as mentally ill as you think](https://slatestarcodex.com/2015/03/06/effective-altruists-not-as-mentally-ill-as-you-think/)
 
-#### 4. Is being mentally ill predictive of answering yes to: "Do you think you could personally benefit from EA community mental health resources?"
+### 4. Is being mentally ill predictive of answering yes to: "Do you think you could personally benefit from EA community mental health resources?"
 
 The two questions which directly ask about mental illness are:
 - Which of these conditions have you been formally diagnosed with? 
@@ -1305,7 +1303,7 @@ A commenter talked about forming a support group for EAs with ADHD. Here is a fo
 ### 9. Providing mental health resources is creepy
 In personal conversation, a person in the outer orbit of the EA community has pointed out to me that providing mental health is creepy, and that they feel cringe when thinking about the idea. The word "cult" is mentioned. It is not implausible that providing mental health may put prospective EAs off.
 
-## 10. Power law distribution
+### 10. Power law distribution
 Some commenters postulated that impact among effective altruists follows a power law distribution, and that mental health might disproportionally affect those who do not have the highest impact. If that were the case, providing mental health resources to EAs might not be an effective undertaking. Other respondents were of the opinion that EA should be less elitist.
 
 ### 11. Cheap resources.
@@ -1317,4 +1315,4 @@ The point being that there are a lot of mental health resources and information 
 
 ![](https://nunosempere.github.io/rat/eamentalhealth/Q15-b.png)
 
-Thus, it is a high tractability, high neglectedness, small to high impact task to create such a list of mental resources for the EA community, even if collated and scavenged from other sources. If such a resource already exists, plenty of respondents do not seem to know about it.
+Thus, it is a high tractability, high neglectedness, medium impact task to create such a list of mental resources for the EA community, even if collated and scavenged from other sources. If such a resource already exists, plenty of respondents do not seem to know about it.
