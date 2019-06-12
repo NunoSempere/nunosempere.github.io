@@ -1262,6 +1262,9 @@ Here is a formal invitation to EA France to talk about how the group is organize
 ### 5. Visceral comparison with global poverty
 A respondent notes that they think someone who has nothing to eat in a developing country still has it worse than someone living with depression, and that they'd rather donate a 100 euros to cure two blind people from blindness than spend it on an hour of therapy for themselves. I empathize with this, and I also like second order effects. That is, going to therapy might allow someone to earn and donate more money, and thus cure more blind people, but this depends on the specifics of how much time is saved, how much money the person makes, how much therapy costs, and how much effort it takes to organize the whole thing.
 
+See also: [Mental Health Shallow Review
+](https://forum.effectivealtruism.org/posts/if24DY4pW2FZPPT4G/mental-health-shallow-review)
+
 ### 6. Moral hazard.
 Some people may join EA just to use these resources. Or some EAs who were paying for their therapy might choose to get it for free instead. 
 
