@@ -1186,8 +1186,10 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 ```
 
+I think that this is an artifact of people from Spain being confused about whether to describe themselves as "Hispanic".
+
 #### 10.3. By mental health
-Among all our markers, having worse mental health is correlated with finding it more challenging to receive mental healthcare, and to find information about it. Sometimes the effect is significant, p<0.05, but it is never large (the largest is a change of -0.16 in a -3 to +3 scale). This also holds if we consider an index. This might be explained as follows: Once you have a mental illness, getting (good) treatment for it doesn't mean you stop having it.
+Among all our markers, having worse mental health is correlated with finding it more challenging to receive mental healthcare, and to find information about it. Sometimes the effect is significant, p<0.05, but it is never large (the largest is a change of -0.16 in a -3 to +3 scale). This also holds if we consider an index.
 
 #### 10.4. By age
 No effect. No effect with index, by which I mean that the coefficient is close to 0 and that the standard error is also small.
@@ -1227,7 +1229,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 ## D. Crucial considerations for mental health in EA. 
 
-Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase and expand on some of the key ideas and leave a technical comment for the footnotes [1]. I have found these comments very useful as a way to think about the problem of mental health in EA overall.
+Some of the questions asked their respondents for their thoughts, and I really appreciated some of the long and insightful answers. Here, I paraphrase and expand on some of the key ideas. I have found these comments very useful as a way to think about the problem of mental health in EA overall.
 
 ### 1. Selection effects in EA. 
 Some respondents suggested that EA attracts people with mental illnesses. Perhaps there is a snowball effect going on, perhaps it selects from demographic which have higher rates of mental illness. Thus, a particularly cost-effective way to fight mental health in EA might be to do outreach amongst people who do not have mental health issues.
@@ -1243,10 +1245,11 @@ This model is not consistent with finding out that, among effective altruists, m
 
 For a toy model, consider for example whether mental illness is caused by involvement in effective altruism and mediated by understanding x-risk, that is, suppose that understanding x-risk led to (a chance of developing) depression/anxiety and that higher levels of effective altruism led to higher chances of understanding x-risk. For example, suppose that numerical answers to "How involved are you in the EA community?", from 1 to 6 were such that: Answering 1 (not very involved) leads to a 10% probability of understanding x-risk, 2->20%, ..., 6-> 60%. Imagine then that our survey has serious selection effects (such that people with more mental illness and people more familiar with effective altruism are more likely to participate). Then the effect would be amplified by these selection effects, and we *would* see a correlation between effective altruism and worse mental health. 
 
-The fact that we *don't* is indicative of other models, like models with selection effects. For example, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/). Maybe minds with mental conditions / high neuroticism minds look for things to be depressed or anxious about, and effective altruism happens to provide some such ideas. 
+The fact that we *don't* is indicative of other models, like models in which EA attracts people with mental conditions.
 
-Crucially, the counterfactual would not be not freaking out about stuff, it would be having fixated on something else to freak out about, like American politics, climate change, sexual assault, not being lovable, etc. Pithily expressed by a person in the orbit of the EA community: "If it's not utilitarian guilt, it's feminist guilt, if it's not feminist guilt, it's kindness guilt, and so on". *The content and origin of the idea being fixated on might be beside the point*. Under this model, EA therapists might be counterproductive.
+Furthermore, maybe obsessive thoughts relating to EA are exactly [like any other obsessive thoughts](https://slatestarcodex.com/2018/10/15/the-chamber-of-guf/). Maybe minds with mental conditions / high neuroticism minds look for ideas to be depressed or anxious about, and effective altruism happens to provide some such ideas. 
 
+Crucially, the counterfactual would not be not freaking out about stuff, it would be having fixated on something else to freak out about, like American politics, climate change, sexual assault, not being lovable, chance of a civil war, etc. Pithily expressed by a person in the orbit of the EA community: "If it's not utilitarian guilt, it's feminist guilt, if it's not feminist guilt, it's kindness guilt, and so on". *The content and origin of the idea being fixated on might be beside the point*. Under this model, EA therapists might be counterproductive.
 
 ### 3. EA may not have a comparative advantage in providing mental health resources.
 Either the market or other organizations, like universities or other NGOs specifically dedicated to mental health (CAMH, Zendo are mentioned, but I am not familiar with them). 
@@ -1289,7 +1292,8 @@ With regards to pathway 3, it is my impression that people in top charities and 
 
 With regards to other fuzzier pathways, they would have to be outlined first. 
 
-In each of the first three cases, there are many different steps in the process of providing mental healthcare, until impact is reached. I do not think this is a case of the conjunctive fallacy, but more of a case of attrition.
+In each of the first three cases, there are many different steps in the process of providing mental healthcare, until impact is reached. I do not think this is a case of the conjunctive fallacy, but more of a case of attrition. All in all, the whole logical model would be:
+
 - Mental healthcare is offered to EAs.
 - Some, but not all the EAs who need it apply for it.
 - Some non-EAs also apply. They are somehow filtered.
@@ -1312,7 +1316,7 @@ In personal conversation, a person in the outer orbit of the EA community has po
 Some commenters postulated that impact among effective altruists follows a power law distribution, and that mental health might disproportionally affect those who do not have the highest impact. If that were the case, providing mental health resources to EAs might not be an effective undertaking. Other respondents were of the opinion that EA should be less elitist.
 
 ### 11. Cheap resources.
-Whereas therapists are relatively expensive, it's relatively cheap to make (Nate Soares' writing on guilt)[http://mindingourway.com/guilt/] more widely known. I personally have also recently gotten some value out of (Kaj Sotala's blog posts on psychological frameworks)[https://kajsotala.fi/blog/blog_english/]; there is a certain power in hearing other people talk about their struggles with mental conditions. 
+Whereas therapists are relatively expensive, it's relatively cheap to make [Nate Soares' writings on Replacing guilt](http://mindingourway.com/guilt/) more widely known. I personally have also recently gotten some value out of [Kaj Sotala's blog posts on psychological frameworks](https://kajsotala.fi/blog/blog_english/); there is a certain power in hearing other people talk about their struggles with mental conditions. 
 
 SlateStarCodex's list of [mental health professionals](https://slatestarcodex.com/psychiat-list/), [resources](https://www.reddit.com/r/raisedbynarcissists/comments/6cdmn2/new_here_helpful_posts_comments_from_rbnbestof/) by [r/raisedbynarcissists](https://www.reddit.com/r/raisedbynarcissists/wiki/helpfullinks), and in particular [this list of books for building your life](https://www.reddit.com/r/raisedbynarcissists/comments/1axuzu/book_list_for_building_your_life/), are free. I've personally gotten some value out of these [Strategies and tools for getting through a breakup, from LessWrong](https://www.lesswrong.com/posts/opLKzAFQWCco8wQiH/strategies-and-tools-for-getting-through-a-break-up). Julia Wise seems to have [some](https://forum.effectivealtruism.org/posts/CJZGFxzHfdPuu2X76/a-mental-health-resource-for-ea-community) useful [things](https://forum.effectivealtruism.org/posts/ZGW8Tmc6mDWZTnqyo/burnout-and-self-care). The aforementioned *Feeling Good*, by David Burns is also free if found online (b-ok.org). 
 
