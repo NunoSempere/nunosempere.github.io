@@ -1,8 +1,12 @@
 # Mental Health in the EA Community using SSC's 2019 Survey
 
-If you naïvely run some regressions, you get a significant correlation between EA affiliation and mental conditions. If you look at the plots, this seems like maybe an artifact of different proportions of NAs.
+If you run some regressions, you get a significant correlation between EA affiliation and mental conditions; respondents who identified as EA differed from non-EAs by ~2-4% (see below). Note that the SSC Survey is subject to fewer biases than the EA Mental Health survey, and also note that it's still difficult to extract causal conclusions. See also: [that EA Mental Health Survey](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis). Data available [here](https://slatestarcodex.com/2019/01/13/ssc-survey-results-2019/)
 
-Anyways, the numerical results are:
+## Plots:
+
+![](https://nunosempere.github.io/ea/SSC-EA-MH-diag-and-intuit.png)
+![](https://nunosempere.github.io/ea/SSC-EA-MH-diag.png)
+
 
 ## Diagnosed + Intuited
 
@@ -207,8 +211,3 @@ AIC: 9440.4
 
 Number of Fisher Scoring iterations: 4
 ```
-
-## Plots:
-
-![](https://nunosempere.github.io/ea/SSC-EA-MH-diag-and-intuit.png)
-![](https://nunosempere.github.io/ea/SSC-EA-MH-diag.png)
