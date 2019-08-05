@@ -5,13 +5,14 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
-[Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  
-[A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  
-[Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
-[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
-[Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  
-[Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  
-[Webpage for a friend](https://ciruelahaiti.github.io/)  
+[Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
+[Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  (en)  
+[A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  (en)  
+[Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)   (en)  
+[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
+[Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  (en)  
+[Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  (en)  
+[Webpage for a friend](https://ciruelahaiti.github.io/)  (es)  
 [Litany of Loki](https://nunosempere.github.io/rat/Litany-of-Loki.html) (en)  
 [Different ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones.html) (es)  
@@ -19,7 +20,6 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  (en)  
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
-[Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
