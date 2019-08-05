@@ -1,13 +1,15 @@
 # Why did General Semantics fail?
 
+## Why do I care?
+Because the purpose of the Institute of General Semantics attracts me: to improve human rationality, and to use that to improve the world.
+
 ## Did General Semantics fail?
 
 On the one hand, this is a judgement call. On the other hand, yes, General Semantics has failed. Although it inspired writers whose novels remain, General Semantics doesn't do much these days. In *David's Sling*, the Institute plays at the level of national politics, in *The World of NULL-A*, General Semantics affects the Solar System. Back in reality, the Institute has previously considered becoming part of the Texan Christian University in order to survive [Source](https://www.generalsemantics.org/about/history/). I think that the impression that this paragraph gives is true to reality. Compare:
 > Our seminar-workshops were usually about three weeks long, but gradually over the years, they became shorter as the pace of living increased in our culture. The length of seminars shrank to twelve days, then eight, and at the present time, they occupy only weekends. We hope to return to the longer schedules soon, to give time for the essential training we consider very important. [Source](https://www.generalsemantics.org/wp-content/uploads/2011/05/articles/gsb/gsb65-csr.pdf)
-- It is not clear to me that any courses are being held now as of Summer 2019.
+- It is not clear to me that any courses are being held now as of Summer 2019
 
-## Why do I care?
-Because the purpose of the Institute of General Semantics attracts me: to improve human rationality, and to use that to improve the world.
+Anyways, here are some potential causes of its decline:
 
 ## Cause 1: People played politics.
 Two different organizations competing for the same funding, the ETC (a magazine) and the Institute for General Semantics. Initially, the magazine was supposed to pay part of its revenues, but at some point this changed. Drama ensued. [Source](https://www.generalsemantics.org/wp-content/uploads/2011/05/articles/etc/60-3-stockdale.pdf). In particular, the main force behind that division, S. I. Hayakawa, manouvered himself into a position of power, then left to become the director of San Francisco State.
@@ -15,7 +17,9 @@ Two different organizations competing for the same funding, the ETC (a magazine)
 ## Cause 2: Their courses did not work. 
 I have the nagging doubt that, if General Semantics had worked, if it had given people superpowers, and if its transmission had been possible, they wouldn't be in such a bad shape today. 
 
-As a comparison, consider Stoicism, and in particular, Marcus Aurelius' Meditations. People find the book consistently useful because reading it gives one the generator for "I am ultimately the only one resposible for my feelings, and it is not a good idea to worry about things outside my field of control", and this noticeably improves people's lives. It's a good piece of cultural technology, and thus survives
+As a comparison, consider Stoicism, and in particular, Marcus Aurelius' Meditations. People find the book consistently useful because reading it gives one the generator for "I am ultimately the only one resposible for my feelings, and it is not a good idea to worry about things outside my field of control", and this noticeably improves people's lives. It's a good piece of cultural technology, and thus survives.
+
+A way to find out whether a course works would be to carry out a sufficiently powered randomized trial. However, I have found that this is not trivial.
 
 ## Cause 3: Death of the Charismatic Leader.
 After Korzbinsky died, there was Hayakawa, but, as mentioned, he had better things to do. It is not clear to me whether the other prominent members were as charismatic. It seems to me that the pattern: "death of a leader leads to a slow decline" is not  uncommon.
@@ -143,4 +147,4 @@ For he is both the marble and the sculptor.
 > - Robert A. Heinlein
 
 ## Conclusion
-Even though reverse stupidity is not intelligence, the above are what seem to me to be some potential failure points which the current rationality and effective altruism movements might want to avoid. Additionally, it might be worth it to go fishing for techniques in Korzybski's *Science and Sanity* or in Hayakawa's *Language in Thought and Action*, or to directly ask the IGS for techniques. 
+Personal curiosity takes me up to here. Even though reverse stupidity is not intelligence, the above are what seem to me to be some potential failure points which the current rationality and effective altruism movements might want to avoid. It might or might not be overkill to hire a historian for a deeper analysis. Additionally, it might or might not be worth it to go fishing for techniques in Korzybski's *Science and Sanity* or in Hayakawa's *Language in Thought and Action*, or to directly ask the IGS for techniques.
