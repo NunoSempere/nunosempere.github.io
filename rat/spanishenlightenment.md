@@ -38,6 +38,5 @@ The Spanish Inquisition generally made life hard for people who had observations
 Example: Félix María Samaniego, besides his labor as writer of Fables, also writes erotic works. He really got in trouble with the Inquisition.
 
 ## Conclusion.
-The split, broadly speaking, between liberals and catholics remains in Spain until this date. 
 
 Because of the distance in time, it's hard to extract concrete things to do, vs things not to do. One exception is to not completely align oneself with the losing side in a political battle (f.ex., anti-Trump in America, anti-Brexit in Britain). Another would be to look harder at the relationship between literature and what you're trying to do; there wasn't a clear nexus between playwrights and people who were trying to improve agriculture. Yet a third would be to rethink the approach to courting popular opinion, which Spanish liberals did. The split between liberals and catholics remains in Spain until this date; maybe trying to work through the public sphere isn't tractable.
