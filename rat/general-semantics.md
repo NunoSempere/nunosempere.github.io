@@ -1,7 +1,12 @@
 # Why did General Semantics fail?
 
-## Why do I care?
-Because the purpose of the Institute of General Semantics attracts me: to improve human rationality, and to use that to improve the world.
+## What was General Semantics?  Why do I care about this question?
+
+General Semantics was, in short, the previous rationality movement. Its purpose was to improve human rationality, and to use that to improve the world. The question interests me because I see certain similarities betwen general semanticists and current rationalists. 
+
+## What are some similarities with the current rationalist movement?
+
+Yudkowsky and Korzybski have certain similarities. Both movements have fiction (but the General Semanticists seem to do better in this area, having had Heinlein, A. E. van Vogt, etc.) Both movements have similar goals. CFAR looks similar to the Institute of General Semantics, which also gave workshops.  Both movements had similar amount of cognitive power at their disposal, it seems to me.
 
 ## Did General Semantics fail?
 
@@ -54,7 +59,12 @@ It seems to me that the basic insights of General Semantics have been found agai
 ## Cause 8: Not enough money.
 There might not have been anything wrong with General Semantics per se. If a random millionaire had given them some money at a crucial moment, they might still be alive and flourishing.
 
-## Are there any superpowers worth stealing?
+## Conclusion
+Personal curiosity takes me up to here. Even though reverse stupidity is not intelligence, the above are what seem to me to be some potential failure points which the current rationality and effective altruism movements might want to avoid. It might or might not be overkill to hire a historian for a deeper analysis. Additionally, it might or might not be worth it to go fishing for techniques in Korzybski's *Science and Sanity* or in Hayakawa's *Language in Thought and Action*, or to directly ask the IGS for techniques.
+
+## Addendum: Are there any superpowers worth stealing?
+
+WARNING: **THE FOLLOWING IS NOT EXHAUSTIVE. THE FOLLOWING IS NOT REPRESENTATIVE. THE FOLLOWING IS A WORK IN PROGRESS.**
 
 In *Here is something about general Semantics* [Source](https://thisisnotthat.com/tintdocs/HSGS-CN-course.pdf), by Steven Stockdale, among other things a past director of the Institute of General Semantics, he talked about how we perhaps could:
 
@@ -145,6 +155,3 @@ For he is both the marble and the sculptor.
 > I am free because I know that I alone 
 > am morally responsible for everything I do. 
 > - Robert A. Heinlein
-
-## Conclusion
-Personal curiosity takes me up to here. Even though reverse stupidity is not intelligence, the above are what seem to me to be some potential failure points which the current rationality and effective altruism movements might want to avoid. It might or might not be overkill to hire a historian for a deeper analysis. Additionally, it might or might not be worth it to go fishing for techniques in Korzybski's *Science and Sanity* or in Hayakawa's *Language in Thought and Action*, or to directly ask the IGS for techniques.
