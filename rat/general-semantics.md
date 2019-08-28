@@ -6,7 +6,7 @@ General Semantics was, in short, the previous rationality movement. Its purpose 
 
 ## What are some similarities with the current rationalist movement?
 
-Yudkowsky and Korzybski have certain similarities. Both movements have fiction (but the General Semanticists seem to do better in this area, having had Heinlein, A. E. van Vogt, etc.) Both movements have similar goals. CFAR looks similar to the Institute of General Semantics, which also gave workshops.  Both movements had similar amount of cognitive power at their disposal, it seems to me.
+Yudkowsky and Korzybski have certain similarities. Both movements have fiction (but the General Semanticists seem to do better in this area, having had Heinlein, A. E. van Vogt, etc.) Both movements have similar goals. CFAR looks similar to the Institute of General Semantics, which also gave workshops.  Both movements had similar amount of cognitive power at their disposal, and their members seem to belong to the same social strata.
 
 ## Did General Semantics fail?
 
