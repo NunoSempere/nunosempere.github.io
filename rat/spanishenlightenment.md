@@ -26,11 +26,15 @@ Counterexample: Ramón de la Cruz. Started as neoclassic, but couldn't make enou
 
 The Spanish public developed a strong dislike for moralizing works; works which pushed for the reader to, in some sense, become more virtuous. This remains today: A bright friend of mine gave her dislike of "prosa didáctica" (didáctic prose) as the reason for not continuing to read HPMOR after the first few chapters. 
 
+Anyways, there doesn't seem to be that clear a connection between their fiction and their actual work. For contrast, I'm thinking of Ayn Rand's Atlas Shrugged, or Yudkowsky's HPMOR; that didn't happen. Interestingly enough, the Effective Altruism movement has Peter Singer books, but they're not fiction.
+
 ## Cause 4: Lack of political power. 
 
 Example: Carlos III, King of Spain, embraced Enlightened absolutism (everything for the people, nothing by the people), and is generally considered to have been a good king. He was supported by liberals. Two kings later, Fernando VII ends up exiling all liberals. The ebb and flow of good and bad kings doesn't stop.
 
 Example: The Agricultural Report. A Society of Patriotic Friends analyzes the situation of agriculture in Spain, and produces an Agricultural Report (1795), which proposes solutions. The report is popular, and widely read, but nothing comes of it. Although the author tries to be meek, the Church still feels antagonized. 
+
+The lesson would seem to be something like: try to do things outside the political sphere, because it is too unstable (?).
 
 ## Cause 5: Clash against religion. The Spanish Inquisition.
 The Spanish Inquisition generally made life hard for people who had observations to make against religion, tradition, etc. The Catholic Church had the first Encyclopedia (by D'Alambert and Diderot) in their list of banned books in 1759.
@@ -39,4 +43,4 @@ Example: Félix María Samaniego, besides his labor as writer of Fables, also wr
 
 ## Conclusion.
 
-Because of the distance in time, it's hard to extract concrete things to do, vs things not to do. One exception is to not completely align oneself with the losing side in a political battle (f.ex., anti-Trump in America, anti-Brexit in Britain). Another would be to look harder at the relationship between literature and what you're trying to do; there wasn't a clear nexus between playwrights and people who were trying to improve agriculture. Yet a third would be to rethink the approach to courting popular opinion, which Spanish liberals did. The split between liberals and catholics remains in Spain until this date; maybe trying to work through the public sphere isn't tractable.
+Because of the distance in time, it's hard to extract concrete things to do, vs things not to do. One exception is to not completely align oneself with the losing side in a political battle (f.ex., anti-Trump in America, anti-Brexit in Britain). Another would be to look harder at the relationship between literature and what you're trying to do; there wasn't a clear nexus between playwrights and people who were trying to improve agriculture. Yet a third would be to rethink the approach to courting popular opinion, which Spanish liberals did. The split between liberals and catholics remains in Spain until this date; maybe trying to work through the public sphere isn't tractable. Work outside it instead.
