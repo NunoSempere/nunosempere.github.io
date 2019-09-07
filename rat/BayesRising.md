@@ -1,5 +1,3 @@
-# Note: Not "floor", but "round".
-
 # On the Recalcitrance of Granularity and Knowledge Integration - An Answer to Sebastian Benthall's ["Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"](https://arxiv.org/abs/1702.08495)
 
 ## Abstract
