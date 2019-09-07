@@ -5,7 +5,8 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
-[Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) (en) 
+[On the Recalcitrance of Granularity and Knowledge Integration - An Answer to](http://nunosempere.github.io/rat/BayesRising.md) Sebastian Benthall's ["Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"](https://arxiv.org/abs/1702.08495) (en)  
+[Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) (en)  
 [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
 [Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  (en)  
 [A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  (en)  
