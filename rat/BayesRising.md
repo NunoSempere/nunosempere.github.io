@@ -25,7 +25,7 @@ There are other related concepts:
 - Calibration: Historically, when you say "X%", the thing happens X% of the time.
 - Granularity: The finest difference between probabilities which an agent is able to extract from the knowledge they have and receive; the degrees of uncertainty you are able to meaningfully differentiate between. For example, you use both 50% and 51%, and they happen with different frequencies.
 
-Depending on whether you take those two concepts to be included in Benthall's definition of accuracy, we're eithre fleshing out his definitions or showing that they're not exhaustive. This doesn't really matter to the thrust of our argument.
+Depending on whether you take those two concepts to be included in Benthall's definition of accuracy, we're either fleshing out his definitions or showing that they're not exhaustive. This doesn't really matter to the thrust of our argument.
 
 Interestingly, you can have two players with different degrees of granularity which are still perfectly well calibrated. For example, a monkey which always says 50% is perfectly well calibrated. Note that you can have the case in which you're applying the Bayes formula perfectly even though your prior is not well calibrated and your Bayes factor doesn't numerically capture the information you've newly obtained. Again, consider the monkey who always starts with 50% and always outputs 50%.
 
