@@ -1,4 +1,4 @@
-# Shaple value for Global coordination
+# Shaple value in Effective Altruism
 
 ## Introduction
 
