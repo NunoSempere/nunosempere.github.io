@@ -120,12 +120,16 @@ On a meta-level, we have seen two cases which are not smoothly handled when thin
 
 On the Aaron Schwarz case, the sum of the counterfactual impacts exceeded the impact of the thing. In general, if you have n people which are all needed to make a project work, the counterfactual value will far exceed the impact of the project. Further, if you assign status to the counterfactual impact of a thing, perverse incentives may arise, with advice such as "make yourself indispensable", and the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) might increase. The Shapley value handles those cases more smoothly.
 
-## Ideas for Charity Entrepeneurship.
+## How does this apply to Charity Entrepeneurship?
 Intuitively, if a group of people are maximizing their counterfactual impact, a failure mode might be to converge on complex projects in which each part is indispensable (because then every member has as a counterfactual the failure of the whole project). If instead they are looking to maximize their Shapley value, smaller projects which have more (total impact / number of people involved) will get filled first, and more impact will result overall.
 
 Similarly, Charity Entrepeneurship is creating NGOs. An important question to ask is: Is a given project still worth it if, instead of getting the counterfactual impact, we get (counterfactual impact / number of organizations involved) ~ Shapley Values?
 
-This is applicable to, for example: mental health interventions, sending reminder text messages to parents of children due for their immunizations, but not applicable to: fortifying flour with iron and folic acid, salt iodization.
+This is applicable to, for example: mental health interventions, sending reminder text messages to parents of children due for their immunizations, conditional cash transfers, but not applicable to: fortifying flour with iron and folic acid, salt iodization.
+
+![](http://www.charityentrepreneurship.com/uploads/1/0/7/2/10726656/299112185.png)
+
+Suggestion: In the above image, add a factor for where in the spectrum [wholly responsible for something - another link in a very large chain] a new charity falls.
 
 ## Open Philantropy example
 
