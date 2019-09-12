@@ -31,10 +31,10 @@ ShapleyValue(Leibniz) = 1/2 * [ (Value of adding Lebniz to coalition {} / Number
 
 If the value of creating calculus is 1, then:
 
-Value of adding Lebniz to coalition {} = 1
-Number of coalitions excluding Leibniz of the same size as {} = 1
-Value of adding Lebniz to coalition {Newton} = 0 
-Number of coalitions excluding Leibniz of the same size as {Newton} = 1
+Value of adding Lebniz to coalition {} = 1  
+Number of coalitions excluding Leibniz of the same size as {} = 1  
+Value of adding Lebniz to coalition {Newton} = 0  
+Number of coalitions excluding Leibniz of the same size as {Newton} = 1  
 
 Value(Leibniz) = 1/2 * (1/1 + 0/1) = 1/2
 
@@ -63,15 +63,15 @@ If the project gets completed, what is the value of each player?
 
 Value(AS) = 1/3 * [(Value of adding him to {} / 1) + (Value of adding him to {DB}/2) + (Value of adding him to {MS}/2) + (Value of adding him to {MS, DB}/1) ]
 
-Value of adding him to {} = 0
-Number of coalitions excluding him of size 0 = 1
-Value of adding him to {DB} = 0
-Value of adding him to {MS} = 0.4 ## The mad scientist tries to talk to him, but he's not very convincing
-Number of coalitions excluding him of size 1 = 2
-Value of adding him to {MS, DB} = 1
-Number of coalitions excluding him of size 2 = 1
+Value of adding him to {} = 0  
+Number of coalitions excluding him of size 0 = 1  
+Value of adding him to {DB} = 0  
+Value of adding him to {MS} = 0.4 // The mad scientist tries to talk to him, but he's not very convincing  
+Number of coalitions excluding him of size 1 = 2  
+Value of adding him to {MS, DB} = 1  
+Number of coalitions excluding him of size 2 = 1  
 
-Value(AS) = 1/3 * (0/1 + 0/2 + 0.4/2 + 1/1) = 0.4
+Value(AS) = 1/3 * (0/1 + 0/2 + 0.4/2 + 1/1) = 0.4  
 
 ### David Burns
 
@@ -81,13 +81,13 @@ If David Burns writes the book, but there is nobody, his impact is 0. If he exis
 
 Value(DB) = 1/3 * [(Value of adding him to {} / 1) + (Value of adding him to {AS}/2) + (Value of adding him to {MS}/2) + (Value of adding him to {MS, AS}/1) ]
 
-Value of adding him to {} = 0
-Number of coalitions excluding him of size 0 = 1
-Value of adding him to {AS} = 0
-Value of adding him to {MS} = 0
-Number of coalitions excluding him of size 1 = 2
-Value of adding him to {MS, AS} = 1-0.4 = 0.6 ## These are MARGINAL values.
-Number of coalitions excluding him of size 2 = 1
+Value of adding him to {} = 0  
+Number of coalitions excluding him of size 0 = 1  
+Value of adding him to {AS} = 0  
+Value of adding him to {MS} = 0  
+Number of coalitions excluding him of size 1 = 2  
+Value of adding him to {MS, AS} = 1-0.4 = 0.6 // These are MARGINAL values.  
+Number of coalitions excluding him of size 2 = 1  
 
 Value(AS) = 1/3 * (0/1 + 0/2 + 0/2 + 0.6/1) = 0.2
 
@@ -95,23 +95,23 @@ Value(AS) = 1/3 * (0/1 + 0/2 + 0/2 + 0.6/1) = 0.2
 
 Value(MS) = 1/3 * [(Value of adding him to {} / 1) + (Value of adding him to {DB}/2) + (Value of adding him to {AS}/2) + (Value of adding him to {AS, DB}/1) ]
 
-Value of adding him to {} = 0
-Number of coalitions excluding him of size 0 = 1
-Value of adding him to {DB} = 0
-Value of adding him to {AS} = 0.4
-Number of coalitions excluding him of size 1 = 2
-Value of adding him to {AS, DB} = 1
-Number of coalitions excluding him of size 2 = 1
+Value of adding him to {} = 0  
+Number of coalitions excluding him of size 0 = 1  
+Value of adding him to {DB} = 0  
+Value of adding him to {AS} = 0.4  
+Number of coalitions excluding him of size 1 = 2  
+Value of adding him to {AS, DB} = 1  
+Number of coalitions excluding him of size 2 = 1  
 
 Value(MS) = 1/3 * (0/1 + 0/2 + 0.4/2 + 1/1) = 0.4
 
 Total value = 0.4 + 0.2 + 0.4 = 1 (checks out)
 
 ### Counterfactual values:
-Counterfactual value of AS = 1
-Counterfactual value of MS = 1
-Counterfactual value of DB = 0.6
-Sum of the counterfactual values = 2.6
+Counterfactual value of AS = 1  
+Counterfactual value of MS = 1  
+Counterfactual value of DB = 0.6  
+Sum of the counterfactual values = 2.6  
 
 ### Why is this important
 
@@ -243,9 +243,11 @@ end <- Sys.time()
 end-start
 sum(2/(c(1:1000))^2)```
 
+```
 
 ## Sources
-https://en.wikipedia.org/wiki/Shapley_value
-https://christophm.github.io/interpretable-ml-book/shapley.html
-https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a
-https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d
+https://en.wikipedia.org/wiki/Shapley_value  
+https://christophm.github.io/interpretable-ml-book/shapley.html  
+https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a  
+https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d  
+https://www.eeg.tuwien.ac.at/conference/iaee2017/files/presentation/Pr_662_Jamasb_Tooraj.pdf (This last one is an interesting use fo Shapley values for international coordination)
