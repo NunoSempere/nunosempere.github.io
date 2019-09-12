@@ -150,6 +150,8 @@ With that in mind, here are our results for the different assumptions:
 | 1                        | I(k) = 0.99^k  | 97.92        | 0                       | 97.92          | 195.85 | 97.92        | Yes                  | 49.15             | 50%                                            |
 | 1                        | I(k) = 2/k^2   | 3.29         | 0                       | 3.29           | 6.58   | 3.29         | Yes                  | 1.64              | 50%                                            |
 
+CI stands for (pure/naïve) counterfactual impact. Taking into account the above, my best guess is that OpenPhilantropy would be (Shapley-)responsible for something between a third and half of the impact of the projects it funds, because the real world seems to me to be closer to: projects are distributed according to a power law, there are many projects, and within EA OpenPhilantropy is close to a monopoly with respect to funding. OTOH, 2 seems to high an exponent for the power law, perhaps something like 1 - 1.5 would be more realistic.
+
 ## An original result pertaining the above:
 The Shapley value is too computationally expensive to naïvely calculate; it would require us to consider 2^1011 coalitions. In general, for large values the Shapley value will not be computationally tractable. See, for example:
 
