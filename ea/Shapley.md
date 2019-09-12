@@ -18,7 +18,7 @@ It weighs all coalitions equally, without taking into account how likely it is f
 ## Newton and Leibniz.
 
 Consider Newton and Leibniz, which both invented Calculus. If we remove either of them, calculus would still have been invented.  What, then, was their contribution?
-
+```
 The counterfactual value of Newton is 0. If Newton hadn't existed, Leibniz would have discovered/invented it anyways.  
 The counterfactual value of Leibniz is 0. If Leibniz hadn't existed, Newton would still have discovered/invented it.  
 The sum of their counterfactual values is 0 + 0 = 0.  
@@ -39,7 +39,7 @@ Value(Leibniz) = 1/2 * (1/1 + 0/1) = 1/2
 Because the situation for Newton is symmetrical, and also because Value(Newton) = 1 - Value(Leibniz),
 
 Value(Newton) = 1/2
-
+```
 So according to the Shapley solution, they each get 50% credit.
 
 ## Aaron Swartz Institute for Mental Health.
@@ -58,7 +58,7 @@ The number of possible coalitions is: 2^3 = 8. They are, respectively: {}, {AS},
 If the project gets completed, what is the value of each player?
 
 ### Aaron Swartz
-
+```
 Value(AS) = 1/3 * [(Value of adding him to {} / 1) + (Value of adding him to {DB}/2) + (Value of adding him to {MS}/2) + (Value of adding him to {MS, DB}/1) ]
 
 Value of adding him to {} = 0  
@@ -70,9 +70,9 @@ Value of adding him to {MS, DB} = 1
 Number of coalitions excluding him of size 2 = 1  
 
 Value(AS) = 1/3 * (0/1 + 0/2 + 0.4/2 + 1/1) = 0.4  
-
+```
 ### David Burns
-
+```
 Value(AS) = 1/3 * [(Value of adding him to {} / 1) + (Value of adding him to {MS}/2) + (Value of adding him to {AS}/2) + (Value of adding him to {MS, AS}/1) ]
 
 If David Burns writes the book, but there is nobody, his impact is 0. If he exists in the same universe as Aaron Swartz, but the mad scientist isn't there to get it to him, his impact is also 0. If he and the mad scientist exist, but not Swartz, there is also no impact. 
@@ -88,9 +88,9 @@ Value of adding him to {MS, AS} = 1-0.4 = 0.6 // These are MARGINAL values.
 Number of coalitions excluding him of size 2 = 1  
 
 Value(AS) = 1/3 * (0/1 + 0/2 + 0/2 + 0.6/1) = 0.2
-
+```
 ### Mad scientist.
-
+```
 Value(MS) = 1/3 * [(Value of adding him to {} / 1) + (Value of adding him to {DB}/2) + (Value of adding him to {AS}/2) + (Value of adding him to {AS, DB}/1) ]
 
 Value of adding him to {} = 0  
@@ -104,13 +104,14 @@ Number of coalitions excluding him of size 2 = 1
 Value(MS) = 1/3 * (0/1 + 0/2 + 0.4/2 + 1/1) = 0.4
 
 Total value = 0.4 + 0.2 + 0.4 = 1 (checks out)
-
+```
 ### Counterfactual values:
+```
 Counterfactual value of AS = 1  
 Counterfactual value of MS = 1  
 Counterfactual value of DB = 0.6  
 Sum of the counterfactual values = 2.6  
-
+```
 ### Why is this important
 
 Because instead of a mad scientist going back in time, you could establish that foundation now, and hand exceptional but depressed people a copy of the *Feeling Good* book, which is something I sometimes do. 
