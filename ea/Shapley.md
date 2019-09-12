@@ -4,8 +4,6 @@
 
 The Shapley value can be used to think more clearly about impact attribution. Here, we give some silly examples which should allow the reader to grasp the concept more clearly, and to contrast it with the pure counterfactual value. We then apply the concept to OpenPhilantropy and Charity Entrepeneurship, and extract some recommendations for the two organizations.
 
-https://www.eeg.tuwien.ac.at/conference/iaee2017/files/presentation/Pr_662_Jamasb_Tooraj.pdf
-
 Normally, the calculation of the Shapley Value for n=1000 would be computationally intractable. However, for the case of a set of foundations looking to fund projects, there is some additional structure which we can exploit in order to make the Shapley value computable; we present this as a new result.
 
 ## The Shapley value formula.
