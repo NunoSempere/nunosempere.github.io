@@ -5,6 +5,7 @@ I am Nuño Sempere, I identify myself as an effective altruist and aspiring rati
 
 
 ## Recent.
+[A Shapley Value Calculator](shapleyvalue.com)  
 [On the Recalcitrance of Granularity and Knowledge Integration](http://nunosempere.github.io/rat/BayesRising) - An Answer to Sebastian Benthall's ["Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"](https://arxiv.org/abs/1702.08495) (en)  
 [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) (en)  
 [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
