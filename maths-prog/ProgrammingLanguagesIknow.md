@@ -8,7 +8,7 @@ Representative project: [A Turing Machine that finds out the nth prime](https://
 
 Useful for: Elegant & nifty arguments in set theory. The programming language for the mathematician.
 
-Personal experience: Cognitively effortful, interesting to work with. I've programmed a TM that finds the n-th prime.
+Personal experience: Cognitively effortful, interesting to work with. I've programmed a TM that finds the n-th prime. Turing Machines are necessary to understand some arguments in Paul Cohen's *Set theory and the continuum hypothesis*. More recently, [here](https://www.scottaaronson.com/blog/?p=2725) is a Turing Machine which halts iff ZFC is inconsistent.
 
 ## C and C++
 
