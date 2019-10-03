@@ -4,7 +4,7 @@
 
 ## Turing machines
 
-Representative project: [Turing machines](https://github.com/NunoSempere/Turing_Machine)
+Representative project: [A Turing Machine that finds out the nth prime](https://github.com/NunoSempere/Turing_Machine)
 
 Useful for: Elegant & nifty arguments in set theory. The programming language for the mathematician.
 
