@@ -71,7 +71,7 @@ Representative project: None, currently learning (Oct 2019).
 
 Useful for: Code which is executed on the client's side. Interactive webpages. Server side with Node.js
 
-Personal experience: Limited, currently learning.
+Personal experience: Limited, currently learning. As I write this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) just clicked for me. In hindsight, I had already used lapply in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment.
 
 ## Others.
 Unix shell, Matlab. Honorable mention to JSFuck for its practical uses. Honorable mention to Intercal for the following paragraph, which has stayed with me: 
