@@ -77,7 +77,7 @@ Personal experience: Limited, currently learning.
 Unix shell, Matlab. Honorable mention to JSFuck for its practical uses. Honorable mention to Intercal for the following paragraph, which has stayed with me: 
 
 > Until the new INTERCAL compiler with better RYM[6] access comes out, the old compiler has no way of knowing which language you are familiar with and thus it doesn't know what language to produce its output in[7]. INTERCAL elegantly solves this problem by producing its output in Roman numerals, under the assumption that when Rome was at the height of its strength, half the world was under its dominion, so the comprehension of Roman numerals is part of our racial memory.
-> Source [](http://www.catb.org/~esr/intercal/paper.html)
+> [Source](http://www.catb.org/~esr/intercal/paper.html)
 
 
 # Not Turing complete
