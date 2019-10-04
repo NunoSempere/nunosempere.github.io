@@ -3,7 +3,7 @@
 ## Why do I care about this question?
 The Spanish Enlightenment was probably the closest thing you could find in Spain to the EA/rationality movements in the 18th century. I'm interested in seeing why it failed, and whether any lessons can be carried over.
 
-Note: Followers of Enlightenment values called themselves liberals. 
+Note: Followers of Enlightenment values called themselves liberals / neoclassics. 
 
 ## Cause 1: The movement played politics, and lost.
 The French, under Napoleon, invaded Spain. The Enlightenment movement aligned itself with French revolution ideals and values, whereas the common folk hated the invasion. Liberals took positions of power in the new administration, for which they were perceived as traitors. After the French were defeated, most of the Spanish elite went into exile by royal decree (not only those who had worked with the French, also those who had received offers to!). In general, liberals and their ideas were perceived as foreign to Spain; to a certain degree, because they were.
@@ -26,7 +26,7 @@ Counterexample: Ramón de la Cruz. Started as neoclassic, but couldn't make enou
 
 The Spanish public developed a strong dislike for moralizing works; works which pushed for the reader to, in some sense, become more virtuous. This remains today: A bright friend of mine gave her dislike of "prosa didáctica" (didáctic prose) as the reason for not continuing to read HPMOR after the first few chapters. 
 
-Anyways, there doesn't seem to be that clear a connection between their fiction and their actual work. For contrast, I'm thinking of Ayn Rand's Atlas Shrugged, or Yudkowsky's HPMOR; that didn't happen. Interestingly enough, the Effective Altruism movement has Peter Singer books, but they're not fiction.
+Anyways, there doesn't seem to be that clear a connection between their fiction and their actual work. unlike Ayn Rand's Atlas Shrugged, or Yudkowsky's HPMOR. Interestingly enough, the Effective Altruism movement has Peter Singer books, but they're not fiction.
 
 ## Cause 4: Lack of political power. 
 
@@ -39,8 +39,8 @@ The lesson would seem to be something like: try to do things outside the politic
 ## Cause 5: Clash against religion. The Spanish Inquisition.
 The Spanish Inquisition generally made life hard for people who had observations to make against religion, tradition, etc. The Catholic Church had the first Encyclopedia (by D'Alambert and Diderot) in their list of banned books in 1759.
 
-Example: Félix María Samaniego, besides his labor as writer of Fables, also writes erotic works. He really got in trouble with the Inquisition.
+Example: Félix María Samaniego, besides his labor as writer of Fables, also wrote erotic works. He got in trouble with the Inquisition.
 
 ## Conclusion.
 
-Because of the distance in time, it's hard to extract concrete things to do, vs things not to do. One exception is to not completely align oneself with the losing side in a political battle (f.ex., anti-Trump in America, anti-Brexit in Britain). Another would be to look harder at the relationship between literature and what you're trying to do; there wasn't a clear nexus between playwrights and people who were trying to improve agriculture. Yet a third would be to rethink the approach to courting popular opinion, which Spanish liberals did. The split between liberals and catholics remains in Spain until this date; maybe trying to work through the public sphere isn't tractable. Work outside it instead.
+Because of the distance in time, it's hard to extract concrete things to do, or not to do. One exception is to not completely align oneself with the losing side in a political battle (f.ex., anti-Trump in America, anti-Brexit in Britain). Another would be to look harder at the relationship between literature and what you're trying to do; there wasn't a clear nexus between playwrights and people who were trying to improve agriculture. Yet a third would be to rethink the approach to courting popular opinion; despite the best efforts of both camps, the split between liberals and catholics seems to have remained roughly constant in Spain.
