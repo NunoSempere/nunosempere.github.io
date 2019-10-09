@@ -12,4 +12,8 @@ Otherwise, the current files in this directory are:
 
 ## Thoughts on sklearn
 
-## 
+The exercise proved highly, highly instructive, because sklearn is really easy to use.
+
+![](https://data36.com/wp-content/uploads/2018/06/machineLearning.png)
+
+The [documentation](https://scikit-learn.org/stable/) is also extremely nice.
