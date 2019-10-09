@@ -2,12 +2,10 @@
 
 # Welcome / Bienvenidos / Willkommen!
 
-
-
 Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
 I am Nuño Sempere, I am close to the effective altruism and rationality community, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content.
 
-
+</br>
 
 ## Recent.
 [Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
