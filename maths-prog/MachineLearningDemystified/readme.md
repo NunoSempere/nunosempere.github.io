@@ -2,9 +2,9 @@
 
 Several friends encouraged me to apply to a Data Scientist position at ID Insights, an organization I greatly admire, and for a position which I would be passionate about.
 
-Unfortunately, they require Python, and I'm more of a R programmer. I decided to apply anyways, but before, I familiarized myself throrougly with numpy, pandas and sklearn, three of the most important libraries for machine learning in Python.
+Unfortunately, they require Python, and I'm most proficient with R. I decided to apply anyways, but before, I familiarized myself throrougly with numpy, pandas and sklearn, three of the most important libraries for machine learning in Python.
 
-I used a dataset from Kaggle [Health Care Cost Analysis](https://www.kaggle.com/flagma/health-care-cost-analysys-prediction-python/data), referenced as insurance.csv thoughout the code. The reader will also have to change the variable directory to fit their needs.
+I used a dataset from Kaggle: [Health Care Cost Analysis](https://www.kaggle.com/flagma/health-care-cost-analysys-prediction-python/data), referenced as insurance.csv thoughout the code. The reader will also have to change the variable directory to fit their needs.
 
 Otherwise, the current files in this directory are:
 
