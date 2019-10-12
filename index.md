@@ -50,7 +50,7 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/https://stable-marriage-problem/) (es)  
 [Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html) (en)  
 [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
-[Programa de facturación](https://easyfirma.es)
+[Programa de facturación](https://easyfirma.es) (es)  
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](https://nunosempere.github.io/humanities/remedios-zafra) (es)  
