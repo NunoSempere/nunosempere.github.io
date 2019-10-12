@@ -36,4 +36,4 @@ It came as a surprise to me that understanding and implementing the algorithm we
 ![](AgglomerativeClustering-age.png)
 
 - BMI is interesting, because there seems to be a line at BMI = 30, almost as if someone used that to make decisions about how much to charge, or what to diagnose. Normally, we'd expect something more continuous.
-![](AgglomerativeClustering-age.png)
+![](Birch-bmi.png)
