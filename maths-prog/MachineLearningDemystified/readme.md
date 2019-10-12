@@ -33,7 +33,7 @@ It came as a surprise to me that understanding and implementing the algorithm we
 ![](KMeans-sex_numeric.png)
 ![](KMeans-smoking_numeric.png)
 
-## Three highlights findings about the dataset.
+## Three highlights.
 
 The code produces the above visualizations for all algorithms. Here are three highlights.
 
