@@ -27,7 +27,7 @@ It came as a surprise to me that understanding and implementing the algorithm we
 - Those who have 4+ children get charged less by insurance, and smoke less.
 ![](children-charge-smoking.png)
 
-- The disgreggation by age seems interesting, because there are three prongs, roughly: 1) normal people who don't smoke, 2) those who get charged more: made out of those who don't smoke, and 3) those who get charged a lot, which only comprises smokers. The Gaussian Mixture & K-Means algorithms do better than most others at discriminating between these threee groups, and made me realize the difference.
+- The disgreggation by age seems interesting, because there are three prongs, roughly: 1) normal people who don't smoke, 2) those who get charged more: made out of both smokers and nonsmokers, and 3) those who get charged a lot, which only comprises smokers. The Gaussian Mixture & K-Means algorithms do better than most others at discriminating between these threee groups, and made me realize the difference.
 
 ![](GaussianMixture-age.png)
 ![](GaussianMixture-smoker_numeric.png)
