@@ -22,7 +22,7 @@ The exercise proved highly, highly instructive, because sklearn is really easy t
 
 It came as a surprise to me that understanding and implementing the algorithm were two completely different steps.
 
-## Some visualizations and findings about the dataset.
+## Some visualizations and three curious findings about the dataset.
 
 - Those who have 4+ children get charged less by insurance, and smoke less.
 ![](children-charge-smoking.png)
