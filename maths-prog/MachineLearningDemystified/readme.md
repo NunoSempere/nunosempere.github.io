@@ -22,7 +22,20 @@ The exercise proved highly, highly instructive, because sklearn is really easy t
 
 It came as a surprise to me that understanding and implementing the algorithm were two completely different steps.
 
-## Some visualizations and three curious findings about the dataset.
+### All KMeans plots produced by the code.
+
+![](KMeans-age.png)
+![](KMeans-bmi.png)
+![](KMeans-charges.png)
+![](KMeans-children.png)
+![](KMeans-cluster.png)
+![](KMeans-region_numeric.png)
+![](KMeans-sex_numeric.png)
+![](KMeans-smoking_numeric.png)
+
+## Three highlights findings about the dataset.
+
+The code produces the above visualizations for all algorithms. Here are three highlights.
 
 - Those who have 4+ children get charged less by insurance, and smoke less.
 ![](children-charge-smoking.png)
