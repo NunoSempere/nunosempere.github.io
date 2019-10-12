@@ -26,10 +26,11 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
-[A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  (en)  
-[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
+[Myself on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere) (en)  
+[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
-[100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.html) (es)  
+[100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.html) (es) 
+[A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  (en)  
 [List of TAPs](https://nunosempere.github.io/rat/list-of-taps.html) (en)  
 [List of Superpowers I want to steal](https://nunosempere.github.io/) (en)  
 [Paradox Party](https://nunosempere.github.io/rat/paradox-party.html) (en)    
