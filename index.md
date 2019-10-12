@@ -11,28 +11,24 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
+[Machine Learning Demystified](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/) (en, Python)  
 [Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
 [A Shapley Value Calculator](http://shapleyvalue.com/)  (en)  
 [On the Recalcitrance of Granularity and Knowledge Integration](http://nunosempere.github.io/rat/BayesRising) - An Answer to Sebastian Benthall's ["Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"](https://arxiv.org/abs/1702.08495) (en)  
 [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) (en)  
 [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
-[Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  (en)  
-[A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  (en)  
 [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)   (en)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
-[Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  (en)  
 [Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  (en)  
-[Webpage for a friend](https://ciruelahaiti.github.io/)  (es)  
 [Litany of Loki](https://nunosempere.github.io/rat/Litany-of-Loki.html) (en)  
 [Different ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html) (en)  
-[100 predicciones](https://nunosempere.github.io/rat/100-predicciones.html) (es)  
-[100 predictions](https://nunosempere.github.io/rat/100-predictions.html) (en)  
-[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  (en)  
-[Calibration](https://nunosempere.github.io/calibration/) (en)  
+[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  (en) 
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
+[A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  (en)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
+[Calibration](https://nunosempere.github.io/calibration/) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.html) (es)  
 [List of TAPs](https://nunosempere.github.io/rat/list-of-taps.html) (en)  
 [List of Superpowers I want to steal](https://nunosempere.github.io/) (en)  
@@ -44,15 +40,17 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 [Dark Arts: Narrativomancy](https://nunosempere.github.io/miscellanea/narrativomancy.html) (en)  
 [Consideraciones retreat Altruismo Efectivo Septiembre 2018](https://nunosempere.github.io/rat/AE-retreat.html) (es)  
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  (en)
-[Differnt ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html)
+[Different ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html)
 
 
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
+[Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  (en)  
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
 [AI texts I've read](https://nunosempere.github.io/maths-prog/ai.html) (en)  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/https://stable-marriage-problem/) (es)  
 [Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html) (en)  
 [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf) (en)  
+[Programa de facturación](https://easyfirma.es)
 
 ## Humanities / Humanidades.
 [Apuntes de una charla: Diálogos con la cultura, de Remedios Zafra](https://nunosempere.github.io/humanities/remedios-zafra) (es)  
@@ -102,6 +100,7 @@ Lucía Trillo  [Thinking fast and slow](https://nunosempere.github.io/) (es)
 Alonso Campos [Freedom regained, de Julian Baggini](https://nunosempere.github.io/) (es)  
 
 ## Miscellanea / Cajón de sastre.
+[Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  (en)  
 [Made a webpage for a friend](https://ciruelahaiti.github.io/)
 [The Wonderer vs Can You Feel the Love Tonight](https://nunosempere.github.io/) (es)  
 [The Lady of Shalott](https://nunosempere.github.io/) (en)  
