@@ -1,6 +1,6 @@
 # Machine Learning Demystified
 
-Several friends encouraged me to apply to a Data Scientist position at ID Insights, an organization I greatly admire, and for a position which I would be passionate about. I decided to apply. Beforehand, I familiarized myself throrougly with numpy, pandas and sklearn, three of the most important libraries for machine learning in Python.
+Several friends encouraged me to apply to a Data Scientist position at ID Insights, an organization I greatly admire, and for a position which I would be passionate about. Before doing so, I familiarized myself throrougly with numpy, pandas and sklearn, three of the most important libraries for machine learning in Python.
 
 I used a dataset from Kaggle: [Health Care Cost Analysis](https://www.kaggle.com/flagma/health-care-cost-analysys-prediction-python/data), referenced as "insurance.csv" thoughout the code. The reader will also have to change the variable "directory" to fit their needs.
 
