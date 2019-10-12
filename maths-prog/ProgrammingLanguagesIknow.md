@@ -37,11 +37,11 @@ Having had to deal with memory allocation, working in a language which just deal
 
 ## Python.
 
-Representative project: Classifying images in machine learning (no link)
+Representative project: [Machine Learning Demystified](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/). In which I fall in love with sklearn, a popular machine learning library for Python.
 
 Useful for: Mostly everything.
 
-Personal experience: I learnt Python while young, and used it to program Arduino. However, I hadn't used it much, until recently for machine learning. I have no complaints, but I'm also a little rusty.
+Personal experience: I learnt Python while young, and used it to program Arduino. More recently, I've used it for some machine learning.
 
 ## R
 
