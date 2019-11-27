@@ -11,7 +11,6 @@ The markdown code to refer to these images is:
 ![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
 ![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementComparison.png)
 ![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementComparison4.png)
-![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
 ```
 
 But do feel free to just copy and paste them.
@@ -25,4 +24,3 @@ But do feel free to just copy and paste them.
 ![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
 ![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementComparison.png)
 ![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementComparison4.png)
-![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
