@@ -2,14 +2,14 @@
 
 The markdown code to refer to these images is:
 ```
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndComparison.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndNAF.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndOC.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeNAF.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeOC.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementAcrossTimeComparison.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/QuestionsAcrossTimeWithPrior.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndComparison.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndNAF.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndOC.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeNAF.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeOC.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementAcrossTimeComparison.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/QuestionsAcrossTimeWithPrior.png)
 ```
 
 
@@ -17,11 +17,11 @@ The markdown code to refer to these images is:
 
 But do feel free to just copy and paste them.
 
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndComparison.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndNAF.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndOC.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeNAF.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeOC.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementAcrossTimeComparison.png)
-![](https:nunosempere.github.io/rat/foretold/AmplificationExperiment/QuestionsAcrossTimeWithPrior.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndComparison.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndNAF.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateEndOC.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeNAF.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AggregateScoreAcrossTimeOC.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/AverageQuestionAcrossTimeComparison.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/MarginalImprovementAcrossTimeComparison.png)
+![](https://nunosempere.github.io/rat/foretold/AmplificationExperiment/QuestionsAcrossTimeWithPrior.png)
