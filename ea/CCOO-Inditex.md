@@ -1,7 +1,5 @@
 IndustriALL Global Union
 
-Objetivo: Mostrar capacidad de investigación || Ver a ver si hay organizaciones/proyectos que sean tan o más efectivos como las organizaciones recomendadas por GW.
-
 1) Inditex.
 Preguntas: ¿Cuántas personas están a cargo, directa o indirectamente, de monitorizar este acuerdo?
 ¿Cuál es el coste total de llevar a cabo una inspección?
