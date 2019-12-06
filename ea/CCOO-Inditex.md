@@ -5,11 +5,11 @@ Objetivo: Mostrar capacidad de investigación || Ver a ver si hay organizaciones
 1) Inditex.
 Preguntas: ¿Cuántas personas están a cargo, directa o indirectamente, de monitorizar este acuerdo?
 ¿Cuál es el coste total de llevar a cabo una inspección?
-    - ¿Cuántas inspecciones se han llevado a cabo?
-    - ¿Cómo se asegura de que las inspecciones son de verdad, es decir, que las condiciones no son mejores solamente durante la inspección? ¿Cuál es el sistema de auditorías?
+ - ¿Cuántas inspecciones se han llevado a cabo?
+ - ¿Cómo se asegura de que las inspecciones son de verdad, es decir, que las condiciones no son mejores solamente durante la inspección? ¿Cuál es el sistema de auditorías?
 ¿Qué han cuantificado?
 ¿En qué medida depende el asunto de un clima político voluble / atención del público?
-    - ¿Necesitan dinero?
+ - ¿Necesitan dinero?
 ¿Cuáles son los eslabones débiles?
 ¿Quién está a cargo, IndustriALL o CCOO?
 ¿Se ha llevadoa cabo algo contra el problema de las Sumangali?
@@ -19,7 +19,7 @@ Demasiado amplio. Muchos países, muchas preguntas. ¿Centrarme en Bangladesh y 
 
 ## Sumangali
 Identified in at least 2015
-    - https://www.ccoo-servicios.es/html/33504.html
+ - https://www.ccoo-servicios.es/html/33504.html
 
 ## Artículo: IndustriALL rompe la barrera y se adentra por primera vez en una fábrica de hilatura del sur de la India
 http://www.industria.ccoo.es/noticia:232717--IndustriALL_rompe_la_barrera_y_se_adentra_por_primera_vez_en_una_fabrica_de_hilatura_del_sur_de_la_India
@@ -46,22 +46,22 @@ VIETNAM - Creada la Red Sindical de proveedores de Inditex en el Sur. Hacia una 
 
 
 ## http://iboix.blogspot.com/2017/04/en-la-escuela-del-trabajo-de-ccoo.html
-     2001: Código de Conducta unilateral y Convenio Marco con Entreculturas.
-     Negativa a una fórmula similar con FITEQA-CCOO
-     2002-2007: trabajo sindical (seguimiento aplicación del Código en las fábricas proveedoras, debate sindical en las fábricas propias y la logística de Galicia)
-     2007: Acuerdo Marco Internacional
-     2012: Protocolo derechos de intervención sindical
-     2014: Acuerdo Marco Global
-     2016: Acuerdo expertos sindicales
-     2017: Actos 10º Aniversario. Balance AMG
+ 2001: Código de Conducta unilateral y Convenio Marco con Entreculturas.
+ Negativa a una fórmula similar con FITEQA-CCOO
+ 2002-2007: trabajo sindical (seguimiento aplicación del Código en las fábricas proveedoras, debate sindical en las fábricas propias y la logística de Galicia)
+ 2007: Acuerdo Marco Internacional
+ 2012: Protocolo derechos de intervención sindical
+ 2014: Acuerdo Marco Global
+ 2016: Acuerdo expertos sindicales
+ 2017: Actos 10º Aniversario. Balance AMG
 
-     Aproximación sindical a los países: más de 100 fábricas visitadas desde la Coordinación General con los sindicatos locales (Argentina, Brasil, Portugal, Marruecos, Túnez, Turquía, India, China, Camboya y Vietnam)
-        Si hay 5mil fábricas: un 2%
+ Aproximación sindical a los países: más de 100 fábricas visitadas desde la Coordinación General con los sindicatos locales (Argentina, Brasil, Portugal, Marruecos, Túnez, Turquía, India, China, Camboya y Vietnam)
+ Si hay 5mil fábricas: un 2%
 
 ## http://iboix.blogspot.com/2014/07/renovacion-del-acuerdo-marco-global-de.html
 
 unas 5.000 fábricas y talleres en unos 40 países y en los que trabajan en torno a 1 millón de trabajadores
-    - De ellas, ¿cuántas se controlan?
+ - De ellas, ¿cuántas se controlan?
 
 El Acuerdo Marco establece el compromiso de la multinacional española con el sindicalismo mundial organizado en relación con su política y práctica de Responsabilidad Social, con el objetivo de garantizar el trabajo decente en toda su cadena de producción (unas 5.000 fábricas y talleres en unos 40 países y en los que trabajan en torno a 1 millón de trabajadores). Además de la definición de las bases del trabajo decente, es decir los Convenios de la OIT, establece con claridad su aplicación en toda la cadena de producción, hasta la última subcontrata, y también la concreta intervención sindical a nivel global, IndustriALL Global Union, y en cada país a través de los sindicatos locales, con la dirección y coordinación de la federación sindical mundial.
 
@@ -69,15 +69,15 @@ Hasta el momento éste es el único Acuerdo Marco en la industria textil mundial
 
 Al Acuerdo Marco se firmó en 2007 por parte de Inditex con la entonces Federación Sindical Internacional del Textil-Confección-Piel, la ITGLWF, integrada hoy en la Federación sindical global de la industria. En 2012 tuvo un desarrollo con el Protocolo 2012 que explicitaba los derechos de los sindicatos, desde la internacional IndustriALL hasta los sindicatos locales, en relación con el conocimiento de las redes de producción en cada país, capacidad de seguimiento de las condiciones de trabajo de las fábricas y talleres que las integran, y derecho de presencia en los centros de trabajo de la red de producción de su país.
 
-1.       Bangladesh: programa de trabajo para la constitución y la formación sindical y técnica de los Comités de Seguridad y Salud en las fábricas proveedoras de Inditex. Información de la aplicación  del Accord de las 180 marcas con IndustriALL y del Fondo de solidaridad con las víctimas de Rana Plaza.
-2.       Balance del reciente viaje del Coordinador a China y del próximo previsto, e iniciativas de IndustriALL al respecto
-3.       Situación de la cadena de producción en Brasil
-4.        Próximo seminario sindical-empresarial en Argentina
-5.    Balance de la reunión de la región MENA (Medio Oriente y África del Norte) de IndustriALL e iniciativas concretas en relación  con la red de producción de Inditex en Marruecos y Túnez.
-6.    Situación en Camboya: movilización sindical por un salario mínimo vital, defensa de los sindicalistas represaliados y presencia de Inditex en las iniciativas impulsadas desde IndustriALL Global Union.
-7.   Impulso para establecer “expertos” para la aplicación del Acuerdo Marco en la principales áreas mundiales
-8.        Aplicación del Protocolo 2012 (ahora Anexo II del Acuerdo Marco) en Vietnam.
-9.        Plan de trabajo para coordinar con los sindicatos portugueses la aplicación del Anexo II en Portugal
+1. Bangladesh: programa de trabajo para la constitución y la formación sindical y técnica de los Comités de Seguridad y Salud en las fábricas proveedoras de Inditex. Información de la aplicación del Accord de las 180 marcas con IndustriALL y del Fondo de solidaridad con las víctimas de Rana Plaza.
+2. Balance del reciente viaje del Coordinador a China y del próximo previsto, e iniciativas de IndustriALL al respecto
+3. Situación de la cadena de producción en Brasil
+4. Próximo seminario sindical-empresarial en Argentina
+5. Balance de la reunión de la región MENA (Medio Oriente y África del Norte) de IndustriALL e iniciativas concretas en relación con la red de producción de Inditex en Marruecos y Túnez.
+6. Situación en Camboya: movilización sindical por un salario mínimo vital, defensa de los sindicalistas represaliados y presencia de Inditex en las iniciativas impulsadas desde IndustriALL Global Union.
+7. Impulso para establecer “expertos” para la aplicación del Acuerdo Marco en la principales áreas mundiales
+8. Aplicación del Protocolo 2012 (ahora Anexo II del Acuerdo Marco) en Vietnam.
+9. Plan de trabajo para coordinar con los sindicatos portugueses la aplicación del Anexo II en Portugal
 
 Seguimiento
 
@@ -90,7 +90,7 @@ The meeting was convened as part of the 3-year cooperation agreement between IGU
 
 During this year, 2016, after the meetings for the creation of networks in each part of the country, 4 trade union seminars were held; they were imparted by IGU and FES and aimed at trade union workers in the factories of Inditex’s supply chain here. Two of them were held in Ho Chi Ming and another 2 in Hanoi, dealing with matters regarding collective bargaining, trade union networks and their structures, Vietnamese and international legislation, and GFAs.
 
-    The 23 trade union representatives of the factories were from 10 of Vietnam’s provinces, in which Inditex’s supply chain is mostly located (5 in the north, 4 in the south and 1 in the centre). Two of them work in the production department and the rest are managers or administrative staff, including several human resources managers. Seven were presidents of their companies’ trade union and 4 were vice-presidents. The discussion highlighted the insufficient representativeness resulting from these figures.
+ The 23 trade union representatives of the factories were from 10 of Vietnam’s provinces, in which Inditex’s supply chain is mostly located (5 in the north, 4 in the south and 1 in the centre). Two of them work in the production department and the rest are managers or administrative staff, including several human resources managers. Seven were presidents of their companies’ trade union and 4 were vice-presidents. The discussion highlighted the insufficient representativeness resulting from these figures.
 
 http://iboix.blogspot.com/2016/12/vietnam-2016-red-sindical-nacional-de.html
 
@@ -346,7 +346,7 @@ Agosto 2016
 ## https://www.inditex.com/web/guest/comprometidos-con-las-personas/nuestros-proveedores/el-trabajador-en-el-centro/sumangali-en-india
 What Inditex claims to do.
 
-## Sumangali:  Una manifestación de brutal explotación laboral, objeto de particular y necesaria atención en la lucha en defensa del trabajo decente en el mundo (2015)
+## Sumangali: Una manifestación de brutal explotación laboral, objeto de particular y necesaria atención en la lucha en defensa del trabajo decente en el mundo (2015)
 
 La comprobación sin embargo no es fácil por tratarse de empresas de hilatura y tejeduría, que sólo en pocas ocasiones producen el vestido y no son en general proveedores directos, por lo que el control supone verificar el origen del hilo y tejido de éstos. Inditex, El Corte Inglés y Cortefiel, marcas de ropa españolas con un importante volumen de compra en la India, informan de que sus sistemas de auditoría se han adaptado para incluir auditorías específicas, unas anunciadas y otras sin previo aviso, en relación con esta cuestión, lo que les lleva a asegurar que ninguno de sus proveedores directos o indirectos aplica esta forma de contratación.
 
@@ -386,7 +386,7 @@ controlen, no suministrarse en las fábricas que aún lo practiquen.
 
 ## Multi Stakeholder Initiative Tamil Nadu 
 
-##  SAVE (Society for Awareness and Voluntary Action)
+## SAVE (Society for Awareness and Voluntary Action)
 
 ## SOMO: otra ONG
 
@@ -402,7 +402,7 @@ Así en 2009, a partir de haberse detectado algunos problemas importantes, el De
 de RSC diseñó un detallado plan de trabajo, en el que incidimos sindicalmente desde
 España, orientado esencialmente a la zona de Delhi y que puede resumirse, como grandes
 cifras, en: 700 inspecciones, 400 visitas de certificación y 70 sesiones formativas.
-    - |N: Cifras. Sí. Mola. ¿Sigue esto en pié?
+ - |N: Cifras. Sí. Mola. ¿Sigue esto en pié?
 
  Sus líneas
 maestras se orientaron a la solución de problemas importantes considerados como
@@ -412,7 +412,7 @@ sexual y el trabajo forzoso, todos ellos importantes problemas presentes en el c
 país. Se impulsaron además procesos de fusión de talleres para incrementar su eficiencia
 productiva y garantizar el respeto a los derechos fundamentales del trabajo. En 2011 se
 verificó lo conseguido mediante una evaluación de los positivos resultados del proyecto.
-    - |N: Esto es exactamente lo que estaba buscando. Mirar documentos de 2011?
+ - |N: Esto es exactamente lo que estaba buscando. Mirar documentos de 2011?
 
 
  IndustriALL Global
@@ -423,9 +423,9 @@ industriales de Bangladesh, Pakistán y Sri Lanka
 
 ## http://www.industriall-union.org/indian-auto-and-garment-workers-move-to-strengthen-union-power
 
-##  India  2015   Una aproximación sindical  a su industria  del textil, la confección y la piel en la cadena de producción de INDITEX, y también  a problemas de dimensión global como  el SUMANGALI y otros
+## India 2015  Una aproximación sindical a su industria del textil, la confección y la piel en la cadena de producción de INDITEX, y también a problemas de dimensión global como el SUMANGALI y otros
 
-En 2014 Inditex trabajó en India con aproximadamente 250 fábricas y talleres, con unos 80.000 trabajadores, particularmente en las zonas industriales de Delhi al Norte y de Bangalore al Sur.   
+En 2014 Inditex trabajó en India con aproximadamente 250 fábricas y talleres, con unos 80.000 trabajadores, particularmente en las zonas industriales de Delhi al Norte y de Bangalore al Sur. 
 
 En las visitas de Bangalore nos acompañó una dirigente del sindicato textil local Garment Labour Union (que nos informó tener unas 2.000 personas afiliadas en 20 fábricas, un 90% de mujeres) no incorporado aún a IG
 
@@ -433,20 +433,20 @@ España exportaba más que India en 2015!!
 
 ## Legislación laboral básica de la India 
 
-Las normas básicas de ámbito federal (aunque hay que tener en cuenta que en muchos aspectos resultan desarrolladas de forma desigual en cada Estado) para regular las relaciones laborales son:  
- Constitución de 1949, con  algunas modificaciones posteriores 
+Las normas básicas de ámbito federal (aunque hay que tener en cuenta que en muchos aspectos resultan desarrolladas de forma desigual en cada Estado) para regular las relaciones laborales son: 
+ Constitución de 1949, con algunas modificaciones posteriores 
  Ley de Conflictos laborales de 1947, en la que se establece el derecho de huelga 
  Ley de fábricas de 1948
- Prohibición del trabajo infantil en ocupaciones peligrosas  
- No discriminación entre hombres y mujeres (sin embargo se establece aún la prohibición del trabajo nocturno para la mujer, autorizada solamente a trabajar entre 6 de la mañana y 7 de la tarde, excepcionalmente hasta las 10)  
+ Prohibición del trabajo infantil en ocupaciones peligrosas 
+ No discriminación entre hombres y mujeres (sin embargo se establece aún la prohibición del trabajo nocturno para la mujer, autorizada solamente a trabajar entre 6 de la mañana y 7 de la tarde, excepcionalmente hasta las 10) 
  Las empresas o instituciones con más del 51% de participación del Estado han de reservar entre un 27 y un 33 % del empleo para las castas inferiores. 
  Los salarios mínimos se regulan en cada Estado. En Delhi era hasta octubre de 5.886,7 rupias (unos 80 euros), y subía en noviembre a 7.600 rupias (unos 103 uros). En Bangalore era de 6.816 rupias (92 ). 
  Cada 6 meses se aumenta el salario mínimo según el incremento de la inflación. 
- Está legislada una paga de beneficios anual del 8,33% del total del salario base percibido. Se cobra coincidiendo con la fiesta religiosa de Diwali, en septiembre.  
- El sistema básico de gravámenes sobre las retribuciones se produce en diversos conceptos. Por una parte las empresas ingresan en las instituciones del Estado un 12 % sobre los salarios en concepto de fondos de previsión, cantidades que se acumulan para cada trabajador en sus sucesivos empleos y se perciben completas al dejar de trabajar (una especie de jubilación en una sola paga). Para la Seguridad Social la aportación es del 3% por parte de la empresa y del 13,75 % por parte del trabajador. Ambos conceptos se aplican obligatoriamente sobre la retribución hasta las primeras 15.000 rupias mensuales (204 uros), y son voluntarios a partir de esta cantidad. Como deducción fiscal se señalan 200 rupias (2,7 uros) mensuales sobre las retribuciones superiores a 20.833 rupias mensuales (283 ).  
+ Está legislada una paga de beneficios anual del 8,33% del total del salario base percibido. Se cobra coincidiendo con la fiesta religiosa de Diwali, en septiembre. 
+ El sistema básico de gravámenes sobre las retribuciones se produce en diversos conceptos. Por una parte las empresas ingresan en las instituciones del Estado un 12 % sobre los salarios en concepto de fondos de previsión, cantidades que se acumulan para cada trabajador en sus sucesivos empleos y se perciben completas al dejar de trabajar (una especie de jubilación en una sola paga). Para la Seguridad Social la aportación es del 3% por parte de la empresa y del 13,75 % por parte del trabajador. Ambos conceptos se aplican obligatoriamente sobre la retribución hasta las primeras 15.000 rupias mensuales (204 uros), y son voluntarios a partir de esta cantidad. Como deducción fiscal se señalan 200 rupias (2,7 uros) mensuales sobre las retribuciones superiores a 20.833 rupias mensuales (283 ). 
  El límite legal de horas extra es de 2 al día y 50 al trimestre. 
  A partir de los 240 días trabajados se puede disfrutar 1 día de vacaciones por cada 20 trabajados. 
- Junto a 5 días anuales de fiestas oficiales generales hay otros, de 5 a 7, que dependen de cada Estado y cuyo momento de disfrute se dejan a elección del trabajador.  
+ Junto a 5 días anuales de fiestas oficiales generales hay otros, de 5 a 7, que dependen de cada Estado y cuyo momento de disfrute se dejan a elección del trabajador. 
  Las trabajadoras embarazadas no pueden trabajar después del 8º mes y cuando dan a luz perciben una paga del 30% de su salario y la retribución durante 3 meses. 
  Se establecen indemnizaciones en caso de accidente de trabajo: si causa la muerte 120.000 rupias (1.628 uros), si provoca una incapacidad plena para el trabajo es de 140.000 rupias (1.900 ). Cuando se trata de enfermedad profesional en lugar de accidente las indemnizaciones pueden alcanzar las 456.000 rupias (6.188 ) y 548.000 rupias (7.436 ) respectivamente. 
 
@@ -454,10 +454,10 @@ Las normas básicas de ámbito federal (aunque hay que tener en cuenta que en mu
 El precio de una vida es bajo.
 
  Se reconoce el derecho de huelga, para el que algunos Estados establecen sin embargo limitaciones. 
- Se reconoce al sindicato en las empresas de más de 70 trabajadores si acredita una afiliación superior al 10%.  
- Definición como temporales, con menos garantías individuales, de las personas con contratos de menos de 240 días, lo que da lugar a diversas fórmulas de contratación, reduce la contabilización de los trabajadores estables y supone limitaciones en los derechos colectivos establecidos según la plantilla fija.  Las empresas, según plantilla, deben constituir 4 comités mixtos, todos ellos mixtos, con presencia de representantes de la dirección empresarial junto a los de los trabajadores:  -  Comité de trabajo en las de más de 100 trabajadores,  - Comité de quejas en las de más de 20,  - Comité de prevención del acoso sexual (con participación de una persona representando a una ONG), y  - Comité de Seguridad y Salud
+ Se reconoce al sindicato en las empresas de más de 70 trabajadores si acredita una afiliación superior al 10%. 
+ Definición como temporales, con menos garantías individuales, de las personas con contratos de menos de 240 días, lo que da lugar a diversas fórmulas de contratación, reduce la contabilización de los trabajadores estables y supone limitaciones en los derechos colectivos establecidos según la plantilla fija. Las empresas, según plantilla, deben constituir 4 comités mixtos, todos ellos mixtos, con presencia de representantes de la dirección empresarial junto a los de los trabajadores: - Comité de trabajo en las de más de 100 trabajadores, - Comité de quejas en las de más de 20, - Comité de prevención del acoso sexual (con participación de una persona representando a una ONG), y - Comité de Seguridad y Salud
 
-Nos explicaron que en este momento se está produciendo un intento de limitar los derechos de los trabajadores, planteando el incremento al 30% de afiliación como requisito para el reconocimiento de un sindicato en la empresa, o a 300 el mínimo de trabajadores de la empresa para tener derecho a un Comité de Trabajo. También pasar de 50 a 100 el máximo de horas extra al trimestre. Éstas y otras cuestiones estuvieron entre los motivos de la convocatoria de la Huelga General del pasado 2 de septiembre.   
+Nos explicaron que en este momento se está produciendo un intento de limitar los derechos de los trabajadores, planteando el incremento al 30% de afiliación como requisito para el reconocimiento de un sindicato en la empresa, o a 300 el mínimo de trabajadores de la empresa para tener derecho a un Comité de Trabajo. También pasar de 50 a 100 el máximo de horas extra al trimestre. Éstas y otras cuestiones estuvieron entre los motivos de la convocatoria de la Huelga General del pasado 2 de septiembre. 
 
 ## 4. Características y condiciones de trabajo de las fábricas visitadas 
 
@@ -467,7 +467,7 @@ Tres subcontratan las operaciones de bordado y una subcontrata puntas de producc
  La tecnología utilizada es esencialmente china (más abundante que en otros países de la región), japonesa y alemana. 
 	- Cómo?
 
-En todas hemos observado un bajo nivel cultural, con trabajadores de taller que comprenden el hindi pero que sólo están alfabetizados en su idioma local de origen, con un mayor uso de la huella dactilar como firma que en otros países de la región.  
+En todas hemos observado un bajo nivel cultural, con trabajadores de taller que comprenden el hindi pero que sólo están alfabetizados en su idioma local de origen, con un mayor uso de la huella dactilar como firma que en otros países de la región. 
 
 ¿Qué pasa si eres un fordista y ofreces un salario doble a los demás?
 	- ¿Por qué no voy y compro una fábrica?
@@ -477,21 +477,21 @@ Contratos temporales y a través de "contractors"
 Puede producirse además una fórmula de contratación peculiar, no observada en otros países de la región, que puede adquirir particular relevancia también para las condiciones de trabajo. Se trata de la contratación realizada a través de los denominados contractors, personas que ejercen algo parecido a nuestras ETT, y para las que por lo general sus oficinas son la entrada de las propias fábricas a las que ceden trabajadores. Ellos los contratan y les pagan el salario, parece que en cuantía igual a la de los otros trabajadores (al parecer el contractor percibe de la empresa a la que los cede un 5% de los salarios de sus trabajadores). Se trataría según nuestra legislación de una evidente cesión ilegal de trabajadores. A raíz de las auditorías de Inditex, una de las fábricas visitadas que antes utilizaba este método de contratación para el 50% aproximadamente de su plantilla, ahora lo limita a la plantilla oscilante según volumen de producción. De las entrevistas con trabajadores en tal condición de cedidos resulta que ellos se consideran parte de la plantilla de la empresa sin ninguna condición especial, probablemente por los hábitos, aún, de escasa significación del concepto de fijo de plantilla. En los Comités de Trabajo hay también trabajadores dependiendo de los contractors. Donde este método adquiere especial significación es en el sistema de contratación denominado Sumangali sobre el que volvemos más abajo.
 
 4.2.- Tiempo de trabajo. Horas extraordinarias 
-Las horas extraordinarias son también en la India un tema importante, su número y su control. En todas se cumple aparentemente la norma de no superar las 50 al trimestre (que ahora el gobierno parece quiere ampliar a 100), pero en una empresa ésta reconoció que las superan, pero las pagan, y para confirmarlo nos enseñaron la hoja de las horas efectivas, superior para muchos trabajadores a ese tope hoy legal. En varias empresas las pagan aparte en cash, sin constancia en las hojas salariales, mientras el salario se transfiere a cuenta bancaria. Ni los trabajadores entrevistados ni los representantes en el comité de trabajo lo señalaron como problema.  
+Las horas extraordinarias son también en la India un tema importante, su número y su control. En todas se cumple aparentemente la norma de no superar las 50 al trimestre (que ahora el gobierno parece quiere ampliar a 100), pero en una empresa ésta reconoció que las superan, pero las pagan, y para confirmarlo nos enseñaron la hoja de las horas efectivas, superior para muchos trabajadores a ese tope hoy legal. En varias empresas las pagan aparte en cash, sin constancia en las hojas salariales, mientras el salario se transfiere a cuenta bancaria. Ni los trabajadores entrevistados ni los representantes en el comité de trabajo lo señalaron como problema. 
 
-De las entrevistas realizadas se desprende que coinciden las retribuciones declaradas y efectivas de los trabajadores de taller.  
+De las entrevistas realizadas se desprende que coinciden las retribuciones declaradas y efectivas de los trabajadores de taller. 
 
-5. La actividad sindical en las fábricas. Comité de Trabajo, Comité para la prevención del acoso sexual, Comité de quejas y Comité de Salud y Seguridad  
-En esta industria la sindicación es muy reducida, tanto de los grandes sindicatos antes mencionados como de los pequeños, tan abundantes éstos en este gran y heterogéneo país. En ninguna de las fábricas visitadas existe sindicato organizado, ni aún iniciativas para conseguirlo. Quizás la presencia en las visitas de Bangalore de un pequeño sindicato sectorial local pueda contribuir a ello.  
-El conocimiento de la existencia de los sindicatos en el país por parte de los trabajadores de esta industria es muy escaso, algunos incluso parecían desconocer el significado del término sindicato, y casi todos su actividad. Sí sabían la mayoría que el 2 de septiembre hubo una Huelga General convocada por los sindicatos, aunque muy pocos supieron explicar sus objetivos. Si en Bangalore ese día no se trabajó fue esencialmente por la decisión de las propias empresas de cerrar sus instalaciones; en una el empresario nos indicó que ese día tampoco había transporte público.  
+5. La actividad sindical en las fábricas. Comité de Trabajo, Comité para la prevención del acoso sexual, Comité de quejas y Comité de Salud y Seguridad 
+En esta industria la sindicación es muy reducida, tanto de los grandes sindicatos antes mencionados como de los pequeños, tan abundantes éstos en este gran y heterogéneo país. En ninguna de las fábricas visitadas existe sindicato organizado, ni aún iniciativas para conseguirlo. Quizás la presencia en las visitas de Bangalore de un pequeño sindicato sectorial local pueda contribuir a ello. 
+El conocimiento de la existencia de los sindicatos en el país por parte de los trabajadores de esta industria es muy escaso, algunos incluso parecían desconocer el significado del término sindicato, y casi todos su actividad. Sí sabían la mayoría que el 2 de septiembre hubo una Huelga General convocada por los sindicatos, aunque muy pocos supieron explicar sus objetivos. Si en Bangalore ese día no se trabajó fue esencialmente por la decisión de las propias empresas de cerrar sus instalaciones; en una el empresario nos indicó que ese día tampoco había transporte público. 
 
-La práctica generalizada es la de aparente o supuesta elección de los representantes de los trabajadores, pero en ninguna comprobamos un efectivo proceso de elección con candidatos, su presentación ante los trabajadores con propuestas en relación con derechos e intereses colectivos e individuales. Tampoco un procedimiento claro con garantías democráticas para elegir entre los posibles candidatos.   
-La convocatoria para la designación de representantes la realiza la empresa. Su número dependerá de la decisión de la propia empresa (la ley señala que al menos 6 y como máximo 20; en las fábricas visitadas han variado entre 16, 18 y 20) y se constituyen a partir de 100 personas en la empresa. En una, uno de los 3 que representaban a la empresa era un supervisor de los contractors y en general eran del departamento de personal. La empresa fija fecha y abre la posibilidad de presentación individual de candidatos. Éstos han de ir a inscribirse en las oficinas de personal. Así se ha hecho en todas y sólo en un caso se presentaron más candidatos que puestos a cubrir, habiéndose decidido por consenso y en cada piso quienes serían sus representantes. En algunos casos eran ratificados a mano alzada. En ocasiones los propios miembros de los Comités nos decían que eran sus compañeros/as quienes les empujaban a presentarse; en alguno se comentaba que era por su condición de más antiguos, en otros por indicación de los supervisores,  En algunas ocasiones las candidaturas lo eran para uno de los Comités, en otras para su conjunto, y luego era generalmente el departamento de personal el que los asignaba a uno u otro comité.  
+La práctica generalizada es la de aparente o supuesta elección de los representantes de los trabajadores, pero en ninguna comprobamos un efectivo proceso de elección con candidatos, su presentación ante los trabajadores con propuestas en relación con derechos e intereses colectivos e individuales. Tampoco un procedimiento claro con garantías democráticas para elegir entre los posibles candidatos. 
+La convocatoria para la designación de representantes la realiza la empresa. Su número dependerá de la decisión de la propia empresa (la ley señala que al menos 6 y como máximo 20; en las fábricas visitadas han variado entre 16, 18 y 20) y se constituyen a partir de 100 personas en la empresa. En una, uno de los 3 que representaban a la empresa era un supervisor de los contractors y en general eran del departamento de personal. La empresa fija fecha y abre la posibilidad de presentación individual de candidatos. Éstos han de ir a inscribirse en las oficinas de personal. Así se ha hecho en todas y sólo en un caso se presentaron más candidatos que puestos a cubrir, habiéndose decidido por consenso y en cada piso quienes serían sus representantes. En algunos casos eran ratificados a mano alzada. En ocasiones los propios miembros de los Comités nos decían que eran sus compañeros/as quienes les empujaban a presentarse; en alguno se comentaba que era por su condición de más antiguos, en otros por indicación de los supervisores,  En algunas ocasiones las candidaturas lo eran para uno de los Comités, en otras para su conjunto, y luego era generalmente el departamento de personal el que los asignaba a uno u otro comité. 
 
 La mitad de los comités nos dijeron que los representantes de los trabajadores se reúnen solos (fuera de horas de trabajo) antes
 
-Por ello, la afirmación de compra directa por parte de ambas fábricas de tejido de algodón indio, de una región de la que se conoce la práctica generalizada del Sumangali, nos llevó a formalizar una propuesta concreta para una actuación inmediata: que Inditex se implique directamente en la comprobación de que éste no es el caso de las fábricas que suministran el tejido a sus proveedores, para, una vez comprobado, darle la mayor publicidad (positiva para tales spinningmills). Y así apoyar además a SAVE y a ETI para que puedan acceder a otras spinningmills.   
-Entendemos esta acción como una contribución a una campaña mundial contra el uso del sumangali en la hilatura y tejeduría del algodón indio.   
+Por ello, la afirmación de compra directa por parte de ambas fábricas de tejido de algodón indio, de una región de la que se conoce la práctica generalizada del Sumangali, nos llevó a formalizar una propuesta concreta para una actuación inmediata: que Inditex se implique directamente en la comprobación de que éste no es el caso de las fábricas que suministran el tejido a sus proveedores, para, una vez comprobado, darle la mayor publicidad (positiva para tales spinningmills). Y así apoyar además a SAVE y a ETI para que puedan acceder a otras spinningmills. 
+Entendemos esta acción como una contribución a una campaña mundial contra el uso del sumangali en la hilatura y tejeduría del algodón indio. 
 
 A tales objetivos vamos a incorporar otros elementos complementarios apuntados en este
 viaje, que no hemos podido aún desarrollar pero que son de general significación en el país y
@@ -509,7 +509,7 @@ conocer el Acuerdo Marco Global con Inditex y su potencialidad, dirigido tanto a
 organizaciones sindicales y representantes de los trabajadores como a directivos de las
 correspondientes empresas, según el modelo cuya referencia es la experiencia aplicada ya en
 Turquía.
-    - |N: Turquía?
+ - |N: Turquía?
 
 ## Balance sindical de los 10 años del Acuerdo Marco Global con INDITEX
 http://relats.org/documentos/GLOBBoixGarrido.pdf
@@ -522,9 +522,9 @@ MAIN DOCUMENT. USEFUL. MECHANISMS FOR PUBLIC ACCOUNTABILITY.
 
 Diez años durante los cuales las múltiples actividades que ha significado su aplicación se han
 traducido en documentos de análisis e información1
-    - Todos están archivados. Si alguien está interesado en alguno de ellos los puede solicitar a iboix@industria.ccoo.es
+ - Todos están archivados. Si alguien está interesado en alguno de ellos los puede solicitar a iboix@industria.ccoo.es
 o a vgarrido@industria.ccoo.es
-    - |N: Sí. Me interesan. Mucho. Para analizarlos yo, y para que haya una copia de seguridad aparte.
+ - |N: Sí. Me interesan. Mucho. Para analizarlos yo, y para que haya una copia de seguridad aparte.
 
 A este balance nos
 ha impulsado también constatar la inexistencia, al menos conocida, de otras experiencias sindicales
@@ -571,7 +571,7 @@ Un Departamento inicialmente de 4 personas en Arteixo y hoy con 135 entre Arteix
 donde se concentran las fábricas que producen la mayor parte de los más de 1.300 millones de prendas
 anuales de las marcas de Inditex. Tales equipos se encuentran hoy en España, Portugal, Marruecos,
 Turquía, India, Camboya, Bangladés, China, Vietnam, Pakistán, Brasil y Argentina.
-    - Departamento de Sostenibilidad / Responsabilidad corporativa de Inditex.
+ - Departamento de Sostenibilidad / Responsabilidad corporativa de Inditex.
 
 A lo largo de los años 2005 y 2006 desarrollamos una interesante experiencia que supuso la presencia e
 intervención sindical española en reuniones de Inditex con sus principales proveedores en varios países,
@@ -594,7 +594,7 @@ con la española MANGO (con preacuerdo ya con CCOO-Industria), con la japonesa M
 algunas su posibilidad (C&A, PRIMARK).
 
 Tomar contacto con los sindicatos textiles de Marruecos y Túnez
-    - Modus operandi usual. Tomar contacto.
+ - Modus operandi usual. Tomar contacto.
 
 Hundimiento de una fábrica en 2005, en Bangladés. Mueren 62 personas.
 2013: Rana Plaza. También decisiva.
@@ -642,7 +642,7 @@ sindicato peruano. Hoy, 10 años después, el sindicato de Topy Top constituye u
 sindicalismo en la industria de la confección peruana.
 
 “Protocolo para la gestión del Acuerdo Marco Internacional"
-    - Buscar esto
+ - Buscar esto
 
 Protocolo para concretar la participación sindical
 1) Conocimiento detallado de los centros de trabajo
@@ -665,7 +665,7 @@ Organización de las visitas: Inditex nos facilita las últimas auditorías real
 como la información complementaria cuyo interés deriva de las auditorías o de las informaciones
 sindicales relativas a tales empresas. Los sindicatos locales tienen previamente, en todos los casos, la
 relación de las fábricas a visitar y estas informaciones.
-    - ¿Cuál es este proceso de auditoría?
+ - ¿Cuál es este proceso de auditoría?
 
 Apoyo técnico: siempre necesitamos, y tuvimos, interpretación del español al idioma local, pasando a
 veces por el inglés, lo que fue facilitado por Inditex, en alguna ocasión con la ayuda de los sindicatos
@@ -733,7 +733,7 @@ multinacionales del mundo.
 Evidentemente no se trataba de un sistema de auditorías, ya que, entre otras razones, las que pudiéramos
 realizar los coordinadores era una ínfima parte de las que anualmente realizaba Inditex. Tampoco una
 especie de encuesta.
-    - ¿Cuál es el proceso de auditoría que Inditex realiza?
+ - ¿Cuál es el proceso de auditoría que Inditex realiza?
 
 Estas visitas han constituido una entrada sindical a fábricas, estableciendo un método de trabajo inexistente
 aún en demasiados países, en muchos de los cuales hasta ese momento no habían podido entrar en estas
@@ -742,7 +742,7 @@ de forma acelerada en la última etapa, la petición de los propios sindicatos l
 estas visitas y aplicáramos un método que ellos después pudieran generalizar.
 
 Los informes, “aproximaciones sindicales”
-    - |N: Buscar esto.
+ - |N: Buscar esto.
 
 Los informes, “aproximaciones sindicales”, han significado al mismo tiempo una explicación de iniciativas
 concretas, sindicales y de Inditex, y una especie de acta pública de lo hecho y de sus perspectivas. Unas a
@@ -788,7 +788,7 @@ laborales, se consiguió rápidamente la regularización de todos los inmigrante
 talleres que no reunían las condiciones de trabajo básicas. Sirvió también para establecer una relación
 regular de los sindicatos brasileños, particularmente del “Sindicato de Costureras de Sao Paulo”, con el
 equipo local de Inditex.
-    - Leer esto.
+ - Leer esto.
 
 En China, Bulgaria y algo menos en Vietnam, aparecían peculiaridades derivadas de la condición de
 empresa pública de prácticamente toda su anterior estructura industrial. Significativo de la evolución podría
@@ -859,7 +859,7 @@ de las plantillas que puede llegar e incluso superar el 50% anual. En China enco
 una rotación anual del 80% en el taller. En Camboya nos explicaron una huelga en una fábrica debido a que
 los trabajadores querían contratos temporales de 3 meses, y no de 1 año como proponía la empresa, para
 cobrar la indemnización prevista al final de cada contrato.
-    - Agricultura
+ - Agricultura
 
 Las dificultades para encontrar trabajadores con suficiente profesionalidad, no se plantea
 solamente en los países con mayor rotación sino también en otros, como es el caso de Bulgaria, Portugal
@@ -889,8 +889,8 @@ sindical, pervive el Decreto Ley 22342 de 21.11.1978. Un norma que fue estableci
 Morales Bermúdez, denominada “de exportaciones no tradicionales”, por la que, afirmando el objetivo de
 desarrollar la industria del vestido, se permiten contrataciones temporales sucesivas y sin límite en las
 cadenas de suministro de las marcas extranjeras.
-    - Montar un pollo en lo que a esto respecta?
-    
+ - Montar un pollo en lo que a esto respecta?
+ 
 Sumangali: Aunque de difícil control, se estiman en más de 200.000 las niñas-jóvenes afectadas por este
 sistema de reclutamiento realizado esencialmente por agentes (“ contractors”) que recorren la zona e
 incluso otros Estados de la India y que cobran unos 12 €uros por cada niña-adolescente contratada.
@@ -907,7 +907,7 @@ El algodón indio hilado y tejido es de difícil seguimiento
 
 También colabora con diversas organizaciones locales, nacionales e
 internacionales como ETI (Ethical Trading Iniciatuive) o la ONG SAVE
-    - ¿Cómo colabora?
+ - ¿Cómo colabora?
 
 Contractors. Se trata de personas, algunas antiguas/os
 trabajadoras/es del sector, que buscan trabajadoras/es para las fábricas. En ocasiones se limitan a
@@ -939,21 +939,21 @@ de suministro mundiales.
 
 Bangladesh su salario mínimo legal pasó de 20 €uros mensuales en 2010 a 68 en 2016 (incremento del
 240 % en 6 años)!!!!!!!!!!!!!!!!
-    - This is more significant than anything else!!!!!
+ - This is more significant than anything else!!!!!
 
 Otra, la principal, es comprobar que
 su diferente evolución por países apunta a un proceso de cierto reequilibrio mundial, a la vez que se
 acentúan determinadas desigualdades en cada país y entre países. Como más significativas apuntamos
 algunas:
-    Bangladesh su salario mínimo legal pasó de 20 €uros mensuales en 2010 a 68 en 2016 (incremento del
-    240 % en 6 años)
-    Camboya de 47 en 2013 a 128 en 2016 (incremento del 172 % en 3 años)
-    Vietnam de 38 en 2007 a 100 a 143 en 2016 (incremento del 282 % en 9 años)
-    China de 30 a 65 en 2006 a 250 a 300 en 2016 (incremento del 540 % en 10 años)
-    Turquía de 400 en 2014 a 430 en 2016 (aunque el incremento de esos dos años en su moneda local -la
-    lira turca- fue del 30 % en 2 años)
+ Bangladesh su salario mínimo legal pasó de 20 €uros mensuales en 2010 a 68 en 2016 (incremento del
+ 240 % en 6 años)
+ Camboya de 47 en 2013 a 128 en 2016 (incremento del 172 % en 3 años)
+ Vietnam de 38 en 2007 a 100 a 143 en 2016 (incremento del 282 % en 9 años)
+ China de 30 a 65 en 2006 a 250 a 300 en 2016 (incremento del 540 % en 10 años)
+ Turquía de 400 en 2014 a 430 en 2016 (aunque el incremento de esos dos años en su moneda local -la
+ lira turca- fue del 30 % en 2 años)
 Esto es más significativo que todo lo demás puesto junto.
-    - Investigar causas y actores en el cambio de salario en Bangladesh?
+ - Investigar causas y actores en el cambio de salario en Bangladesh?
 
 Junto con las cifras de partida de los salarios mínimos legales hay que conocer la retribución efectiva que de
 ellas resulta. Excepto en Portugal, Brasil y Argentina, en los países donde se sitúa la cadena de suministro
@@ -973,7 +973,7 @@ Técnicos y directivos: de 3 a 10 veces el salario del taller
 En los países con negociación colectiva, las retribuciones efectivas sin horas extras eran para las y los
 trabajadoras/es de taller del orden del 60%, 50 % y 25 % superiores al mínimo legal del país en Argentina,
 Brasil y Portugal respectivamente.
-    - Cita tus fuentes
+ - Cita tus fuentes
 
 sin incentivos de cantidad o calidad, más allá de la valoración por parte del jefe de línea o de taller para premiar a algunos trabajadores mensual o anualmente.
 
@@ -1064,15 +1064,15 @@ Con unas limitaciones oficiales de las
 horas extraordinarias de 2 al día en casi todos los países, con límites anuales desde 100 en Marruecos, 200
 en la India y 300 en Vietnam. La peor legislación es la de Bangladés que permite que hasta en 6 meses al
 año la jornada semanal sea de 72 horas (6 x 12). 
-    - |N: Esto no es inconsistente con la OIT? Mirar
+ - |N: Esto no es inconsistente con la OIT? Mirar
 
 Se observa, excepto en Argentina y Brasil, una tendencia generalizada a vulnerar la legislación,
 particularmente en China, India y el Sudeste asiático, sin que ello sea objeto de importante atención
 sindical en estos países en los que la jornada total anual habitual oscila entre 2.500 y 3.000 (en ocasiones
 hasta 3.200) horas anuales
-    - |N: 2500 /( 52 * 6) = 8 horas al día, con un día libre a la semana
-    - 3200h / año = 10.25 h/ día, con un día libre a la semana. Esto es brutal
-    
+ - |N: 2500 /( 52 * 6) = 8 horas al día, con un día libre a la semana
+ - 3200h / año = 10.25 h/ día, con un día libre a la semana. Esto es brutal
+ 
 Conviene al mismo tiempo señalar que a las fábricas proveedoras de las grandes
 marcas multinacionales no se les pueden aplicar las fáciles denuncias genéricas de “trabajan 10, 12 y hasta
 16 horas al día todos los días del año”, aunque a tales cifras probablemente se puedan acercar talleres de la
@@ -1164,7 +1164,7 @@ bajo el amparo del AMG, se paró la producción al conocerse un problema estruct
 Los trabajadores permanecieron durante 6 meses en paro técnico y, con el apoyo de Inditex, la fábrica les
 abonó el salario hasta que se les trasladó a otras instalaciones que tenían todas las garantías en materia de
 seguridad.
-    - |N: Tienen una lista de todos los resultados específicos y medibles / significativos?
+ - |N: Tienen una lista de todos los resultados específicos y medibles / significativos?
 
 Un problema prácticamente general es la constitución (obligatoria formalmente por casi todas las
 legislaciones) y composición de los Comités de Salud y Seguridad. En prácticamente todos los países, casi
@@ -1188,23 +1188,23 @@ Workplace deaths/GPD per capita
 
 Curiously, the workplace deaths in 2017 in Spain are also ~500
 http://www.mitramiss.gob.es/estadisticas/eat/eat17/Resumen_resultados_ATR_2017.pdf
-    500* 164,7 /46,53 = 1769.82591876 ~ 1800
-    
+ 500* 164,7 /46,53 = 1769.82591876 ~ 1800
+ 
 GDP per Capita in Spain in 1950 was $2,397.00 (still way higher than that of Bangladesh today, but we had a dictator)
-    Workplace deaths: 500
-        http://rabida.uhu.es/dspace/bitstream/handle/10272/12119/La_siniestralidad_laboral.pdf?sequence=4, page 94
-    Population 28 million
-    Equivalent rate in Bangladesh: 500*(164,7 / 28) = 2941 ~ 3000 deaths
+ Workplace deaths: 500
+ http://rabida.uhu.es/dspace/bitstream/handle/10272/12119/La_siniestralidad_laboral.pdf?sequence=4, page 94
+ Population 28 million
+ Equivalent rate in Bangladesh: 500*(164,7 / 28) = 2941 ~ 3000 deaths
 
 Why the change, from 1200 to 800? We can hypothesize that it's because one of the best sources available are newspaper, and the interest of these newspapers in reporting workplace deaths increased massively after the Rana plaza fire, but has now, a couple years afterwards, started to subside.
-    - Thus, the decrease in the numbers might be a function of decreasing public interest, not a function of decreasing deaths.
-    
+ - Thus, the decrease in the numbers might be a function of decreasing public interest, not a function of decreasing deaths.
+ 
 Numbers reported in 
-    - The Daily Start: https://www.thedailystar.net/city/1242-killed-workplace-accidents-2017-1512436
-    - Deutsche Welle: https://www.dw.com/en/textile-workers-still-unsafe-years-after-bangladesh-pakistan-factory-disasters/a-46507683
-    - https://www.dhakatribune.com/bangladesh/2017/04/28/workplace-deaths-double-2016/
-    - https://theconversation.com/industrial-accidents-in-bangladesh-are-another-symptom-of-an-unequal-society-65421
-    
+ - The Daily Start: https://www.thedailystar.net/city/1242-killed-workplace-accidents-2017-1512436
+ - Deutsche Welle: https://www.dw.com/en/textile-workers-still-unsafe-years-after-bangladesh-pakistan-factory-disasters/a-46507683
+ - https://www.dhakatribune.com/bangladesh/2017/04/28/workplace-deaths-double-2016/
+ - https://theconversation.com/industrial-accidents-in-bangladesh-are-another-symptom-of-an-unequal-society-65421
+ 
 https://www.ilo.org/global/statistics-and-databases/statistics-overview-and-topics/safety-and-health/lang--en/index.htm
 
 https://www.reuters.com/article/us-bangladesh-blast-accidents-factbox/factbox-major-industrial-accidents-in-bangladesh-in-recent-years-idUSKBN19P0JN
