@@ -11,8 +11,10 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
+[Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
 [Machine Learning Demystified](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/) (en, Python)  
 [Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
+
 [A Shapley Value Calculator](http://shapleyvalue.com/)  (en)  
 [On the Recalcitrance of Granularity and Knowledge Integration](http://nunosempere.github.io/rat/BayesRising) - An Answer to Sebastian Benthall's ["Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"](https://arxiv.org/abs/1702.08495) (en)  
 [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) (en)  
@@ -26,6 +28,13 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
+
+### Posts on the EA Forum:
+[Shapley values: Better than counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals)  (en)  
+[Why do social movements fail: Two concrete examples](https://forum.effectivealtruism.org/posts/7Pxx7kSQejX2MM2tE/why-do-social-movements-fail-two-concrete-examples)  (en)  
+[EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis)  (en)  
+
+### Other thoughts:
 [Myself on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere) (en)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
