@@ -11,7 +11,7 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
-[Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.md) (es)  
+[Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.html) (es)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
 [Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
 [A Shapley Value Calculator](http://shapleyvalue.com/)  (en)  
