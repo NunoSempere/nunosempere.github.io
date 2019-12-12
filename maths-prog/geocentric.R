@@ -1,7 +1,7 @@
 install.packages("ggplot2")
 library(ggplot2)
 
-sun = function(t){
+circle = function(t){
   x = sin(t)
   y = cos(t)
   return(c(x,y))
@@ -11,9 +11,9 @@ d = list()
 d$x = c()
 d$y = c()
 for(t in c(1:2000)){
-  p_sun = sun(t)
-  d$x=c(d$x,p_sun[1])
-  d$y=c(d$y, p_sun[2])
+  p_circle = circle(t)
+  d$x=c(d$x,p_circle[1])
+  d$y=c(d$y, p_circle[2])
 }
 d= as.data.frame(d)
 
