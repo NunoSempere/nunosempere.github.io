@@ -24,5 +24,9 @@ ggplot(data = d)+
   geom_point(aes(x=x, y=y), size = 0.0001)+
   blank
 
+p <- ggplot(data = data.frame(x = 0), mapping = aes(x = x))
+
+p + stat_function(fun = sun) + xlim(-5,5)
+
 ggsave("temp.png", width = 30, height = 30, units = "cm")
 
