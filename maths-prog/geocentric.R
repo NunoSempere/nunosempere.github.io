@@ -1,0 +1,28 @@
+install.packages("ggplot2")
+library(ggplot2)
+
+sun = function(t){
+  x = sin(t)
+  y = cos(t)
+  return(c(x,y))
+}
+
+sun(t)
+d = list()
+d$x = c()
+d$y = c()
+
+for(t in c(1:2000)){
+  p_sun = sun(t)
+  d$x=c(d$x,p_sun[1])
+  d$y=c(d$y, p_sun[2])
+}
+
+d= as.data.frame(d)
+blank = theme_void() + theme(legend.position="none")
+ggplot(data = d)+
+  geom_point(aes(x=x, y=y), size = 0.0001)+
+  blank
+
+ggsave("temp.png", width = 30, height = 30, units = "cm")
+
