@@ -82,6 +82,8 @@ Unix shell, Matlab. Honorable mention to JSFuck for its practical uses. Honorabl
 
 # Not Turing complete
 
+Update: It has since been pointed out to me that Latex & HTML might be Turing complete. This is not the first time that I've encountered an unexpected Turing; the game *Magic The Gathering* also turns out to belong to this category. I feel that this fact contains a deep lesson about the structure of the world, though it escapes me at the moment. 
+
 ## Latex
 Representative project: My CV.
 
