@@ -3,7 +3,7 @@
 # Welcome / Bienvenidos / Willkommen!
 
 Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
-I am Nuño Sempere, I am close to the effective altruism and rationality community, and this is where I will keep those projects of mine which I consider worthy. Some of them will be in Spanish, others in German. If you don't understand the title, you probably won't understand the content.
+I am Nuño Sempere, I am close to the effective altruism and rationality community, and this is where I will keep those projects of mine which I consider worthy. Content will be in a variety of languages, but I only actually speak Spanish, English and German.
 
 <br>
 
@@ -11,6 +11,7 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
+[Accuracy of Ray Kurzweil’s predictions for the 2010s](https://www.antropy.co.uk/blog/the-singularity-is-near-how-kurzweils-predictions-are-faring/) (en)  
 [Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.html) (en)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
 [Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
@@ -24,8 +25,14 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
-### EA Forum:
-[Myself on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere) (en)  
+### [Myself on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere) (en)  
+
+[International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability) (en)  
+[A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making) (en)  
+[A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty) (en)  
+[[Part 2] Amplifying generalist research via forecasting – results from a preliminary exploration](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting) (en)  
+[[Part 1] Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models) (en)  
+[Shapley Values Reloaded: Philantropic Coordination Theory & other miscellanea.](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) (en)  
 [Shapley values: Better than counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals)  (en)  
 [Why do social movements fail: Two concrete examples](https://forum.effectivealtruism.org/posts/7Pxx7kSQejX2MM2tE/why-do-social-movements-fail-two-concrete-examples)  (en)  
 [EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis)  (en)  
