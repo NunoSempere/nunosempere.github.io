@@ -39,7 +39,6 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 
 ### Other thoughts:
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
-
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
 [Calibration](https://nunosempere.github.io/calibration/) (en)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.html) (es) 
