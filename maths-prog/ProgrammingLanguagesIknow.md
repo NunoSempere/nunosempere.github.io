@@ -1,7 +1,5 @@
 # Programming Languages I Know and Cherish
 
-tl;dr: I have some experience with programming languages, and learning the syntax of a new one to a decent level takes me about a week.
-
 # Turing complete:
 
 ## Turing machines
