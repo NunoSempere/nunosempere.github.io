@@ -69,7 +69,7 @@ Useful for: Server side programming.
 Personal experience: I learnt PHP to program the above webpage. Ultimately, however, I could have just used JavaScript, because I don't really needed a database / everything could have been computed on the user's side. Demistifyies some webpages. 
 
 ## JavaScript
-Representative project: This [utility](https://observablehq.com/@nunosempere/foretold-notebook-into-csv), which takes a [foretold](https://www.foretold.io/) notebook, queries some data and converts it into a csv.
+Representative project: This [utility](https://observablehq.com/@nunosempere/foretold-notebook-into-csv), which takes a [foretold](https://www.foretold.io/) notebook, queries some data and converts it into a csv; (this npm package)[https://www.npmjs.com/package/@lokiodinevich/sparkwave0xff1493].
 
 Useful for: Code which is executed on the client's side. Interactive webpages. Server side with Node.js
 
