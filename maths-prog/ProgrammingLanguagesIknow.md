@@ -37,7 +37,7 @@ Having had to deal with memory allocation, working in a language which just deal
 
 ## Python.
 
-Representative project: [Machine Learning Demystified](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/). In which I fall in love with sklearn, a popular machine learning library for Python.
+Representative project: [Some machine learning](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/). 
 
 Useful for: Mostly everything.
 
@@ -60,18 +60,26 @@ Personal experience: Learnt for the novelty, and I appreciate the aesthetic appe
 
 ## PHP 
 
-Representative project: [shapleyvalue.com](http://shapleyvalue.com)
+Representative project: [shapleyvalue.com](http://shapleyvalue.com); [accompanying post](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals)
 
 Useful for: Server side programming.
 
 Personal experience: I learnt PHP to program the above webpage. Ultimately, however, I could have just used JavaScript, because I don't really needed a database / everything could have been computed on the user's side. Demistifyies some webpages. 
 
 ## JavaScript
-Representative project: [Proportional Approval Voting](https://nunosempere.github.io/ea/ProportionalApprovalVoting.html).
+Representative project: This [utility](https://observablehq.com/@nunosempere/foretold-notebook-into-csv), which takes a [foretold](https://www.foretold.io/) notebook, queries some data and converts it into a csv.
 
 Useful for: Code which is executed on the client's side. Interactive webpages. Server side with Node.js
 
-Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) had just clicked for me. In hindsight, I had already used lapply in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment. Later, I used JavaScript to implement approval voting for the Center for Eletion Science, and will further use it to contribute to foretold.io, a forecasting platform.
+Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) had just clicked for me. In hindsight, I had already used ```lapply``` in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment. Later, I used JavaScript to implement approval voting for the Center for Eletion Science, and for some contributions to foretold.io, a forecasting platform. I later built a small app to help me write poetry in Spanish using node and electron.
+
+## OCaml & ReasonML & React.
+
+Foretold uses ReasonML / React and I invested some time into understanding it.
+
+## Ruby (on Rails)
+
+[Sparkwave](https://www.sparkwave.tech/) mentioned that they used them, so I checked it out. Not my strong suit.
 
 ## Others.
 Unix shell, Matlab. Honorable mention to JSFuck for its practical uses. Honorable mention to Intercal for the following paragraph, which has stayed with me: 
@@ -113,3 +121,5 @@ Useful for: Databases on the server's side.
 Personal experience: Pretty straightforward; it's not even Turing complete. I prefer MariaDB on principle, because it's Free (Libre!) Software.
 
 
+## GraphQL
+Foretold.io uses GraphQL in the background, so I learnt to use it at a jack-of-all trades level.
