@@ -1,5 +1,7 @@
 # Programming Languages I Know and Cherish
 
+tl;dr: I have some experience with programming languages, and learning the syntax of a new one to a decent level takes me about a week.
+
 # Turing complete:
 
 ## Turing machines
@@ -16,7 +18,7 @@ Representative project: [Calibration](https://github.com/NunoSempere/calibration
 
 Useful for: Pedal to the metal programming.
 
-Personal experience: One of the first programming languages I learnt, and thus my documentation was in Spanish. I've used it to crunch numbers when a speedup mattered. I've also used it in ways it wasn't meant to: to program a database application, to analyze a lexical corpus, to solve riddles. This has led me to appreciate higher languages more, and to understand them better. For example:
+Personal experience: One of the first programming languages I learnt, and thus my documentation was in Spanish. I've used it to crunch numbers when a speedup mattered. I've also abused it to program a database application, to analyze a lexical corpus, to solve riddles. This has led me to appreciate higher level languages more, and to understand them better. For example:
 
 In JavaScript, consider the function:
 
@@ -56,7 +58,7 @@ Representative project: [Newspaper scrapper](https://github.com/NunoSempere/News
 
 Useful for: Aesthetics.
 
-Personal experience: Learnt for the novelty, and I appreciate the aesthetic appeal. Otherwise, not much to say.
+Personal experience: Learnt for the novelty, and I appreciate the aesthetic appeal. I then programmed a newpaper scrapper, which is I found hillarious because of the bad fit between the task and the language.
 
 ## PHP 
 
@@ -71,18 +73,15 @@ Representative project: This [utility](https://observablehq.com/@nunosempere/for
 
 Useful for: Code which is executed on the client's side. Interactive webpages. Server side with Node.js
 
-Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) had just clicked for me. In hindsight, I had already used ```lapply``` in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment. Later, I used JavaScript to implement approval voting for the Center for Eletion Science, and for some contributions to foretold.io, a forecasting platform. I later built a small app to help me write poetry in Spanish using node and electron.
+Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) had just clicked for me. In hindsight, I had already used ```lapply``` in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment. Later, I used JavaScript to implement approval voting for the Center for Eletion Science, and for some contributions to foretold.io, a forecasting platform. I later built a small app to help me write poetry in Spanish using node and electron, as well as a glorified diary program.
 
-## OCaml & ReasonML & React.
+## Various others:
 
-Foretold uses ReasonML / React and I invested some time into understanding it.
+- OCaml & ReasonML & React: Foretold uses ReasonML / React and I invested some time into understanding it.
+- Ruby: [Sparkwave](https://www.sparkwave.tech/) mentioned that they used them, so I checked it out. I really like that the amount of boilerplate needed to open a file is minimal compared to doing the same thing in node.
+- Lisp: I read the [Paul Graham summary](http://www.paulgraham.com/rootsoflisp.html), got the aha! moment about Lisp being an interesting model of computation, fucked around with it for a bit, and then never used it for a practical project. 
 
-## Ruby (on Rails)
-
-[Sparkwave](https://www.sparkwave.tech/) mentioned that they used them, so I checked it out. Not my strong suit.
-
-## Others.
-Unix shell, Matlab. Honorable mention to JSFuck for its practical uses. Honorable mention to Intercal for the following paragraph, which has stayed with me: 
+Unix shell, Matlab (a less worthy R). Honorable mention to JSFuck for its practical uses. Honorable mention to Intercal for the following paragraph, which has stayed with me: 
 
 > Until the new INTERCAL compiler with better RYM[6] access comes out, the old compiler has no way of knowing which language you are familiar with and thus it doesn't know what language to produce its output in[7]. INTERCAL elegantly solves this problem by producing its output in Roman numerals, under the assumption that when Rome was at the height of its strength, half the world was under its dominion, so the comprehension of Roman numerals is part of our racial memory.
 > [Source](http://www.catb.org/~esr/intercal/paper.html)
@@ -104,7 +103,7 @@ Representative project: This document is written in markdown.
 
 Useful for: GithubPages. Just writting without the need to worry about html.
 
-Personal experience: Easy to pick up. Pity that it doesn't really support math.
+Personal experience: Easy to pick up. With pandoc I can compile it into latex (!) and add all the math I want.
 
 ## HTML and CSS
 Representative project: [easyfirma.es](easyfirma.es)
