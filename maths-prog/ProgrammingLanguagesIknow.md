@@ -76,7 +76,7 @@ Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent Jav
 ## Various others:
 
 - OCaml & ReasonML & React: Foretold uses ReasonML / React and I invested some time into understanding it.
-- Ruby: [Sparkwave](https://www.sparkwave.tech/) mentioned that they used them, so I checked it out. I really like that the amount of boilerplate needed to open a file is minimal compared to doing the same thing in node.
+- Ruby: [Sparkwave](https://www.sparkwave.tech/) mentioned that they used them, so I checked it out. I really like that the amount of boilerplate needed to open a file is minimal compared to doing the same thing in node. Representative project: [This command line utility](https://github.com/NunoSempere/nunosempere.github.io/blob/master/maths-prog/BDI.rb) to ask the questions in the Becket Depression inventory, and append them to a text file.
 - Lisp: I read the [Paul Graham summary](http://www.paulgraham.com/rootsoflisp.html), got the aha! moment about Lisp being an interesting model of computation, fucked around with it for a bit, and then never used it for a practical project. 
 
 Unix shell, Matlab (a less worthy R). Honorable mention to JSFuck for its practical uses. Honorable mention to Intercal for the following paragraph, which has stayed with me: 
