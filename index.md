@@ -11,7 +11,7 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
-[Accuracy of Ray Kurzweil’s predictions for the 2010s](https://www.antropy.co.uk/blog/the-singularity-is-near-how-kurzweils-predictions-are-faring/) (en)  
+[Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
 [Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.html) (en)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
 [Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
