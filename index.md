@@ -11,7 +11,7 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
-[Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)
+[Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
 [Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.html) (en)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
