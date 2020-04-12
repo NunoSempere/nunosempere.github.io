@@ -11,6 +11,7 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 <br>
 
 ## Recent.
+[Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
 [Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.html) (en)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
@@ -21,7 +22,6 @@ I am Nuño Sempere, I am close to the effective altruism and rationality communi
 [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
 [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)   (en)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
-[Workplace deaths in Bangladesh](https://nunosempere.github.io/rat/workplace-deaths-in-Bangladesh)  (en)  
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
