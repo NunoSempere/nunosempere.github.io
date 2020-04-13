@@ -1,7 +1,3 @@
-<img align="left" width="167" height="250" src="https://nunosempere.github.io/Photo.jpeg">
-
-<br>
-
 ## Recent.
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
