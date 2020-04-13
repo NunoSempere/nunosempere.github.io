@@ -1,13 +1,5 @@
 <img align="left" width="167" height="250" src="https://nunosempere.github.io/Photo.jpeg">
 
-# Welcome / Bienvenidos / Willkommen!
-
-Welcome to Nuño's lair, with an axiomatic flair for the dramatic, the mathematic, the logical, the philosophical.
-I am Nuño Sempere, I am close to the effective altruism and rationality community, and this is where I will keep those projects of mine which I consider worthy. Content will be in a variety of languages, but I only actually speak Spanish, English and German.
-
-<br>
-
-
 <br>
 
 ## Recent.
