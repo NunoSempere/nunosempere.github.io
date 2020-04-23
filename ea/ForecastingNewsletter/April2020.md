@@ -17,29 +17,37 @@ In PredictIt, the [world politics](https://www.predictit.org/markets/5/World) se
 
 The question on [which Asian/Pacific leaders will leave office next?](https://www.predictit.org/markets/detail/6655/Which-of-these-8-Asian-Pacific-leaders-will-leave-office-next) also looks like it has a lot of free energy overestimating low probability events.
  
-### Replication Markets [replicationmarkets.com](https://www.replicationmarkets.com)
+### Replication Markets: [replicationmarkets.com](https://www.replicationmarkets.com)
 Replication markets add [two market-maker bots](https://www.replicationmarkets.com/index.php/2020/04/16/meet-the-bots/) and commence their 6th round. They also add a sleek new widget to visualize the price of shares better.
 
-### Coronavirus Information Markets [coronainformationmarkets.com](https://coronainformationmarkets.com/)
+### Coronavirus Information Markets: [coronainformationmarkets.com](https://coronainformationmarkets.com/)
 For those who want to put their money where their mouth is, there is now a prediction market for coronavirus related information. The number of questions is small, and the current trading volume is $8000.
 
-### Foretold
+### Foretold: [foretold.io](https://www.foretold.io/)
 
 Foretold brings us:
-- Estimates of [Active Infections throughout the world](https://www.foretold.io/c/1dd5b83a-075c-4c9f-b896-3172ec899f26/n/b24ccfcf-cdb8-431a-8004-b6af372cce1a).
+- Estimates of [Active Infections throughout the world](https://www.foretold.io/c/1dd5b83a-075c-4c9f-b896-3172ec899f26/n/b24ccfcf-cdb8-431a-8004-b6af372cce1a).  
 - A new [distribution builder](https://www.highlyspeculativeestimates.com/dist-builder). 
 
-### Metaculus
+### Metaculus [metaculus.com](https://www.metaculus.com/)
 
 Metaculus brings us a series of tournaments and question series:
 - [The Ragnarök question series on terrible events](https://www.metaculus.com/questions/?search=cat:series--ragnarok)
-- Pandemic and lockdown series
+- [Pandemic and lockdown series](https://pandemic.metaculus.com/lockdown/)
 - [The Lightning Round Tournament: Comparing Metaculus Forecasters to Infectious Disease Experts](https://www.metaculus.com/questions/4166/the-lightning-round-tournament-comparing-metaculus-forecasters-to-infectious-disease-experts/).
 - [Overview of Coronavirus Disease 2019 (COVID-19) forecasts](https://pandemic.metaculus.com/COVID-19/).
 - [The Salk Tournament for coronavirus (SARS-CoV-2) Vaccine R&D](https://pandemic.metaculus.com/questions/4093/the-salk-tournament-for-coronavirus-sars-cov-2-vaccine-rd/). 
 - [Lockdown series: when will life return to normal-ish?](https://pandemic.metaculus.com/lockdown/)
 
-### Good Judgement Project.
+### Good Judgement Project: [gjopen.com](https://www.gjopen.com/)
+
+The GJP has their usual challenges, plus one on [the Coronavirus Outbreak](https://www.gjopen.com/challenges/43-coronavirus-outbreak), financed by the [Open Philantropy Project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/good-judgment-inc-covid-19-forecasting).
+
+Of the questions which have been added recently, the crowd [doesn't buy](https://www.gjopen.com/questions/1580-before-1-january-2021-will-tesla-release-an-autopilot-feature-designed-to-navigate-traffic-lights) that Tesla will release an autopilot feature to navigate traffic lights, despite announcements to the contrary. Further, the aggregate... 
+- is extremely confident that, [before 1 January 2021](https://www.gjopen.com/questions/1595-before-1-january-2021-will-the-russian-constitution-be-amended-to-allow-vladimir-putin-to-remain-president-after-his-current-term), the Russian constitution will be amended to allow Vladimir Putin to remain president after his current term.   
+- gives a lagging estimate of 50% on [Benjamin Netanyahu ceasing to be the prime minister of Israel before 1 January 2021](https://www.gjopen.com/questions/1498-will-benjamin-netanyahu-cease-to-be-the-prime-minister-of-israel-before-1-january-2021).  
+- and 10% for [Nicolás Maduro](https://www.gjopen.com/questions/1423-will-nicolas-maduro-cease-to-be-president-of-venezuela-before-1-june-2020).  
+- [forecasts famine](https://www.gjopen.com/questions/1559-will-the-un-declare-that-a-famine-exists-in-any-part-of-ethiopia-kenya-somalia-tanzania-or-uganda-in-2020) (70%).
 
 ## In the News:
 -  [Forecasts in the time of coronavirus](https://ftalphaville.ft.com/2020/04/08/1586350137000/Forecasts-in-the-time-of-coronavirus/): The Financial times runs into difficulties trying to estimate whether some companies are overvalued, because the stock value/earnings ratio, which is otherwise an useful tool, is going to infinity as earnings go to 0 during the pandemic.
