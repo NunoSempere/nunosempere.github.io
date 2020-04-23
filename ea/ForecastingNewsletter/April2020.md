@@ -5,22 +5,29 @@ Whatever happened to forecasting? April 2020
 
 Forecasters may now choose to forecast any of the four horsemen of the Apocalypse: Death, Famine, Pestilence and War.
 
-### Augur [augur.net](https://www.augur.net/)
+### Augur: [augur.net](https://www.augur.net/)
 Augur, the blockchain prediction market, will be undergoing its [first major update](https://www.augur.net/blog/augur-v2/).
 
-### Predict It (predictit.org)[https://www.predictit.org/]
+### Predict It: [predictit.org](https://www.predictit.org/)
 
-The [world politics](https://www.predictit.org/markets/5/World) section is [overconfident on a Scottish independence referendum](https://www.predictit.org/markets/detail/6236/Will-Scottish-Parliament-call-for-an-independence-referendum-in-2020) (though read the fine print), gives 16% to [Netanyahu leaving before the end of the year](https://www.predictit.org/markets/detail/6238/Will-Benjamin-Netanyahu-be-prime-minister-of-Israel-on-Dec-31,-2020), and is uncertain whether [Maduro will remain President of Venezuela](https://www.predictit.org/markets/detail/6237/Will-Nicol%C3%A1s-Maduro-be-president-of-Venezuela-on-Dec-31,-2020) by the same date (63%). The question on [which Asian/Pacific leaders will leave office next?](https://www.predictit.org/markets/detail/6655/Which-of-these-8-Asian-Pacific-leaders-will-leave-office-next) also looks like it has a lot of free energy overestimating low probability events.
+In PredictIt, the [world politics](https://www.predictit.org/markets/5/World) section...  
+- is [overconfident on a Scottish independence referendum](https://www.predictit.org/markets/detail/6236/Will-Scottish-Parliament-call-for-an-independence-referendum-in-2020) (though read the fine print).
+- gives 16% to [Netanyahu leaving before the end of the year](https://www.predictit.org/markets/detail/6238/Will-Benjamin-Netanyahu-be-prime-minister-of-Israel-on-Dec-31,-2020)
+- gives 63% to [Maduro remaining President of Venezuela before the end of the year](https://www.predictit.org/markets/detail/6237/Will-Nicol%C3%A1s-Maduro-be-president-of-Venezuela-on-Dec-31,-2020). 
+
+The question on [which Asian/Pacific leaders will leave office next?](https://www.predictit.org/markets/detail/6655/Which-of-these-8-Asian-Pacific-leaders-will-leave-office-next) also looks like it has a lot of free energy overestimating low probability events.
  
 ### Replication Markets [replicationmarkets.com](https://www.replicationmarkets.com)
-Replication markets add [two market maker bots](https://www.replicationmarkets.com/index.php/2020/04/16/meet-the-bots/) and commence their 6th round. They also add a sleek new widget to visualize the price of shares better.
+Replication markets add [two market-maker bots](https://www.replicationmarkets.com/index.php/2020/04/16/meet-the-bots/) and commence their 6th round. They also add a sleek new widget to visualize the price of shares better.
 
 ### Coronavirus Information Markets [coronainformationmarkets.com](https://coronainformationmarkets.com/)
 For those who want to put their money where their mouth is, there is now a prediction market for coronavirus related information. The number of questions is small, and the current trading volume is $8000.
 
 ### Foretold
 
-Foretold brings us estimates of [Active Infections throughout the world](https://www.foretold.io/c/1dd5b83a-075c-4c9f-b896-3172ec899f26/n/b24ccfcf-cdb8-431a-8004-b6af372cce1a), and a new [distribution builder](https://www.highlyspeculativeestimates.com/dist-builder). 
+Foretold brings us:
+- Estimates of [Active Infections throughout the world](https://www.foretold.io/c/1dd5b83a-075c-4c9f-b896-3172ec899f26/n/b24ccfcf-cdb8-431a-8004-b6af372cce1a).
+- A new [distribution builder](https://www.highlyspeculativeestimates.com/dist-builder). 
 
 ### Metaculus
 
