@@ -29,7 +29,7 @@ Foretold brings us:
 - Estimates of [Active Infections throughout the world](https://www.foretold.io/c/1dd5b83a-075c-4c9f-b896-3172ec899f26/n/b24ccfcf-cdb8-431a-8004-b6af372cce1a).  
 - A new [distribution builder](https://www.highlyspeculativeestimates.com/dist-builder). 
 
-### Metaculus [metaculus.com](https://www.metaculus.com/)
+### Metaculus: [metaculus.com](https://www.metaculus.com/)
 
 Metaculus brings us a series of tournaments and question series:
 - [The Ragnarök question series on terrible events](https://www.metaculus.com/questions/?search=cat:series--ragnarok)
@@ -65,7 +65,7 @@ Of the questions which have been added recently, the crowd [doesn't buy](https:/
 
 ## Miscellanea
 - [COVID-19 Projections](https://covid19.healthdata.org/united-states-of-america): A really sleek US government coronavirus model. See [here](https://www.lesswrong.com/posts/QuzAwSTND6N4k7yNj/seemingly-popular-covid-19-model-is-obvious-nonsense) for criticism. See also: [Epidemic Forecasting](http://epidemicforecasting.org/).
-- [Atari, early](https://aiimpacts.org/atari-early/). "Deepmind announced that their Agent57 beats the ‘human baseline’ at all 57 Atari games usually used as a benchmark." This is interesting because 
+- [Atari, early](https://aiimpacts.org/atari-early/). "Deepmind announced that their Agent57 beats the ‘human baseline’ at all 57 Atari games usually used as a benchmark." 
 - [Assessing Kurzweil's 1999 predictions for 2019](https://www.lesswrong.com/posts/GhDfTAtRMxcTqAFmc/assessing-kurzweil-s-1999-predictions-for-2019). Kurzweil made on the order of 100 predictions for 2019 in his 1999 book *The Age of Spiritual Machines*. How did they fare? We'll find out, next month.
 - [Zvi on Evaluating Predictions in Hindsight](https://www.lesswrong.com/posts/BthNiWJDagLuf2LN2/evaluating-predictions-in-hindsight). A fun read. Of course, the dissing of Scott Alexander's prediction is fun to read, but I really want to see how a list of Zvi's predictions fares.
 - [The M5 competition is ongoing](https://www.kaggle.com/c/m5-forecasting-accuracy/data).
