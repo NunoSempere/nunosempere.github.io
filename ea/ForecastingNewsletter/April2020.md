@@ -80,3 +80,4 @@ Of the questions which have been added recently, the crowd [doesn't buy](https:/
 - [Using a delay-adjusted case fatality ratio to estimate under-reporting](https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html). 
 - [The first modern pandemic](https://www.gatesnotes.com/Health/Pandemic-Innovation). In which Bill Gates names covid-SARS "Pandemic I" and offers an informed overview of what is yet to come.
 - [36,000 Missing Deaths: Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html). 
+- [A cool comment exchange at GJOpen](https://www.gjopen.com/comments/comments/1018771) in which cool superforecaster @Anneinak shares some pointers. 
