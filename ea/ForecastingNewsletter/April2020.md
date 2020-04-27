@@ -1,6 +1,8 @@
 Whatever happened to forecasting? April 2020
 ============================================
 
+A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter).
+
 ## Index
 - Prediction Markets & Forecasting platforms.  
     - Augur.  
