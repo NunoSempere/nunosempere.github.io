@@ -1,6 +1,18 @@
 Whatever happened to forecasting? April 2020
 ============================================
 
+## Index
+- Prediction Markets & Forecasting platforms.  
+    - Augur.  
+    - PredictIt.  
+    - Replication Markets.  
+    - Coronavirus Information Markets.  
+    - Foretold.  
+    - Metaculus.  
+    - Good Judgement Open.  
+- In the News.  
+- Long Content.  
+
 ## Prediction Markets & Forecasting platforms.
 
 Forecasters may now choose to forecast any of the four horsemen of the Apocalypse: Death, Famine, Pestilence and War.
