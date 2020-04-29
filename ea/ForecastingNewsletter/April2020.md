@@ -6,7 +6,7 @@ A forecasting digest with a focus on experimental forecasting. You can sign up [
 ## Index
 - Prediction Markets & Forecasting platforms.  
     - Augur.  
-    - PredictIt.  
+    - PredictIt & Election Betting Odds.  
     - Replication Markets.  
     - Coronavirus Information Markets.  
     - Foretold.  
@@ -22,7 +22,7 @@ Forecasters may now choose to forecast any of the four horsemen of the Apocalyps
 ### Augur: [augur.net](https://www.augur.net/)
 Augur, the blockchain prediction market, will be undergoing its [first major update](https://www.augur.net/blog/augur-v2/).
 
-### Predict It: [predictit.org](https://www.predictit.org/)
+### Predict It & Election Betting Odds: [predictIt.org](https://www.predictit.org/) & [electionBettingOdds.com](http://electionbettingodds.com/)
 
 In PredictIt, the [world politics](https://www.predictit.org/markets/5/World) section...  
 - is [overconfident on a Scottish independence referendum](https://www.predictit.org/markets/detail/6236/Will-Scottish-Parliament-call-for-an-independence-referendum-in-2020) (though read the fine print).
@@ -48,21 +48,21 @@ Foretold brings us:
 Metaculus brings us a series of tournaments and question series:
 - [The Ragnarök question series on terrible events](https://www.metaculus.com/questions/?search=cat:series--ragnarok)
 - [Pandemic and lockdown series](https://pandemic.metaculus.com/lockdown/)
-- [The Lightning Round Tournament: Comparing Metaculus Forecasters to Infectious Disease Experts](https://www.metaculus.com/questions/4166/the-lightning-round-tournament-comparing-metaculus-forecasters-to-infectious-disease-experts/).
+- [The Lightning Round Tournament: Comparing Metaculus Forecasters to Infectious Disease Experts](https://www.metaculus.com/questions/4166/the-lightning-round-tournament-comparing-metaculus-forecasters-to-infectious-disease-experts/). "Each week you will have exactly 30 hours to lock in your prediction on a short series of important questions, which will simultaneously be posed to different groups of forecasters. This provides a unique opportunity to directly compare the Metaculus community prediction with other forecasting methods." Furthermore, Metaculus swag will be given out to the top forecasters. 
 - [Overview of Coronavirus Disease 2019 (COVID-19) forecasts](https://pandemic.metaculus.com/COVID-19/).
 - [The Salk Tournament for coronavirus (SARS-CoV-2) Vaccine R&D](https://pandemic.metaculus.com/questions/4093/the-salk-tournament-for-coronavirus-sars-cov-2-vaccine-rd/). 
 - [Lockdown series: when will life return to normal-ish?](https://pandemic.metaculus.com/lockdown/)
 
 ### Good Judgement Project: [gjopen.com](https://www.gjopen.com/)
 
-The GJP has their usual challenges, plus one on [the Coronavirus Outbreak](https://www.gjopen.com/challenges/43-coronavirus-outbreak), financed by the [Open Philantropy Project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/good-judgment-inc-covid-19-forecasting).
+The GJP has their usual challenges, plus one on [the Coronavirus Outbreak](https://www.gjopen.com/challenges/43-coronavirus-outbreak), financed by the [Open Philantropy Project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/good-judgment-inc-covid-19-forecasting), some similar in spirit to the short-fuse Metaculus Tournament.
 
 Of the questions which have been added recently, the crowd [doesn't buy](https://www.gjopen.com/questions/1580-before-1-january-2021-will-tesla-release-an-autopilot-feature-designed-to-navigate-traffic-lights) that Tesla will release an autopilot feature to navigate traffic lights, despite announcements to the contrary. Further, the aggregate... 
 - is extremely confident that, [before 1 January 2021](https://www.gjopen.com/questions/1595-before-1-january-2021-will-the-russian-constitution-be-amended-to-allow-vladimir-putin-to-remain-president-after-his-current-term), the Russian constitution will be amended to allow Vladimir Putin to remain president after his current term.   
 - gives a lagging estimate of 50% on [Benjamin Netanyahu ceasing to be the prime minister of Israel before 1 January 2021](https://www.gjopen.com/questions/1498-will-benjamin-netanyahu-cease-to-be-the-prime-minister-of-israel-before-1-january-2021).  
 - and 10% for [Nicolás Maduro](https://www.gjopen.com/questions/1423-will-nicolas-maduro-cease-to-be-president-of-venezuela-before-1-june-2020).  
 - [forecasts famine](https://www.gjopen.com/questions/1559-will-the-un-declare-that-a-famine-exists-in-any-part-of-ethiopia-kenya-somalia-tanzania-or-uganda-in-2020) (70%).
-- Of particular interest is that GJOpen didn't see the upsurge in tests (and thus positives) in the US until 1 day before they happened, for [this question](https://www.gjopen.com/questions/1599-how-many-total-cases-of-covid-19-in-the-u-s-will-the-covid-tracking-project-report-as-of-sunday-26-april-2020)
+- Of particular interest is that GJOpen didn't see the upsurge in tests (and thus positives) in the US until 1 day before they happened, for [this question](https://www.gjopen.com/questions/1599-how-many-total-cases-of-covid-19-in-the-u-s-will-the-covid-tracking-project-report-as-of-sunday-26-april-2020). Forecasters, including superforecasters, went with a linear extrapolation from the previous n (usually 7) days. However, even though the number of cases looks locally linear, it's also globally exponential, as [this 3Blue1Brown video](https://www.youtube.com/watch?v=Kas0tIxDvrg) shows.
 
 ## In the News:
 -  [Forecasts in the time of coronavirus](https://ftalphaville.ft.com/2020/04/08/1586350137000/Forecasts-in-the-time-of-coronavirus/): The Financial times runs into difficulties trying to estimate whether some companies are overvalued, because the stock value/earnings ratio, which is otherwise an useful tool, is going to infinity as earnings go to 0 during the pandemic.
@@ -85,6 +85,7 @@ Of the questions which have been added recently, the crowd [doesn't buy](https:/
 - [Using a delay-adjusted case fatality ratio to estimate under-reporting](https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html). 
 - [The first modern pandemic](https://www.gatesnotes.com/Health/Pandemic-Innovation). In which Bill Gates names covid-SARS "Pandemic I" and offers an informed overview of what is yet to come.
 - [36,000 Missing Deaths: Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html). 
+- There is a shadow industry which makes what look to be really detailed reports on topics of niche interest: Here is, for example, a [$3,500 report on market trends for the Bonsai](https://technovally.com/business-methodology-by-2020-2029-bonsai-market/)
 
 ## Long Content
 - [Atari, early](https://aiimpacts.org/atari-early/). "Deepmind announced that their Agent57 beats the ‘human baseline’ at all 57 Atari games usually used as a benchmark." 
