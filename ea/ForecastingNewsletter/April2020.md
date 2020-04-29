@@ -1,7 +1,7 @@
 Whatever happened to forecasting? April 2020
 ============================================
 
-A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter).
+A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). The newsletter itself is experimental, but there will be at least three more iterations.
 
 ## Index
 - Prediction Markets & Forecasting platforms.  
@@ -62,7 +62,7 @@ Of the questions which have been added recently, the crowd [doesn't buy](https:/
 - gives a lagging estimate of 50% on [Benjamin Netanyahu ceasing to be the prime minister of Israel before 1 January 2021](https://www.gjopen.com/questions/1498-will-benjamin-netanyahu-cease-to-be-the-prime-minister-of-israel-before-1-january-2021).  
 - and 10% for [Nicolás Maduro](https://www.gjopen.com/questions/1423-will-nicolas-maduro-cease-to-be-president-of-venezuela-before-1-june-2020).  
 - [forecasts famine](https://www.gjopen.com/questions/1559-will-the-un-declare-that-a-famine-exists-in-any-part-of-ethiopia-kenya-somalia-tanzania-or-uganda-in-2020) (70%).
-- Of particular interest is that GJOpen didn't see the upsurge in tests (and thus positives) in the US until 1 day before they happened, for [this question](https://www.gjopen.com/questions/1599-how-many-total-cases-of-covid-19-in-the-u-s-will-the-covid-tracking-project-report-as-of-sunday-26-april-2020). Forecasters, including superforecasters, went with a linear extrapolation from the previous n (usually 7) days. However, even though the number of cases looks locally linear, it's also globally exponential, as [this 3Blue1Brown video](https://www.youtube.com/watch?v=Kas0tIxDvrg) shows.
+- Of particular interest is that GJOpen didn't see the upsurge in tests (and thus positives) in the US until 1 day before they happened, for [this question](https://www.gjopen.com/questions/1599-how-many-total-cases-of-covid-19-in-the-u-s-will-the-covid-tracking-project-report-as-of-sunday-26-april-2020). Forecasters, including superforecasters, went with a linear extrapolation from the previous n (usually 7) days. However, even though the number of cases looks locally linear, it's also globally exponential, as [this 3Blue1Brown video](https://www.youtube.com/watch?v=Kas0tIxDvrg) shows. Yet again, an enterprising forecaster tried to fit a Gompertz distribution, but then fared pretty badly.
 
 ## In the News:
 -  [Forecasts in the time of coronavirus](https://ftalphaville.ft.com/2020/04/08/1586350137000/Forecasts-in-the-time-of-coronavirus/): The Financial times runs into difficulties trying to estimate whether some companies are overvalued, because the stock value/earnings ratio, which is otherwise an useful tool, is going to infinity as earnings go to 0 during the pandemic.
