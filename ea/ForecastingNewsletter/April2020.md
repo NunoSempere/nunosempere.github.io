@@ -9,7 +9,7 @@ A forecasting digest with a focus on experimental forecasting. You can sign up [
     - PredictIt & Election Betting Odds.  
     - Replication Markets.  
     - Coronavirus Information Markets.  
-    - Foretold.  
+    - Foretold. (c.o.i).  
     - Metaculus.  
     - Good Judgement Open.  
 - In the News.  
@@ -37,10 +37,12 @@ The question on [which Asian/Pacific leaders will leave office next?](https://ww
 [Election Betting Odds](https://electionbettingodds.com/) aggregates PredictIt with other such services for the US presidential elections. 
  
 ### Replication Markets: [replicationmarkets.com](https://www.replicationmarkets.com)
-Replication Markets is a project where volunteer forecasters try to predict whether a given study's results will be replicated with high power. Rewards are monetary, but only given out to the top N forecasters, and markets suffer from sometimes being dull. They have added [two market-maker bots](https://www.replicationmarkets.com/index.php/2020/04/16/meet-the-bots/) and commence and conclude their 6th round. They also add a sleek new widget to visualize the price of shares better.
+Replication Markets is a project where volunteer forecasters try to predict whether a given study's results will be replicated with high power. Rewards are monetary, but only given out to the top N forecasters, and markets suffer from sometimes being dull. They have added [two market-maker bots](https://www.replicationmarkets.com/index.php/2020/04/16/meet-the-bots/) and commenced and conclude their 6th round. They also added a sleek new widget to visualize the price of shares better.
 
 ### Coronavirus Information Markets: [coronainformationmarkets.com](https://coronainformationmarkets.com/)
-For those who want to put their money where their mouth is, there is now a prediction market for coronavirus related information. The number of questions is small, and the current trading volume started at $8000, but may increase.
+For those who want to put their money where their mouth is, there is now a prediction market for coronavirus related information. The number of questions is small, and the current trading volume started at $8000, but may increase. Another similar platform is [waves.exchange/prediction](https://waves.exchange/prediction), which seems to be just a wallet to which a prediction market has been grafted on. 
+
+Unfortunately, I couldn't make a transaction in these markets with ~30 mins; the time needed to be included in an ethereum block is longer and I may have been too stingy with my gas fee.
 
 ### Foretold: [foretold.io](https://www.foretold.io/) (c.o.i)
 
@@ -70,7 +72,7 @@ Of the questions which have been added recently, the crowd [doesn't buy](https:/
 - [forecasts famine](https://www.gjopen.com/questions/1559-will-the-un-declare-that-a-famine-exists-in-any-part-of-ethiopia-kenya-somalia-tanzania-or-uganda-in-2020) (70%).
 - Of particular interest is that GJOpen didn't see the upsurge in tests (and thus positives) in the US until until the day before they happened, for [this question](https://www.gjopen.com/questions/1599-how-many-total-cases-of-covid-19-in-the-u-s-will-the-covid-tracking-project-report-as-of-sunday-26-april-2020). Forecasters, including superforecasters, went with a linear extrapolation from the previous n (usually 7) days. However, even though the number of cases looks locally linear, it's also globally exponential, as [this 3Blue1Brown video](https://www.youtube.com/watch?v=Kas0tIxDvrg) shows. On the other hand, an enterprising forecaster tried to fit a Gompertz distribution, but then fared pretty badly.
 
-## In the News:
+## In the News
 -  [Forecasts in the time of coronavirus](https://ftalphaville.ft.com/2020/04/08/1586350137000/Forecasts-in-the-time-of-coronavirus/): The Financial times runs into difficulties trying to estimate whether some companies are overvalued, because the stock value/earnings ratio, which is otherwise an useful tool, is going to infinity as earnings go to 0 during the pandemic.
 - [Predictions are hard, especially about the coronavirus](https://www.vox.com/future-perfect/2020/4/8/21210193/coronavirus-forecasting-models-predictions): Vox has a short and sweet article on the difficulties of prediction forecasting; of note is that epidemiology experts are not great predictors.
 - [538: Why Forecasting COVID-19 Is Harder Than Forecasting Elections](https://fivethirtyeight.com/features/politics-podcast-why-forecasting-covid-19-is-harder-than-forecasting-elections/)
