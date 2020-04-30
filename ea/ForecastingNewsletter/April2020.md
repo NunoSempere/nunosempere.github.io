@@ -92,6 +92,7 @@ Of the questions which have been added recently, the crowd [doesn't buy](https:/
 - [The first modern pandemic](https://www.gatesnotes.com/Health/Pandemic-Innovation). In which Bill Gates names covid-SARS "Pandemic I" and offers an informed overview of what is yet to come.
 - [36,000 Missing Deaths: Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html). 
 - There is a shadow industry which makes what look to be really detailed reports on topics of niche interest: Here is, for example, a [$3,500 report on market trends for the Bonsai](https://technovally.com/business-methodology-by-2020-2029-bonsai-market/)
+- [An active hurricane season will strain emergency response amid pandemic, forecasters warn](https://www.cbsnews.com/news/hurricane-season-2020-active-strain-emergency-response-coronavirus-pandemic/). "Schlegelmilch stresses that humanity must get better at prioritizing long-term strategic planning."
 
 ## Long Content
 - [Atari, early](https://aiimpacts.org/atari-early/). "Deepmind announced that their Agent57 beats the ‘human baseline’ at all 57 Atari games usually used as a benchmark." 
