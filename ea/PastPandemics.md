@@ -1,7 +1,6 @@
 # Past pandemics
 
-I've been reading about pandemics. The method was reading through this Wikipedia list: https://en.wikipedia.org/wiki/List_of_epidemics, and miscellaneous sources. The limitations of the method was that this list has a bias towards epidemics in the English-speaking world, that some of their figures were wrong, and that towards the end it tends to consider smallish pandemics. Moreover, there weren't that many times whe
-re a disease was introduced to a new population *and* it had a low fatality rate (influenza being the chief example).
+I've been reading about pandemics. The method was reading through this Wikipedia list: [List of pandemics](https://en.wikipedia.org/wiki/List_of_epidemics), and miscellaneous sources. The limitations of the method was that this list has a bias towards epidemics in the English-speaking world, that some of their figures were wrong, and that towards the end it tends to consider smallish pandemics. Moreover, there weren't that many times where a disease was introduced to a new population *and* it had a low fatality rate (influenza being the chief example).
 
 ## Some thoughts: 
 - Most pandemics throughout history had much higher mortality.
@@ -10,10 +9,11 @@ re a disease was introduced to a new population *and* it had a low fatality rate
 - "Herd immunity" seems to be built over longer periods of time, rather than over the course of a year. Historically, one found out that there was herd immunity within a population because when the pandemic came back a decade hence, fewer and younger people died.
 - Modern plagues can be thought as accelerated versions of older plagues; where it once took years from a pandemic to travel from China to Central Europe, it now takes day or weeks.
 - Authorities and elites denying the extent of a plague, and this causing more pain and suffering... has been known to happen, and is even common.
+- After a pandemic concludes, there might be some political will to do something so that this never happens again. This is relatively short-lived
 
 CSV for the above [here](https://nunosempere.github.io/ea/PastPandemics.csv).
 
-## Some comments from my notes:
+## Some quotes from my notes:
 
 "In overcrowded Athens, the disease killed an estimated 25% of the population. The plague returned twice more, in 429 BC and in the winter of 427/426 BC."
 
@@ -22,7 +22,6 @@ CSV for the above [here](https://nunosempere.github.io/ea/PastPandemics.csv).
 "a mortality rate of around 1%. Fernel and Paré suggest that the 1510 influenza "spread to almost all countries of the world" with the exception of the New World"
 
 "These measures [were] enforced with harsh penalties including flogging and death" (about the [1592-1593 Malta plague epidemic](https://en.wikipedia.org/wiki/1592%E2%80%931593_Malta_plague_epidemic))
-
 
 A major outbreak in March 1630 was due to relaxed health measures during the carnival season (about the [1629–1631 Italian plague](https://en.wikipedia.org/wiki/1629%E2%80%931631_Italian_plague))
 
@@ -72,7 +71,9 @@ A large factor in the worldwide occurrence of this flu was increased travel. Mod
 
 In 1918, older adults may have had partial protection caused by exposure to the 1889–1890 flu pandemic, known as the "Russian flu"
 
-![](https://en.wikipedia.org/wiki/File:1918_spanish_flu_waves.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/9/9a/1918_spanish_flu_waves.gif)
+
+(Image for the 1918 Spanish Flu)
 
 Another oddity was that the outbreak was widespread in the summer and autumn (in the Northern Hemisphere); influenza is usually worse in winter
 
