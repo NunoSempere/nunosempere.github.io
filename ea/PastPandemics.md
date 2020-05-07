@@ -73,7 +73,7 @@ A large factor in the worldwide occurrence of this flu was increased travel. Mod
 
 In 1918, older adults may have had partial protection caused by exposure to the 1889–1890 flu pandemic, known as the "Russian flu"
 
-![](https://en.wikipedia.org/wiki/File:1918_spanish_flu_waves.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/9/9a/1918_spanish_flu_waves.gif)
 
 Another oddity was that the outbreak was widespread in the summer and autumn (in the Northern Hemisphere); influenza is usually worse in winter
 
