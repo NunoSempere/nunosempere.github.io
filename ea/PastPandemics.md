@@ -12,7 +12,7 @@ re a disease was introduced to a new population *and* it had a low fatality rate
 - Modern plagues can be thought as accelerated versions of older plagues; where it once took years from a pandemic to travel from China to Central Europe, it now takes day or weeks.
 - Authorities and elites denying the extent of a plague, and this causing more pain and suffering... has been known to happen, and is even common.
 - The plague... doesn't care about what measures the authorities think are reasonable, or enough. A particularly poignant example of this was the [Great Plague of Marseille](https://en.wikipedia.org/wiki/Great_Plague_of_Marseille)
-- 
+- After a pandemic concludes, there might be some political will to do something so that this never happens again. This is relatively short-lived
 
 ## Some comments from my notes:
 
