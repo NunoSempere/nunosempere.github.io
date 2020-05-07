@@ -1,6 +1,6 @@
 # Past pandemics
 
-I've been reading about pandemics. The method was reading through this Wikipedia list: https://en.wikipedia.org/wiki/List_of_epidemics, and miscellaneous sources. The limitations of the method was that this list has a bias towards epidemics in the English-speaking world, that som
+I've been reading about pandemics. The method was reading through this Wikipedia list: [List of pandemics](https://en.wikipedia.org/wiki/List_of_epidemics), and miscellaneous sources. The limitations of the method was that this list has a bias towards epidemics in the English-speaking world, that som
 e of their figures were wrong, and that towards the end it tends to consider smallish pandemics. Moreover, there weren't that many times whe
 re a disease was introduced to a new population *and* it had a low fatality rate (influenza being the chief example).
 
