@@ -75,6 +75,8 @@ In 1918, older adults may have had partial protection caused by exposure to the 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/1918_spanish_flu_waves.gif)
 
+(Image for the 1918 Spanish Flu)
+
 Another oddity was that the outbreak was widespread in the summer and autumn (in the Northern Hemisphere); influenza is usually worse in winter
 
 In New Zealand, 8,573 deaths were attributed to the 1918 pandemic influenza, resulting in a total population fatality rate of 0.7%. Māori were 8 to 10 times as likely to die as other New Zealanders (Pakeha) because of their more crowded living conditions
