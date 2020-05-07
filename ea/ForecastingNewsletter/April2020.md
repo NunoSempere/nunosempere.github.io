@@ -1,7 +1,13 @@
 Whatever happened to forecasting? April 2020
 ============================================
 
-A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). The newsletter itself is experimental, but there will be at least five more iterations.
+A forecasting digest with a focus on experimental forecasting.  
+- You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter).  
+- You can also see this post on the [EA forum](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) or on LessWrong [here](https://www.lesswrong.com/posts/e4C7hTmbmPfLjJzXT/forecasting-newsletter-april-2020-1).  
+
+The newsletter itself is experimental, but there will be at least five more iterations. 
+
+Conflict of interest: With Foretold in general and Jacob Laguerros in particular. This is marked as (c.o.i) throughout the text. 
 
 ## Index
 - Prediction Markets & Forecasting platforms.  
@@ -11,7 +17,7 @@ A forecasting digest with a focus on experimental forecasting. You can sign up [
     - Coronavirus Information Markets.  
     - Foretold. (c.o.i).  
     - Metaculus.  
-    - Good Judgement Open.  
+    - Good Judgement and friends.  
 - In the News.  
 - Long Content.  
 
@@ -25,8 +31,7 @@ Augur is a decentralized prediction market. It will be undergoing its [first maj
 
 ### Predict It & Election Betting Odds: [predictIt.org](https://www.predictit.org/) & [electionBettingOdds.com](http://electionbettingodds.com/)
 
-PredictIt is a prediction platform restricted to US citizens or those who bother using a VPN. It often has free energy, that is, places where one can earn money by having better probabilities, and where this is not too hard. However, due to fees & the hassle of setting it up, these inefficiencies don't get corrected.
-
+PredictIt is a prediction platform restricted to US citizens or those who bother using a VPN. [Anecdotically](https://www.lesswrong.com/posts/qzRzQgxiZa3tPJJg8/free-money-at-predictit), it often has free energy, that is, places where one can earn money by having better probabilities, and where this is not too hard. However, due to fees & the hassle of setting it up, these inefficiencies don't get corrected.
 In PredictIt, the [world politics](https://www.predictit.org/markets/5/World) section...  
 - gives a 17% to [a Scottish independence referendum](https://www.predictit.org/markets/detail/6236/Will-Scottish-Parliament-call-for-an-independence-referendum-in-2020) (though read the fine print).
 - gives 20% to [Netanyahu leaving before the end of the year](https://www.predictit.org/markets/detail/6238/Will-Benjamin-Netanyahu-be-prime-minister-of-Israel-on-Dec-31,-2020)
@@ -48,8 +53,8 @@ Unfortunately, I couldn't make a transaction in these markets with ~30 mins; the
 
 Foretold is an forecasting platform which has experimentation and exploration of forecasting methods in mind. They bring us:
 
-- Estimates of [Active Infections throughout the world](https://www.foretold.io/c/1dd5b83a-075c-4c9f-b896-3172ec899f26/n/b24ccfcf-cdb8-431a-8004-b6af372cce1a).  
 - A new [distribution builder](https://www.highlyspeculativeestimates.com/dist-builder) to visualize and create probability distributions.  
+- Forecasting infrastructure for epidemicforecasting.org.
 
 ### Metaculus: [metaculus.com](https://www.metaculus.com/)
 
@@ -61,14 +66,18 @@ Metaculus is a forecasting platform with an active community and lots of interes
 - [The Salk Tournament for coronavirus (SARS-CoV-2) Vaccine R&D](https://pandemic.metaculus.com/questions/4093/the-salk-tournament-for-coronavirus-sars-cov-2-vaccine-rd/). 
 - [Lockdown series: when will life return to normal-ish?](https://pandemic.metaculus.com/lockdown/)
 
-### Good Judgement Project: [gjopen.com](https://www.gjopen.com/)
+### /(Good Judgement?[^]*)|(Superforecast(ing|er))/gi
 
-GJP Open is a project by Philip Tetlock (of *Superforecasting* fame), aimed at identifying next year's superforecasters. The platform has a focus on serious geopolitical questions. They structure their questions in challenges, to which they have recently added one on [the Coronavirus Outbreak](https://www.gjopen.com/challenges/43-coronavirus-outbreak), financed by the [Open Philantropy Project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/good-judgment-inc-covid-19-forecasting). Some of these questions are similar in spirit to the short-fuse Metaculus Tournament.
+Good Judgement Inc. is the organization which grew out of Tetlock's research on forecasting, and out of the Good Judgement Project, which won the [IARPA ACE forecasting competition](https://en.wikipedia.org/wiki/Aggregative_Contingent_Estimation_(ACE)_Program), and resulted in the research covered in the *Superforecasting* book. 
 
-Of the questions which have been added recently, the crowd [doesn't buy](https://www.gjopen.com/questions/1580-before-1-january-2021-will-tesla-release-an-autopilot-feature-designed-to-navigate-traffic-lights) that Tesla will release an autopilot feature to navigate traffic lights, despite announcements to the contrary. Further, the aggregate... 
+The Open Philantropy Project has funded [this covid dashboard](https://goodjudgment.io/covid/dashboard/) by their (Good Judgement Inc.'s) Superforecasting Analytics Service, with predictions solely from superforecasters; see more on [this blogpost](https://www.openphilanthropy.org/blog/forecasting-covid-19-pandemic). 
+
+Good Judgement Inc. also organizes the Good Judgement Open (gjopen.com)[https://www.gjopen.com/], a forecasting platform open to all, with a focus on serious geopolitical questions. They structure their questions in challenges, to which they have recently added one on [the Coronavirus Outbreak](https://www.gjopen.com/challenges/43-coronavirus-outbreak); some of these questions are similar in spirit to the short-fuse Metaculus Tournament.
+
+Of the questions which have been added recently to the Good Judgment Open, the crowd [doesn't buy](https://www.gjopen.com/questions/1580-before-1-january-2021-will-tesla-release-an-autopilot-feature-designed-to-navigate-traffic-lights) that Tesla will release an autopilot feature to navigate traffic lights, despite announcements to the contrary. Further, the aggregate... 
 - is extremely confident that, [before 1 January 2021](https://www.gjopen.com/questions/1595-before-1-january-2021-will-the-russian-constitution-be-amended-to-allow-vladimir-putin-to-remain-president-after-his-current-term), the Russian constitution will be amended to allow Vladimir Putin to remain president after his current term.   
 - gives a lagging estimate of 50% on [Benjamin Netanyahu ceasing to be the prime minister of Israel before 1 January 2021](https://www.gjopen.com/questions/1498-will-benjamin-netanyahu-cease-to-be-the-prime-minister-of-israel-before-1-january-2021).  
-- and 10% for [Nicolás Maduro](https://www.gjopen.com/questions/1423-will-nicolas-maduro-cease-to-be-president-of-venezuela-before-1-june-2020).  
+- and 10% for [Nicolás Maduro](https://www.gjopen.com/questions/1423-will-nicolas-maduro-cease-to-be-president-of-venezuela-before-1-june-2020) leaving before the 1st of June.
 - [forecasts famine](https://www.gjopen.com/questions/1559-will-the-un-declare-that-a-famine-exists-in-any-part-of-ethiopia-kenya-somalia-tanzania-or-uganda-in-2020) (70%).
 - Of particular interest is that GJOpen didn't see the upsurge in tests (and thus positives) in the US until until the day before they happened, for [this question](https://www.gjopen.com/questions/1599-how-many-total-cases-of-covid-19-in-the-u-s-will-the-covid-tracking-project-report-as-of-sunday-26-april-2020). Forecasters, including superforecasters, went with a linear extrapolation from the previous n (usually 7) days. However, even though the number of cases looks locally linear, it's also globally exponential, as [this 3Blue1Brown video](https://www.youtube.com/watch?v=Kas0tIxDvrg) shows. On the other hand, an enterprising forecaster tried to fit a Gompertz distribution, but then fared pretty badly.
 
