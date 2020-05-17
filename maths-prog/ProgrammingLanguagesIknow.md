@@ -104,11 +104,11 @@ Useful for: GithubPages. Just writting without the need to worry about html.
 Personal experience: Easy to pick up. With pandoc I can compile it into latex (!) and add all the math I want.
 
 ## HTML and CSS
-Representative project: [easyfirma.es](easyfirma.es)
+Representative project: [easyfirma.es](https://easyfirma.es/)
 
 Useful for: Webpages!
 
-Personal experience: Templates are not evil; they're the difference between [shapleyvalue.com](shapleyvalue.com) and [easyfirma.es](easyfirma.es). Easy to pick up. Also easy to clutter.
+Personal experience: Templates are not evil; they're the difference between [shapleyvalue.com](http://shapleyvalue.com/) and [easyfirma.es](https://easyfirma.es). Easy to pick up. Also easy to clutter.
 
 ##  MySQL / MariaDB
 Representative project: None as of yet. 
@@ -119,4 +119,4 @@ Personal experience: Pretty straightforward; it's not even Turing complete. I pr
 
 
 ## GraphQL
-Foretold.io uses GraphQL in the background, so I learnt to use it at a jack-of-all trades level.
+Foretold.io uses GraphQL in the background, so I learnt to use it at a jack-of-all trades level. 
