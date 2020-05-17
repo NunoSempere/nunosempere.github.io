@@ -7,7 +7,6 @@
 # (or whatever the full path to this file is)
 # to the end of your .bashrc file,
 # which should be in your ~ (home) folder (check with ls -a)
-# alias bdi='ruby /home/nuno/Documents/Workspace/WEBDEV/RubyOnRails/BDI.rb'
 
 questions = [
 "Feeling sad or down in the dumps",
