@@ -71,7 +71,7 @@ Representative project: This [utility](https://observablehq.com/@nunosempere/for
 
 Useful for: Code which is executed on the client's side. Interactive webpages. Server side with Node.js
 
-Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) had just clicked for me. In hindsight, I had already used ```lapply``` in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment. Later, I used JavaScript to implement approval voting for the Center for Eletion Science, and for some contributions to foretold.io, a forecasting platform. I later built a small app to help me write poetry in Spanish using node and electron, as well as a glorified diary program.
+Personal experience: When I first wrote this, reading Chapter 5 of *Eloquent JavaScript*,  [Higher order functions](https://en.wikipedia.org/wiki/Higher-order_function) had just clicked for me. In hindsight, I had already used ```lapply``` in R, and functions which modify other functions are pretty natural in Haskell, but I had the Eureka moment. Later, I used JavaScript to implement an proportioanl approval voting utility for the Center for Eletion Science, and for some contributions to foretold.io, a forecasting platform. I later built a small app to help me write poetry in Spanish using node and electron, as well as a glorified diary program. 
 
 ## Various others:
 
