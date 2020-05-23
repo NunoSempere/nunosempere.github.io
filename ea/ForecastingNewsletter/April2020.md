@@ -1,13 +1,17 @@
-Whatever happened to forecasting? April 2020
-============================================
+A forecasting digest with a focus on experimental forecasting. 
+- You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). 
+- You can also see this post on LessWrong [here](https://www.lesswrong.com/posts/e4C7hTmbmPfLjJzXT/forecasting-newsletter-april-2020-1) 
+- And the post is archived [here](https://nunosempere.github.io/ea/ForecastingNewsletter/)
 
-A forecasting digest with a focus on experimental forecasting.  
-- You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter).  
-- You can also see this post on the [EA forum](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) or on LessWrong [here](https://www.lesswrong.com/posts/e4C7hTmbmPfLjJzXT/forecasting-newsletter-april-2020-1).  
+The newsletter itself is experimental, but there will be at least five more iterations. Feel free to use this post as a forecasting open thread.
 
-The newsletter itself is experimental, but there will be at least five more iterations. 
+Why is this relevant to EAs? 
+- Some items are immediately relevant (e.g., forecasts of famine).
+- Others are projects whose success I'm cheering for, and which I think have the potential to do great amounts of good (e.g., Replication Markets).
+- The remaining are relevant to the extent that cross-polination of ideas is valuable. 
+- Forecasting may become/is becoming a powerful tool for world-optimization, and EAs may want to avail themselves of this tool. 
 
-Conflict of interest: With Foretold in general and Jacob Laguerros in particular. This is marked as (c.o.i) throughout the text. 
+Conflict of interest: Marked as (c.o.i) throughout the text. 
 
 ## Index
 - Prediction Markets & Forecasting platforms.  
