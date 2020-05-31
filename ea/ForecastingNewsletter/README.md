@@ -1,6 +1,6 @@
 ## A Forecasting Newsletter
 
-A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). The newsletter itself is experimental, but there will be at least five more iterations.
+A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). The newsletter itself is experimental, but there will be at least four more iterations.
 
 ## Past history
 

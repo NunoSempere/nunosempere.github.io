@@ -1,4 +1,5 @@
 ## Recent.
+[Forecasting Newsletter: May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020) (en)  
 [Forecasting Newsletter: April 2020](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) (en)  
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
@@ -15,7 +16,6 @@
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
 ### [Myself on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere) (en)  
-
 [Forecasting Newsletter: April 2020](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) (en)  
 [International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability) (en)  
 [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making) (en)  
