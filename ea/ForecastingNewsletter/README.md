@@ -6,3 +6,4 @@ A forecasting digest with a focus on experimental forecasting. You can sign up [
 
 - [March 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/March2020) (proof of concept)  
 - [April 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/April2020) (experimental)
+- [May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020)
