@@ -1,3 +1,5 @@
+<div class="circular"><img src="https://nunosempere.github.io/assets/Photo.jpeg" alt=""/></div>
+
 ## Recent.
 [Forecasting Newsletter: May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020) (en)  
 [Forecasting Newsletter: April 2020](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) (en)  
