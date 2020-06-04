@@ -2,21 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.circular {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
+.rounded {
+	border-radius: 50%;
 	margin-left: auto;
    	margin-right: auto;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background: url(https://nunosempere.github.io/assets/PhotoCropped.jpeg) no-repeat;
-	}
-
-.circular img {
-	opacity: 0;
-	filter: alpha(opacity=0);
-	background-position: 50% 50%;
-	background-size: 200px 200px;
-	margin: auto;
-	}
+}
