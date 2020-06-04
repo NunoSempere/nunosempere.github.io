@@ -114,5 +114,3 @@ Alonso Campos [Freedom regained, de Julian Baggini](https://nunosempere.github.i
 [La verdad sobre el caso Amancio Ortega](https://nunosempere.github.io/miscellanea/inditex.html) (es)  
 [Letimotiv: Ideas recurrentes](https://nunosempere.github.io/miscellanea/letimotiv.html) (es)   
 [The Mask](https://nunosempere.github.io/miscellanea/The-Mask.html)  
-
-// Note to self: The last thing I added from my other blog was "Patrones en el Economist".
