@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 .rounded {
+	/* Uncomment to make the header image rounded.
 	border-radius: 50%;
 	margin-left: auto;
    	margin-right: auto;
+	*/
 }
