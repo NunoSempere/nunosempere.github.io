@@ -1,5 +1,5 @@
 # County Plots
-## Maricopa County
+## Maricopa County, AZ
 ![](Maricopa_County_deaths_cummulative.png)
 ![](Maricopa_County_deaths_cummulative_log.png)
 ![](Maricopa_County_deaths_daily.png)
