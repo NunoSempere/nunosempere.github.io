@@ -1,4 +1,5 @@
 ## Recent.
+[Forecasting Newsletter: June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020) (en)
 [Forecasting Newsletter: May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020) (en)  
 [Forecasting Newsletter: April 2020](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) (en)  
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  

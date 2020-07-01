@@ -1,9 +1,10 @@
 ## A Forecasting Newsletter
 
-A forecasting digest with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). The newsletter itself is experimental, but there will be at least five more iterations.
+A monthly forecasting newsletter with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). 
 
 ## Past history
 
-- [March 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/March2020) (proof of concept)  
+- [June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020)  
+- [May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020)  
 - [April 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/April2020) (experimental)  
-- [May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020)
+- [March 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/March2020) (proof of concept)  
