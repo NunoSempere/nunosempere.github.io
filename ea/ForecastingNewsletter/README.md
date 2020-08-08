@@ -4,6 +4,8 @@ A monthly forecasting newsletter with a focus on experimental forecasting. You c
 
 ## Past history
 
+
+- [July 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/July2020)
 - [June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020)  
 - [May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020)  
 - [April 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/April2020) (experimental)  
