@@ -1,24 +1,27 @@
+
+## Best of
+[Forecasting Newsletter](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020) (en)  
+[Past Pandemics](https://nunosempere.github.io/ea/PastPandemics) (en)  
+[Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
+[Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
+[Shapley Values: Better Than Counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals) &  [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) & [A Shapley Value Calculator](http://shapleyvalue.com/)  (en)  
+[Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
+[Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)   (en)  
+[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
+
 ## Recent.
+[Forecasting Newsletter: August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020) (en)  
 [Forecasting Newsletter: July 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/July2020) (en)  
 [Forecasting Newsletter: June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020) (en)  
 [Forecasting Newsletter: May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020) (en)  
 [Forecasting Newsletter: April 2020](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) (en)  
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
-[Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
-[Litany of Light](https://nunosempere.github.io/ea/LitanyOfLight.html) (en)  
-[Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  (en)  
-[Programming Languages I Know and Cherish](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
-[A Shapley Value Calculator](http://shapleyvalue.com/)  (en)  
-[On the Recalcitrance of Granularity and Knowledge Integration](https://nunosempere.github.io/rat/BayesRising) - An Answer to Sebastian Benthall's ["Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"](https://arxiv.org/abs/1702.08495) (en)  
-[Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) (en)  
-[Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
-[Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)   (en)  
-[Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
+
 
 ## Effective Altruism & Rationality Stuff / Altruismo efectivo & Racionalidad.
 
 ### [Myself on the EA Forum](https://forum.effectivealtruism.org/users/nunosempere) (en)  
-[Forecasting Newsletter: April 2020](https://forum.effectivealtruism.org/posts/9YJKugJ68qTFzMNCM/forecasting-newsletter-april-2020) (en)  
+[Forecasting Newsletter](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020) (en)  
 [International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability) (en)  
 [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making) (en)  
 [A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty) (en)  
@@ -49,6 +52,7 @@
 
 
 ## Fucking around with Programming and Maths  / Mierdas de programación y matemáticas
+[Programming Languages I Know](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  (en)  
 [Sci-py turns out to be particularly easy to use](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/) (en, Python)  
 [Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  (en)  
 [Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html) (en)  
