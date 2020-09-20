@@ -1,6 +1,6 @@
 ## A Forecasting Newsletter
 
-A monthly forecasting newsletter with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). 
+A monthly forecasting newsletter with a focus on experimental forecasting. You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). Also available on the [EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)
 
 ## Past history
 
