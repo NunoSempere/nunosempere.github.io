@@ -5,6 +5,8 @@
 [Past Pandemics](https://nunosempere.github.io/ea/PastPandemics) (en)  
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
+[[Part 2] Amplifying generalist research via forecasting – results from a preliminary exploration](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting) (en)  
+[[Part 1] Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models) (en)  
 [Shapley Values: Better Than Counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals) &  [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) & [A Shapley Value Calculator](http://shapleyvalue.com/)  (en)  
 [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics) (en)  
 [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)   (en)  
