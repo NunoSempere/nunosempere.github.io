@@ -1,14 +1,14 @@
 # List of forecasting projects:
 
 - Have forecasters read Toby Ord's book, and generate their own probabilities of x-risks
-- Feed forecasted x-risk probabilities, in addition to some other inputs which could also be forecasted, to Trammel's model on patient philantropists, to find out what the optimal spending conditions for a patient philantropist would be. Right now, some of the inputs to Trammel's model are very much up in the air.
-- Forecast whether some big companies will keep to their chicken broiler / animal suffering commitments; this would be useful for some orgs to prioritize their outreach.
-- Forecast the value of altruistic projects; I (Nuño) have a small demo on this.
+- Forecast variable inputs to Trammell's model
+- Forecast whether some big companies will keep to their chicken broiler / animal suffering commitments
+- Forecast the value of altruistic projects; I (Nuño) have a small demo on this
 - Throw some optimization power at the Metaculus Ragnarok questions
 - Look into the relationship between price or time spent and forecast accuracy
 - Look into rewarding forecasters according to their Shapley values
 - Predict which EA Fund applications will be funded
-- Add interesting and nontrivial markets to Augur.
+- Add interesting and nontrivial markets to Augur
 - Rapid Response EA Forecasting Hotline
 - Forecast incubator ideas' likelihood of success
 - Create a calibration hall of fame/shame for researchers' past forecasts
@@ -16,9 +16,9 @@
 - Pay and support forecasters to make forecasts on existing platforms
 - Get a visible forecasting win for EA/QURI/EpiFor
 - Participate in an OSINT project
-- Suggest questions to Good Judgement Open with an altruistic bent. It is not unusual for GJOpen to accept question suggestions. 
-- Talk with CSET; they seem a little bit confused/lost. 
-- Recruit people for CSET; they need more forecasters to be able to produce useful policy feedback
+- Suggest questions to Good Judgement Open with an altruistic bent 
+- Talk with CSET; they seem a little bit confused/lost 
+- Recruit people for CSET
 - Forecasting for EA policy advocates
 - Estimate the value of the forecasted variables/questions on Metaculus and GJP
 - On-demand forecasting to research teams
