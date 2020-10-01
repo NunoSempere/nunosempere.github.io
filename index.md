@@ -14,6 +14,7 @@
 
 ## Recent.
 [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf) (en)  
+[Forecasting Newsletter: September 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/September2020)  
 [Forecasting Newsletter: August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020) (en)  
 [Forecasting Newsletter: July 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/July2020) (en)  
 [Forecasting Newsletter: June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020) (en)  
