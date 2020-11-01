@@ -11,7 +11,7 @@
 - Long Content
 - Hard To Categorize
 
-Sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter) or browse past newsletters [here](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). I'm considering creating a Patreon or substack for this newsletter; if you have any strong views, leave a comment. 
+FORUM: Sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter), browse past newsletters [here](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7) or view this newsletter on the Effective Altruism forum [here](https://forum.effectivealtruism.org/posts/Y3QCTCKFNWrq9M7cF/forecasting-newsletter-october-2020). I'm considering creating a Patreon or substack for this newsletter; if you have any strong views, leave a [comment](https://forum.effectivealtruism.org/posts/Y3QCTCKFNWrq9M7cF/forecasting-newsletter-october-2020). 
 
 ## Prediction Markets & Forecasting Platforms
 
