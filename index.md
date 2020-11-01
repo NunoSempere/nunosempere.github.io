@@ -1,7 +1,7 @@
 
 ## Best of
 [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf) (en)  
-[Forecasting Newsletter](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020) (en)  
+[Forecasting Newsletter](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7) (en)  
 [Past Pandemics](https://nunosempere.github.io/ea/PastPandemics) (en)  
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally) (en)  
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html) (en)  
@@ -13,6 +13,7 @@
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  (en)  
 
 ## Recent.
+[October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
 [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf) (en)  
 [Forecasting Newsletter: September 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/September2020)  
 [Forecasting Newsletter: August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020) (en)  
