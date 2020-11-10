@@ -1,5 +1,5 @@
 
-## Best of
+## Highlights
 1. [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)  
 2. [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
 3. [Forecasting Newsletter](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
@@ -25,6 +25,7 @@
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
 [Prizes in the EA Forum and LW](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
 [Forecasting Newsletter](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020)  
+[Thoughts on EA literature](https://forum.effectivealtruism.org/posts/Bc8J5P938BmzBuL9Y/when-can-writing-fiction-change-the-world?commentId=RnEpvpozD5tEEsM9b)  
 [International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability)  
 [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making)  
 [A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty)  
@@ -46,7 +47,6 @@
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  
 [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
-[Calibration](https://nunosempere.github.io/calibration/)  
 [100 predicciones](https://nunosempere.github.io/rat/100-predicciones-en-100-dias.html) (es) 
 [A practical exercise in p-hacking](https://nunosempere.github.io/rat/eamentalhealth/p-hacking.html)  
 [List of TAPs](https://nunosempere.github.io/rat/list-of-taps.html)  
@@ -54,7 +54,6 @@
 [Paradox Party](https://nunosempere.github.io/rat/paradox-party.html)  
 [Crocker's rules](https://nunosempere.github.io/)  
 [¿Siempre lo supiste? El sesgo de retrospección](https://nunosempere.github.io/) (es)  
-[Calibration](https://nunosempere.github.io/https://calibration/)  
 [From a dark arts practitioner](https://nunosempere.github.io/rat/dark_arts.html)  
 [Dark Arts: Narrativomancy](https://nunosempere.github.io/miscellanea/narrativomancy.html)  
 [Consideraciones retreat Altruismo Efectivo Septiembre 2018](https://nunosempere.github.io/rat/AE-retreat.html) (es)  
@@ -125,7 +124,7 @@ Alonso Campos [Freedom regained, de Julian Baggini](https://blogdelecturadenuno.
 
 ## Miscellanea | Cajón de sastre.
 [Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  
-[Webpage for a friend](https://ciruelahaiti.github.io/)
+[Webpage for a friend](https://ciruelahaiti.github.io/)  
 [La verdad sobre el caso Amancio Ortega](https://nunosempere.github.io/miscellanea/inditex.html) (es)  
 [Letimotiv: Ideas recurrentes](https://nunosempere.github.io/miscellanea/letimotiv.html) (es)  
 [The Mask](https://nunosempere.github.io/miscellanea/The-Mask.html)  
