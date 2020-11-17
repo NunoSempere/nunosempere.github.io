@@ -45,7 +45,7 @@
 [AI race considerations in a report by the U.S. House Committee on Armed Services](https://www.lesswrong.com/posts/87aqBTkhTgfzhu5po/ai-race-considerations-in-a-report-by-the-u-s-house)  
 
 ### Forecasting Newsletter
-[Forecasting Newsletter on the EA Forum](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020)  
+[Forecasting Newsletter on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
 [October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
 [September 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/September2020)  
 [August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020)  
