@@ -12,19 +12,20 @@
 10. [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
 
 ## Recent
+[Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
 [Prizes in the EA Forum and LW.](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
+[The Making of a Top Forecaster](https://www.cset-foretell.com/blog/top-forecaster-techniques)  
 [Incentive Problems With Current Forecasting Competitions](https://www.lesswrong.com/posts/tyNrj2wwHSnb4tiMk/incentive-problems-with-current-forecasting-competitions)  
 [Adjusting probabilities for the passage of time, using Squiggle](https://www.lesswrong.com/posts/j8o6sgRerE3tqNWdj/adjusting-probabilities-for-the-passage-of-time-using)  
 [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)  
-[AI race considerations in a report by the U.S. House Committee on Armed Services](https://www.lesswrong.com/posts/87aqBTkhTgfzhu5po/ai-race-considerations-in-a-report-by-the-u-s-house)  
-[Forecasting Newsletter: October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
-[Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
 
 ## Effective Altruism & Rationality
 
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
+[Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
+[Reasons why upvotes on the EA forum and LW don't correlate that well with impact](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)  
 [Prizes in the EA Forum and LW](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
-[Forecasting Newsletter](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020)  
+[](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)
 [Thoughts on EA literature](https://forum.effectivealtruism.org/posts/Bc8J5P938BmzBuL9Y/when-can-writing-fiction-change-the-world?commentId=RnEpvpozD5tEEsM9b)  
 [International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability)  
 [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making)  
@@ -37,12 +38,25 @@
 [EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis)  
 
 ### [On LessWrong](https://www.lesswrong.com/users/nunosempere)  
+[Announcing the Forecasting Innovation Prize](https://www.lesswrong.com/posts/WRqvohbWoq2wQkxKN/announcing-the-forecasting-innovation-prize)  
 [Incentive Problems With Current Forecasting Competitions](https://www.lesswrong.com/posts/tyNrj2wwHSnb4tiMk/incentive-problems-with-current-forecasting-competitions)  
 [Adjusting probabilities for the passage of time, using Squiggle](https://www.lesswrong.com/posts/j8o6sgRerE3tqNWdj/adjusting-probabilities-for-the-passage-of-time-using)  
 [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)  
 [AI race considerations in a report by the U.S. House Committee on Armed Services](https://www.lesswrong.com/posts/87aqBTkhTgfzhu5po/ai-race-considerations-in-a-report-by-the-u-s-house)  
 
+### Forecasting Newsletter
+[Forecasting Newsletter on the EA Forum](https://forum.effectivealtruism.org/posts/8oeKNKqYzwgJ4mCNS/forecasting-newsletter-august-2020)  
+[October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
+[September 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/September2020)  
+[August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020)  
+[July 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/July2020)  
+[June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020)  
+[May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020)  
+[April 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/April2020) (experimental)  
+[March 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/March2020) (proof of concept)  
+
 ### Elsewhere
+[Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
 [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
 [Accuracy of Ray Kurzweil’s predictions for the 2010s](https://nunosempere.github.io/rat/KurzweilPredictionsForThe2010s.html)  
 [Some Data Visualization for Foretold.io's Amplification Experiments](https://observablehq.com/@nunosempere/plots-for-the-amplification-experiment)  
@@ -67,7 +81,7 @@
 [Programming Languages I Know](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  
 [Sci-py turns out to be particularly easy to use](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/) (en, Python)  
 [Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  
-[Letter from O.Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html)  
+[Letter from O. Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html)  
 [AI texts I've read](https://nunosempere.github.io/maths-prog/ai.html)  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/https://stable-marriage-problem/) (es)  
 [Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html)  
@@ -111,7 +125,7 @@
 [Una interesante tesis doctoral de lingüística](https://nunosempere.github.io/lit/tesis/madurez) (es)  
 [Todo lo que nunca has querido saber sobre literatura fantástica (mazacote)](https://nunosempere.github.io/lit-fantastica.html) (es)  
 [Criba palabras](https://nunosempere.github.io/https://criba-de-palabras-Lucia/README.html) (es)  
-Más en [mi antiguo blog](https://blogdelecturadenuno.blogspot.com/)
+Más en [mi antiguo blog](https://blogdelecturadenuno.blogspot.com/)  
 
 ## Fiction | Ficción
 [Las aventuras del aventurero Nuño Núñez](https://nunosempere.github.io/fiction/nuno-nunez.html) (es)  
@@ -128,3 +142,7 @@ Alonso Campos [Freedom regained, de Julian Baggini](https://blogdelecturadenuno.
 [La verdad sobre el caso Amancio Ortega](https://nunosempere.github.io/miscellanea/inditex.html) (es)  
 [Letimotiv: Ideas recurrentes](https://nunosempere.github.io/miscellanea/letimotiv.html) (es)  
 [The Mask](https://nunosempere.github.io/miscellanea/The-Mask.html)  
+
+## Media mentions
+[Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  
+[The Making of a Top Forecaster](https://www.cset-foretell.com/blog/top-forecaster-techniques)  
