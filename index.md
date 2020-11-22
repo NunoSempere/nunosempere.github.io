@@ -25,7 +25,6 @@
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
 [Reasons why upvotes on the EA forum and LW don't correlate that well with impact](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)  
 [Prizes in the EA Forum and LW](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
-[](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)
 [Thoughts on EA literature](https://forum.effectivealtruism.org/posts/Bc8J5P938BmzBuL9Y/when-can-writing-fiction-change-the-world?commentId=RnEpvpozD5tEEsM9b)  
 [International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability)  
 [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making)  
