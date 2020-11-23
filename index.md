@@ -4,24 +4,23 @@
 2. [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
 3. [Forecasting Newsletter](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
 4. [Past Pandemics](https://nunosempere.github.io/ea/PastPandemics)  
-5. [[Part 2] Amplifying generalist research via forecasting – results from a preliminary exploration](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
-6. [[Part 1] Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models)  
+5. [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
+6. [Amplifying generalist research via forecasting](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
 7. [Shapley Values: Better Than Counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals) &  [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) & [A Shapley Value Calculator](http://shapleyvalue.com/)  
 8. [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics)  
 9. [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
-10. [Discontinuous trends in technological progress](https://nunosempere.github.io/rat/Discontinuous-Progress.html)  
 
 ## Recent
+[Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
 [Prizes in the EA Forum and LW.](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
 [The Making of a Top Forecaster](https://www.cset-foretell.com/blog/top-forecaster-techniques)  
 [Incentive Problems With Current Forecasting Competitions](https://www.lesswrong.com/posts/tyNrj2wwHSnb4tiMk/incentive-problems-with-current-forecasting-competitions)  
-[Adjusting probabilities for the passage of time, using Squiggle](https://www.lesswrong.com/posts/j8o6sgRerE3tqNWdj/adjusting-probabilities-for-the-passage-of-time-using)  
-[A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)  
 
 ## Effective Altruism & Rationality
 
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
+[Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
 [Reasons why upvotes on the EA forum and LW don't correlate that well with impact](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)  
 [Prizes in the EA Forum and LW](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
