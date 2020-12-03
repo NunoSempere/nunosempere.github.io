@@ -11,17 +11,19 @@
 9. [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 
 ## Recent
+[An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
 [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
 [Prizes in the EA Forum and LW.](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
 [The Making of a Top Forecaster](https://www.cset-foretell.com/blog/top-forecaster-techniques)  
-[Incentive Problems With Current Forecasting Competitions](https://www.lesswrong.com/posts/tyNrj2wwHSnb4tiMk/incentive-problems-with-current-forecasting-competitions)  
 
 ## Effective Altruism & Rationality
 
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
+[An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
 [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
+[Incentive Problems With Current Forecasting Competitions](https://forum.effectivealtruism.org/posts/ztmBA8v6KvGChxw92/incentive-problems-with-current-forecasting-competitions)  
 [Reasons why upvotes on the EA forum and LW don't correlate that well with impact](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=kLuhtmQRZBJpcaHhH)  
 [Prizes in the EA Forum and LW](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
 [Thoughts on EA literature](https://forum.effectivealtruism.org/posts/Bc8J5P938BmzBuL9Y/when-can-writing-fiction-change-the-world?commentId=RnEpvpozD5tEEsM9b)  
@@ -44,6 +46,7 @@
 
 ### Forecasting Newsletter
 [Forecasting Newsletter on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
+[November 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
 [October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
 [September 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/September2020)  
 [August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020)  
