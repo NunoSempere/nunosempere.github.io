@@ -11,11 +11,11 @@
 9. [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 
 ## Recent
+[Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 [An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
 [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
 [Prizes in the EA Forum and LW.](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
-[The Making of a Top Forecaster](https://www.cset-foretell.com/blog/top-forecaster-techniques)  
 
 ## Effective Altruism & Rationality
 
@@ -38,6 +38,7 @@
 [EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis)  
 
 ### [On LessWrong](https://www.lesswrong.com/users/nunosempere)  
+[Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 [Announcing the Forecasting Innovation Prize](https://www.lesswrong.com/posts/WRqvohbWoq2wQkxKN/announcing-the-forecasting-innovation-prize)  
 [Incentive Problems With Current Forecasting Competitions](https://www.lesswrong.com/posts/tyNrj2wwHSnb4tiMk/incentive-problems-with-current-forecasting-competitions)  
 [Adjusting probabilities for the passage of time, using Squiggle](https://www.lesswrong.com/posts/j8o6sgRerE3tqNWdj/adjusting-probabilities-for-the-passage-of-time-using)  
