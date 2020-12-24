@@ -11,11 +11,11 @@
 9. [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
 
 ## Recent
+[Q: Un programa para escribir y analizar poemas](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html) (es)  
 [Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 [An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
 [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
-[Prizes in the EA Forum and LW.](https://forum.effectivealtruism.org/posts/GseREh8MEEuLCZayf/nunosempere-s-shortform?commentId=WPStS4qhJS7Mz6KCA)  
 
 ## Effective Altruism & Rationality
 
