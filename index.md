@@ -2,15 +2,17 @@
 ## Highlights
 1. [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)  
 2. [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
-3. [Forecasting Newsletter](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
-4. [Past Pandemics](https://nunosempere.github.io/ea/PastPandemics)  
-5. [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
-6. [Amplifying generalist research via forecasting](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
-7. [Shapley Values: Better Than Counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals) &  [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) & [A Shapley Value Calculator](http://shapleyvalue.com/)  
-8. [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics)  
-9. [Write-up on some self experimentation in calibration](https://nunosempere.github.io/rat/Self-experimentation-calibration.html)  
+3. [Forecasting Newsletter](https://forecasting.substack.com)  
+4. [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
+4. [Amplifying generalist research via forecasting](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
+5. [Shapley Values: Better Than Counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals) &  [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) & [A Shapley Value Calculator](http://shapleyvalue.com/)  
+6. [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics)  
+7. [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
+8. [Past Pandemics](https://nunosempere.github.io/ea/PastPandemics)  
 
 ## Recent
+[Forecasting Newsletter: December 2020](https://forecasting.substack.com/p/forecasting-newsletter-december-2020)  
+[Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 [Q: Un programa para escribir y analizar poemas](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html) (es)  
 [Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 [An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
@@ -20,6 +22,7 @@
 ## Effective Altruism & Rationality
 
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
+[Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 [An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
 [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
 [Announcing the Forecasting Innovation Prize](https://forum.effectivealtruism.org/posts/8Nwy3tX2WnDDSTRoi/announcing-the-forecasting-innovation-prize)  
@@ -46,16 +49,8 @@
 [AI race considerations in a report by the U.S. House Committee on Armed Services](https://www.lesswrong.com/posts/87aqBTkhTgfzhu5po/ai-race-considerations-in-a-report-by-the-u-s-house)  
 
 ### Forecasting Newsletter
-[Forecasting Newsletter on the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
-[November 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
-[October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
-[September 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/September2020)  
-[August 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/August2020)  
-[July 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/July2020)  
-[June 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/June2020)  
-[May 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/May2020)  
-[April 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/April2020) (experimental)  
-[March 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/March2020) (proof of concept)  
+[On Substack](https://forecasting.substack.com/)  
+[On the EA Forum](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7)  
 
 ### Elsewhere
 [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
