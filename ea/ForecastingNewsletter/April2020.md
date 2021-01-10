@@ -1,5 +1,5 @@
 A forecasting digest with a focus on experimental forecasting. 
-- You can sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter). 
+- You can sign up [here](https://forecasting.substack.com/p/forecasting-newsletter-december-2020). 
 - You can also see this post on LessWrong [here](https://www.lesswrong.com/posts/e4C7hTmbmPfLjJzXT/forecasting-newsletter-april-2020-1) 
 - And the post is archived [here](https://nunosempere.github.io/ea/ForecastingNewsletter/)
 

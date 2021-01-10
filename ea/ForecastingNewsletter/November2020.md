@@ -11,7 +11,7 @@
 - Hard To Categorize
 - Long Content
 
-Sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter) browse past newsletters [here](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7), or view and upvote this newsletter on the Effective Altruism forum [here](https://forum.effectivealtruism.org/posts/DFNckNtbCwgiZCKEr/forecasting-newsletter-november-2020). 
+Sign up [here](https://forecasting.substack.com/p/forecasting-newsletter-december-2020) browse past newsletters [here](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7), or view and upvote this newsletter on the Effective Altruism forum [here](https://forum.effectivealtruism.org/posts/DFNckNtbCwgiZCKEr/forecasting-newsletter-november-2020). 
 .
 
 ## In the News

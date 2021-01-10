@@ -11,7 +11,7 @@
 - Hard To Categorize
 - Long Content
 
-Sign up [here](https://mailchi.mp/18fccca46f83/forecastingnewsletter) or browse past newsletters [here](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). 
+Sign up [here](https://forecasting.substack.com/p/forecasting-newsletter-december-2020) or browse past newsletters [here](https://forum.effectivealtruism.org/s/HXtZvHqsKwtAYP6Y7). 
 
 ## Prediction Markets & Forecasting Platforms
 
