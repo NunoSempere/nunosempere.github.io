@@ -6,6 +6,8 @@ From December 2020 onwards, this newsletter lives on [forecasting.substack.com](
 
 ## Past history
 
+- [January 2021.](https://forecasting.substack.com/p/forecasting-newsletter-january-2021)  
+- [2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)  
 - [December 2020](https://forecasting.substack.com/p/forecasting-newsletter-december-2020)  
 - [November 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
 - [October 2020](https://nunosempere.github.io/ea/ForecastingNewsletter/October2020)  
