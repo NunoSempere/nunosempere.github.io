@@ -7,19 +7,23 @@
 5. [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 6. [Amplifying generalist research via forecasting](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
 7. [Shapley Values: Better Than Counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals) &  [Shapley Values and Philanthropic Coordination Theory](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and) & [A Shapley Value Calculator](http://shapleyvalue.com/)  
-8. [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics)  
-9. [Predicting the value of small altruistic projects: a proof of concept experiment](https://forum.effectivealtruism.org/posts/qb56nicbnj9asSemx/predicting-the-value-of-small-altruistic-projects-a-proof-of)  
-10. [Past Pandemics](https://nunosempere.github.io/ea/PastPandemics)  
+8. [Estimating Value](https://forum.effectivealtruism.org/s/AbrRsXM2PrCrPShuZ) Sequence. 
+9. [Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
+10. [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics)  
+
 
 ## Recent
+[Forecasting Newsletter: March 2021](https://forecasting.substack.com/p/forecasting-newsletter-march-2021)  
+[Introducing Metaforecast: A Forecast Aggregator and Search Tool](https://forum.effectivealtruism.org/posts/tEo5oXeSNcB3sYr8m/introducing-metaforecast-a-forecast-aggregator-and-search)  
+[Relative Impact of the First 10 EA Forum Prize Winners](https://forum.effectivealtruism.org/posts/pqphZhx2nJocGCpwc/relative-impact-of-the-first-10-ea-forum-prize-winners)  
+[Forecasting Newsletter: February 2021](https://forecasting.substack.com/p/forecasting-newsletter-february-2021)  
 [Metaforecast: A search engine for probabilities](https://metaforecast.org/)  
-[Forecasting Newsletter: January 2021](https://forum.effectivealtruism.org/posts/vPN6owJYiXPwxy5om/forecasting-newsletter-january-2021)
+[Forecasting Newsletter: January 2021](https://forecasting.substack.com/p/forecasting-newsletter-january-2021)
 [A Funnel for Cause Candidates](https://forum.effectivealtruism.org/posts/iRA4Dd2bfX9nukSo3/a-funnel-for-cause-candidates)  
-[2020: Forecasting in Review](https://forum.effectivealtruism.org/posts/8shCj2eoQygQvtoZP/2020-forecasting-in-review)  
+[2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)  
 [Forecasting Newsletter: December 2020](https://forecasting.substack.com/p/forecasting-newsletter-december-2020)  
 [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 [Q: Un programa para escribir y analizar poemas](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html) (es)  
-[Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 
 ## Effective Altruism & Rationality
 
