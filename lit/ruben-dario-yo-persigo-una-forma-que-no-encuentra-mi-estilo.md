@@ -53,3 +53,7 @@ Como lectores, apreciamos el ingenio, lejano a la jocosidad, de Rubén Darío en
 
 
 Addenda: "el ave de la luna" recuerda a las kenningar que exponía Borges en su *Historia de la Eternidad*.
+
+***
+
+Si estás leyendo esto, es posible que te interese [este programa para escribir y analizar poesía](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html).  
