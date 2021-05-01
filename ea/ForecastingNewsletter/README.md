@@ -6,6 +6,7 @@ From December 2020 onwards, this newsletter lives on [forecasting.substack.com](
 
 ## Past history
 
+- [April 2021](https://forecasting.substack.com/p/forecasting-newsletter-april-2021)  
 - [March 2021](https://forecasting.substack.com/p/forecasting-newsletter-march-2021)  
 - [February 2021.](https://forecasting.substack.com/p/forecasting-newsletter-february-2021)  
 - [January 2021.](https://forecasting.substack.com/p/forecasting-newsletter-january-2021)  

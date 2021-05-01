@@ -13,6 +13,7 @@
 
 
 ## Recent
+[Forecasting Newsletter: April 2021](https://forecasting.substack.com/p/forecasting-newsletter-march-2021)  
 [Forecasting Newsletter: March 2021](https://forecasting.substack.com/p/forecasting-newsletter-march-2021)  
 [Introducing Metaforecast: A Forecast Aggregator and Search Tool](https://forum.effectivealtruism.org/posts/tEo5oXeSNcB3sYr8m/introducing-metaforecast-a-forecast-aggregator-and-search)  
 [Relative Impact of the First 10 EA Forum Prize Winners](https://forum.effectivealtruism.org/posts/pqphZhx2nJocGCpwc/relative-impact-of-the-first-10-ea-forum-prize-winners)  
@@ -23,7 +24,6 @@
 [2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)  
 [Forecasting Newsletter: December 2020](https://forecasting.substack.com/p/forecasting-newsletter-december-2020)  
 [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
-[Q: Un programa para escribir y analizar poemas](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html) (es)  
 
 ## Effective Altruism & Rationality
 
@@ -117,6 +117,7 @@
 
 ## Language and Literature | Lenguaje y literatura. 
 [Análisis de "Yo persigo una forma que no encuentra mi estilo", de Rubén Darío](https://nunosempere.github.io/lit/ruben-dario-yo-persigo-una-forma-que-no-encuentra-mi-estilo.html) (es)  
+[Q: Un programa para escribir y analizar poemas](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html) (es)  
 [Sinónimos de "fantástico" que empiecen por f](https://nunosempere.github.io/lit/fantastico.html) (es)  
 [En tanto que de rosa y azucena](https://nunosempere.github.io/lit/en-tanto-que-de-rosa-y-azucena.html) (es)  
 [Englicismos](https://nunosempere.github.io/lit/englicismos) (es)  
