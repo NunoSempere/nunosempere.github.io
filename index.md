@@ -13,16 +13,16 @@
 
 
 ## Recent
-[Forecasting Newsletter: April 2021](https://forecasting.substack.com/p/forecasting-newsletter-march-2021)  
-[Forecasting Newsletter: March 2021](https://forecasting.substack.com/p/forecasting-newsletter-march-2021)  
+[LongNowForMd: A tool for adding (a) for archive.org links to markdown files](https://github.com/NunoSempere/longNowForMd)  
+[Shallow evaluations of longtermist organizations](https://forum.effectivealtruism.org/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations)  
+[2018-2019 Long Term Future Fund Grantees: How did they do?](https://forum.effectivealtruism.org/posts/Ps8ecFPBzSrkLC6ip/2018-2019-long-term-future-fund-grantees-how-did-they-do)  
+[What should the norms around privacy and evaluation in the EA community be?](https://forum.effectivealtruism.org/posts/4mgBR5fwJ9AZeugZC/what-should-the-norms-around-privacy-and-evaluation-in-the)  
+[Forecasting Newsletter: June 2021](https://forecasting.substack.com/p/forecasting-newsletter-june-2021)  
 [Introducing Metaforecast: A Forecast Aggregator and Search Tool](https://forum.effectivealtruism.org/posts/tEo5oXeSNcB3sYr8m/introducing-metaforecast-a-forecast-aggregator-and-search)  
 [Relative Impact of the First 10 EA Forum Prize Winners](https://forum.effectivealtruism.org/posts/pqphZhx2nJocGCpwc/relative-impact-of-the-first-10-ea-forum-prize-winners)  
-[Forecasting Newsletter: February 2021](https://forecasting.substack.com/p/forecasting-newsletter-february-2021)  
 [Metaforecast: A search engine for probabilities](https://metaforecast.org/)  
-[Forecasting Newsletter: January 2021](https://forecasting.substack.com/p/forecasting-newsletter-january-2021)
 [A Funnel for Cause Candidates](https://forum.effectivealtruism.org/posts/iRA4Dd2bfX9nukSo3/a-funnel-for-cause-candidates)  
 [2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)  
-[Forecasting Newsletter: December 2020](https://forecasting.substack.com/p/forecasting-newsletter-december-2020)  
 [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 
 ## Effective Altruism & Rationality
