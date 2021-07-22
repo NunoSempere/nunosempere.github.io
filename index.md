@@ -13,6 +13,7 @@
 
 
 ## Recent
+[Alignment Problems With Current Forecasting Platforms](https://arxiv.org/abs/2106.11248)  
 [LongNowForMd: A tool for adding (a) for archive.org links to markdown files](https://github.com/NunoSempere/longNowForMd)  
 [Shallow evaluations of longtermist organizations](https://forum.effectivealtruism.org/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations)  
 [2018-2019 Long Term Future Fund Grantees: How did they do?](https://forum.effectivealtruism.org/posts/Ps8ecFPBzSrkLC6ip/2018-2019-long-term-future-fund-grantees-how-did-they-do)  
