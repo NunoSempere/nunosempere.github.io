@@ -34,7 +34,7 @@ Interest in. Less sensitive.
 
 What is the purpose of this study? The purpose of this study is to estimate the impact of ESPR. For this purpose, the answers to a baseline questionnaire (this one) from both participants and applicants which could have been participants will be compared with the answers from both groups to an followup questionnaire (after the camp has taken place).  
 Who is sponsoring this study? The Effective Altruism Funds, a program under the Center for Effective Altruism.  
-Who is doing the study? Nuño Sempere. For any questions, comments or complaints, I can be reached at nuno.sempere@gmail.com  
+Who is doing the study? Nuño Sempere. For any questions, comments or complaints, I can be reached at nuno.semperelh@gmail.com  
 What kinds of questions will be asked? Questions about factors in which ESPR could have an effect, as well as questions about cofounders, like wealth or gender.  
 Are my answers confidential? Yes. Your answers will never be used in any way that would identify you. They will be combined with answers from other respondents to make a statistical report. Your email will only be used to send you the followup survey, and will not be made public.  
 Do I get any compensation? Yes, and the exact payoff depends on a prisonner's dilemma! (see the first question).  
