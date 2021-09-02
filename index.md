@@ -13,18 +13,19 @@
 
 
 ## Recent
+[Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
+[Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul)  
+[Forecasting Newsletter: August 2021](https://forecasting.substack.com/p/forecasting-newsletter-august-2021)  
+[US Military Global Information Dominance Experiments](https://www.lesswrong.com/posts/vDvKWdCCNo9moNcMr/us-military-global-information-dominance-experiments)  
+[Metaforecast update: Better search, capture functionality, more platforms.](https://www.lesswrong.com/posts/5hugQzRhdGYc6ParJ/metaforecast-update-better-search-capture-functionality-more)  
 [Alignment Problems With Current Forecasting Platforms](https://arxiv.org/abs/2106.11248)  
 [LongNowForMd: A tool for adding (a) for archive.org links to markdown files](https://github.com/NunoSempere/longNowForMd)  
 [Shallow evaluations of longtermist organizations](https://forum.effectivealtruism.org/posts/xmmqDdGqNZq5RELer/shallow-evaluations-of-longtermist-organizations)  
 [2018-2019 Long Term Future Fund Grantees: How did they do?](https://forum.effectivealtruism.org/posts/Ps8ecFPBzSrkLC6ip/2018-2019-long-term-future-fund-grantees-how-did-they-do)  
 [What should the norms around privacy and evaluation in the EA community be?](https://forum.effectivealtruism.org/posts/4mgBR5fwJ9AZeugZC/what-should-the-norms-around-privacy-and-evaluation-in-the)  
-[Forecasting Newsletter: June 2021](https://forecasting.substack.com/p/forecasting-newsletter-june-2021)  
 [Introducing Metaforecast: A Forecast Aggregator and Search Tool](https://forum.effectivealtruism.org/posts/tEo5oXeSNcB3sYr8m/introducing-metaforecast-a-forecast-aggregator-and-search)  
 [Relative Impact of the First 10 EA Forum Prize Winners](https://forum.effectivealtruism.org/posts/pqphZhx2nJocGCpwc/relative-impact-of-the-first-10-ea-forum-prize-winners)  
 [Metaforecast: A search engine for probabilities](https://metaforecast.org/)  
-[A Funnel for Cause Candidates](https://forum.effectivealtruism.org/posts/iRA4Dd2bfX9nukSo3/a-funnel-for-cause-candidates)  
-[2020: Forecasting in Review](https://forecasting.substack.com/p/2020-forecasting-in-review)  
-[Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 
 ## Effective Altruism & Rationality
 
@@ -81,15 +82,17 @@
 
 ## Programming and Maths  | Programación y matemáticas
 [Github profile](https://github.com/NunoSempere)  
+[Metaforecast: A search engine for probabilities](https://metaforecast.org/)  
 [Labeling](https://github.com/NunoSempere/labeling), an R package which I mantain. It's used in ggplot2, through the scales package, and thus has 500k+ downloads a month.  
 [Predict, resolve and tally](https://github.com/NunoSempere/PredictResolveTally)  
+[Letter from O. Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html)  
+[Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html)  
+[Q: Un programa para escribir y analizar poemas](https://blogdelecturadenuno.blogspot.com/2020/12/q-un-programa-para-escribir-y-analizar-poemas-y-poesia.html) (es)  
 [Programming Languages I Know](http://nunosempere.github.io/maths-prog/ProgrammingLanguagesIknow)  
 [Sci-py turns out to be particularly easy to use](https://nunosempere.github.io/maths-prog/MachineLearningDemystified/) (en, Python)  
 [Vienna Data Science Hackathon](https://nunosempere.github.io/maths-prog/Vienna-Data-Science-Hackathon-May-4-2019/)  
-[Letter from O. Teichmüller to Landau](https://nunosempere.github.io/maths-prog/teichmuller.html)  
 [AI texts I've read](https://nunosempere.github.io/maths-prog/ai.html)  
 [Sobre el problema de las parejas estables](https://nunosempere.github.io/https://stable-marriage-problem/) (es)  
-[Mathematicians under the Nazis](https://nunosempere.github.io/projects/mathematicians-under-the-nazis.html)  
 [Why is the integral which defines the logarithm the inverse of the exponential?](https://nunosempere.github.io/maths-prog/logarithms.pdf)  
 [Programa de facturación](https://easyfirma.es) (es)  
 
