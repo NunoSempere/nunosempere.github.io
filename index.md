@@ -13,6 +13,7 @@
 
 
 ## Recent
+[A quantification of a miliNazi](https://nunosempere.github.io/miscellanea/miliNazis)  
 [Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
 [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul)  
 [Forecasting Newsletter: August 2021](https://forecasting.substack.com/p/forecasting-newsletter-august-2021)  
@@ -30,6 +31,7 @@
 ## Effective Altruism & Rationality
 
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
+[Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
 [A Funnel for Cause Candidates](https://forum.effectivealtruism.org/posts/iRA4Dd2bfX9nukSo3/a-funnel-for-cause-candidates)  
 [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
 [An experiment to evaluate the value of one researcher's work](https://forum.effectivealtruism.org/posts/udGBF8YWshCKwRKTp/an-experiment-to-evaluate-the-value-of-one-researcher-s-work)  
@@ -146,6 +148,7 @@ Lucía Trillo  [Thinking fast and slow](https://blogdelecturadenuno.blogspot.com
 Alonso Campos [Freedom regained, de Julian Baggini](https://blogdelecturadenuno.blogspot.com/2016/10/freedom-regained-de-julian-baggini.html) (es)  
 
 ## Miscellanea | Cajón de sastre.
+[A quantification of a miliNazi](https://nunosempere.github.io/miscellanea/miliNazis)  
 [Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  
 [Webpage for a friend](https://ciruelahaiti.github.io/)  
 [La verdad sobre el caso Amancio Ortega](https://nunosempere.github.io/miscellanea/inditex.html) (es)  
