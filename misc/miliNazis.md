@@ -12,7 +12,7 @@ I also consider the casualties from [World War II](https://en.wikipedia.org/wiki
 
 Besides deaths per se, there is also suffering and destruction which is much more difficult to quantify. Off the cuff, I estimate than non-death suffering was between 0.1 to 10x as weighty as death-related harms, but this could be way off.
 
-I weigh deaths in the Holocaust as fully due to the Nazis, and deaths from the war as partially due to the Nazis and partially due to other actors, as outlined in [this Guesstimate](https://www.getguesstimate.com/models/19203) (other actors might be other European powers, the Soviet Union, viruses, fallout from Versailles, etc.) I estimate that Nazis were responsible for between 1/3rd and 90% of the (Western front of the) war, for a point estimate of around 57% responsible. 
+I weigh deaths in the Holocaust as fully due to the Nazis, and deaths from the war as partially due to the Nazis and partially due to other actors, as outlined in [this Guesstimate](https://www.getguesstimate.com/models/19203) (other actors might be other European powers, the Soviet Union, the Spanish flu, fallout from Versailles, etc.) I estimate that Nazis were responsible for between 1/3rd and 90% of the (Western front of the) war, for a point estimate of around 57% responsible. 
 
 Your milleage may vary, but note that Guesstimate allows other users to copy and tweak estimates.
 
@@ -26,7 +26,7 @@ Calculations can be found [here](https://www.getguesstimate.com/models/19203). T
 
 ## Suffering per miliNazi
 
-- A mili-nazi would thus correspond to 1.7 to 33 thousandths of death-equivalent, with a point estimate of 6.1 thousands of a death-eq	uivalent.
+- A mili-nazi would thus correspond to 0.0017 to 0.033 death-equivalents, with a point estimate of 0.0061 death-equivalents
 
 - Alternatively, suffering which could be averted by donating between $8.8 and $200 to the AMF, with a point estimate of $34.  
 
@@ -34,4 +34,4 @@ Calculations can be found [here](https://www.getguesstimate.com/models/19203). T
 
 ## Conclusion
 
-Although the estimates are very uncertain, they can serve as a reference point. 500 miliNazis would then seem too much to assign to casual racism on the part of Lovecraft.
+Although the estimates above are very uncertain, they can serve as a reference point. 500 miliNazis would then seem too much to assign to casual racism on the part of Lovecraft.
