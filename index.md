@@ -13,7 +13,7 @@
 
 
 ## Recent
-[A quantification of a miliNazi](https://nunosempere.github.io/miscellanea/miliNazis)  
+[A quantification of a miliNazi](https://nunosempere.github.io/misc/miliNazis)  
 [Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
 [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul)  
 [Forecasting Newsletter: August 2021](https://forecasting.substack.com/p/forecasting-newsletter-august-2021)  
@@ -46,7 +46,7 @@
 [A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty)  
 [[Part 2] Amplifying generalist research via forecasting – results from a preliminary exploration](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
 [[Part 1] Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models)  
-[Shapley Values Reloaded: Philantropic Coordination Theory & other miscellanea.](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and)  
+[Shapley Values Reloaded: Philantropic Coordination Theory & other misc.](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and)  
 [Shapley values: Better than counterfactuals](https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals)  
 [Why do social movements fail: Two concrete examples](https://forum.effectivealtruism.org/posts/7Pxx7kSQejX2MM2tE/why-do-social-movements-fail-two-concrete-examples)  
 [EA Mental Health Survey: Results and Analysis.](https://forum.effectivealtruism.org/posts/FheKNFgPqEsN8Nxuv/ea-mental-health-survey-results-and-analysis)  
@@ -77,7 +77,7 @@
 [Crocker's rules](https://nunosempere.github.io/)  
 [¿Siempre lo supiste? El sesgo de retrospección](https://nunosempere.github.io/) (es)  
 [From a dark arts practitioner](https://nunosempere.github.io/rat/dark_arts.html)  
-[Dark Arts: Narrativomancy](https://nunosempere.github.io/miscellanea/narrativomancy.html)  
+[Dark Arts: Narrativomancy](https://nunosempere.github.io/misc/narrativomancy.html)  
 [Consideraciones retreat Altruismo Efectivo Septiembre 2018](https://nunosempere.github.io/rat/AE-retreat.html) (es)  
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  
 [Different ideals than my own](https://nunosempere.github.io/rat/Different-Ideals.html)  
@@ -148,12 +148,12 @@ Lucía Trillo  [Thinking fast and slow](https://blogdelecturadenuno.blogspot.com
 Alonso Campos [Freedom regained, de Julian Baggini](https://blogdelecturadenuno.blogspot.com/2016/10/freedom-regained-de-julian-baggini.html) (es)  
 
 ## Miscellanea | Cajón de sastre.
-[A quantification of a miliNazi](https://nunosempere.github.io/miscellanea/miliNazis)  
-[Unfair chess](https://nunosempere.github.io/miscellanea/unfairchess.html)  
+[A quantification of a miliNazi](https://nunosempere.github.io/misc/miliNazis)  
+[Unfair chess](https://nunosempere.github.io/misc/unfairchess.html)  
 [Webpage for a friend](https://ciruelahaiti.github.io/)  
-[La verdad sobre el caso Amancio Ortega](https://nunosempere.github.io/miscellanea/inditex.html) (es)  
-[Letimotiv: Ideas recurrentes](https://nunosempere.github.io/miscellanea/letimotiv.html) (es)  
-[The Mask](https://nunosempere.github.io/miscellanea/The-Mask.html)  
+[La verdad sobre el caso Amancio Ortega](https://nunosempere.github.io/misc/inditex.html) (es)  
+[Letimotiv: Ideas recurrentes](https://nunosempere.github.io/misc/letimotiv.html) (es)  
+[The Mask](https://nunosempere.github.io/misc/The-Mask.html)  
 
 ## Media mentions
 [Mention in *The Times* in a column about the EA Hotel in Blackpool](https://nunosempere.github.io/rat/The-Times.html)  
