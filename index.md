@@ -13,10 +13,11 @@
 
 
 ## Recent
+[Forecasting Newsletter: September 2021.](https://forecasting.substack.com/p/forecasting-newsletter-september-2021)  
+[Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
 [A quantification of a miliNazi](https://nunosempere.github.io/misc/miliNazis)  
 [Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
 [Forecasting Postmortem: The Fall of Kabul](https://forecasting.substack.com/p/postmortem-the-fall-of-kabul)  
-[Forecasting Newsletter: August 2021](https://forecasting.substack.com/p/forecasting-newsletter-august-2021)  
 [US Military Global Information Dominance Experiments](https://www.lesswrong.com/posts/vDvKWdCCNo9moNcMr/us-military-global-information-dominance-experiments)  
 [Metaforecast update: Better search, capture functionality, more platforms.](https://www.lesswrong.com/posts/5hugQzRhdGYc6ParJ/metaforecast-update-better-search-capture-functionality-more)  
 [Alignment Problems With Current Forecasting Platforms](https://arxiv.org/abs/2106.11248)  
@@ -43,7 +44,7 @@
 [Thoughts on EA literature](https://forum.effectivealtruism.org/posts/Bc8J5P938BmzBuL9Y/when-can-writing-fiction-change-the-world?commentId=RnEpvpozD5tEEsM9b)  
 [International Supply Chain Accountability](https://forum.effectivealtruism.org/posts/ME4zE34KBSYnt6hGp/new-top-ea-cause-international-supply-chain-accountability)  
 [A review of two books on survey-making](https://forum.effectivealtruism.org/posts/DCcciuLxRveSkBng2/a-review-of-two-books-on-survey-making)  
-[A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty)  
+[A glowing review of two free online MIT Global Poverty courses](https://forum.effectivealtruism.org/posts/S3vAPRp2XQ9BdDbPz/a-glowing-review-of-two-free-online-mit-global-poverty) 
 [[Part 2] Amplifying generalist research via forecasting – results from a preliminary exploration](https://forum.effectivealtruism.org/posts/ZTXKHayPexA6uSZqE/part-2-amplifying-generalist-research-via-forecasting)  
 [[Part 1] Amplifying generalist research via forecasting – models of impact and challenges](https://forum.effectivealtruism.org/posts/ZCZZvhYbsKCRRDTct/part-1-amplifying-generalist-research-via-forecasting-models)  
 [Shapley Values Reloaded: Philantropic Coordination Theory & other misc.](https://forum.effectivealtruism.org/posts/3NYDwGvDbhwenpDHb/shapley-values-reloaded-philantropic-coordination-theory-and)  
