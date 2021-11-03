@@ -13,7 +13,8 @@
 
 
 ## Recent
-[Forecasting Newsletter: September 2021.](https://forecasting.substack.com/p/forecasting-newsletter-september-2021)  
+[Forecasting Newsletter: October 2021.](https://forecasting.substack.com/p/forecasting-newsletter-october-2021)  
+[An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)   
 [Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
 [A quantification of a miliNazi](https://nunosempere.github.io/misc/miliNazis)  
 [Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
