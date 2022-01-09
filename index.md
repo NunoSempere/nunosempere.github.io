@@ -1,4 +1,3 @@
-
 ## Highlights
 1. [A prior for technological discontinuities](https://www.lesswrong.com/posts/FaCqw2x59ZFhMXJr9/a-prior-for-technological-discontinuities)  
 2. [Labor, Capital, and the Optimal Growth of Social Movements](https://nunosempere.github.io/ea/MovementBuildingForUtilityMaximizers.pdf)  
@@ -11,8 +10,12 @@
 9. [Real-Life Examples of Prediction Systems Interfering with the Real World (Predict-O-Matic Problems)](https://www.lesswrong.com/posts/6bSjRezJDxR2omHKE/real-life-examples-of-prediction-systems-interfering-with)  
 10. [Why did the Spanish Enlightenment movement fail? (1750-1850)](https://nunosempere.github.io/rat/spanishenlightenment) & [Why did the General Semantics Movement Fail?](https://nunosempere.github.io/rat/general-semantics)  
 
-
 ## Recent
+[Prediction Markets in The Corporate Setting](https://forum.effectivealtruism.org/posts/dQhjwHA7LhfE8YpYF/prediction-markets-in-the-corporate-setting)  
+[External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  
+[Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)  
+[Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions)  
+[A Model of Patient Spending and Movement Building](https://forum.effectivealtruism.org/posts/FXPaccMDPaEZNyyre/a-model-of-patient-spending-and-movement-building)  
 [Forecasting Newsletter: October 2021.](https://forecasting.substack.com/p/forecasting-newsletter-october-2021)  
 [An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)   
 [Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
@@ -33,6 +36,13 @@
 ## Effective Altruism & Rationality
 
 ### [On the EA Forum](https://forum.effectivealtruism.org/users/nunosempere)  
+[Prediction Markets in The Corporate Setting](https://forum.effectivealtruism.org/posts/dQhjwHA7LhfE8YpYF/prediction-markets-in-the-corporate-setting)  
+[External Evaluation of the EA Wiki](https://forum.effectivealtruism.org/posts/kTLR23dFRB5pJryvZ/external-evaluation-of-the-ea-wiki)  
+[Pathways to impact for forecasting and evaluation](https://forum.effectivealtruism.org/posts/oXrTQpZyXkEbTBfB6/pathways-to-impact-for-forecasting-and-evaluation)  
+[Simple comparison polling to create utility functions](https://forum.effectivealtruism.org/posts/9hQFfmbEiAoodstDA/simple-comparison-polling-to-create-utility-functions)  
+[A Model of Patient Spending and Movement Building](https://forum.effectivealtruism.org/posts/FXPaccMDPaEZNyyre/a-model-of-patient-spending-and-movement-building)  
+[An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)  
+[Building Blocks of Utility Maximization](https://forum.effectivealtruism.org/posts/8XWi8FBkCuKfgPLMZ/building-blocks-of-utility-maximization)  
 [Frank Feedback Given To Very Junior Researchers](https://forum.effectivealtruism.org/posts/7utb4Fc9aPvM6SAEo/frank-feedback-given-to-very-junior-researchers)  
 [A Funnel for Cause Candidates](https://forum.effectivealtruism.org/posts/iRA4Dd2bfX9nukSo3/a-funnel-for-cause-candidates)  
 [Big List of Cause Candidates](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates)  
